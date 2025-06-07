@@ -1,0 +1,6770 @@
+Art.	articolo	NOUN	S	ROOT
+1	1	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Oggetto	oggetto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+finalità	finalità	NOUN	S	conj
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+attuazione	attuazione	NOUN	S	obl
+di	di	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+disposto	disporre	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+188-bis	188-bis	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+3	3	NUM	N	nmod
+aprile	aprile	NOUN	S	flat
+2006	2006	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nsubj
+disciplina	disciplinare	VERB	V	ROOT
+il	il	DET	RD	det
+sistema	sistema	NOUN	S	obj
+di	di	ADP	E	case
+tracciabilità	tracciabilità	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+si	si	PRON	PC	expl
+compone	comporre	VERB	V	acl:relcl
+delle	di il	ADP	E_RD	case
+procedure	procedura	NOUN	S	obl
+e	e	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+adempimenti	adempimente	NOUN	S	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+189	189	NUM	N	nummod
+,	,	PUNCT	FF	punct
+190	190	NUM	N	conj
+e	e	CCONJ	CC	cc
+193	193	NUM	N	conj
+del	di il	ADP	E_RD	case
+medesimo	medesimo	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+integrati	integrare	VERB	V	acl
+nel	in il	ADP	E_RD	case
+Registro	registro	NOUN	S	obl
+elettronico	elettronico	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+tracciabilità	tracciabilità	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+seguito	seguito	NOUN	S	nmod
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+istituito	istituire	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+6	6	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+14	14	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+2018	2018	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+135	135	NUM	N	nummod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	S	acl
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+11	11	NUM	N	nmod
+febbraio	febbraio	NOUN	S	flat
+2019	2019	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+12	12	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nsubj
+disciplina	disciplinare	VERB	V	ROOT
+in	in	ADP	E	case
+particolare	particolare	NOUN	S	obl
+l'	il	DET	RD	det
+organizzazione	organizzazione	NOUN	S	obj
+ed	e	CCONJ	CC	cc
+il	il	DET	RD	det
+funzionamento	funzionamento	NOUN	S	conj
+del	di il	ADP	E_RD	case
+sistema	sistema	NOUN	S	nmod
+di	di	ADP	E	case
+tracciabilità	tracciabilità	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+definendo	definere	VERB	V	advcl
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+modelli	modello	NOUN	S	ROOT
+ed	e	CCONJ	CC	cc
+i	il	DET	RD	det
+formati	formato	NOUN	S	conj
+relativi	relativo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+registro	registro	NOUN	S	obl
+cronologico	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+formulario	formulario	NOUN	S	conj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+190	190	NUM	N	nummod
+e	e	CCONJ	CC	cc
+193	193	NUM	N	conj
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+indicazione	indicazione	NOUN	S	nmod
+altresì	altresì	ADV	B	advmod
+delle	di il	ADP	E_RD	case
+modalità	modalità	NOUN	S	nmod
+di	di	ADP	E	case
+compilazione	compilazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+vidimazione	vidimazione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+tenuta	tenere	NOUN	S	conj
+degli	di il	ADP	E_RD	case
+stessi	stesso	PRON	PD	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	nmod
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+i	il	DET	RD	det
+relativi	relativo	ADJ	A	amod
+adempimenti	adempimente	NOUN	S	conj
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+obbligati	obbligare	VERB	V	acl
+ovvero	ovvero	CCONJ	CC	cc
+di	di	ADP	E	case
+coloro	coloro	PRON	PD	conj
+che	che	PRON	PR	nsubj
+intendano	intendare	VERB	V	acl:relcl
+volontariamente	volontariamente	ADV	B	advmod
+aderirvi	aderire vi	VERB	V_PC	xcomp
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	NOUN	PC	nmod
+)	)	PUNCT	FB	punct
+il	il	DET	RD	det
+funzionamento	funzionamento	NOUN	S	ROOT
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+ivi	ivi	ADV	B	advmod
+incluse	includere	VERB	V	acl
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obj
+di	di	ADP	E	case
+trasmissione	trasmissione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+relativi	relativo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+documenti	documento	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+alla	a il	ADP	E_RD	case
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	amod
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	nmod
+di	di	ADP	E	case
+accesso	accesso	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+organi	organo	NOUN	S	nmod
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Gli	il	DET	RD	det
+allegati	allegato	NOUN	S	nsubj
+I	primo	ADJ	NO	amod
+e	e	CCONJ	CC	cc
+II	II	ADJ	NO	conj
+disciplinano	disciplinare	VERB	V	ROOT
+il	il	DET	RD	det
+modello	modello	NOUN	S	obj
+di	di	ADP	E	case
+registro	registro	NOUN	S	nmod
+cronologico	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+formulario	formulario	NOUN	S	conj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+190	190	NUM	N	nummod
+e	e	CCONJ	CC	cc
+193	193	NUM	N	conj
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+L'	il	DET	RD	det
+allegato	allegato	NOUN	S	nsubj
+III	III	ADJ	NO	amod
+definisce	definire	VERB	V	ROOT
+i	il	DET	RD	det
+contributi	contributo	NOUN	S	obj
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+diritto	diritto	NOUN	S	conj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+6	6	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+n.	numero	NOUN	S	nmod
+135	135	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2018	2018	NUM	N	nmod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+n.	numero	NOUN	S	nmod
+12	12	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2019	2019	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Gli	il	DET	RD	det
+allegati	allegato	NOUN	S	nsubj
+I	I	ADJ	NO	amod
+,	,	PUNCT	FF	punct
+II	II	ADJ	NO	conj
+e	e	CCONJ	CC	cc
+III	III	ADJ	NO	conj
+sono	essere	AUX	VA	cop
+parte	parte	NOUN	S	ROOT
+integrante	integrante	ADJ	A	amod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+2	2	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Aggiornamento	aggiornamento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+contributi	contributo	NOUN	S	conj
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+3	3	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Definizioni	definizioni	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	X	amod
+)	)	PUNCT	FB	punct
+«	«	PUNCT	FB	punct
+unità	unità	NOUN	S	appos
+locale	locale	ADJ	A	amod
+»	»	PUNCT	FB	punct
+:	:	PUNCT	FC	punct
+
+una	uno	DET	RI	det
+sede	sede	NOUN	S	ROOT
+operativa	operativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quale	quale	PRON	PR	nsubj
+,	,	PUNCT	FF	punct
+ad	a	ADP	E	case
+esempio	esempio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+laboratorio	laboratorio	NOUN	S	acl:relcl
+,	,	PUNCT	FF	punct
+un'	uno	DET	RI	det
+officina	officina	NOUN	S	conj
+,	,	PUNCT	FF	punct
+uno	uno	DET	RI	det
+stabilimento	stabilimento	NOUN	S	conj
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+negozio	negozio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+oppure	oppure	CCONJ	CC	cc
+una	uno	DET	RI	det
+sede	sede	NOUN	S	conj
+amministrativa	amministrativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+gestionale	gestionale	ADJ	A	conj
+,	,	PUNCT	FF	punct
+quale	quale	ADP	PR	dep
+,	,	PUNCT	FF	punct
+ad	a	ADP	E	case
+esempio	esempio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+ufficio	ufficio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+magazzino	magazzino	NOUN	S	conj
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+deposito	deposito	NOUN	S	conj
+,	,	PUNCT	FF	punct
+ubicata	ubicare	VERB	V	acl
+in	in	ADP	E	case
+luogo	luogo	NOUN	S	obl
+coincidente	coincidente	ADJ	A	amod
+con	con	ADP	E	case
+la	il	DET	RD	det
+sede	sede	NOUN	S	obl
+legale	legale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+diverso	diverso	PRON	PI	conj
+da	da	ADP	E	case
+quello	quello	PRON	PD	nmod
+della	di il	ADP	E_RD	case
+sede	sede	NOUN	S	nmod
+legale	legale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nella	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+l'	il	DET	RD	det
+operatore	operatore	NOUN	S	nsubj
+esercita	esercitare	VERB	V	acl:relcl
+stabilmente	stabilmente	ADV	B	advmod
+una	uno	PRON	PI	xcomp
+o	o	CCONJ	CC	cc
+più	più	DET	DI	det
+attività	attività	NOUN	S	conj
+economiche	economico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dove	dove	ADV	B	advmod
+sono	essere	AUX	VA	aux:pass
+realizzate	realizzare	VERB	V	conj
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+da	da	ADP	E	case
+cui	cui	PRON	PR	obl
+deriva	derivare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+obbligo	obbligo	NOUN	S	nsubj
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+per	per	ADP	E	case
+le	il	DET	RD	det
+quali	quale	PRON	PR	obl
+l'	il	DET	RD	det
+operatore	operatore	NOUN	S	nsubj
+procede	procedere	VERB	V	acl:relcl
+volontariamente	volontariamente	ADV	B	advmod
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+«	«	PUNCT	FB	punct
+operatore	operatore	NOUN	S	ROOT
+»	»	PUNCT	FB	punct
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+soggetto	soggetto	ADJ	A	amod
+iscritto	iscritto	NOUN	S	nsubj
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	X	nmod
+)	)	PUNCT	FB	punct
+«	«	PUNCT	FB	punct
+sistema	sistema	NOUN	S	ROOT
+gestionale	gestionale	ADJ	A	amod
+»	»	PUNCT	FB	punct
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+sistema	sistema	NOUN	S	ROOT
+informatico	informatico	ADJ	A	amod
+utilizzato	utilizzare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+operatore	operatore	NOUN	S	obl:agent
+iscritto	iscritto	VERB	V	acl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+attraverso	attraverso	ADP	E	case
+il	il	DET	RD	det
+quale	quale	PRON	PR	obl
+è	essere	AUX	V	cop
+possibile	possibile	ADJ	A	acl:relcl
+assolvere	assolvere	VERB	V	csubj
+,	,	PUNCT	FF	punct
+tra	tra	ADP	E	case
+gli	il	DET	RD	det
+altri	altro	PRON	PI	obl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+agli	a il	ADP	E_RD	case
+obblighi	obbligo	NOUN	S	obl
+della	di il	ADP	E_RD	case
+tenuta	tenuta	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+registri	registro	NOUN	S	nmod
+cronologici	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	conj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+identificazione	identificazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+«	«	PUNCT	FB	punct
+utente	utente	ADJ	B	amod
+»	»	PUNCT	FB	punct
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+soggetto	soggetto	NOUN	S	ROOT
+che	che	PRON	PR	nsubj
+accede	accedere	VERB	V	acl:relcl
+,	,	PUNCT	FF	punct
+mediante	mediante	ADP	E	case
+strumenti	strumento	NOUN	S	obl
+di	di	ADP	E	case
+autenticazione	autenticazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+alla	a il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	nmod
+telematica	telematico	ADJ	A	amod
+per	per	ADP	E	mark
+effettuare	effettuare	VERB	V	acl
+operazioni	operazione	NOUN	S	obj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+REGISTRO	REGISTRO	PROPN	SP	nmod
+CRONOLOGICO	CRONOLOGICO	PROPN	SP	flat:name
+DI	DI	ADP	E	case
+CARICO	CARICO	PROPN	SP	nmod
+E	E	CCONJ	CC	cc
+SCARICO	SCARICO	PROPN	SP	conj
+E	E	CCONJ	CC	cc
+FORMULARIO	FORMULARIO	PROPN	SP	conj
+DI	DI	ADP	E	case
+IDENTIFICAZIONE	IDENTIFICAZIONE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Disposizioni	disposizione	NOUN	S	nmod
+generali	generale	ADJ	A	amod
+sul	su il	ADP	E_RD	case
+registro	registro	NOUN	S	nmod
+cronologico	cronologico	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+registro	registro	NOUN	S	obl
+cronologico	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+sono	essere	AUX	VA	aux:pass
+integrate	integrare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+le	il	DET	RD	det
+informazioni	informazione	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	nmod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	X	ROOT
+)	)	PUNCT	FB	punct
+
+sino	sino	ADV	B	case
+alla	a il	DET	E_RD	det
+data	data	NOUN	S	ROOT
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	nmod
+cartacea	cartacea	ADJ	A	amod
+,	,	PUNCT	FF	punct
+mediante	mediante	ADP	E	case
+stampa	stampa	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+format	format	NOUN	S	nmod
+esemplare	esemplare	ADJ	A	amod
+reso	rendere	VERB	V	acl
+disponibile	disponibile	ADJ	A	xcomp
+mediante	mediante	ADP	E	case
+il	il	DET	RD	det
+portale	portale	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+compilato	compilare	VERB	V	acl
+e	e	CCONJ	CC	cc
+vidimato	vidimare	VERB	V	conj
+da	da	ADP	E	case
+parte	parte	NOUN	S	obl:agent
+delle	di il	ADP	E_RD	case
+camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+territorialmente	territorialmente	ADV	B	advmod
+competenti	competente	ADJ	A	amod
+con	con	ADP	E	case
+le	il	DET	RD	det
+procedure	procedura	NOUN	S	obl
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+previste	prevedere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+normativa	normativa	NOUN	S	obl:agent
+sui	su il	ADP	E_RD	case
+registri	registro	NOUN	S	nmod
+IVA	IVA	PROPN	SP	compound
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+a	a	ADP	E	mark
+partire	partire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	obl
+digitale	digitale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+vidimazione	vidimazione	NOUN	S	obl
+digitale	digitale	ADJ	A	amod
+mediante	mediante	ADP	E	case
+l'	il	DET	RD	det
+assegnazione	assegnazione	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+codice	codice	NOUN	S	nmod
+univoco	univoco	VERB	V	acl
+dal	da il	ADP	E_RD	case
+servizio	servizio	NOUN	S	obl
+di	di	ADP	E	case
+vidimazione	vidimazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+tramite	tramite	ADP	E	case
+apposita	apposito	ADJ	A	amod
+applicazione	applicazione	NOUN	S	nmod
+utilizzabile	utilizzabile	ADJ	A	amod
+attraverso	attraverso	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nmod
+;	;	PUNCT	FC	punct
+
+la	il	DET	RD	det
+compilazione	compilazione	NOUN	S	nsubj:pass
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	advcl
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+seguenti	seguente	ADJ	A	amod
+disposizioni	disposizione	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+registrazioni	registrazione	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+rese	rendere	VERB	V	ROOT
+consultabili	consultabile	ADJ	A	xcomp
+agli	a il	ADP	E_RD	case
+organi	organo	NOUN	S	obl
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+con	con	ADP	E	case
+mezzi	mezzo	NOUN	S	obl
+informatici	informatico	ADJ	A	amod
+messi	mettere	VERB	V	acl
+a	a	ADP	E	case
+disposizione	disposizione	NOUN	S	obl
+dall'	da il	ADP	E_RD	case
+operatore	operatore	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+deve	dovere	AUX	VM	aux
+assicurare	assicurare	VERB	V	acl:relcl
+il	il	DET	RD	det
+corretto	corretto	ADJ	A	amod
+funzionamento	funzionamento	NOUN	S	obj
+e	e	CCONJ	CC	cc
+costituiscono	costituire	VERB	V	conj
+informazione	informazione	NOUN	S	obj
+primaria	primario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+originale	originale	ADJ	A	conj
+da	da	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	V	cop
+possibile	possibile	ADJ	A	acl:relcl
+effettuare	effettuare	VERB	V	csubj
+,	,	PUNCT	FF	punct
+su	su	ADP	E	case
+diversi	diverso	DET	DI	det
+tipi	tipo	NOUN	S	obl
+di	di	ADP	E	case
+supporto	supporto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+riproduzioni	riproduzione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+copie	copia	NOUN	S	conj
+per	per	ADP	E	case
+gli	il	DET	RD	det
+usi	uso	NOUN	S	obl
+consentiti	consentire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+registrazioni	registrazione	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+effettuate	effettuare	VERB	V	ROOT
+dagli	da il	ADP	E_RD	case
+operatori	operatore	NOUN	S	obl:agent
+in	in	ADP	E	case
+modo	modo	NOUN	S	obl
+da	da	ADP	E	mark
+garantire	garantire	VERB	V	acl
+la	il	DET	RD	det
+possibilità	possibilità	NOUN	S	obj
+di	di	ADP	E	case
+riproduzione	riproduzione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+documenti	documento	NOUN	S	nmod
+posti	porre	VERB	V	acl
+in	in	ADP	E	case
+conservazione	conservazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+estrazione	estrazione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	nmod
+dagli	da il	ADP	E_RD	case
+archivi	archivio	NOUN	S	nmod
+informatici	informatico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+relativamente	relativamente	ADV	B	case
+alla	a il	ADP	E_RD	det
+serie	serie	NOUN	S	obl
+di	di	ADP	E	case
+dati	dato	NOUN	S	nmod
+trasmessi	trasmettere	VERB	V	acl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+qualora	qualora	SCONJ	CS	mark
+ciò	ciò	PRON	PD	nsubj:pass
+sia	essere	AUX	VA	aux:pass
+richiesto	richiedere	VERB	V	advcl
+in	in	ADP	E	case
+sede	sede	NOUN	S	obl
+di	di	ADP	E	case
+ispezioni	ispezione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+verifiche	verificho	ADJ	A	conj
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+organi	organo	NOUN	S	nmod
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+numeri	numero	NOUN	S	nsubj
+di	di	ADP	E	case
+ciascuna	ciascuno	DET	DI	det
+registrazione	registrazione	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+compongono	comporre	VERB	V	acl:relcl
+il	il	DET	RD	det
+registro	registro	NOUN	S	obj
+sono	essere	AUX	V	cop
+progressivi	progressivo	ADJ	A	conj
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+modificabili	modificabile	ADJ	A	conj
+e	e	CCONJ	CC	cc
+garantiscono	garantiscere	VERB	V	conj
+l'	il	DET	RD	det
+identificabilità	identificabilità	NOUN	S	obj
+dell'	di il	ADP	E_RD	case
+utente	utente	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+3	3	NUM	N	nummod
+)	)	PUNCT	FB	punct
+qualunque	qualunque	DET	DI	det
+rettifica	rettifica	NOUN	S	nsubj:pass
+alle	a il	ADP	E_RD	case
+registrazioni	registrazione	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+memorizzata	memorizzare	VERB	V	conj
+con	con	ADP	E	case
+l'	il	DET	RD	det
+identificativo	identificativo	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+utente	utente	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+l'	lo	PRON	PC	obj
+ha	avere	AUX	VA	aux
+effettuata	effettuare	VERB	V	acl:relcl
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+identificativo	identificativo	ADJ	A	amod
+temporale	temporale	NOUN	S	conj
+con	con	ADP	E	case
+data	data	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+ora	ora	ADV	B	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+4	4	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+sistemi	sistema	NOUN	S	nsubj
+gestionali	gestionale	ADJ	A	amod
+adottati	adottare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+operatore	operatore	NOUN	S	obl:agent
+garantiscono	garantiscere	VERB	V	acl
+nella	in il	ADP	E_RD	case
+formazione	formazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+documento	documento	NOUN	S	nmod
+il	il	DET	RD	det
+rispetto	rispetto	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+regole	regola	NOUN	S	nmod
+tecniche	tecnica	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+Codice	Codice	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+registro	registro	NOUN	S	nsubj:pass
+cronologico	cronologico	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+tenuto	tenere	VERB	V	ROOT
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	obl
+digitale	digitale	ADJ	A	amod
+secondo	secondo	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+indicato	indicare	VERB	V	acl
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	obl
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+b	b	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+per	per	ADP	E	case
+il	il	DET	RD	det
+tramite	tramite	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+servizi	servizio	NOUN	S	nmod
+resi	rese	ADJ	A	amod
+disponibili	disponibile	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+20	20	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+5	5	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Disposizioni	disposizione	NOUN	S	nmod
+generali	generale	ADJ	A	amod
+sul	su il	ADP	E_RD	case
+formulario	formulario	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+193	193	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+è	essere	AUX	VA	aux:pass
+emesso	emettere	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+produttore	produttore	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+dal	da il	ADP	E_RD	case
+detentore	detentore	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+conformità	conformità	NOUN	S	obl
+al	a il	ADP	E_RD	case
+modello	modello	NOUN	S	nmod
+riportato	riportato	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+allegato	allegato	NOUN	S	obl
+II	II	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+è	essere	AUX	VA	aux
+integrato	integrare	VERB	V	conj
+e	e	CCONJ	CC	cc
+sottoscritto	sottoscritto	ADJ	A	conj
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+la	il	DET	RD	det
+parte	parte	NOUN	S	obl
+di	di	ADP	E	case
+propria	proprio	DET	AP	det:poss
+competenza	competenza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dagli	da il	ADP	E_RD	case
+operatori	operatore	NOUN	S	obl
+coinvolti	coinvolgere	VERB	V	acl
+nelle	in il	ADP	E_RD	case
+diverse	diverso	DET	DI	det
+fasi	fase	NOUN	S	obl
+del	di il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ferma	Ferma	VERB	V	obl
+restando	restare	VERB	V	advcl
+la	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	obj
+del	di il	ADP	E_RD	case
+produttore	produttore	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+detentore	detentore	NOUN	S	conj
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+alle	a il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	nmod
+di	di	ADP	E	case
+propria	proprio	DET	AP	det:poss
+competenza	competenza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+emesso	emettere	VERB	V	ROOT
+e	e	CCONJ	CC	cc
+compilato	compilare	VERB	V	conj
+a	a	ADP	E	case
+cura	cura	NOUN	S	obl
+del	di il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+di	di	ADP	E	case
+richiesta	richiesta	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+produttore	produttore	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+detentore	detentore	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+vidimato	vidimare	VERB	V	ROOT
+digitalmente	digitalmente	NOUN	S	xcomp
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+indicate	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+6	6	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+in	in	ADP	E	case
+formato	formato	NOUN	S	obl
+cartaceo	cartaceo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+oppure	oppure	CCONJ	CC	cc
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+7	7	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	cc
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+6	6	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Formulario	Formulario	PROPN	SP	nmod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+cartaceo	cartaceo	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+produttori	produttore	NOUN	S	nsubj
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+non	non	ADV	BN	advmod
+iscritti	iscrivere	VERB	V	amod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+tengono	tenere	VERB	V	ROOT
+il	il	DET	RD	det
+formulario	formulario	NOUN	S	obj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+cartaceo	cartaceo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+cartaceo	cartaceo	ADJ	A	amod
+è	essere	AUX	VA	aux
+generato	generare	VERB	V	ROOT
+conformemente	conformemente	ADV	B	advmod
+ai	a il	ADP	E_RD	case
+modelli	modello	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+allegato	allegato	NOUN	S	nmod
+II	II	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+è	essere	AUX	VA	aux:pass
+identificato	identificare	VERB	V	conj
+da	da	ADP	E	case
+un	uno	DET	RI	det
+codice	codice	NOUN	S	obl:agent
+univoco	univoco	ADJ	A	amod
+e	e	CCONJ	CC	cc
+da	da	ADP	E	case
+apposito	apposito	NOUN	S	conj
+contrassegno	contrassegno	NOUN	S	compound
+reso	reso	VERB	V	acl
+disponibile	disponibile	ADJ	A	xcomp
+dal	da il	ADP	E_RD	case
+servizio	servizio	NOUN	S	obl
+di	di	ADP	E	case
+vidimazione	vidimazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+tramite	tramite	ADP	E	case
+apposita	apposito	ADJ	A	amod
+applicazione	applicazione	NOUN	S	nmod
+utilizzabile	utilizzabile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+previa	previo	ADJ	A	amod
+registrazione	registrazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+attraverso	attraverso	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+rende	rendere	VERB	V	ROOT
+disponibile	disponibile	ADJ	A	xcomp
+a	a	ADP	E	case
+coloro	coloro	PRON	PD	obl
+che	che	PRON	PR	nsubj
+utilizzano	utilizzare	VERB	V	acl:relcl
+propri	proprio	DET	AP	det:poss
+sistemi	sistema	NOUN	S	obj
+gestionali	gestionale	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+compilazione	compilazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	nmod
+un	uno	DET	RI	det
+accesso	accesso	NOUN	S	obj
+dedicato	dedicare	VERB	V	acl
+al	a il	ADP	E_RD	case
+servizio	servizio	NOUN	S	obl
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	obl
+telematica	telematico	ADJ	A	amod
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+consentire	consentire	VERB	V	acl
+l'	il	DET	RD	det
+apposizione	apposizione	NOUN	S	obj
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+univoco	univoco	ADJ	A	amod
+su	su	ADP	E	case
+ciascun	ciascuno	DET	DI	det
+formulario	formulario	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+cartaceo	cartaceo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+stampato	stampare	VERB	V	acl
+su	su	ADP	E	case
+moduli	modulo	NOUN	S	obl
+A4	A4	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux
+riprodotto	riprodotgere	VERB	V	ROOT
+in	in	ADP	E	case
+due	due	NUM	N	nummod
+copie	copia	NOUN	S	obl
+,	,	PUNCT	FF	punct
+compilate	compilare	VERB	V	acl
+,	,	PUNCT	FF	punct
+datate	datare	ADJ	A	conj
+e	e	CCONJ	CC	cc
+firmate	firmare	VERB	V	conj
+dal	da il	ADP	E_RD	case
+produttore	produttore	NOUN	S	obl:agent
+o	o	CCONJ	CC	cc
+detentore	detentore	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sottoscritte	sottoscritto	ADJ	V	dep
+altresì	altresì	ADV	B	advmod
+dal	da il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+Una	uno	DET	RI	det
+copia	copia	NOUN	S	nsubj
+rimane	rimanere	VERB	V	ROOT
+presso	presso	ADP	E	case
+il	il	DET	RD	det
+produttore	produttore	NOUN	S	obl
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+detentore	detentore	NOUN	S	conj
+,	,	PUNCT	FF	punct
+un'	uno	DET	RI	det
+altra	altro	PRON	PI	nsubj:pass
+viene	venire	AUX	VA	aux:pass
+sottoscritta	sottoscrivere	VERB	V	conj
+e	e	CCONJ	CC	cc
+datata	datato	ADJ	A	conj
+in	in	ADP	E	case
+arrivo	arrivo	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+destinatario	destinatario	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+rilascia	rilasciare	VERB	V	acl:relcl
+una	uno	DET	RI	det
+riproduzione	riproduzione	NOUN	S	obj
+al	a il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+trasportatore	trasportatore	NOUN	S	nsubj
+provvede	provvedere	VERB	V	ROOT
+a	a	ADP	E	mark
+trasmetterne	trasmettere ne	VERB	V_PC	xcomp
+una	uno	PRON	PI	obj
+al	a il	ADP	E_RD	case
+produttore	produttore	NOUN	S	obl
+o	o	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+detentore	detentore	NOUN	S	conj
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+agli	a il	ADP	E_RD	case
+operatori	operatore	NOUN	S	conj
+coinvolti	coinvolgere	VERB	V	acl
+nelle	in il	ADP	E_RD	case
+diverse	diverso	DET	DI	det
+fasi	fase	NOUN	S	obl
+del	di il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+copia	copia	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+formulario	formulario	NOUN	S	nmod
+compilato	compilare	VERB	V	acl
+in	in	ADP	E	case
+tutte	tutto	DET	T	det:predet
+le	il	DET	RD	det
+sue	suo	DET	AP	det:poss
+parti	parte	NOUN	S	obl
+può	potere	AUX	VM	aux
+avvenire	avvenire	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	X	nmod
+)	)	PUNCT	FB	punct
+mediante	mediante	ADP	E	case
+consegna	consegna	NOUN	S	ROOT
+diretta	direggere	VERB	V	acl
+da	da	ADP	E	case
+parte	parte	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+mediante	mediante	ADP	E	case
+posta	posta	NOUN	S	nmod
+elettronica	elettronico	ADJ	A	amod
+certificata	certificare	VERB	V	acl
+da	da	ADP	E	case
+parte	parte	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	nmod
+)	)	PUNCT	FB	punct
+mediante	mediante	ADP	E	case
+i	il	DET	RD	det
+servizi	servizio	NOUN	S	nmod
+specifici	specifico	ADJ	A	amod
+resi	rese	VERB	V	acl
+disponibili	disponibile	ADJ	A	xcomp
+dal	da il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl:agent
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+procedure	procedura	NOUN	S	nmod
+operative	operativo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+7	7	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Formulario	Formulario	PROPN	SP	nmod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+è	essere	AUX	V	cop
+un	uno	DET	RI	det
+documento	documento	NOUN	S	ROOT
+informatico	informatico	ADJ	A	amod
+il	il	DET	RD	det
+cui	cui	DET	DR	det:poss
+formato	formato	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+definito	definire	VERB	V	acl:relcl
+con	con	ADP	E	case
+le	il	DET	RD	det
+specifiche	specifica	NOUN	S	obl
+tecniche	tecnico	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+vidimato	vidimare	VERB	V	ROOT
+digitalmente	digitalmente	ADJ	B	xcomp
+tramite	tramite	ADP	E	case
+l'	il	DET	RD	det
+assegnazione	assegnazione	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+codice	codice	NOUN	S	nmod
+univoco	univoco	ADJ	A	amod
+reso	rendere	VERB	V	acl
+disponibile	disponibile	ADJ	A	xcomp
+da	da	ADP	E	case
+apposita	apposito	ADJ	A	amod
+applicazione	applicazione	NOUN	S	obl:agent
+utilizzabile	utilizzabile	ADJ	A	amod
+attraverso	attraverso	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nmod
+che	che	PRON	PR	nsubj
+si	si	PRON	PC	expl
+avvale	avvalere	VERB	V	acl:relcl
+del	di il	ADP	E_RD	case
+servizio	servizio	NOUN	S	obl
+per	per	ADP	E	case
+la	il	DET	RD	det
+vidimazione	vidimazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+messo	mettere	VERB	V	acl
+a	a	ADP	E	case
+disposizione	disposizione	NOUN	S	obl
+dalle	da il	ADP	E_RD	case
+camere	camera	NOUN	S	obl:agent
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+viene	venire	AUX	VA	aux:pass
+aggiornato	aggiornare	VERB	V	ROOT
+da	da	ADP	E	case
+parte	parte	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+tramite	tramite	ADP	E	case
+i	il	DET	RD	det
+sistemi	sistema	NOUN	S	obl
+gestionali	gestionale	ADJ	A	amod
+da	da	ADP	E	case
+essi	esso	PRON	PE	obl
+adottati	adottare	VERB	V	acl
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+modo	modo	NOUN	S	obl
+da	da	ADP	E	mark
+assicurare	assicurare	VERB	V	acl
+la	il	DET	RD	det
+progressiva	progressivo	ADJ	A	amod
+compilazione	compilazione	PROPN	S	obj
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+sottoscrizione	sottoscrizione	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+stesso	stesso	PRON	PD	nmod
+,	,	PUNCT	FF	punct
+nelle	in il	ADP	E_RD	case
+diverse	diverso	DET	DI	det
+fasi	fase	NOUN	S	obl
+del	di il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+sottoscrizione	sottoscrizione	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+formulario	formulario	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+coinvolti	coinvolgere	VERB	V	acl
+nelle	in il	ADP	E_RD	case
+diverse	diverso	DET	DI	det
+fasi	fase	NOUN	S	obl
+del	di il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	ROOT
+mediante	mediante	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	obl
+di	di	ADP	E	case
+strumenti	strumento	NOUN	S	nmod
+di	di	ADP	E	case
+sottoscrizione	sottoscrizione	NOUN	S	nmod
+elettronica	elettronico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+conformi	conforme	ADJ	A	conj
+alla	a il	ADP	E_RD	case
+normativa	normativa	NOUN	S	obl
+vigente	vigente	ADJ	A	amod
+e	e	CCONJ	CC	cc
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+specifiche	specifica	NOUN	S	conj
+tecniche	tecnico	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+4	4	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+agevolare	agevolare	VERB	V	acl
+i	il	DET	RD	det
+controlli	controllo	NOUN	S	obj
+su	su	ADP	E	case
+strada	strada	NOUN	S	obl
+durante	durante	ADP	E	case
+il	il	DET	RD	det
+trasporto	trasporto	NOUN	S	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+rifiuto	rifiuto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+accompagnato	accompagnare	VERB	V	ROOT
+da	da	ADP	E	case
+una	uno	DET	RI	det
+stampa	stampa	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+formulario	formulario	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+il	il	DET	RD	det
+formato	formato	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+allegato	allegato	NOUN	S	nmod
+II	II	ADJ	A	amod
+e	e	CCONJ	CC	cc
+prodotto	produrre	VERB	V	conj
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+indicate	indicare	VERB	V	acl
+nelle	in il	ADP	E_RD	case
+specifiche	specifica	NOUN	S	obl
+tecniche	tecnico	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+alternativa	alternativa	NOUN	S	obl
+,	,	PUNCT	FF	punct
+durante	durante	ADP	E	case
+il	il	DET	RD	det
+trasporto	trasporto	NOUN	S	obl
+è	essere	AUX	VA	aux:pass
+garantita	garantire	VERB	V	ROOT
+la	il	DET	RD	det
+possibilità	possibilità	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+esibire	esibire	VERB	V	acl
+il	il	DET	RD	det
+formulario	formulario	NOUN	S	obj
+digitale	digitale	ADJ	A	amod
+mediante	mediante	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	obl
+di	di	ADP	E	case
+dispositivi	dispositivo	NOUN	S	nmod
+mobili	mobile	ADJ	A	amod
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+specifiche	specifica	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Qualora	qualora	SCONJ	CS	mark
+richiesto	richiedere	VERB	V	advcl
+in	in	ADP	E	case
+sede	sede	NOUN	S	obl
+di	di	ADP	E	case
+ispezioni	ispezione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+verifiche	verifico	ADJ	A	conj
+presso	presso	ADP	E	case
+l'	il	DET	RD	det
+unità	unità	NOUN	S	nmod
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+garantite	garantire	VERB	V	ROOT
+in	in	ADP	E	case
+qualunque	qualunque	DET	DI	det
+momento	momento	NOUN	S	obl
+la	il	DET	RD	det
+possibilità	possibilità	NOUN	S	nsubj
+di	di	ADP	E	case
+riproduzione	riproduzione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+documenti	documento	NOUN	S	nmod
+archiviati	archiviare	ADJ	A	acl
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+documenti	documento	NOUN	S	conj
+posti	porre	VERB	V	acl
+in	in	ADP	E	case
+conservazione	conservazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+verifica	verifica	NOUN	S	conj
+della	di il	ADP	E_RD	case
+corrispondenza	corrispondenza	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	nmod
+trasmesse	trasmettere	VERB	V	acl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+rispetto	rispetto	ADV	B	case
+a	a	ADP	E	fixed
+quanto	quanto	PRON	B	obl
+desumibile	desumibile	ADJ	A	amod
+dagli	da il	ADP	E_RD	case
+archivi	archivio	NOUN	S	obl:agent
+informatici	informatico	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+relativamente	relativamente	ADV	B	case
+alla	a il	ADP	E_RD	det
+serie	serie	NOUN	S	nmod
+di	di	ADP	E	case
+dati	dato	NOUN	S	nmod
+trasmessi	trasmettere	VERB	V	acl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+specifiche	specifica	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+6	6	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+sistemi	sistema	NOUN	S	nsubj
+gestionali	gestionale	ADJ	A	amod
+adottati	adottare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+operatore	operatore	NOUN	S	obl:agent
+devono	dovere	AUX	VM	aux
+garantire	garantire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+formazione	formazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+documento	documento	NOUN	S	nmod
+il	il	DET	RD	det
+rispetto	rispetto	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+regole	regola	NOUN	S	nmod
+tecniche	tecnica	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+Codice	Codice	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+7	7	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+formulario	formulario	NOUN	S	nmod
+controfirmato	controfirmare	VERB	V	acl
+e	e	CCONJ	CC	cc
+datato	datare	VERB	V	conj
+in	in	ADP	E	case
+arrivo	arrivo	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+destinatario	destinatario	NOUN	S	obl:agent
+avviene	avvenire	VERB	V	ROOT
+per	per	ADP	E	case
+il	il	DET	RD	det
+tramite	tramite	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+consente	consentire	VERB	V	conj
+di	di	ADP	E	mark
+adempiere	adempiere	VERB	V	xcomp
+gli	il	DET	RD	det
+obblighi	obbligo	NOUN	S	obj
+previsti	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+188	188	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	obl
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+b	b	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+così	così	ADV	B	advmod
+reso	rendere	VERB	V	ROOT
+disponibile	disponibile	ADJ	A	xcomp
+dal	da il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+a	a	ADP	E	case
+tutti	tutto	DET	T	det:predet
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	obl
+intervenuti	intervenuto	ADJ	V	acl
+nella	in il	ADP	E_RD	case
+movimentazione	movimentazione	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+8	8	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+emesso	emettere	VERB	V	ROOT
+e	e	CCONJ	CC	cc
+gestito	gestire	ADJ	A	conj
+in	in	ADP	E	case
+modalità	modalità	NOUN	S	obl
+digitale	digitale	ADJ	A	amod
+secondo	secondo	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+indicato	indicare	VERB	V	acl:relcl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	obl:agent
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+procedure	procedura	NOUN	S	nmod
+operative	operativo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+per	per	ADP	E	case
+il	il	DET	RD	det
+tramite	tramite	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+servizi	servizio	NOUN	S	nmod
+resi	rese	ADJ	A	amod
+disponibili	disponibile	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+20	20	NUM	N	nummod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	mark
+partire	partire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+indicata	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+c	c	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+9	9	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+scadenza	scadenza	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	obl
+8	8	NUM	N	nummod
+il	il	DET	RD	det
+formulario	formulario	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+volontariamente	volontariamente	ADV	B	advmod
+emesso	emettere	VERB	V	ROOT
+in	in	ADP	E	case
+formato	formato	NOUN	S	obl
+digitale	digitale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+8	8	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Specifiche	Specifica	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	nmod
+di	di	ADP	E	mark
+assicurare	assicurare	VERB	V	acl
+la	il	DET	RD	det
+conformità	conformità	NOUN	S	obj
+ai	a il	ADP	E_RD	case
+modelli	modello	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+registri	registro	NOUN	S	nmod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	conj
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+rifiuto	rifiuto	NOUN	S	nmod
+disciplinati	disciplinare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+Direzione	direzione	NOUN	S	ROOT
+generale	generale	ADJ	A	amod
+competente	competente	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+pubblica	pubblico	ADJ	A	amod
+sul	su il	ADP	E_RD	case
+sito	sito	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+le	il	DET	RD	det
+specifiche	specifica	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+redazione	redazione	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+elettronico	elettronico	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+citati	citato	NOUN	S	amod
+modelli	modello	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Eventuali	Eventuali	ADJ	A	amod
+modifiche	modifica	NOUN	S	nsubj:pass
+alle	a il	ADP	E_RD	case
+specifiche	specifica	NOUN	S	nmod
+tecniche	tecnico	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+a	a	ADP	E	mark
+decorrere	decorrere	VERB	V	xcomp
+dal	da il	ADP	E_RD	case
+sesto	sesto	ADJ	NO	amod
+mese	mese	NOUN	S	obl
+successivo	successivo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+pubblicazione	pubblicazione	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+9	9	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Applicabilità	applicabilità	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+nuovi	nuovo	ADJ	A	amod
+modelli	modello	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+modelli	modello	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+e	e	CCONJ	CC	cc
+5	5	NUM	N	conj
+sono	essere	AUX	V	cop
+applicabili	applicabile	ADJ	A	ROOT
+a	a	ADP	E	mark
+partire	partire	VERB	V	advcl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+indicata	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+compilazione	compilazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+citati	citato	NOUN	S	nmod
+modelli	modello	NOUN	S	compound
+sono	essere	AUX	VA	aux:pass
+definite	definire	VERB	V	ROOT
+con	con	ADP	E	case
+il	il	DET	RD	det
+decreto	decreto	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Sino	sino	ADV	B	case
+alla	a il	DET	E_RD	det
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+continuano	continuare	VERB	V	ROOT
+ad	a	ADP	E	mark
+applicarsi	applicare si	VERB	V_PC	xcomp
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+190	190	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+193	193	NUM	N	nummod
+,	,	PUNCT	FF	punct
+commi	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+4	4	NUM	N	conj
+e	e	CCONJ	CC	cc
+5	5	NUM	N	conj
+del	di il	ADP	E_RD	case
+medesimo	medesimo	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+REGISTRO	REGISTRO	PROPN	SP	nmod
+ELETTRONICO	ELETTRONICO	PROPN	SP	flat:name
+NAZIONALE	NAZIONALE	PROPN	SP	nmod
+PER	PER	ADP	E	case
+LA	LA	DET	RD	det
+TRACCIABILITÀ	TRACCIABILITÀ	PROPN	SP	nmod
+DEI	DEI	PROPN	SP	flat:name
+RIFIUTI	RIFIUTI	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+10	10	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Struttura	struttura	NOUN	S	nmod
+organizzativa	organizzativo	ADJ	A	amod
+del	di il	ADP	E_RD	case
+registro	registro	NOUN	S	nmod
+elettronico	elettronico	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nsubj
+è	essere	AUX	VA	aux:pass
+gestito	gestire	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+contenute	contenere	ADJ	A	acl
+nel	in il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	obl
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+2016/679	2016/679	NUM	N	nummod
+ed	e	CCONJ	CC	cc
+utilizza	utilizzare	VERB	V	conj
+la	il	DET	RD	det
+piattaforma	piattaforma	NOUN	S	obj
+telematica	telematico	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+interconnessa	interconnesso	ADJ	A	amod
+con	con	ADP	E	case
+la	il	DET	RD	det
+rete	rete	NOUN	S	nmod
+telematica	telematico	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nsubj:pass
+è	essere	AUX	VA	aux:pass
+articolato	articolare	VERB	V	ROOT
+in	in	ADP	E	dep
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+una	uno	DET	RI	det
+sezione	sezione	NOUN	S	obl
+Anagrafica	Anagrafico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+comprensiva	comprensivo	ADJ	A	conj
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+anagrafici	anagrafico	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	conj
+relative	relativo	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+specifiche	specifico	ADJ	A	amod
+autorizzazioni	autorizzazione	NOUN	S	obl
+rilasciate	rilasciare	VERB	V	acl
+agli	a il	ADP	E_RD	case
+stessi	stesso	ADJ	PD	obl
+per	per	ADP	E	case
+l'	il	DET	RD	det
+esercizio	esercizio	NOUN	S	obl
+di	di	ADP	E	case
+attività	attività	NOUN	S	nmod
+inerenti	inerente	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+gestione	gestione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+tale	tale	DET	DD	det
+sezione	sezione	NOUN	S	obl
+è	essere	AUX	VA	aux:pass
+inserita	inserire	VERB	V	ROOT
+l'	il	DET	RD	det
+informativa	informativa	NOUN	S	nsubj
+sulla	su il	ADP	E_RD	case
+privacy	privacy	ADJ	A	nmod
+volta	volta	NOUN	S	acl
+ad	a	ADP	E	mark
+ottenere	ottenere	VERB	V	xcomp
+il	il	DET	RD	det
+previsto	previsto	ADJ	A	amod
+consenso	consenso	NOUN	S	obj
+al	a il	ADP	E_RD	case
+trattamento	trattamento	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+2016/679	2016/679	NUM	N	flat
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	X	S	nmod
+)	)	PUNCT	FB	punct
+una	uno	DET	RI	det
+sezione	sezione	NOUN	S	obl
+Tracciabilità	Tracciabilità	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+comprensiva	comprensivo	ADJ	A	conj
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+relativi	relativo	ADJ	A	amod
+agli	a il	ADP	E_RD	case
+adempimenti	adempimente	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+190	190	NUM	N	nummod
+e	e	CCONJ	CC	cc
+193	193	NUM	N	conj
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	conj
+afferenti	afferente	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+percorsi	percorso	NOUN	S	nmod
+rilevati	rilevare	VERB	V	acl
+dai	da il	ADP	E_RD	case
+sistemi	sistema	NOUN	S	obl:agent
+di	di	ADP	E	case
+geolocalizzazione	geolocalizzazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+16	16	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nsubj
+è	essere	AUX	VA	aux
+integrato	integrare	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+piattaforma	piattaforma	NOUN	S	obl
+telematica	telematico	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	appos
+ambientali	ambientale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+11	11	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Funzioni	Funzioni	NOUN	S	nmod
+di	di	ADP	E	case
+supporto	supporto	NOUN	S	nmod
+tecnico	tecnico	ADJ	A	amod
+operativo	operativo	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+Albo	Albo	PROPN	SP	nsubj
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nsubj
+ambientali	ambientale	ADJ	A	amod
+fornisce	fornire	VERB	V	ROOT
+il	il	DET	RD	det
+necessario	necessario	ADJ	A	amod
+supporto	supporto	NOUN	S	obj
+tecnico	tecnico	ADJ	A	amod
+operativo	operativo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+competente	competente	ADJ	A	amod
+Direzione	Direzione	NOUN	S	obl
+generale	generale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+per	per	ADP	E	punct
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obj
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+gestione	gestione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+rapporti	rapporto	NOUN	S	nmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+utenza	utenza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+associazioni	associazione	NOUN	S	conj
+di	di	ADP	E	case
+categoria	categoria	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+associazioni	associazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+produttori	produttore	NOUN	S	nmod
+di	di	ADP	E	case
+software	software	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+compresa	compreso	ADJ	A	amod
+l'	il	DET	RD	det
+informazione	informazione	NOUN	S	obj
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+comunicazione	comunicazione	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+aspetti	aspetto	NOUN	S	ROOT
+operativi	operativo	ADJ	A	amod
+di	di	ADP	E	case
+funzionamento	funzionamento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	nmod
+telematica	telematico	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+tracciabilità	tracciabilità	NOUN	S	nmod
+descritti	descrivere	VERB	V	acl
+nel	in il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+predisposizione	predisposizione	NOUN	S	appos
+della	di il	ADP	E_RD	case
+documentazione	documentazione	NOUN	S	nmod
+tecnica	tecnico	ADJ	A	amod
+relativa	relativo	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+specifiche	specifica	NOUN	S	obl
+funzionali	funzionale	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+gestione	gestione	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+evoluzione	evoluzione	NOUN	S	conj
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+sezioni	sezione	NOUN	S	nsubj
+regionali	regionale	ADJ	A	amod
+presso	presso	ADP	E	case
+le	il	DET	RD	det
+camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+commercio	commercio	NOUN	S	nmod
+assicurano	assicurare	VERB	V	ROOT
+la	il	DET	RD	det
+gestione	gestione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+rapporti	rapporto	NOUN	S	nmod
+con	con	ADP	E	case
+gli	il	DET	RD	det
+utenti	utente	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+collaborazione	collaborazione	NOUN	S	obl
+con	con	ADP	E	case
+le	il	DET	RD	det
+associazioni	associazione	NOUN	S	nmod
+di	di	ADP	E	case
+categoria	categoria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+organizzazione	organizzazione	NOUN	S	conj
+di	di	ADP	E	case
+adeguate	adeguato	ADJ	A	amod
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+formazione	formazione	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+informazione	informazione	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+sezioni	sezione	NOUN	S	ROOT
+regionali	regionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+periodo	periodo	NOUN	S	obl
+assicurano	assicurare	VERB	V	acl:relcl
+altresì	altresì	ADV	B	advmod
+la	il	DET	RD	det
+gestione	gestione	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+procedure	procedura	NOUN	S	nmod
+applicative	applicativo	ADJ	A	amod
+relative	relativo	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+verifica	verifica	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+pagamenti	pagamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+integrate	integrare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	obl
+telematica	telematico	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	obl:agent
+ambientali	ambientale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+costi	costo	NOUN	S	nsubj:pass
+sostenuti	sostenere	VERB	V	acl
+per	per	ADP	E	case
+le	il	DET	RD	det
+attività	attività	NOUN	S	obl
+di	di	ADP	E	case
+supporto	supporto	NOUN	S	nmod
+fornito	fornire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+segreteria	segreteria	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+Comitato	comitato	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	appos
+ambientali	ambientale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dalle	da il	ADP	E_RD	case
+sezioni	sezione	NOUN	S	conj
+regionali	regionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+da	da	ADP	E	mark
+riconoscersi	riconoscere si	VERB	V_PC	acl
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+rimborso	rimborso	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+spese	spesa	NOUN	S	nmod
+di	di	ADP	E	case
+gestione	gestione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+funzionamento	funzionamento	NOUN	S	conj
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+rendicontati	rendicontare	VERB	V	ROOT
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+di	di	ADP	E	case
+un'	uno	DET	RI	det
+apposita	apposito	ADJ	A	amod
+convenzione	convenzione	NOUN	S	nmod
+stipulata	stipulare	VERB	V	acl
+tra	tra	ADP	E	case
+la	il	DET	RD	det
+competente	competente	ADJ	A	amod
+Direzione	Direzione	NOUN	S	obl
+generale	generale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+Unioncamere	Unioncamere	PROPN	SP	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+12	12	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Sono	essere	AUX	VA	aux:pass
+tenuti	tenere	VERB	V	ROOT
+ad	a	ADP	E	mark
+iscriversi	iscrivere si	VERB	V_PC	xcomp
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+mediante	mediante	ADP	E	case
+l'	il	DET	RD	det
+accreditamento	accreditamento	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	nmod
+telematica	telematico	ADJ	A	amod
+per	per	ADP	E	case
+il	il	DET	RD	det
+conferimento	conferimento	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+6	6	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+n.	numero	NOUN	S	nmod
+135	135	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2018	2018	NUM	N	nmod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+n.	numero	NOUN	S	nmod
+12	12	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2019	2019	NUM	N	nummod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+seguito	seguito	NOUN	S	obl
+indicati	indicare	VERB	V	acl
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+enti	ente	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+imprese	impresa	NOUN	S	conj
+che	che	PRON	PR	nsubj
+effettuano	effettuare	VERB	V	acl:relcl
+il	il	DET	RD	det
+trattamento	trattamento	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+produttori	produttore	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+pericolosi	pericoloso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+fatto	fare	VERB	V	advcl
+salvo	salvo	ADJ	A	xcomp
+quanto	quanto	PRON	PR	obl
+previsto	prevedere	VERB	V	acl:relcl
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+9	9	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+enti	ente	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+imprese	impresa	NOUN	S	conj
+che	che	PRON	PR	nsubj
+raccolgono	raccolgere	VERB	V	acl:relcl
+o	o	CCONJ	CC	cc
+trasportano	trasportare	VERB	V	conj
+rifiuti	rifiuto	NOUN	S	obj
+pericolosi	pericoloso	ADJ	A	amod
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+professionale	professionale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+operano	operare	VERB	V	conj
+in	in	ADP	E	case
+qualità	qualità	NOUN	S	obl
+di	di	ADP	E	case
+commercianti	commerciante	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+intermediari	intermediare	NOUN	S	conj
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+pericolosi	pericoloso	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+Consorzi	Consorzi	NOUN	S	nsubj:pass
+istituiti	istituire	VERB	V	acl
+per	per	ADP	E	case
+il	il	DET	RD	det
+recupero	recupero	NOUN	S	obl
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+riciclaggio	riciclaggio	NOUN	S	conj
+di	di	ADP	E	case
+particolari	particolare	ADJ	A	amod
+tipologie	tipologia	NOUN	S	nmod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	acl:relcl
+1	1	NUM	N	nummod
+procedono	procedere	VERB	V	ROOT
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	obl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+con	con	ADP	E	case
+le	il	DET	RD	det
+tempistiche	tempistica	NOUN	S	obl
+riportate	riportare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+e	e	CCONJ	CC	cc
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+indicate	indicare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+21	21	NUM	N	nummod
+,	,	PUNCT	FF	punct
+fornendo	fornire	VERB	V	advcl
+gli	il	DET	RD	det
+ulteriori	ulteriore	ADJ	A	amod
+dati	dato	NOUN	S	obj
+richiesti	richiedere	VERB	V	acl
+,	,	PUNCT	FF	punct
+rispetto	rispetto	ADV	B	case
+a	a	ADP	E	fixed
+quelli	quello	PRON	PD	obl
+derivanti	derivare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+interconnessione	interconnessione	NOUN	S	obl
+con	con	ADP	E	case
+il	il	DET	RD	det
+Registro	registro	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+imprese	impresa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+l'	il	DET	RD	det
+Albo	Albo	PROPN	SP	amod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	obj
+ambientali	ambientale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+il	il	DET	RD	det
+catasto	catasto	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+con	con	ADP	E	case
+il	il	DET	RD	det
+Registro	registro	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+autorizzazioni	autorizzazione	NOUN	S	nmod
+alle	a il	ADP	E_RD	case
+operazioni	operazione	NOUN	S	nmod
+di	di	ADP	E	case
+recupero	recupero	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+un	uno	DET	RI	det
+operatore	operatore	NOUN	S	nsubj
+avvii	avvii	ADJ	A	amod
+l'	il	DET	RD	det
+attività	attività	NOUN	S	acl:relcl
+soggetta	soggetto	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+obbligo	obbligo	NOUN	S	obl
+successivamente	successivamente	ADV	B	acl
+alle	a il	ADP	E_RD	case
+scadenze	scadenza	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	nsubj:pass
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	ROOT
+prima	prima	ADV	B	mark
+di	di	ADP	E	fixed
+procedere	procedere	VERB	V	advcl
+alla	a il	ADP	E_RD	case
+prima	primo	ADJ	NO	amod
+annotazione	annotazione	NOUN	S	obl
+sul	su il	ADP	E_RD	case
+registro	registro	NOUN	S	nmod
+cronologico	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+che	che	PRON	PR	nsubj
+svolgono	svolgere	VERB	V	acl:relcl
+attività	attività	NOUN	S	obj
+di	di	ADP	E	case
+trattamento	trattamento	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+inseriscono	inseriscere	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+sezione	sezione	NOUN	S	obl
+anagrafica	anagrafico	ADJ	A	amod
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+le	il	DET	RD	det
+informazioni	informazione	NOUN	S	obj
+relative	relativo	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+autorizzazioni	autorizzazione	NOUN	S	obl
+rilasciate	rilasciare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	obl:agent
+competente	competente	ADJ	A	amod
+ovvero	ovvero	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+comunicazioni	comunicazione	NOUN	S	conj
+effettuate	effettuare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+216	216	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+indicate	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+21	21	NUM	N	nummod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+indicando	indicare	VERB	V	advcl
+gli	il	DET	RD	det
+estremi	estrema	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+relativi	relativo	ADJ	A	amod
+provvedimenti	provvedimento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Gli	il	DET	RD	det
+stessi	stesso	ADJ	A	amod
+soggetti	soggetto	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+tenuti	tenere	VERB	V	ROOT
+entro	entro	ADP	E	case
+trenta	trenta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+a	a	ADP	E	mark
+comunicare	comunicare	VERB	V	xcomp
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+le	il	DET	RD	det
+medesime	medesimo	ADJ	A	amod
+modalità	modalità	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ogni	ogni	DET	DI	det
+variazione	variazione	NOUN	S	obl
+rispetto	rispetto	ADV	B	case
+alla	a il	DET	E_RD	det
+documentazione	documentazione	NOUN	S	obl
+trasmessa	trasmesso	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+L'	il	DET	RD	det
+inserimento	inserimento	NOUN	S	nsubj
+di	di	ADP	E	case
+informazioni	informazione	NOUN	S	nmod
+non	non	ADV	BN	advmod
+veritiere	veritiero	ADJ	A	amod
+o	o	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pertinenti	pertinente	ADJ	A	conj
+con	con	ADP	E	case
+il	il	DET	RD	det
+contenuto	contenuto	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+provvedimenti	provvedimento	NOUN	S	nmod
+indicati	indicato	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+documentazione	documentazione	NOUN	S	conj
+non	non	ADV	BN	advmod
+conforme	conforme	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+originale	originale	NOUN	S	obl
+comporta	comportare	VERB	V	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+sanzione	sanzione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+76	76	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+28	28	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+2000	2000	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	obl
+445	445	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+mancata	mancato	ADJ	A	amod
+trasmissione	trasmissione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+documentazione	documentazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+comporta	comportare	VERB	V	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+sanzioni	sanzione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+258	258	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+10	10	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	obl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+è	essere	AUX	VA	aux:pass
+dovuto	dovere	VERB	V	ROOT
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+ad	a	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	nmod
+locale	locale	ADJ	A	amod
+soggetta	soggetto	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+obbligo	obbligo	NOUN	S	obl
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nella	in il	ADP	E_RD	case
+misura	misura	NOUN	S	obl
+indicata	indicare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+voce	voce	NOUN	S	obl
+36.1	36.1	PUNCT	A	amod
+della	di il	ADP	E_RD	case
+tabella	tabella	NOUN	S	nmod
+A	A	PROPN	SP	case
+allegata	allegare	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+sviluppo	sviluppo	NOUN	S	nmod
+economico	economico	ADJ	A	amod
+17	17	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+2012	2012	NUM	N	flat
+,	,	PUNCT	FF	punct
+pubblicato	pubblicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	obl
+Ufficiale	Ufficiale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	Repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+177	177	NUM	N	nummod
+del	di il	ADP	E_RD	case
+31	31	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+2012	2012	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+6	6	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+obbligati	obbligare	VERB	V	acl
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+per	per	ADP	E	case
+i	il	DET	RD	det
+quali	quale	PRON	PR	obl
+non	non	ADV	BN	advmod
+decorra	decorrare	VERB	V	advmod
+ancora	ancora	ADV	B	advmod
+l'	il	DET	RD	det
+obbligo	obbligo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+possono	potere	AUX	VM	aux
+iscriversi	iscrivere si	VERB	V_PC	ROOT
+volontariamente	volontariamente	ADV	B	advmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+data	dare	VERB	V	ROOT
+facoltà	facoltà	NOUN	S	nsubj:pass
+in	in	ADP	E	case
+qualsiasi	qualsiasi	DET	DI	det
+momento	momento	NOUN	S	obl
+di	di	ADP	E	mark
+procedere	procedere	VERB	V	acl
+alla	a il	ADP	E_RD	case
+cancellazione	cancellazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+effetto	effetto	NOUN	S	obl
+a	a	ADP	E	mark
+partire	partire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+anno	anno	NOUN	S	obl
+solare	solare	ADJ	A	xcomp
+successivo	successivo	ADJ	A	xcomp
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+7	7	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+cancellazione	cancellazione	NOUN	S	nsubj
+dal	da il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+iscritti	iscritto	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+una	uno	NUM	N	conj
+o	o	CCONJ	CC	cc
+più	più	DET	DI	det
+unità	unità	NOUN	S	conj
+locale	locale	ADJ	A	amod
+in	in	ADP	E	case
+ragione	ragione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+venir	venire	VERB	V	nmod
+meno	meno	ADV	B	advmod
+nell'	in il	ADP	E_RD	case
+anno	anno	NOUN	S	obl
+solare	solare	ADJ	A	advmod
+precedente	precedente	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	obl
+che	che	PRON	PR	nsubj
+determinano	determinare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+obbligo	obbligo	NOUN	S	obj
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+ha	avere	VERB	V	ROOT
+effetto	effetto	NOUN	S	obj
+a	a	ADP	E	mark
+partire	partire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+anno	anno	NOUN	S	obl
+solare	solare	ADJ	A	xcomp
+successivo	successivo	ADJ	A	xcomp
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+8	8	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+sezioni	sezione	NOUN	S	ROOT
+regionali	regionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+mettono	mettere	VERB	V	advcl
+a	a	ADP	E	case
+disposizione	disposizione	NOUN	S	obl
+della	di il	ADP	E_RD	case
+Direzione	direzione	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+competente	competente	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+il	il	DET	RD	det
+tramite	tramite	NOUN	S	obl
+della	di il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	nmod
+telematica	telematico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+apposita	apposito	ADJ	A	amod
+reportistica	reportistico	NOUN	S	ROOT
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+monitoraggio	monitoraggio	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+andamento	andamento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+accreditano	accreditare	VERB	V	parataxis
+le	il	DET	RD	det
+iscrizioni	iscrizione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+delegati	delegato	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+nell'	in il	ADP	E_RD	case
+apposita	apposito	ADJ	A	amod
+sezione	sezione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+9	9	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Sono	essere	AUX	VA	aux:pass
+esonerati	esonerare	VERB	V	ROOT
+dall'	da il	ADP	E_RD	case
+obbligo	obbligo	NOUN	S	obl:agent
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+gli	il	DET	RD	det
+imprenditori	imprenditore	NOUN	S	nsubj
+agricoli	agricolo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2135	2135	NUM	N	nummod
+
+c.c	c.c	PRON	S	aux:pass
+.	.	NOUN	S	ROOT
+
+che	che	PRON	PR	mark
+non	non	ADV	BN	advmod
+producono	produrre	VERB	V	ROOT
+rifiuti	rifiuto	NOUN	S	obj
+pericolosi	pericoloso	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+13	13	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Tempistiche	Tempistiche	PROPN	SP	nmod
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+Dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	nsubj:pass
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+è	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	ROOT
+con	con	ADP	E	case
+le	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+tempistiche	tempistica	NOUN	S	obl
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	S	ROOT
+)	)	PUNCT	FB	punct
+a	a	ADP	E	mark
+decorrere	decorrere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+diciottesimo	diciottesimo	ADJ	NO	amod
+mese	mese	NOUN	S	obl
+ed	e	CCONJ	CC	cc
+entro	entro	ADP	E	case
+i	il	DET	RD	det
+sessanta	sessanta	NUM	N	nummod
+giorni	giorno	NOUN	S	conj
+successivi	successivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+enti	ente	NOUN	S	obl
+o	o	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+produttori	produttore	NOUN	S	compound
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pericolosi	pericoloso	ADJ	A	conj
+con	con	ADP	E	case
+più	più	PRON	PI	obl
+di	di	ADP	E	case
+cinquanta	cinquanta	NUM	N	nummod
+dipendenti	dipendente	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+per	per	ADP	E	case
+tutti	tutto	DET	T	det:predet
+gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+soggetti	soggetto	NOUN	S	conj
+diversi	diverso	ADJ	A	amod
+dai	da il	ADP	E_RD	case
+produttori	produttore	NOUN	S	obl
+iniziali	iniziale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ivi	ivi	ADV	B	advmod
+inclusi	includere	VERB	V	acl
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+a	a	ADP	E	mark
+decorrere	decorrere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+ventiquattresimo	ventiquattresimo	ADJ	A	amod
+mese	mese	NOUN	S	obl
+ed	e	CCONJ	CC	cc
+entro	entro	ADP	E	case
+i	il	DET	RD	det
+sessanta	sessanta	NUM	N	nummod
+giorni	giorno	NOUN	S	conj
+successivi	successivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+enti	ente	NOUN	S	obl
+o	o	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+produttori	produttore	NOUN	S	compound
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pericolosi	pericoloso	ADJ	A	conj
+con	con	ADP	E	case
+più	più	PRON	PI	obl
+di	di	ADP	E	case
+dieci	dieci	NUM	N	nummod
+dipendenti	dipendente	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+c	c	X	PC	ROOT
+)	)	PUNCT	FB	punct
+a	a	ADP	E	mark
+decorrere	decorrere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+trentesimo	trentesimo	ADJ	A	amod
+mese	mese	NOUN	S	obl
+ed	e	CCONJ	CC	cc
+entro	entro	ADP	E	case
+i	il	DET	RD	det
+sessanta	sessanta	NUM	N	nummod
+giorni	giorno	NOUN	S	conj
+successivi	successivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+tutti	tutto	DET	T	det:predet
+i	il	DET	RD	det
+restanti	restante	ADJ	A	amod
+produttori	produttore	NOUN	S	obl
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+obbligati	obbligare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+12	12	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Gli	il	DET	RD	det
+enti	ente	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+imprese	impresa	NOUN	S	conj
+produttori	produttore	NOUN	S	compound
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+trasportano	trasportare	VERB	V	acl:relcl
+esclusivamente	esclusivamente	ADV	B	advmod
+i	il	DET	RD	det
+propri	proprio	DET	AP	det:poss
+rifiuti	rifiuto	NOUN	S	obj
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pericolosi	pericoloso	ADJ	A	conj
+iscritti	iscrivere	VERB	V	acl
+all'	a il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	obl
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+212	212	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+8	8	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+iscrivono	iscrive	VERB	V	ROOT
+quando	quando	SCONJ	CS	mark
+obbligati	obbligare	VERB	V	advcl
+come	come	ADP	E	case
+produttori	produttore	NOUN	S	obl
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+tempistiche	tempistica	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+numero	numero	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+dipendenti	dipendente	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+calcolato	calcolare	VERB	V	ROOT
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+al	a il	ADP	E_RD	case
+numero	numero	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+stessi	stesso	ADJ	A	amod
+presenti	presente	ADJ	S	nmod
+al	a il	ADP	E_RD	case
+31	31	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+dell'	di il	ADP	E_RD	case
+anno	anno	NOUN	S	nmod
+precedente	precedente	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+14	14	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Contributo	Contributo	PROPN	SP	nmod
+annuale	annuale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+diritto	diritto	NOUN	S	conj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+copertura	copertura	NOUN	S	nsubj:pass
+degli	di il	ADP	E_RD	case
+oneri	onere	NOUN	S	nmod
+derivanti	derivare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+funzionamento	funzionamento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+è	essere	AUX	VA	aux:pass
+assicurata	assicurare	VERB	V	ROOT
+mediante	mediante	ADP	E	case
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	obl
+a	a	ADP	E	case
+carico	carico	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+iscritti	iscritto	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+contributo	contributo	NOUN	S	nmod
+annuale	annuale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	conj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+6	6	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3-quater	3-quater	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+n.	numero	NOUN	S	nmod
+135	135	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2018	2018	NUM	N	nmod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+n.	numero	NOUN	S	nmod
+12	12	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2019	2019	NUM	N	nummod
+,	,	PUNCT	FF	punct
+nella	in il	ADP	E_RD	case
+misura	misura	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+indicate	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+allegato	allegato	NOUN	S	obl
+III	III	ADJ	NO	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+contributo	contributo	NOUN	S	nsubj:pass
+annuale	annuale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+diritto	diritto	NOUN	S	conj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+versati	versare	VERB	V	ROOT
+da	da	ADP	E	case
+ciascun	ciascuno	DET	DI	det
+iscritto	iscritto	NOUN	S	obl:agent
+per	per	ADP	E	case
+ciascuna	ciascuno	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+come	come	ADP	E	mark
+individuata	individuare	VERB	V	advcl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+contributo	contributo	NOUN	S	nsubj:pass
+annuale	annuale	ADJ	A	amod
+per	per	ADP	E	case
+il	il	DET	RD	det
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+è	essere	AUX	VA	aux
+versato	versare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+unitamente	unitamente	ADV	B	advmod
+al	a il	ADP	E_RD	case
+diritto	diritto	NOUN	S	obl
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+gli	il	DET	RD	det
+anni	anno	NOUN	S	obl
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+contributo	contributo	NOUN	S	nsubj:pass
+annuale	annuale	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+versato	versare	VERB	V	ROOT
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+30	30	NUM	N	obl
+aprile	aprile	NOUN	S	flat
+di	di	ADP	E	case
+ciascun	ciascuno	DET	DI	det
+anno	anno	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+come	come	SCONJ	CS	mark
+indicato	indicare	VERB	V	advcl
+nell'	in il	ADP	E_RD	case
+allegato	allegato	NOUN	S	obl
+III	III	ADJ	NO	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ogni	ogni	DET	DI	det
+variazione	variazione	NOUN	S	nsubj
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+è	essere	AUX	V	cop
+soggetta	soggetto	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+pagamento	pagamento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+allegato	allegato	NOUN	S	nmod
+III	III	ADJ	NO	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+15	15	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Trasmissione	trasmissione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+sistema	sistema	NOUN	S	nmod
+informatico	informatico	ADJ	A	amod
+RENTRI	RENTRI	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	mark
+decorrere	decorrere	VERB	V	advcl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+gli	il	DET	RD	det
+operatori	operatore	NOUN	S	nsubj
+obbligati	obbligare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+tenuta	tenuta	NOUN	S	obl
+del	di il	ADP	E_RD	case
+registro	registro	NOUN	S	nmod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+provvedono	provvedere	VERB	V	ROOT
+alla	a il	ADP	E_RD	case
+trasmissione	trasmissione	NOUN	S	obl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+contenuti	contenuto	VERB	V	acl
+nel	in il	ADP	E_RD	case
+registro	registro	NOUN	S	obl
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+registro	registro	NOUN	S	nmod
+di	di	ADP	E	case
+carico	carico	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+scarico	scarico	NOUN	S	conj
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	ROOT
+con	con	ADP	E	case
+cadenza	cadenza	NOUN	S	obl
+mensile	mensile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+fine	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+mese	mese	NOUN	S	nmod
+successivo	successivo	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+annotazione	annotazione	NOUN	S	nsubj:pass
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+nel	in il	ADP	E_RD	case
+mese	mese	NOUN	S	obl
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+non	non	ADV	BN	advmod
+ci	ci	PRON	PC	expl
+siano	essere	VERB	V	acl:relcl
+nuove	nuovo	ADJ	A	amod
+annotazioni	annotazione	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	nsubj:pass
+non	non	ADV	BN	advmod
+è	essere	AUX	VA	aux:pass
+dovuta	dovere	VERB	V	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+trasmettono	trasmettere	VERB	V	ROOT
+i	il	DET	RD	det
+dati	dato	NOUN	S	obj
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+fine	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+secondo	secondo	ADJ	NO	amod
+mese	mese	NOUN	S	nmod
+successivo	successivo	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+effettuata	effettuare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+annotazione	annotazione	NOUN	S	nsubj:pass
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	mark
+decorrere	decorrere	VERB	V	advcl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+c	c	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+gli	il	DET	RD	det
+enti	ente	NOUN	S	obj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+imprese	impresa	NOUN	S	conj
+che	che	PRON	PR	nsubj
+producono	produrre	VERB	V	acl:relcl
+,	,	PUNCT	FF	punct
+trasportano	trasportare	VERB	V	conj
+o	o	CCONJ	CC	cc
+trattano	trattare	VERB	V	conj
+rifiuti	rifiuto	NOUN	S	obj
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+188-bis	188-bis	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+tenuti	tenere	VERB	V	ROOT
+alla	a il	ADP	E_RD	case
+trasmissione	trasmissione	NOUN	S	obl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	nmod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+pericolosi	pericoloso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+emessi	emettere	VERB	V	advcl
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+7	7	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+dati	dato	NOUN	S	nsubj:pass
+relativi	relativo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+formulario	formulario	NOUN	S	obl
+sono	essere	AUX	VA	aux:pass
+trasmessi	trasmettere	VERB	V	ROOT
+dai	da il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	obl:agent
+che	che	PRON	PR	nsubj
+producono	produrre	VERB	V	acl:relcl
+o	o	CCONJ	CC	cc
+trasportano	trasportare	VERB	V	conj
+rifiuti	rifiuto	NOUN	S	obj
+e	e	CCONJ	CC	cc
+dai	da il	ADP	E_RD	case
+destinatari	destinatario	NOUN	S	conj
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+procedure	procedura	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+produttore	produttore	NOUN	S	nsubj
+può	potere	AUX	VM	aux
+richiedere	richiedere	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+trasportatore	trasportatore	NOUN	S	obl
+la	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+formulari	formulario	NOUN	S	nmod
+di	di	ADP	E	case
+identificazione	identificazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+pericolosi	pericoloso	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+trasporto	trasporto	NOUN	S	nmod
+di	di	ADP	E	case
+propri	proprio	DET	AP	det:poss
+rifiuti	rifiuto	NOUN	S	nmod
+pericolosi	pericoloso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+alla	a il	ADP	E_RD	case
+trasmissione	trasmissione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+procede	procedere	VERB	V	ROOT
+il	il	DET	RD	det
+produttore	produttore	NOUN	S	obj
+iniziale	iniziale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+gli	il	DET	RD	det
+operatori	operatore	NOUN	S	nsubj
+assicurano	assicurare	VERB	V	ROOT
+l'	il	DET	RD	det
+interoperabilità	interoperabilità	NOUN	S	obj
+del	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+sistema	sistema	NOUN	S	nmod
+gestionale	gestionale	ADJ	A	amod
+con	con	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+procedure	procedura	NOUN	S	nmod
+definite	definire	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+6	6	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nsubj
+rende	rendere	VERB	V	ROOT
+disponibile	disponibile	ADJ	A	xcomp
+agli	a il	ADP	E_RD	case
+operatori	operatore	NOUN	S	obl
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+servizio	servizio	NOUN	S	obj
+di	di	ADP	E	case
+consultazione	consultazione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	nmod
+sulle	su il	ADP	E_RD	case
+autorizzazioni	autorizzazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+trasportatori	trasportatore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+destinatari	destinatario	NOUN	S	conj
+,	,	PUNCT	FF	punct
+presenti	presente	ADJ	A	xcomp
+nella	in il	ADP	E_RD	case
+sezione	sezione	NOUN	S	obl
+Anagrafica	Anagrafico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+16	16	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Sistemi	Sistemi	PROPN	S	nmod
+di	di	ADP	E	case
+geolocalizzazione	geolocalizzazione	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+Ad	a	ADP	E	case
+eccezione	eccezione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+effettuano	effettuare	VERB	V	acl:relcl
+trasporto	trasporto	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+propri	proprio	DET	AP	det:poss
+rifiuti	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+iscritti	iscrivere	VERB	V	acl
+all'	a il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	obl
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nsubj:pass
+ambientali	ambientale	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+212	212	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+8	8	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+obbligati	obbligare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	obl
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+che	che	PRON	PR	nsubj
+trasportano	trasportare	VERB	V	acl:relcl
+rifiuti	rifiuto	NOUN	S	obj
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+garantiscono	garantire	VERB	V	ROOT
+la	il	DET	RD	det
+presenza	presenza	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+mezzi	mezzo	NOUN	S	nmod
+di	di	ADP	E	case
+trasporto	trasporto	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+rifiuti	rifiuto	NOUN	S	nmod
+di	di	ADP	E	case
+sistemi	sistema	NOUN	S	nmod
+di	di	ADP	E	case
+geolocalizzazione	geolocalizzazione	NOUN	S	nmod
+basati	basare	VERB	V	acl
+sulle	su il	ADP	E_RD	case
+tecnologie	tecnologia	NOUN	S	nmod
+disponibili	disponibile	ADJ	A	amod
+sul	su il	ADP	E_RD	case
+mercato	mercato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+di	di	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+previsto	prevedere	VERB	V	acl:relcl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+188-bis	188-bis	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+b	b	NOUN	S	compound
+)	)	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+comma	comma	NOUN	S	conj
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+c	c	NOUN	S	compound
+)	)	PUNCT	FB	punct
+del	di il	ADP	E_RD	case
+citato	citato	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+principi	principio	NOUN	S	nmod
+di	di	ADP	E	case
+limitazione	limitazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+finalità	finalità	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+conservazione	conservazione	NOUN	S	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+par	par	ADV	B	nmod
+.	.	PUNCT	FS	punct
+
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lett	lett	NOUN	S	ROOT
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+b	b	X	X	ROOT
+)	)	PUNCT	FB	punct
+ed	e	CCONJ	CC	cc
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+del	di il	ADP	E_RD	case
+Regolamento	regolamento	NOUN	SP	conj
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	appos
+)	)	PUNCT	FB	punct
+2016/679	2016/679	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+17	17	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Iscrizione	iscrizione	NOUN	S	nmod
+all'	a il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	mark
+decorrere	decorrere	VERB	V	advcl
+dal	da il	ADP	E_RD	case
+diciottesimo	diciottesimo	ADJ	NO	amod
+mese	mese	NOUN	S	obl
+successivo	successivo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+disponibilità	disponibilità	NOUN	S	nsubj:pass
+delle	di il	ADP	E_RD	case
+tecnologie	tecnologia	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+16	16	NUM	N	nummod
+è	essere	AUX	VA	aux:pass
+requisito	requisire	VERB	V	ROOT
+di	di	ADP	E	case
+idoneità	idoneità	NOUN	S	obl
+tecnica	tecnico	ADJ	A	amod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	nmod
+alla	a il	ADP	E_RD	case
+categoria	categoria	NOUN	S	nmod
+5	5	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+Albo	Albo	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nsubj:pass
+ambientali	ambientale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+per	per	ADP	E	case
+il	il	DET	RD	det
+mantenimento	mantenimento	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+iscrizioni	iscrizione	NOUN	S	nmod
+in	in	ADP	E	mark
+essere	essere	AUX	V	xcomp
+alla	a il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+Comitato	comitato	NOUN	S	nsubj
+nazionale	nazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+propria	proprio	DET	AP	det:poss
+delibera	delibera	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+definisce	definire	VERB	V	ROOT
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+tempistiche	tempistica	NOUN	S	conj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+aggiornamento	aggiornamento	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+iscrizioni	iscrizione	NOUN	S	nmod
+in	in	ADP	E	mark
+essere	essere	VERB	V	advcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+18	18	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Deleghe	deleghe	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+produttori	produttore	NOUN	S	nsubj
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+possono	potere	AUX	VM	aux
+adempiere	adempiere	VERB	V	ROOT
+agli	a il	ADP	E_RD	case
+obblighi	obbligo	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+Titolo	titolo	NOUN	S	nmod
+III	III	ADJ	NO	amod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	obl
+alle	a il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+raccolta	raccolta	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+trasporto	trasporto	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+propri	proprio	DET	AP	det:poss
+rifiuti	rifiuto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+delegando	delegare	VERB	V	advcl
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+successivamente	successivamente	ADV	B	conj
+ad	a	ADP	E	case
+essa	esso	PRON	PE	obl
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+rispettive	rispettivo	ADJ	A	amod
+associazioni	associazione	NOUN	S	obj
+imprenditoriali	imprenditoriale	ADJ	A	amod
+rappresentative	rappresentativo	ADJ	A	amod
+sul	su il	ADP	E_RD	case
+piano	piano	NOUN	S	obl
+nazionale	nazionale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+società	società	NOUN	S	conj
+di	di	ADP	E	case
+servizi	servizio	NOUN	S	nmod
+di	di	ADP	E	case
+diretta	diretta	ADJ	A	amod
+emanazione	emanazione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+stesse	stesso	PRON	PD	nmod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+il	il	DET	RD	det
+gestore	gestore	NOUN	S	conj
+del	di il	ADP	E_RD	case
+servizio	servizio	NOUN	S	nmod
+di	di	ADP	E	case
+raccolta	raccolta	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+circuito	circuito	NOUN	S	conj
+organizzato	organizzato	ADJ	A	amod
+di	di	ADP	E	case
+raccolta	raccolta	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+183	183	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+pp	pp	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	case
+tal	tale	DET	DD	det
+fine	fine	NOUN	S	obl
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj:pass
+delegati	delegato	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+tenuti	tenere	VERB	V	ROOT
+a	a	ADP	E	obl
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	X	obl
+)	)	PUNCT	FB	punct
+iscriversi	iscrivere si	VERB	V_PC	ROOT
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+in	in	ADP	E	case
+apposita	apposito	ADJ	A	amod
+sezione	sezione	NOUN	S	obl
+attestando	attestare	VERB	V	advcl
+il	il	DET	RD	det
+possesso	possesso	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+descritti	descrivere	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+procedure	procedura	NOUN	S	obl:agent
+operative	operativo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+
+trasmettere	trasmettere	VERB	V	ROOT
+i	il	DET	RD	det
+dati	dato	NOUN	S	obj
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+tempistiche	tempistica	NOUN	S	conj
+stabilite	stabilire	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+produttori	produttore	NOUN	S	nsubj
+rimangono	rimanere	VERB	V	ROOT
+responsabili	responsabile	ADJ	A	xcomp
+del	di il	ADP	E_RD	case
+contenuto	contenuto	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+informazioni	informazione	NOUN	S	nmod
+inserite	inserire	VERB	V	acl
+nel	in il	ADP	E_RD	case
+sistema	sistema	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+la	il	DET	RD	det
+gestione	gestione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+deleghe	delega	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+definite	definire	VERB	V	ROOT
+con	con	ADP	E	case
+le	il	DET	RD	det
+procedure	procedura	NOUN	S	obl
+operative	operativo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+che	che	PRON	PR	nsubj
+assicurano	assicurare	VERB	V	acl:relcl
+modalità	modalità	NOUN	S	obj
+semplificate	semplificato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+considerazione	considerazione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+deleghe	delega	NOUN	S	nmod
+già	già	ADV	B	advmod
+rilasciate	rilasciare	VERB	V	acl
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	obl
+agli	a il	ADP	E_RD	case
+adempimenti	adempimente	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+189	189	NUM	N	nummod
+e	e	CCONJ	CC	cc
+190	190	NUM	N	conj
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+152	152	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2006	2006	NUM	N	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+19	19	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Utilizzo	Utilizzo	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+accesso	accesso	NOUN	S	conj
+ai	a il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+presenti	presente	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+interoperabilità	interoperabilità	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+tempi	tempo	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+standard	standard	NOUN	S	conj
+per	per	ADP	E	case
+la	il	DET	RD	det
+fruizione	fruizione	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+stessi	stesso	PRON	PD	nmod
+sono	essere	AUX	VA	aux:pass
+definiti	definire	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+Istituto	Istituto	NOUN	S	obl
+superiore	superiore	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+protezione	protezione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	conj
+ambientale	ambientale	ADJ	A	amod
+(	(	PUNCT	FB	punct
+ISPRA	ISPRA	PROPN	SP	appos
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+nell'	in il	ADP	E_RD	case
+ambito	ambito	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+decreti	decreto	NOUN	S	nmod
+direttoriali	direttoriale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	mark
+partire	partire	VERB	V	advcl
+dalla	da il	ADP	E_RD	case
+prima	primo	ADJ	NO	amod
+annualità	annualità	NOUN	S	obl
+successiva	successivo	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+scadenze	scadenza	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministero	Ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+tramite	tramite	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	nmod
+rende	rendere	VERB	V	ROOT
+disponibile	disponibile	ADJ	A	xcomp
+annualmente	annualmente	ADV	B	advmod
+un	uno	DET	RI	det
+modello	modello	NOUN	S	obj
+precompilato	precompilare	ADJ	A	acl
+da	da	ADP	E	mark
+integrare	integrare	VERB	V	advcl
+,	,	PUNCT	FF	punct
+ove	ove	ADV	B	mark
+necessario	necessario	ADJ	A	advcl
+e	e	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	conj
+del	di il	ADP	E_RD	case
+formato	formato	NOUN	S	nmod
+definito	definire	VERB	V	acl
+dal	da il	ADP	E_RD	case
+modello	modello	NOUN	S	obl:agent
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+n.	numero	NOUN	S	nmod
+70	70	NUM	N	nummod
+del	di il	ADP	E_RD	case
+1994	1994	NUM	N	nmod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+assolvimento	assolvimento	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+obbligo	obbligo	NOUN	S	nmod
+di	di	ADP	E	case
+trasmissione	trasmissione	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+della	di il	ADP	E_RD	case
+medesima	medesimo	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+Ministero	ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+rende	rendere	VERB	V	ROOT
+disponibili	disponibile	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+telematica	telematico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+informazioni	informazione	NOUN	S	dep
+contenute	contenere	VERB	V	acl
+nel	in il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+ad	a	ADP	E	case
+altri	altro	ADJ	A	amod
+enti	ente	NOUN	S	obl
+,	,	PUNCT	FF	punct
+amministrazioni	amministrazione	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+organi	organo	NOUN	S	conj
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+preliminarmente	preliminarmente	ADV	B	advmod
+accreditati	accreditare	VERB	V	acl
+presso	presso	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	obl
+per	per	ADP	E	case
+lo	il	DET	RD	det
+svolgimento	svolgimento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+proprie	proprio	DET	AP	det:poss
+attività	attività	NOUN	S	nmod
+istituzionali	istituzionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+20	20	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Servizi	servizio	NOUN	S	nmod
+di	di	ADP	E	case
+supporto	supporto	NOUN	S	nmod
+alla	a il	ADP	E_RD	case
+transizione	transizione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Tramite	tramite	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	obl
+il	il	DET	RD	det
+Ministero	ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+mette	mettere	VERB	V	ROOT
+a	a	ADP	E	case
+disposizione	disposizione	NOUN	S	obl
+un	uno	DET	RI	det
+servizio	servizio	NOUN	S	obj
+per	per	ADP	E	case
+i	il	DET	RD	det
+singoli	singolo	ADJ	A	amod
+operatori	operatore	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+agevolare	agevolare	VERB	V	acl
+l'	il	DET	RD	det
+assolvimento	assolvimento	NOUN	S	obj
+degli	di il	ADP	E_RD	case
+adempimenti	adempimente	NOUN	S	nmod
+agli	a il	ADP	E_RD	case
+obblighi	obbligo	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+particolare	particolare	ADJ	A	amod
+riferimento	riferimento	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+trasmissione	trasmissione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Tramite	tramite	ADP	E	case
+il	il	DET	RD	det
+RENTRI	RENTRI	PROPN	SP	obl
+il	il	DET	RD	det
+Ministero	ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+rende	rendere	VERB	V	ROOT
+disponibili	disponibile	ADJ	A	xcomp
+i	il	DET	RD	det
+servizi	servizio	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	obl
+in	in	ADP	E	case
+interoperabilità	interoperabilità	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+strumenti	strumento	NOUN	S	nmod
+di	di	ADP	E	case
+autenticazione	autenticazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sottoscrizione	sottoscrizione	NOUN	S	conj
+digitale	digitale	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	nmod
+di	di	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+previsto	prevedere	VERB	V	acl:relcl
+dal	da il	ADP	E_RD	case
+Codice	Codice	NOUN	S	obl:agent
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+digitale	digitale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dalle	da il	ADP	E_RD	case
+regole	regola	NOUN	S	conj
+tecniche	tecnico	ADJ	A	amod
+definite	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+AgID	AgID	PROPN	SP	obl:agent
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj
+operative	operativo	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+21	21	NUM	N	nummod
+disciplinano	disciplinare	VERB	V	ROOT
+la	il	DET	RD	det
+fruizione	fruizione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+servizi	servizio	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21	21	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Modalità	Modalità	NOUN	S	nmod
+operative	operativo	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+Direzione	direzione	NOUN	S	nsubj
+generale	generale	ADJ	A	amod
+competente	competente	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	acl
+l'	il	DET	RD	det
+Albo	Albo	PROPN	SP	obj
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nsubj
+ambientali	ambientale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+definisce	definire	VERB	V	ROOT
+entro	entro	ADP	E	case
+centottanta	centottanta	NOUN	S	obl
+giorni	giorno	ADJ	A	xcomp
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl:agent
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+uno	uno	PRON	PI	nummod
+o	o	CCONJ	CC	cc
+più	più	DET	DI	conj
+decreti	decreto	NOUN	S	obj
+direttoriali	direttoriale	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obj
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obj
+operative	operativo	ADJ	A	amod
+per	per	ADP	E	mark
+assicurare	assicurare	VERB	V	advcl
+la	il	DET	RD	det
+trasmissione	trasmissione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	obl
+ed	e	CCONJ	CC	cc
+il	il	DET	RD	det
+suo	suo	DET	AP	det:poss
+funzionamento	funzionamento	NOUN	S	conj
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+il	il	DET	RD	det
+monitoraggio	monitoraggio	NOUN	S	dep
+con	con	ADP	E	case
+i	il	DET	RD	det
+relativi	relativo	ADJ	A	amod
+indicatori	indicatore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+contenute	contenere	ADJ	A	acl
+nel	in il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	obl
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+2016/679	2016/679	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+istruzioni	istruzione	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+iscrizione	iscrizione	NOUN	S	conj
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+informativa	informativa	NOUN	S	conj
+sulla	su il	ADP	E_RD	case
+privacy	privacy	ADJ	A	amod
+volta	volta	NOUN	S	nmod
+ad	a	ADP	E	mark
+ottenere	ottenere	VERB	V	xcomp
+il	il	DET	RD	det
+previsto	previsto	ADJ	A	amod
+consenso	consenso	NOUN	S	obj
+al	a il	ADP	E_RD	case
+trattamento	trattamento	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+2016/679	2016/679	NUM	N	nummod
+,	,	PUNCT	FF	punct
+contenente	contenere	VERB	V	acl
+,	,	PUNCT	FF	punct
+tra	tra	ADP	E	case
+l'	il	DET	RD	det
+altro	altro	PRON	PI	obl
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+tipologia	tipologia	NOUN	S	dep
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+raccolti	raccolto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+durata	durata	NOUN	S	obj
+della	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+conservazione	conservazione	NOUN	S	nmod
+nei	in il	ADP	E_RD	case
+sistemi	sistema	NOUN	S	nmod
+informativi	informativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+finalità	finalità	NOUN	S	conj
+perseguite	perseguito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+operazioni	operazione	NOUN	S	conj
+da	da	ADP	E	mark
+svolgere	svolgere	VERB	V	acl
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+individuazione	individuazione	NOUN	S	obj
+del	di il	ADP	E_RD	case
+titolare	titolare	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+trattamento	trattamento	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+ruolo	ruolo	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+in	in	ADP	E	case
+esso	esso	PRON	PE	obl
+coinvolti	coinvolto	VERB	V	acl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	NOUN	PC	obl
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+requisiti	requisito	NOUN	S	obj
+informatici	informatico	ADJ	A	amod
+per	per	ADP	E	mark
+garantire	garantire	VERB	V	advcl
+l'	il	DET	RD	det
+interoperabilità	interoperabilità	NOUN	S	obj
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+con	con	ADP	E	case
+i	il	DET	RD	det
+sistemi	sistema	NOUN	S	obl
+adottati	adottare	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+operatori	operatore	NOUN	S	obl:agent
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obj
+di	di	ADP	E	case
+compilazione	compilazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+modelli	modello	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+e	e	CCONJ	CC	cc
+5	5	NUM	N	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	conj
+i	il	DET	RD	det
+requisiti	requisito	NOUN	S	obj
+per	per	ADP	E	case
+i	il	DET	RD	det
+servizi	servizio	NOUN	S	nmod
+di	di	ADP	E	case
+consultazione	consultazione	NOUN	S	nmod
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+amministrazioni	amministrazione	NOUN	S	nmod
+interessate	interessato	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+f	f	NOUN	S	obl
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+manuali	manuale	NOUN	S	obj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+guide	guida	NOUN	S	conj
+sintetiche	sintetico	ADJ	A	amod
+a	a	ADP	E	case
+supporto	supporto	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+operatori	operatore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+utenti	utente	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obj
+di	di	ADP	E	case
+funzionamento	funzionamento	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+strumenti	strumento	NOUN	S	nmod
+di	di	ADP	E	case
+supporto	supporto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+20	20	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+decreti	decreto	NOUN	S	nsubj:pass
+direttoriali	direttoriale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+sono	essere	AUX	VA	aux:pass
+pubblicati	pubblicare	VERB	V	ROOT
+sul	su il	ADP	E_RD	case
+sito	sito	NOUN	S	obl
+del	di il	ADP	E_RD	case
+RENTRI	RENTRI	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+22	22	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Trasmissione	trasmissione	NOUN	S	nmod
+di	di	ADP	E	case
+documentazione	documentazione	NOUN	S	nmod
+prevista	prevedere	VERB	V	acl
+da	da	ADP	E	case
+Regolamenti	Regolamenti	PROPN	SP	obl:agent
+CE	CE	PROPN	SP	flat:name
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	flat:name
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+procedure	procedura	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+l'	il	DET	RD	det
+acquisizione	acquisizione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+documentazione	documentazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nsubj:pass
+(	(	PUNCT	FB	punct
+CE	CE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+n.	numero	NOUN	S	nmod
+1013/2006	1013/2006	NUM	N	nummod
+nonché	nonché	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+documento	documento	NOUN	S	conj
+commerciale	commerciale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+CE	CE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+n.	numero	NOUN	S	nmod
+1069/2009	1069/2009	NUM	N	nummod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+relative	relativo	ADJ	A	amod
+modalità	modalità	NOUN	S	conj
+di	di	ADP	E	case
+interoperabilità	interoperabilità	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+definite	definire	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+Direzione	direzione	NOUN	S	obl:agent
+generale	generale	ADJ	A	amod
+competente	competente	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	advcl
+l'	il	DET	RD	det
+Albo	Albo	PROPN	SP	obj
+nazionale	nazionale	ADJ	A	amod
+gestori	gestore	NOUN	S	nsubj
+ambientali	ambientale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	Ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+IV	IV	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DISPOSIZIONI	DISPOSIZIONI	NOUN	S	nmod
+ABROGATIVE	ABROGATIVE	PROPN	SP	flat:name
+E	e	CCONJ	CC	cc
+FINALI	FINALI	PROPN	SP	conj
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+23	23	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Abrogazioni	Abrogazioni	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+24	24	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Disposizioni	disposizione	NOUN	S	nmod
+finali	finale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Dall'	da il	ADP	E_RD	case
+attuazione	attuazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+non	non	ADV	BN	advmod
+derivano	derivare	VERB	V	ROOT
+nuovi	nuovo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+maggiori	maggiore	ADJ	A	conj
+oneri	onere	NOUN	S	obj
+a	a	ADP	E	case
+carico	carico	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+finanza	finanza	NOUN	S	nmod
+pubblica	pubblico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+munito	munire	VERB	V	acl
+del	di il	ADP	E_RD	case
+sigillo	sigillo	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sarà	essere	AUX	VA	aux:pass
+inserito	inserire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+Raccolta	raccolta	NOUN	S	obl
+ufficiale	ufficiale	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+normativi	normativo	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+a	a	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+spetti	spettare	VERB	V	acl
+di	di	ADP	E	mark
+osservarlo	osservare lo	VERB	V_PC	advcl
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+farlo	fare lo	VERB	V_PC	conj
+osservare	osservare	VERB	V	xcomp
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Roma	Roma	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+4	4	NUM	N	nmod
+aprile	aprile	NOUN	S	flat
+2023	2023	NUM	N	flat
+
+
+	
+
+	SPACE	_SP	dep
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	ROOT
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+energetica	energetico	ADJ	A	amod
+Pichetto	Pichetto	PROPN	SP	nmod
+Fratin	Fratin	PROPN	SP	flat:name
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+economia	economia	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+finanze	finanza	NOUN	S	conj
+Giorgetti	Giorgetti	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Visto	Visto	VERB	V	flat:name
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Guardasigilli	Guardasigilli	PROPN	SP	appos
+:	:	PUNCT	FC	punct
+
+Nordio	Nordio	PROPN	SP	ROOT
+Registrato	Registrato	PROPN	SP	flat:name
+alla	a il	ADP	E_RD	case
+Corte	corte	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+conti	conto	NOUN	S	nmod
+il	il	DET	RD	det
+17	17	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+2023	2023	NUM	N	flat
+Ufficio	ufficio	NOUN	S	nmod
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+sugli	su il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+infrastrutture	infrastruttura	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+trasporti	trasporto	NOUN	S	conj
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+sicurezza	sicurezza	NOUN	S	conj
+
+
+	
+
+	SPACE	_SP	dep
+energetica	energetico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+reg.ne	reg.ne	PROPN	SP	nmod
+n.	numero	NOUN	S	nmod
+1798	1798	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Allegato	Allegato	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+ALLEGATO	ALLEGATO	PROPN	SP	nmod
+I	I	DET	RD	det
+
+	
+	SPACE	_SP	dep
+REGISTRO	REGISTRO	PROPN	SP	nmod
+CRONOLOGICO	CRONOLOGICO	PROPN	SP	flat:name
+DI	DI	ADP	E	case
+CARICO	CARICO	PROPN	SP	nmod
+E	E	CCONJ	CC	cc
+SCARICO	SCARICO	PROPN	SP	conj
+
+	
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Articolo	articolo	NOUN	S	appos
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+ALLEGATO	ALLEGATO	PROPN	SP	nmod
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+FORMULARIO	FORMULARIO	PROPN	SP	nmod
+DI	DI	ADP	E	case
+IDENTIFICAZIONE	IDENTIFICAZIONE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Articolo	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+ALLEGATO	ALLEGATO	PROPN	SP	nmod
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+E	E	PROPN	SP	cc
+DIRITTO	DIRITTO	PROPN	S	conj
+DI	DI	ADP	E	case
+SEGRETERIA	SEGRETERIA	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Articolo	articolo	NOUN	S	appos
+14	14	NUM	N	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+contributi	contributo	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+definiti	definire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+misura	misura	NOUN	S	obl
+riportata	riportare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+tabella	tabella	NOUN	S	obl
+I	I	ADJ	NO	amod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+allegato	allegato	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Tabella	tabella	PROPN	SP	ROOT
+I	I	DET	RD	det
+
+	
+	SPACE	_SP	dep
+CLASSI	CLASSI	PROPN	SP	nmod
+DI	DI	ADP	E	case
+UTENTI	UTENTI	PROPN	SP	nmod
+				SPACE	_SP	dep
+DIRITTO	DIRITTO	NOUN	S	nmod
+DI	DI	ADP	E	case
+SEGRETERIA	SEGRETERIA	PROPN	SP	nmod
+				SPACE	_SP	dep
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+ 		 		SPACE	_SP	dep
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+Articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+10,00	10,00	NUM	N	obj
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+100,00	100,00	NUM	N	nummod
+				SPACE	_SP	dep
+€	€are	NOUN	V	obj
+60,00	60,00	ADV	N	det
+
+	
+	SPACE	_SP	dep
+Articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+b	b	NOUN	S	compound
+)	)	PUNCT	FB	punct
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+10,00	10,00	NUM	N	obj
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+50,00	50,00	NUM	N	nummod
+				SPACE	_SP	dep
+€	€	NOUN	V	obl
+30,00	30,00	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+c	c	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+				SPACE	_SP	dep
+€	€	VERB	V	advcl
+10,00	10,00	NUM	N	obj
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+15,00	15,00	NUM	N	nummod
+				SPACE	_SP	dep
+€	€	NOUN	V	advcl
+10,00	10,00	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+-	-	PUNCT	FF	punct
+enti	ente	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+produttori	produttore	NOUN	S	compound
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pericolosi	pericoloso	ADJ	A	conj
+con	con	ADP	E	case
+più	più	PRON	PI	obl
+di	di	ADP	E	case
+50	50	NUM	N	nummod
+dipendenti	dipendente	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+tutti	tutto	DET	T	det:predet
+gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+soggetti	soggetto	NOUN	S	conj
+diversi	diverso	ADJ	A	amod
+dai	da il	ADP	E_RD	case
+produttori	produttore	NOUN	S	obl
+iniziali	iniziale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ivi	ivi	ADV	B	advmod
+inclusi	includere	VERB	V	acl
+i	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+-	-	PUNCT	FB	punct
+versano	versare	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	obj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+importo	importo	NOUN	S	conj
+corrispondente	corrispondere	VERB	V	acl
+al	a il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	obl
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+Nelle	in il	ADP	E_RD	case
+annualità	annualità	NOUN	S	obl
+successive	successivo	ADJ	A	amod
+corrispondono	corrispondere	VERB	V	ROOT
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+30	30	NUM	N	obl
+aprile	aprile	NOUN	S	flat
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+importo	importo	NOUN	S	obj
+del	di il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+b	b	NOUN	S	compound
+)	)	PUNCT	FB	punct
+-	-	PUNCT	FF	punct
+enti	ente	NOUN	S	conj
+o	o	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+produttori	produttore	NOUN	S	compound
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+pericolosi	pericoloso	ADJ	A	conj
+con	con	ADP	E	case
+più	più	PRON	PI	obl
+di	di	ADP	E	case
+10	10	NUM	N	nummod
+dipendenti	dipendente	NOUN	S	nmod
+-	-	PUNCT	FB	punct
+versano	versare	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	obj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+importo	importo	NOUN	S	conj
+corrispondente	corrispondere	VERB	V	acl
+al	a il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	obl
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+Nelle	in il	ADP	E_RD	case
+annualità	annualità	NOUN	S	obl
+successive	successivo	ADJ	A	amod
+corrispondono	corrispondere	VERB	V	ROOT
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+30	30	NUM	N	obl
+aprile	aprile	NOUN	S	flat
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+importo	importo	NOUN	S	obj
+del	di il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+soggetti	soggetto	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+c	c	NOUN	S	compound
+)	)	PUNCT	FB	punct
+-	-	PUNCT	FB	punct
+tutti	tutto	DET	T	det:predet
+i	il	DET	RD	det
+restanti	restante	ADJ	A	amod
+produttori	produttore	NOUN	S	appos
+iniziali	iniziale	ADJ	A	amod
+di	di	ADP	E	case
+rifiuti	rifiuto	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+pericolosi	pericoloso	ADJ	A	amod
+obbligati	obbligare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+6	6	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+n.	numero	NOUN	S	nmod
+135	135	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2018	2018	NUM	N	nmod
+-	-	PUNCT	FB	punct
+versano	versare	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	obj
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+importo	importo	NOUN	S	conj
+corrispondente	corrispondere	VERB	V	acl
+al	a il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	obl
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+Nelle	in il	ADP	E_RD	case
+annualità	annualità	NOUN	S	obl
+successive	successivo	ADJ	A	amod
+corrispondono	corrispondere	VERB	V	ROOT
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+30	30	NUM	N	obl
+aprile	aprile	NOUN	S	flat
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	obl
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+importo	importo	NOUN	S	obj
+del	di il	ADP	E_RD	case
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	nmod
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ogni	ogni	DET	DI	det
+variazione	variazione	NOUN	S	nsubj
+all'	a il	ADP	E_RD	case
+iscrizione	iscrizione	NOUN	S	nmod
+è	essere	AUX	V	cop
+soggetta	soggetto	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+pagamento	pagamento	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	nmod
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+nella	in il	ADP	E_RD	case
+misura	misura	NOUN	S	nmod
+indicata	indicare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+voce	voce	NOUN	S	obl
+36.1	36.1	PUNCT	A	amod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+sviluppo	sviluppo	NOUN	S	nmod
+economico	economico	ADJ	A	amod
+17	17	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+2012	2012	NUM	N	flat
+recante	recare	VERB	V	advmod
+Aggiornamento	Aggiornamento	PROPN	SP	obj
+ed	e	CCONJ	CC	cc
+istituzione	istituzione	NOUN	S	conj
+di	di	ADP	E	case
+diritti	diritto	NOUN	S	nmod
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+Camere	camera	NOUN	S	nmod
+di	di	ADP	E	case
+Commercio	commercio	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+relativa	relativo	ADJ	A	amod
+approvazione	approvazione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+tabella	tabella	NOUN	S	nmod
+A.	A.	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+6	6	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+segreteria	segreteria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	conj
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+primo	primo	ADJ	NO	amod
+anno	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+CONTRIBUTO	CONTRIBUTO	PROPN	SP	conj
+ANNUALE	ANNUALE	PROPN	SP	flat:name
+(	(	PUNCT	FB	punct
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+corrisposti	corrisporre	VERB	V	ROOT
+con	con	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+di	di	ADP	E	case
+pagamento	pagamento	NOUN	S	nmod
+previste	prevedere	VERB	V	acl
+per	per	ADP	E	case
+le	il	DET	RD	det
+pubbliche	pubblico	ADJ	A	amod
+amministrazioni	amministrazione	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Parte	parte	NOUN	S	ROOT
+di	di	ADP	E	case
+provvedimento	provvedimento	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+grafico	grafico	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep

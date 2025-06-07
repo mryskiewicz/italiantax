@@ -1,0 +1,9374 @@
+Art.	articolo	NOUN	S	ROOT
+1	1	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Oggetto	oggetto	NOUN	S	appos
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nsubj
+determina	determinare	VERB	V	ROOT
+l'	il	DET	RD	det
+ambito	ambito	NOUN	S	obj
+della	di il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+pone	porre	VERB	V	conj
+i	il	DET	RD	det
+criteri	criterio	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+individuazione	individuazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+applicabile	applicabile	ADJ	A	amod
+e	e	CCONJ	CC	cc
+disciplina	disciplinare	VERB	V	conj
+l'	il	DET	RD	det
+efficacia	efficacia	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+sentenze	sentenza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	conj
+stranieri	straniero	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+2	2	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Convenzioni	Convenzioni	NOUN	S	nmod
+internazionali	internazionale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+non	non	ADV	BN	advmod
+pregiudicano	pregiudicare	VERB	V	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+convenzioni	convenzione	NOUN	S	nmod
+internazionali	internazionale	ADJ	A	amod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+Italia	Italia	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nell'	in il	ADP	E_RD	case
+interpretazione	interpretazione	NOUN	S	obl
+di	di	ADP	E	case
+tali	tali	DET	DD	det
+convenzioni	convenzione	NOUN	S	nmod
+si	si	PRON	PC	expl
+terrà	terrà	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+del	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+carattere	carattere	NOUN	S	nmod
+internazionale	internazionale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+esigenza	esigenza	NOUN	S	conj
+della	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+applicazione	applicazione	NOUN	S	nmod
+uniforme	uniforme	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+TITOLO	TITOLO	PROPN	SP	obl
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+GIURISDIZIONE	GIURISDIZIONE	PROPN	SP	obl
+ITALIANA	ITALIANA	PROPN	SP	flat:name
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	obl
+3	3	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Ambito	Ambito	PROPN	SP	appos
+della	di il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+quando	quando	SCONJ	CS	mark
+il	il	DET	RD	det
+convenuto	convenuto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+domiciliato	domiciliare	VERB	V	advcl
+o	o	CCONJ	CC	cc
+residente	residente	ADJ	A	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+o	o	CCONJ	CC	cc
+vi	vi	PRON	PC	iobj
+ha	avere	VERB	V	conj
+un	uno	DET	RI	det
+rappresentante	rappresentante	NOUN	S	obj
+che	che	PRON	PR	nsubj
+sia	essere	AUX	VA	aux:pass
+autorizzato	autorizzare	VERB	V	acl:relcl
+a	a	ADP	E	mark
+stare	stare	VERB	V	xcomp
+in	in	ADP	E	case
+giudizio	giudizio	NOUN	S	obl
+a	a	ADP	E	case
+norma	norma	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+77	77	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+e	e	CCONJ	CC	cc
+negli	in il	ADP	E_RD	case
+altri	altro	ADJ	A	amod
+casi	caso	NOUN	S	conj
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux:pass
+prevista	prevedere	VERB	V	acl:relcl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+sussiste	sussistere	VERB	V	ROOT
+inoltre	inoltre	ADV	B	advmod
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+ai	a il	ADP	E_RD	case
+criteri	criterio	NOUN	S	nmod
+stabiliti	stabilire	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+sezioni	sezione	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+3	3	NUM	N	conj
+e	e	CCONJ	CC	cc
+4	4	NUM	N	conj
+del	di il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+II	II	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Convenzione	Convenzione	NOUN	S	nmod
+concernente	concernere	VERB	V	acl
+la	il	DET	RD	det
+competenza	competenza	NOUN	S	obj
+giurisdizionale	giurisdizionale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+esecuzione	esecuzione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+decisioni	decisione	NOUN	S	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+e	e	CCONJ	CC	cc
+commerciale	commerciale	ADJ	A	conj
+e	e	CCONJ	CC	cc
+protocollo	protocollo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+firmati	firmare	VERB	V	conj
+a	a	ADP	E	case
+Bruxelles	Bruxelles	PROPN	SP	obl
+il	il	DET	RD	det
+27	27	NUM	N	obl
+settembre	settembre	NOUN	S	flat
+1968	1968	NUM	N	flat
+,	,	PUNCT	FF	punct
+resi	rendere	NOUN	S	advcl
+esecutivi	esecutivo	ADJ	A	amod
+con	con	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	nmod
+21	21	NUM	N	nmod
+giugno	giugno	NOUN	S	flat
+1971	1971	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+804	804	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	nsubj:pass
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+Italia	Italia	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	mark
+allorché	allorché	SCONJ	CS	mark
+il	il	DET	RD	det
+convenuto	convenuto	NOUN	S	nsubj:pass
+non	non	ADV	BN	advmod
+sia	essere	AUX	VA	aux:pass
+domiciliato	domiciliare	VERB	V	advcl
+nel	in il	ADP	E_RD	case
+territorio	territorio	NOUN	S	obl
+di	di	ADP	E	case
+uno	uno	DET	RI	det
+Stato	stato	NOUN	S	nmod
+contraente	contraente	NOUN	A	compound
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+si	si	PRON	PC	expl
+tratti	trattare	VERB	V	advcl
+di	di	ADP	E	case
+una	uno	PRON	PI	obl
+delle	di il	ADP	E_RD	case
+materie	materia	NOUN	S	nmod
+comprese	comprendere	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+campo	campo	NOUN	S	nmod
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Convenzione	convenzione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Rispetto	rispetto	ADP	E	case
+alle	a il	DET	E_RD	det
+altre	altro	ADJ	A	amod
+materie	materia	NOUN	S	obl
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+sussiste	sussistere	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+ai	a il	ADP	E_RD	case
+criteri	criterio	NOUN	S	nmod
+stabiliti	stabilire	VERB	V	acl
+per	per	ADP	E	case
+la	il	DET	RD	det
+competenza	competenza	NOUN	S	obl
+per	per	ADP	E	case
+territorio	territorio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+4	4	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Accettazione	accettazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+deroga	deroga	NOUN	S	conj
+della	di il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+non	non	ADV	BN	advmod
+vi	vi	PRON	PC	expl
+sia	essere	VERB	V	advcl
+giurisdizione	giurisdizione	NOUN	S	nsubj
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+essa	esso	PRON	PE	nsubj
+nondimeno	nondimeno	ADV	B	advmod
+sussiste	sussistere	VERB	V	ROOT
+se	se	SCONJ	CS	mark
+le	il	DET	RD	det
+parti	parte	NOUN	S	nsubj
+l'	lo	PRON	PC	obj
+abbiano	avere	AUX	VA	aux
+convenzionalmente	convenzionalmente	ADJ	B	ccomp
+accettata	accettare	VERB	V	advcl
+e	e	CCONJ	CC	cc
+tale	tale	DET	DD	det
+accettazione	accettazione	NOUN	S	nsubj:pass
+sia	essere	AUX	VA	aux:pass
+provata	provare	VERB	V	conj
+per	per	ADP	E	case
+iscritto	iscritto	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+il	il	DET	RD	det
+convenuto	convenuto	NOUN	S	conj
+compaia	compaia	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	obl
+senza	senza	ADP	E	mark
+eccepire	eccepire	VERB	V	advcl
+il	il	DET	RD	det
+difetto	difetto	NOUN	S	obj
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+atto	atto	NOUN	S	obl
+difensivo	difensivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	cop
+convenzionalmente	convenzionalmente	ADJ	A	ROOT
+derogata	derogare	VERB	V	advcl
+a	a	ADP	E	case
+favore	favore	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+giudice	giudice	NOUN	S	nmod
+straniero	straniero	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+un	uno	DET	RI	det
+arbitrato	arbitrato	ADJ	A	amod
+estero	estero	NOUN	S	conj
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+deroga	deroga	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+provata	provare	VERB	V	advcl
+per	per	ADP	E	case
+iscritto	iscritto	NOUN	S	obl
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+causa	causa	NOUN	S	nsubj
+verte	vertire	VERB	V	conj
+su	su	ADP	E	case
+diritti	diritto	NOUN	S	obl
+disponibili	disponibile	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+deroga	deroga	NOUN	S	nsubj
+è	essere	AUX	V	cop
+inefficace	inefficace	ADJ	A	ROOT
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+o	o	CCONJ	CC	cc
+gli	il	DET	RD	det
+arbitri	arbitro	NOUN	S	conj
+incaricati	incaricato	ADJ	A	amod
+declinano	declinare	VERB	V	advcl
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	obj
+o	o	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+non	non	ADV	BN	advmod
+possono	potere	AUX	VM	aux
+conoscere	conoscere	VERB	V	conj
+della	di il	ADP	E_RD	case
+causa	causa	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+5	5	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Azioni	azioni	NOUN	S	nmod
+reali	reale	ADJ	A	amod
+relative	relativo	ADJ	A	amod
+ad	a	ADP	E	case
+immobili	immobile	ADJ	A	obl
+
+	
+	SPACE	_SP	dep
+siti	sire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+non	non	ADV	BN	advmod
+sussiste	sussistere	VERB	V	ROOT
+rispetto	rispetto	ADP	E	case
+ad	a	ADP	E	fixed
+azioni	azione	NOUN	S	obl
+reali	reale	ADJ	A	amod
+aventi	avere	VERB	V	acl
+ad	a	ADP	E	case
+oggetto	oggetto	NOUN	S	obl
+beni	bene	NOUN	S	obj
+immobili	immobile	ADJ	A	amod
+situati	situare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+6	6	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Questioni	Questioni	NOUN	S	nmod
+preliminari	preliminare	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+italiano	italiano	ADJ	A	amod
+conosce	conoscere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+incidentalmente	incidentalmente	ADV	B	advmod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+questioni	questione	NOUN	S	obj
+che	che	PRON	PR	nsubj
+non	non	ADV	BN	advmod
+rientrano	rientrare	VERB	V	acl:relcl
+nella	in il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	obl
+italiana	italiano	ADJ	A	amod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+cui	cui	DET	DR	det:poss
+soluzione	soluzione	NOUN	S	nsubj
+è	essere	AUX	V	cop
+necessaria	necessario	ADJ	A	conj
+per	per	ADP	E	mark
+decidere	decidere	VERB	V	advcl
+sulla	su il	ADP	E_RD	case
+domanda	domanda	NOUN	S	obl
+proposta	proposta	NOUN	S	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+7	7	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Pendenza	Pendenza	PROPN	SP	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+processo	processo	NOUN	S	nmod
+straniero	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+giudizio	giudizio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sia	essere	AUX	VA	aux:pass
+eccepita	eccepire	VERB	V	advcl
+la	il	DET	RD	det
+previa	previo	ADJ	A	amod
+pendenza	pendenza	NOUN	S	nsubj:pass
+tra	tra	ADP	E	case
+le	il	DET	RD	det
+stesse	stesso	ADJ	A	amod
+parti	parte	NOUN	S	nmod
+di	di	ADP	E	case
+domanda	domanda	NOUN	S	nmod
+avente	avere	VERB	V	acl
+il	il	DET	RD	det
+medesimo	medesimo	ADJ	A	amod
+oggetto	oggetto	NOUN	S	obj
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+medesimo	medesimo	ADJ	A	amod
+titolo	titolo	NOUN	S	conj
+dinanzi	dinanzi	ADV	B	case
+a	a	ADP	E	fixed
+un	uno	DET	RI	det
+giudice	giudice	NOUN	S	obl
+straniero	straniero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj:pass
+italiano	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+ritiene	ritenere	VERB	V	advcl
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj
+straniero	straniero	ADJ	A	amod
+possa	potere	AUX	VM	aux
+produrre	produrre	VERB	V	ccomp
+effetto	effetto	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sospende	sospendere	VERB	V	ROOT
+il	il	DET	RD	det
+giudizio	giudizio	NOUN	S	nsubj
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+straniero	straniero	ADJ	A	amod
+declina	declinare	VERB	V	advcl
+la	il	DET	RD	det
+propria	proprio	DET	AP	det:poss
+giurisdizione	giurisdizione	NOUN	S	obj
+o	o	CCONJ	CC	cc
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj:pass
+straniero	straniero	ADJ	A	amod
+non	non	ADV	BN	advmod
+è	essere	AUX	VA	aux:pass
+riconosciuto	riconoscere	VERB	V	conj
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+italiano	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudizio	giudizio	NOUN	S	nsubj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	nmod
+prosegue	proseguire	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+previa	previo	ADJ	A	amod
+riassunzione	riassunzione	NOUN	S	obl
+ad	a	ADP	E	case
+istanza	istanza	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+parte	parte	NOUN	S	nmod
+interessata	interessato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+pendenza	pendenza	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+causa	causa	NOUN	S	nmod
+innanzi	innanzi	ADV	B	case
+al	a il	DET	E_RD	det
+giudice	giudice	NOUN	S	nmod
+straniero	straniero	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+determina	determinare	VERB	V	ROOT
+secondo	secondo	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj
+si	si	PRON	PC	expl
+svolge	svolgere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+pregiudizialità	pregiudizialità	NOUN	S	nmod
+di	di	ADP	E	case
+una	uno	DET	RI	det
+causa	causa	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+italiano	italiano	ADJ	A	amod
+può	potere	AUX	VM	aux
+sospendere	sospendere	VERB	V	ROOT
+il	il	DET	RD	det
+processo	processo	NOUN	S	obj
+se	se	SCONJ	CS	mark
+ritiene	ritenere	VERB	V	advcl
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj
+straniero	straniero	ADJ	A	amod
+possa	potere	AUX	VM	aux
+produrre	produrre	VERB	V	ccomp
+effetti	effetto	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+8	8	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Momento	momento	PROPN	SP	nmod
+determinante	determinante	ADJ	A	amod
+della	di il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+la	il	DET	RD	det
+determinazione	determinazione	NOUN	S	obl
+della	di il	ADP	E_RD	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+l'	il	DET	RD	det
+articolo	articolo	NOUN	S	nsubj:pass
+5	5	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+sussiste	sussistere	VERB	V	ROOT
+se	se	SCONJ	CS	dep
+i	il	DET	RD	det
+fatti	fatto	NOUN	S	obj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+norme	norma	NOUN	S	conj
+che	che	PRON	PR	obj
+la	la	PRON	PC	obj
+determinano	determinare	VERB	V	nsubj
+sopravvengono	sopravvenge	VERB	V	acl:relcl
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+9	9	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	NOUN	SP	nmod
+volontaria	volontario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+volontaria	volontario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+sussiste	sussistere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	case
+che	che	SCONJ	CS	fixed
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+specificamente	specificamente	ADV	B	advmod
+contemplati	contemplare	VERB	A	acl
+dalla	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	obl:agent
+e	e	CCONJ	CC	cc
+in	in	ADP	E	case
+quelli	quello	PRON	PD	conj
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux:pass
+prevista	prevedere	VERB	V	acl:relcl
+la	il	DET	RD	det
+competenza	competenza	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+territorio	territorio	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+giudice	giudice	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj
+richiesto	richiesto	ADJ	A	amod
+concerne	concernere	VERB	V	advcl
+un	uno	DET	RI	det
+cittadino	cittadino	NOUN	S	obj
+italiano	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+una	uno	DET	RI	det
+persona	persona	NOUN	S	conj
+residente	residente	ADJ	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	nmod
+o	o	CCONJ	CC	cc
+quando	quando	SCONJ	CS	mark
+esso	esso	PRON	PE	nsubj
+riguarda	riguardare	VERB	V	conj
+situazioni	situazione	NOUN	S	obj
+o	o	CCONJ	CC	cc
+rapporti	rapporto	NOUN	S	conj
+ai	a il	ADP	E_RD	case
+quali	quale	PRON	PR	obl
+è	essere	AUX	V	cop
+applicabile	applicabile	ADJ	A	acl:relcl
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+10	10	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Materia	Materia	PROPN	SP	nmod
+cautelare	cautelare	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+cautelare	cautelare	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+quando	quando	SCONJ	CS	mark
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj:pass
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+eseguito	eseguire	VERB	V	advcl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+o	o	CCONJ	CC	cc
+quando	quando	SCONJ	CS	mark
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+italiano	italiano	ADJ	A	amod
+ha	avere	VERB	V	conj
+giurisdizione	giurisdizione	NOUN	S	obj
+nel	in il	ADP	E_RD	case
+merito	merito	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+11	11	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rilevabilità	rilevabilità	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+difetto	difetto	NOUN	S	nmod
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+difetto	difetto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+rilevato	rilevare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+qualunque	qualunque	DET	DI	det
+stato	stato	NOUN	S	obl
+e	e	CCONJ	CC	cc
+grado	grado	NOUN	S	conj
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+soltanto	soltanto	ADV	B	advmod
+dal	da il	ADP	E_RD	case
+convenuto	convenuto	NOUN	S	obl
+costituito	costituito	ADJ	A	amod
+che	che	PRON	PR	nsubj
+non	non	ADV	BN	advmod
+abbia	avere	VERB	V	aux
+espressamente	espressamente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+tacitamente	tacitamente	ADV	B	advmod
+accettato	accettare	VERB	V	advcl
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	obj
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+rilevato	rilevare	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl:agent
+d'	di	ADP	E	case
+ufficio	ufficio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sempre	sempre	ADV	B	advmod
+in	in	ADP	E	case
+qualunque	qualunque	DET	DI	det
+stato	stato	NOUN	S	obl
+e	e	CCONJ	CC	cc
+grado	grado	NOUN	S	conj
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+convenuto	convenuto	NOUN	S	nsubj
+è	essere	AUX	V	cop
+contumace	contumace	ADJ	A	advcl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+ricorre	ricorrere	VERB	V	advcl
+l'	il	DET	RD	det
+ipotesi	ipotesi	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+esclusa	escludere	VERB	V	conj
+per	per	ADP	E	case
+effetto	effetto	NOUN	S	obl
+di	di	ADP	E	case
+una	uno	DET	RI	det
+norma	norma	NOUN	S	nmod
+internazionale	internazionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+12	12	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Legge	Legge	PROPN	SP	nmod
+regolatrice	regolatore	VERB	S	nmod
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj:pass
+civile	civile	ADJ	A	amod
+che	che	PRON	PR	nsubj
+si	si	PRON	PC	expl
+svolge	svolgere	VERB	V	acl:relcl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+è	essere	AUX	VA	aux:pass
+regolato	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	nmod
+I	i	DET	RD	det
+
+	
+	SPACE	_SP	dep
+DISPOSIZIONI	DISPOSIZIONI	NOUN	S	nmod
+GENERALI	GENERALI	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+13	13	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rinvio	Rinvio	PROPN	SP	appos
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+negli	in il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl
+successivi	successivo	ADJ	A	amod
+è	essere	AUX	VA	aux
+richiamata	richiamare	VERB	V	advcl
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+straniera	straniero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:impers
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+del	di il	ADP	E_RD	case
+rinvio	rinvio	NOUN	S	nmod
+operato	operare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+diritto	diritto	NOUN	S	obl:agent
+internazionale	internazionale	ADJ	A	amod
+privato	privato	ADJ	A	amod
+straniero	straniero	NOUN	S	obl:agent
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+altro	altro	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+diritto	diritto	NOUN	S	nsubj
+di	di	ADP	E	case
+tale	tale	DET	DD	det
+Stato	stato	NOUN	S	nmod
+accetta	accettare	VERB	V	advcl
+il	il	DET	RD	det
+rinvio	rinvio	NOUN	S	obj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+si	si	PRON	PC	expl
+tratta	trattare	VERB	V	ROOT
+di	di	ADP	E	case
+rinvio	rinvio	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+è	essere	AUX	VA	aux:pass
+tuttavia	tuttavia	ADV	B	advmod
+esclusa	escludere	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	X	nmod
+)	)	PUNCT	FB	punct
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	ROOT
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+rendono	rendere	VERB	V	acl:relcl
+applicabile	applicabile	ADJ	A	xcomp
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+straniera	straniero	ADJ	A	amod
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+della	di il	ADP	E_RD	case
+scelta	scelta	NOUN	S	nmod
+effettuata	effettuare	VERB	V	acl
+in	in	ADP	E	case
+tal	tale	DET	DD	det
+senso	senso	NOUN	S	obl
+dalle	da il	ADP	E_RD	case
+parti	parte	NOUN	S	obl:agent
+interessate	interessato	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+riguardo	riguardo	ADP	E	case
+alle	a il	DET	E_RD	det
+disposizioni	disposizione	NOUN	S	ROOT
+concernenti	concernere	VERB	V	acl
+la	il	DET	RD	det
+forma	forma	NOUN	S	obj
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	nmod
+)	)	PUNCT	FB	punct
+in	in	ADP	E	case
+relazione	relazione	NOUN	S	nmod
+alle	a il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Capo	Capo	PROPN	SP	nmod
+XI	XI	ADJ	NO	flat:name
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+Titolo	titolo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl
+33	33	NUM	N	nummod
+,	,	PUNCT	FF	punct
+34	34	NUM	N	conj
+e	e	CCONJ	CC	cc
+35	35	NUM	N	conj
+si	si	PRON	PC	expl
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+del	di il	ADP	E_RD	case
+rinvio	rinvio	NOUN	S	nmod
+soltanto	soltanto	ADV	B	advmod
+se	se	SCONJ	CS	mark
+esso	esso	PRON	PE	nsubj
+conduce	condurre	VERB	V	advcl
+all'	a il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	obl
+di	di	ADP	E	case
+una	uno	DET	RI	det
+legge	legge	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+consente	consentire	VERB	V	acl:relcl
+lo	il	DET	RD	det
+stabilimento	stabilimento	NOUN	S	obj
+della	di il	ADP	E_RD	case
+filiazione	filiazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+la	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nsubj
+dichiara	dichiarare	VERB	V	advcl
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+applicabile	applicabile	ADJ	A	amod
+una	uno	DET	RI	det
+convenzione	convenzione	NOUN	S	obj
+internazionale	internazionale	ADJ	A	amod
+si	si	PRON	PC	expl
+segue	seguire	VERB	V	ROOT
+sempre	sempre	ADV	B	advmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+rinvio	rinvio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+soluzione	soluzione	NOUN	S	obj
+adottata	adottare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+convenzione	convenzione	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+14	14	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Conoscenza	conoscenza	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+applicabile	applicabile	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+compiuto	compiere	VERB	V	ROOT
+d'	di	ADP	E	case
+ufficio	ufficio	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	case
+tal	tale	DET	DD	det
+fine	fine	NOUN	S	obl
+questi	questo	PRON	PD	nsubj
+può	potere	AUX	VM	aux
+avvalersi	avvalere si	VERB	V_PC	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	case
+che	che	SCONJ	CS	fixed
+degli	di il	ADP	E_RD	case
+strumenti	strumento	NOUN	S	obl
+indicati	indicare	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+convenzioni	convenzione	NOUN	S	obl:agent
+internazionali	internazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+informazioni	informazione	NOUN	S	nmod
+acquisite	acquisire	VERB	V	acl
+per	per	ADP	E	case
+il	il	DET	RD	det
+tramite	tramite	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministero	Ministero	NOUN	S	nmod
+di	di	ADP	E	case
+grazia	grazia	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+giustizia	giustizia	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+può	potere	AUX	VM	aux
+altresì	altresì	ADV	B	advmod
+interpellare	interpellare	VERB	V	ROOT
+esperti	esperto	NOUN	S	obj
+o	o	CCONJ	CC	cc
+istituzioni	istituzione	NOUN	S	conj
+specializzate	specializzato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Qualora	qualora	SCONJ	CS	mark
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+riesca	riuscire	VERB	V	advcl
+ad	a	ADP	E	mark
+accertare	accertare	VERB	V	xcomp
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+straniera	straniero	ADJ	A	amod
+indicata	indicato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+neanche	neanche	ADV	BN	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+aiuto	aiuto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+richiamata	richiamare	VERB	V	acl
+mediante	mediante	ADP	E	case
+altri	altro	ADJ	A	amod
+criteri	criterio	NOUN	S	obl
+di	di	ADP	E	case
+collegamento	collegamento	NOUN	S	nmod
+eventualmente	eventualmente	ADV	B	advmod
+previsti	prevedere	VERB	V	acl
+per	per	ADP	E	case
+la	il	DET	RD	det
+medesima	medesimo	ADJ	A	amod
+ipotesi	ipotesi	NOUN	S	obl
+normativa	normativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+mancanza	mancanza	NOUN	S	obl
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+15	15	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Interpretazione	Interpretazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+applicazione	applicazione	NOUN	S	conj
+
+	
+	SPACE	_SP	dep
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+straniera	straniero	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+applicata	applicare	VERB	V	ROOT
+secondo	secondo	ADP	E	case
+i	il	DET	RD	det
+propri	proprio	DET	AP	det:poss
+criteri	criterio	NOUN	S	obl
+di	di	ADP	E	case
+interpretazione	interpretazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	conj
+nel	in il	ADP	E_RD	case
+tempo	tempo	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+16	16	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Ordine	Ordine	PROPN	SP	nmod
+pubblico	pubblico	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+straniera	straniero	ADJ	A	amod
+non	non	ADV	BN	advmod
+è	essere	AUX	VA	aux:pass
+applicata	applicare	VERB	V	ROOT
+se	se	SCONJ	CS	mark
+i	il	DET	RD	det
+suoi	suo	DET	AP	det:poss
+effetti	effetto	NOUN	S	nsubj
+sono	essere	AUX	V	cop
+contrari	contrario	ADJ	A	advcl
+all'	a il	ADP	E_RD	case
+ordine	ordine	NOUN	S	obl
+pubblico	pubblico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+tal	tale	DET	DD	det
+caso	caso	NOUN	S	obl
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+richiamata	richiamare	VERB	V	acl
+mediante	mediante	ADP	E	case
+altri	altro	ADJ	A	amod
+criteri	criterio	NOUN	S	obl
+di	di	ADP	E	case
+collegamento	collegamento	NOUN	S	nmod
+eventualmente	eventualmente	ADV	B	advmod
+previsti	prevedere	VERB	V	acl
+per	per	ADP	E	case
+la	il	DET	RD	det
+medesima	medesimo	ADJ	A	amod
+ipotesi	ipotesi	NOUN	S	obl
+normativa	normativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+mancanza	mancanza	NOUN	S	obl
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+17	17	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Norme	Norme	NOUN	S	nmod
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+necessaria	necessario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatta	fare	VERB	V	ROOT
+salva	salvo	ADJ	A	xcomp
+la	il	DET	RD	det
+prevalenza	prevalenza	NOUN	S	nsubj
+sulle	su il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+seguono	seguire	VERB	V	acl:relcl
+delle	di il	ADP	E_RD	case
+norme	norma	NOUN	S	obl
+italiane	italiano	ADJ	A	amod
+che	che	PRON	PR	nsubj:pass
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+considerazione	considerazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+oggetto	oggetto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+scopo	scopo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+debbono	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+applicate	applicare	VERB	V	acl:relcl
+nonostante	nonostante	ADP	E	case
+il	il	DET	RD	det
+richiamo	richiamo	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+18	18	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Ordinamenti	Ordinamento	NOUN	S	nmod
+plurilegislativi	plurilegislativo	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+richiamato	richiamare	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	obl:agent
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+coesistono	coesistono	VERB	V	advcl
+più	più	ADV	B	advmod
+sistemi	sistema	NOUN	S	obj
+normativi	normativo	ADJ	A	amod
+a	a	ADP	E	case
+base	base	NOUN	S	nmod
+territoriale	territoriale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+personale	personale	ADJ	A	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+applicabile	applicabile	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+determina	determinare	VERB	V	ROOT
+secondo	secondo	ADP	E	case
+i	il	DET	RD	det
+criteri	criterio	NOUN	S	obl
+utilizzati	utilizzare	VERB	V	acl
+da	da	ADP	E	case
+quell'	quello	DET	DD	det
+ordinamento	ordinamento	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+tali	tali	DET	DD	det
+criteri	criterio	NOUN	S	nsubj:pass
+non	non	ADV	BN	advmod
+possono	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+individuati	individuare	VERB	V	advcl
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+il	il	DET	RD	det
+sistema	sistema	NOUN	S	nsubj:pass
+normativo	normativo	ADJ	A	amod
+con	con	ADP	E	case
+il	il	DET	RD	det
+quale	quale	PRON	PR	obl
+il	il	DET	RD	det
+caso	caso	NOUN	S	nsubj
+di	di	ADP	E	case
+specie	specie	NOUN	S	nmod
+presenta	presentare	VERB	V	acl:relcl
+il	il	DET	RD	det
+collegamento	collegamento	NOUN	S	obj
+più	più	ADV	B	advmod
+stretto	stretto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+19	19	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Apolidi	Apolidi	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+rifugiati	rifugiato	NOUN	S	acl
+e	e	CCONJ	CC	cc
+persone	persona	NOUN	S	conj
+
+	
+	SPACE	_SP	dep
+con	con	ADP	E	case
+più	più	DET	DI	amod
+cittadinanze	cittadinanza	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+richiamano	richiamare	VERB	V	acl:relcl
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+una	uno	DET	RI	det
+persona	persona	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+questa	questo	PRON	PD	nsubj
+è	essere	AUX	V	cop
+apolide	apolido	ADJ	A	advcl
+o	o	CCONJ	CC	cc
+rifugiata	rifugiato	VERB	V	conj
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+domicilio	domicilio	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+residenza	residenza	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+persona	persona	NOUN	S	nsubj
+ha	avere	VERB	V	advcl
+più	più	ADV	B	advmod
+cittadinanze	cittadinanza	NOUN	S	obj
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+quello	quello	PRON	PD	nmod
+tra	tra	ADP	E	case
+gli	il	DET	RD	det
+Stati	stato	NOUN	S	nmod
+di	di	ADP	E	case
+appartenenza	appartenenza	NOUN	S	nmod
+con	con	ADP	E	case
+il	il	DET	RD	det
+quale	quale	PRON	PR	obl
+essa	esso	PRON	PE	nsubj
+ha	avere	VERB	V	acl:relcl
+il	il	DET	RD	det
+collegamento	collegamento	NOUN	S	obj
+più	più	ADV	B	advmod
+stretto	stretto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+tra	tra	ADP	E	case
+le	il	DET	RD	det
+cittadinanze	cittadinanza	NOUN	S	obl
+vi	vi	PRON	PC	expl
+è	essere	VERB	V	ROOT
+quella	quello	PRON	PD	nsubj
+italiana	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+questa	questo	DET	DD	det
+prevale	prevale	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+CAPACITÀ	CAPACITÀ	PROPN	SP	nmod
+E	e	CCONJ	CC	cc
+DIRITTI	DIRITTI	PROPN	SP	conj
+DELLE	DELLE	DET	E_RD	case
+PERSONE	PERSONE	PROPN	SP	nmod
+FISICHE	FISICHE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+20	20	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Capacità	capacità	NOUN	S	appos
+giuridica	giuridico	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	nmod
+fisiche	fisico	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+giuridica	giuridico	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	nmod
+fisiche	fisico	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+condizioni	condizione	NOUN	S	nsubj:pass
+speciali	speciale	ADJ	A	amod
+di	di	ADP	E	case
+capacità	capacità	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+prescritte	prescrivere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+regolatrice	regolatore	ADJ	A	amod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+rapporto	rapporto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+disciplinate	disciplinare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+stessa	stesso	ADJ	A	amod
+legge	legge	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21	21	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Commorienza	Commorienza	PROPN	SP	appos
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+occorre	occorrere	VERB	V	advcl
+stabilire	stabilire	VERB	V	csubj
+la	il	DET	RD	det
+sopravvivenza	sopravvivenza	NOUN	S	obj
+di	di	ADP	E	case
+una	uno	DET	RI	det
+persona	persona	NOUN	S	nmod
+ad	a	ADP	E	case
+un'	uno	DET	RI	det
+altra	altro	PRON	PI	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+consta	constare	VERB	V	conj
+quale	quale	PRON	PR	mark
+di	di	ADP	E	case
+esse	esso	PRON	PE	nmod
+sia	essere	AUX	VA	aux:pass
+morta	morire	VERB	V	ccomp
+prima	prima	ADV	B	advmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+momento	momento	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	nmod
+si	si	PRON	PC	expl
+accerta	accertare	VERB	V	ROOT
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+regolatrice	regolatore	ADJ	A	amod
+del	di il	ADP	E_RD	case
+rapporto	rapporto	NOUN	S	nmod
+rispetto	rispetto	ADV	B	case
+al	a il	DET	E_RD	det
+quale	quale	PRON	PR	obl
+l'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	nsubj
+rileva	rilevare	VERB	V	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+22	22	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Scomparsa	Scomparsa	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+assenza	assenza	NOUN	S	appos
+e	e	CCONJ	CC	cc
+morte	morto	NOUN	S	conj
+presunta	presunto	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+presupposti	presupposta	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	conj
+della	di il	ADP	E_RD	case
+scomparsa	scomparsa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dell'	di il	ADP	E_RD	case
+assenza	assenza	NOUN	S	conj
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	conj
+presunta	presunto	ADJ	A	amod
+di	di	ADP	E	case
+una	uno	DET	RI	det
+persona	persona	NOUN	S	obl
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+sua	suo	DET	AP	det:poss
+ultima	ultimo	ADJ	NO	amod
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Sussiste	sussistere	VERB	V	ROOT
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+per	per	ADP	E	case
+le	il	DET	RD	det
+materie	materia	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ultima	ultimo	ADJ	NO	amod
+legge	legge	NOUN	S	nsubj
+nazionale	nazionale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+persona	persona	NOUN	S	nmod
+era	essere	AUX	V	cop
+quella	quello	PRON	PD	advcl
+italiana	italiano	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	ROOT
+)	)	PUNCT	FB	punct
+
+se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ultima	ultimo	ADJ	A	amod
+residenza	residenza	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+persona	persona	NOUN	S	nmod
+era	essere	VERB	V	ROOT
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+scomparsa	scomparsa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dell'	di il	ADP	E_RD	case
+assenza	assenza	NOUN	S	conj
+o	o	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	conj
+presunta	presunto	ADJ	A	amod
+può	potere	AUX	VM	aux
+produrre	produrre	VERB	V	ROOT
+effetti	effetto	NOUN	S	obj
+giuridici	giuridico	ADJ	A	amod
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+23	23	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Capacità	capacità	NOUN	S	nmod
+di	di	ADP	E	mark
+agire	agire	VERB	V	acl
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	obl
+fisiche	fisico	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+agire	agire	VERB	V	acl
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	obl
+fisiche	fisico	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+regolatrice	regolatore	VERB	A	advcl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+atto	atto	NOUN	S	obl
+prescrive	prescrivere	VERB	V	ROOT
+condizioni	condizione	NOUN	S	obj
+speciali	speciale	ADJ	A	amod
+di	di	ADP	E	case
+capacità	capacità	NOUN	S	nmod
+di	di	ADP	E	mark
+agire	agire	VERB	V	acl
+,	,	PUNCT	FF	punct
+queste	questo	PRON	PD	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	acl:relcl
+dalla	da il	ADP	E_RD	case
+stessa	stesso	ADJ	A	amod
+legge	legge	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+relazione	relazione	NOUN	S	obl
+a	a	ADP	E	case
+contratti	contratto	NOUN	S	nmod
+tra	tra	ADP	E	case
+persone	persona	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+si	si	PRON	PC	expl
+trovano	trovare	VERB	V	acl:relcl
+nello	in il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+Stato	stato	NOUN	S	obl
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+persona	persona	NOUN	S	nsubj
+considerata	considerare	VERB	V	acl
+capace	capace	ADJ	A	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+contratto	contratto	NOUN	S	nsubj
+è	essere	AUX	VA	aux:pass
+concluso	concludere	VERB	V	acl:relcl
+può	potere	AUX	VM	aux
+invocare	invocare	VERB	V	ROOT
+l'	il	DET	RD	det
+incapacità	incapacità	NOUN	S	obj
+derivante	derivare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+propria	proprio	DET	AP	det:poss
+legge	legge	NOUN	S	obl
+nazionale	nazionale	ADJ	A	amod
+solo	solo	ADV	B	advmod
+se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+altra	altro	ADJ	A	amod
+parte	parte	NOUN	S	obl
+contraente	contraente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+conclusione	conclusione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+contratto	contratto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+era	essere	AUX	V	cop
+a	a	ADP	E	case
+conoscenza	conoscenza	NOUN	S	conj
+di	di	ADP	E	case
+tale	tale	DET	DD	det
+incapacità	incapacità	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+l'	lo	PRON	PC	obj
+ha	avere	AUX	VA	aux
+ignorata	ignorare	VERB	V	conj
+per	per	ADP	E	case
+sua	suo	DET	AP	det:poss
+colpa	colpa	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+relazione	relazione	NOUN	S	obl
+agli	a il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+unilaterali	unilaterale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+persona	persona	NOUN	S	nsubj
+considerata	considerare	VERB	V	acl
+capace	capace	ADJ	A	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+l'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+compiuto	compiere	VERB	V	acl:relcl
+può	potere	AUX	VM	aux
+invocare	invocare	VERB	V	ROOT
+l'	il	DET	RD	det
+incapacità	incapacità	NOUN	S	obj
+derivante	derivare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+propria	proprio	DET	AP	det:poss
+legge	legge	NOUN	S	obl
+nazionale	nazionale	ADJ	A	amod
+soltanto	soltanto	ADV	B	advmod
+se	se	SCONJ	CS	mark
+ciò	ciò	PRON	PD	nsubj
+non	non	ADV	BN	advmod
+rechi	recare	VERB	V	advcl
+pregiudizio	pregiudizio	NOUN	S	obj
+a	a	ADP	E	case
+soggetti	soggetto	NOUN	S	obl
+che	che	PRON	PR	nsubj
+senza	senza	ADP	E	case
+loro	loro	DET	AP	det:poss
+colpa	colpa	NOUN	S	obl
+hanno	avere	AUX	VA	aux
+fatto	fare	VERB	V	acl:relcl
+affidamento	affidamento	NOUN	S	obj
+sulla	su il	ADP	E_RD	case
+capacità	capacità	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+autore	autore	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+atto	atto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+limitazioni	limitazione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+ai	a il	ADP	E_RD	case
+commi	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+e	e	CCONJ	CC	cc
+3	3	NUM	N	conj
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+agli	a il	ADP	E_RD	case
+atti	atto	NOUN	S	obl
+relativi	relativo	ADJ	A	amod
+a	a	ADP	E	case
+rapporti	rapporto	NOUN	S	obl
+di	di	ADP	E	case
+famiglia	famiglia	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+successione	successione	NOUN	S	conj
+per	per	ADP	E	case
+causa	causa	NOUN	S	nmod
+di	di	ADP	E	case
+morte	morte	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+né	né	CCONJ	CC	cc
+agli	a il	ADP	E_RD	case
+atti	atto	NOUN	S	conj
+relativi	relativo	ADJ	A	amod
+a	a	ADP	E	case
+diritti	diritto	NOUN	S	obl
+reali	reale	ADJ	A	amod
+su	su	ADP	E	case
+immobili	immobile	NOUN	S	nmod
+situati	situare	VERB	V	acl
+in	in	ADP	E	case
+uno	uno	DET	RI	det
+Stato	stato	NOUN	S	obl
+diverso	diverso	ADJ	A	amod
+da	da	ADP	E	case
+quello	quello	PRON	PD	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+l'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+compiuto	compiere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+24	24	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Diritti	diritto	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+personalità	personalità	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+esistenza	esistenza	NOUN	S	nsubj:pass
+ed	e	CCONJ	CC	cc
+il	il	DET	RD	det
+contenuto	contenuto	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+diritti	diritto	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+personalità	personalità	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+soggetto	soggetto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+tuttavia	tuttavia	ADV	B	advmod
+i	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+che	che	PRON	PR	nsubj
+derivano	derivare	VERB	V	acl:relcl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+rapporto	rapporto	NOUN	S	obl
+di	di	ADP	E	case
+famiglia	famiglia	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+applicabile	applicabile	ADJ	A	amod
+a	a	ADP	E	case
+tale	tale	DET	DD	det
+rapporto	rapporto	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+conseguenze	conseguenza	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+violazione	violazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+diritti	diritto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+applicabile	applicabile	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+responsabilità	responsabilità	NOUN	S	obl
+per	per	ADP	E	case
+fatti	fatto	NOUN	S	nmod
+illeciti	illecito	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	nmod
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+PERSONE	PERSONE	PROPN	SP	nmod
+GIURIDICHE	GIURIDICHE	PROPN	SP	amod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+25	25	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Società	società	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+enti	ente	NOUN	S	conj
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+società	società	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+associazioni	associazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+fondazioni	fondazione	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+ogni	ogni	DET	DI	det
+altro	altro	ADJ	A	amod
+ente	ente	NOUN	S	conj
+,	,	PUNCT	FF	punct
+pubblico	pubblico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+privato	privato	ADJ	A	conj
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	mark
+se	se	SCONJ	CS	fixed
+privo	privo	ADJ	A	amod
+di	di	ADP	E	case
+natura	natura	NOUN	S	obl
+associativa	associativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+disciplinati	disciplinare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+territorio	territorio	NOUN	S	obl
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+perfezionato	perfezionare	VERB	V	acl:relcl
+il	il	DET	RD	det
+procedimento	procedimento	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+costituzione	costituzione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+tuttavia	tuttavia	ADV	B	advmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+sede	sede	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+è	essere	AUX	VA	aux
+situata	situare	VERB	V	advcl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+se	se	SCONJ	CS	mark
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+si	si	PRON	PC	expl
+trova	trovare	VERB	V	conj
+l'	il	DET	RD	det
+oggetto	oggetto	NOUN	S	nsubj
+principale	principale	ADJ	A	amod
+di	di	ADP	E	case
+tali	tale	DET	DD	det
+enti	ente	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+particolare	particolare	NOUN	S	obl
+sono	essere	AUX	VA	aux:pass
+disciplinati	disciplinare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+regolatrice	regolatore	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+ente	ente	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+natura	natura	NOUN	S	ROOT
+giuridica	giuridico	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+denominazione	denominazione	NOUN	S	ROOT
+o	o	CCONJ	CC	cc
+ragione	ragione	NOUN	S	conj
+sociale	sociale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+costituzione	costituzione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+trasformazione	trasformazione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+estinzione	estinzione	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+d	d	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+capacità	capacità	NOUN	S	ROOT
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+formazione	formazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+poteri	potere	NOUN	S	conj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+di	di	ADP	E	case
+funzionamento	funzionamento	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+organi	organo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+f	f	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+rappresentanza	rappresentanza	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+ente	ente	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	conj
+di	di	ADP	E	case
+acquisto	acquisto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+perdita	perdita	NOUN	S	conj
+della	di il	ADP	E_RD	case
+qualità	qualità	NOUN	S	nmod
+di	di	ADP	E	mark
+associato	associato	VERB	V	acl
+o	o	CCONJ	CC	cc
+socio	socio	NOUN	S	conj
+nonché	nonché	CCONJ	CC	cc
+i	il	DET	RD	det
+diritti	diritto	NOUN	S	conj
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+obblighi	obbligo	NOUN	S	conj
+inerenti	inerente	ADJ	A	amod
+a	a	ADP	E	case
+tale	tale	DET	DD	det
+qualità	qualità	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+h	h	X	X	amod
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	conj
+per	per	ADP	E	case
+le	il	DET	RD	det
+obbligazioni	obbligazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+ente	ente	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+i	il	DET	NO	amod
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+conseguenze	conseguenza	NOUN	S	ROOT
+delle	di il	ADP	E_RD	case
+violazioni	violazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+atto	atto	NOUN	S	conj
+costitutivo	costitutivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+trasferimenti	trasferimento	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+sede	sede	NOUN	S	nmod
+statutaria	statutario	ADJ	A	amod
+in	in	ADP	E	case
+altro	altro	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+fusioni	fusione	NOUN	S	conj
+di	di	ADP	E	case
+enti	ente	NOUN	S	nmod
+con	con	ADP	E	case
+sede	sede	NOUN	S	nmod
+in	in	ADP	E	case
+Stati	stato	NOUN	S	nmod
+diversi	diverso	ADJ	A	iobj
+hanno	avere	VERB	V	ROOT
+efficacia	efficacia	NOUN	S	obj
+soltanto	soltanto	ADV	B	advmod
+se	se	SCONJ	CS	mark
+posti	porre	VERB	V	advcl
+in	in	ADP	E	mark
+essere	essere	AUX	V	cop
+conformemente	conformemente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+leggi	legge	NOUN	S	obl
+di	di	ADP	E	case
+detti	detto	ADJ	A	amod
+Stati	Stati	PROPN	SP	nmod
+interessati	interessare	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	nmod
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+IV	IV	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+RAPPORTI	RAPPORTI	PROPN	SP	ROOT
+DI	DI	ADP	E	case
+FAMIGLIA	FAMIGLIA	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+26	26	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Promessa	promessa	NOUN	S	nmod
+di	di	ADP	E	case
+matrimonio	matrimonio	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+promessa	promessa	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+matrimonio	matrimonio	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+conseguenze	conseguenza	NOUN	S	conj
+della	di il	ADP	E_RD	case
+sua	suo	DET	AP	det:poss
+violazione	violazione	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+comune	comune	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+nubendi	nubendo	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	conj
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+27	27	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Condizioni	Condizioni	NOUN	S	nmod
+per	per	ADP	E	mark
+contrarre	contrarre	VERB	V	acl
+matrimonio	matrimonio	NOUN	S	obj
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+matrimoniale	matrimoniale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+altre	altro	ADJ	A	amod
+condizioni	condizione	NOUN	S	conj
+per	per	ADP	E	mark
+contrarre	contrarre	VERB	V	acl
+matrimonio	matrimonio	NOUN	S	obj
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+ciascun	ciascuno	DET	VA_PC	det
+nubendo	nubendo	VERB	V	acl
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Resta	restare	VERB	V	ROOT
+salvo	salvo	ADJ	A	xcomp
+lo	il	DET	RD	det
+stato	stato	NOUN	S	nsubj
+libero	libero	ADJ	A	amod
+che	che	SCONJ	CS	mark
+uno	uno	PRON	PI	nsubj
+dei	di il	ADP	E_RD	case
+nubendi	nubendo	NOUN	S	nmod
+abbia	avere	AUX	VA	aux
+acquistato	acquistare	VERB	V	acl:relcl
+per	per	ADP	E	case
+effetto	effetto	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+giudicato	giudicato	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+riconosciuto	riconoscere	VERB	V	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+28	28	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Forma	forma	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+matrimonio	matrimonio	NOUN	S	nsubj
+è	essere	AUX	V	cop
+valido	valido	ADJ	A	ROOT
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+alla	a il	ADP	E_RD	case
+forma	forma	NOUN	S	obl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+considerato	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+di	di	ADP	E	case
+celebrazione	celebrazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+coniugi	coniuge	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+celebrazione	celebrazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+comune	comune	ADJ	A	amod
+residenza	residenza	NOUN	S	nmod
+in	in	ADP	E	case
+tale	tale	DET	DD	det
+momento	momento	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+29	29	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rapporti	rapporto	PROPN	SP	nmod
+personali	personale	ADJ	A	amod
+tra	tra	ADP	E	case
+coniugi	coniuge	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+personali	personale	ADJ	A	amod
+tra	tra	ADP	E	case
+coniugi	coniugi	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+comune	comune	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+personali	personale	ADJ	A	amod
+tra	tra	ADP	E	case
+coniugi	coniuge	NOUN	S	nmod
+aventi	avere	VERB	V	acl
+diverse	diverso	DET	DI	det
+cittadinanze	cittadinanza	NOUN	S	obj
+o	o	CCONJ	CC	cc
+più	più	DET	DI	det
+cittadinanze	cittadinanza	NOUN	S	nsubj:pass
+comuni	comune	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+la	il	DET	RD	det
+vita	vita	NOUN	S	nsubj
+matrimoniale	matrimoniale	ADJ	A	amod
+è	essere	AUX	V	cop
+prevalentemente	prevalentemente	ADV	B	advmod
+localizzata	localizzato	ADJ	A	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+30	30	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rapporti	rapporto	PROPN	S	nmod
+patrimoniali	patrimoniale	ADJ	A	amod
+tra	tra	ADP	E	case
+coniugi	coniuge	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+patrimoniali	patrimoniale	ADJ	A	amod
+tra	tra	ADP	E	case
+coniugi	coniuge	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+applicabile	applicabile	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+rapporti	rapporto	NOUN	S	obl
+personali	personale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+coniugi	coniuge	NOUN	S	nsubj
+possono	potere	AUX	VM	aux
+tuttavia	tuttavia	ADV	B	advmod
+convenire	convenire	VERB	V	ROOT
+per	per	ADP	E	case
+iscritto	iscritto	NOUN	S	obl
+che	che	SCONJ	CS	mark
+i	il	DET	RD	det
+loro	loro	DET	AP	det:poss
+rapporti	rapporto	NOUN	S	nsubj:pass
+patrimoniali	patrimoniale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ccomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	nsubj
+di	di	ADP	E	case
+essi	esso	PRON	PE	nmod
+è	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	acl:relcl
+o	o	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	nsubj
+di	di	ADP	E	case
+essi	esso	PRON	PE	nmod
+risiede	risiedere	VERB	V	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+accordo	accordo	NOUN	S	nsubj
+dei	di il	ADP	E_RD	case
+coniugi	coniuge	NOUN	S	nmod
+sul	su il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+applicabile	applicabile	ADJ	A	amod
+è	essere	AUX	V	cop
+valido	valido	ADJ	A	ROOT
+se	se	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+considerato	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+scelta	scelto	ADJ	A	amod
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+quella	quello	PRON	PD	conj
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+l'	il	DET	RD	det
+accordo	accordo	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+stipulato	stipulare	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+regime	regime	NOUN	S	nsubj
+dei	di il	ADP	E_RD	case
+rapporti	rapporto	NOUN	S	nmod
+patrimoniali	patrimoniale	ADJ	A	amod
+fra	fra	ADP	E	case
+coniugi	coniugi	NOUN	S	nmod
+regolato	regolare	VERB	V	acl
+da	da	ADP	E	case
+una	uno	DET	RI	det
+legge	legge	NOUN	S	obl:agent
+straniera	straniero	ADJ	A	amod
+è	essere	AUX	V	cop
+opponibile	opponibile	ADJ	A	ROOT
+ai	a il	ADP	E_RD	case
+terzi	terzo	ADJ	S	obl
+solo	solo	ADV	B	advmod
+se	se	SCONJ	CS	mark
+questi	questo	PRON	PD	nsubj
+ne	ne	PRON	PC	iobj
+abbiano	avere	AUX	VA	aux
+avuto	avere	VERB	V	advcl
+conoscenza	conoscenza	NOUN	S	obj
+o	o	CCONJ	CC	cc
+lo	lo	PRON	PC	obj
+abbiano	avere	AUX	VA	aux
+ignorato	ignorare	VERB	V	conj
+per	per	ADP	E	case
+loro	loro	DET	AP	det:poss
+colpa	colpa	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+Relativamente	relativamente	ADV	B	case
+ai	a il	DET	E_RD	case
+diritti	diritto	NOUN	S	obl
+reali	reale	ADJ	A	amod
+su	su	ADP	E	case
+beni	bene	NOUN	S	nmod
+immobili	immobile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+opponibilità	opponibilità	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+limitata	limitare	VERB	V	ROOT
+ai	a il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+siano	essere	AUX	VA	aux
+state	essere	AUX	VA	aux:pass
+rispettate	rispettare	VERB	V	acl:relcl
+le	il	DET	RD	det
+forme	forma	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+pubblicità	pubblicità	NOUN	S	nmod
+prescritte	prescrivere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+i	il	DET	RD	det
+beni	bene	NOUN	S	nsubj
+si	si	PRON	PC	expl
+trovano	trovare	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+30-bis	30-bis	DET	DD	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Contratti	Contratti	PROPN	SP	nmod
+di	di	ADP	E	case
+convivenza	convivenza	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+contratti	contratto	NOUN	S	obl
+di	di	ADP	E	case
+convivenza	convivenza	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+nazionale	nazionale	ADJ	A	amod
+comune	comune	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+contraenti	contraento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+contraenti	contraento	NOUN	S	obl
+di	di	ADP	E	case
+diversa	diverso	DET	DI	det
+cittadinanza	cittadinanza	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+la	il	DET	RD	det
+convivenza	convivenza	NOUN	S	nsubj
+è	essere	AUX	V	cop
+prevalentemente	prevalentemente	ADV	B	advmod
+localizzata	localizzato	ADJ	A	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Sono	essere	AUX	VA	aux:pass
+fatte	fare	VERB	V	ROOT
+salve	salvo	ADJ	A	xcomp
+le	il	DET	RD	det
+norme	norma	NOUN	S	nsubj:pass
+nazionali	nazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+europee	europeo	ADJ	A	conj
+ed	e	CCONJ	CC	cc
+internazionali	internazionale	ADJ	A	conj
+che	che	PRON	PR	nsubj
+regolano	regolare	VERB	V	acl:relcl
+il	il	DET	RD	det
+caso	caso	NOUN	S	obj
+di	di	ADP	E	case
+cittadinanza	cittadinanza	NOUN	S	nmod
+plurima	plurima	ADJ	A	amod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+31	31	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Scelta	scelta	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+applicabile	applicabile	ADJ	A	amod
+al	a il	ADP	E_RD	case
+divorzio	divorzio	NOUN	S	obl
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+separazione	separazione	NOUN	S	conj
+personale	personale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+separazione	separazione	NOUN	S	nsubj:pass
+personale	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+lo	il	DET	RD	det
+scioglimento	scioglimento	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+designata	designare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	obl:agent
+n.	numero	NOUN	S	nmod
+2010/1259	2010/1259	NUM	N	nummod
+/	/	PUNCT	FF	punct
+UE	UE	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+20	20	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+2010	2010	NUM	N	flat
+relativo	relativo	ADJ	A	amod
+ad	a	ADP	E	case
+una	uno	DET	RI	det
+cooperazione	cooperazione	NOUN	S	obl
+rafforzata	rafforzare	VERB	V	acl
+nel	in il	ADP	E_RD	case
+settore	settore	NOUN	S	obl
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+applicabile	applicabile	ADJ	A	amod
+al	a il	ADP	E_RD	case
+divorzio	divorzio	NOUN	S	obl
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+separazione	separazione	NOUN	S	conj
+personale	personale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+parti	parte	NOUN	S	nsubj
+possono	potere	AUX	VM	aux
+designare	designare	VERB	V	ROOT
+di	di	ADP	E	case
+comune	comune	ADJ	A	amod
+accordo	accordo	NOUN	S	obl
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+applicabile	applicabile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+del	di il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+mediante	mediante	ADP	E	case
+scrittura	scrittura	NOUN	S	nmod
+privata	privato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+designazione	designazione	NOUN	S	nsubj
+può	potere	AUX	VM	aux
+avvenire	avvenire	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+procedimento	procedimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sino	sino	ADV	B	case
+alla	a il	DET	E_RD	det
+conclusione	conclusione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+udienza	udienza	NOUN	S	nmod
+di	di	ADP	E	case
+prima	primo	ADJ	NO	amod
+comparizione	comparizione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	obl
+resa	resa	VERB	V	acl
+a	a	ADP	E	case
+verbale	verbale	NOUN	S	obl
+dai	da il	ADP	E_RD	case
+coniugi	coniuge	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+personalmente	personalmente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+a	a	ADP	E	case
+mezzo	mezzo	NOUN	S	conj
+di	di	ADP	E	case
+un	uno	DET	RI	det
+procuratore	procuratore	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+7	7	NUM	N	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+32	32	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+nullità	nullità	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+annullamento	annullamento	NOUN	S	conj
+,	,	PUNCT	FF	punct
+separazione	separazione	NOUN	S	conj
+personale	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+scioglimento	scioglimento	NOUN	S	conj
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+nullità	nullità	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+annullamento	annullamento	NOUN	S	conj
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+separazione	separazione	NOUN	S	conj
+personale	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+scioglimento	scioglimento	NOUN	S	conj
+del	di il	ADP	E_RD	case
+matrimonio	matrimonio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	advmod
+che	che	SCONJ	CS	fixed
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+quando	quando	SCONJ	CS	mark
+uno	uno	PRON	PI	nsubj
+dei	di il	ADP	E_RD	case
+coniugi	coniuge	NOUN	S	nmod
+è	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	advcl
+italiano	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+matrimonio	matrimonio	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+celebrato	celebrare	VERB	V	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+32-bis	32-bis	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Matrimonio	Matrimonio	PROPN	SP	nmod
+contratto	contrarre	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+da	da	ADP	E	case
+cittadini	cittadino	NOUN	S	obl:agent
+italiani	italiano	ADJ	A	amod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	obl
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+matrimonio	matrimonio	NOUN	S	nsubj
+contratto	contrarre	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+da	da	ADP	E	case
+cittadini	cittadino	NOUN	S	obl:agent
+italiani	italiano	ADJ	A	amod
+con	con	ADP	E	case
+persona	persona	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+produce	produrre	VERB	V	ROOT
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	obj
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+regolata	regolare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+32-ter	32-ter	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Unione	Unione	PROPN	SP	appos
+civile	civile	ADJ	A	amod
+tra	tra	ADP	E	case
+persone	persona	NOUN	S	nmod
+maggiorenni	maggiorenne	ADJ	A	amod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+altre	altro	ADJ	A	amod
+condizioni	condizione	NOUN	S	conj
+per	per	ADP	E	mark
+costituire	costituire	VERB	V	acl
+unione	unione	NOUN	S	obj
+civile	civile	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+ciascuna	ciascuno	DET	DI	det
+parte	parte	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+costituzione	costituzione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+applicabile	applicabile	ADJ	A	amod
+non	non	ADV	BN	advmod
+ammette	ammettere	VERB	V	advcl
+l'	il	DET	RD	det
+unione	unione	NOUN	S	obj
+civile	civile	ADJ	A	amod
+tra	tra	ADP	E	case
+persone	persona	NOUN	S	nmod
+maggiorenni	maggiorenne	ADJ	A	amod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+20	20	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+2016	2016	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+76	76	NUM	N	nummod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	V	cop
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	ROOT
+necessaria	necessario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+nulla	nulla	NOUN	S	nmod
+osta	ostare	VERB	V	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+116	116	NUM	N	nummod
+,	,	PUNCT	FF	punct
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+rilevano	rilevare	VERB	V	ROOT
+gli	il	DET	RD	det
+impedimenti	impedimento	NOUN	S	obj
+relativi	relativo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+sesso	sesso	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Qualora	qualora	SCONJ	CS	mark
+la	il	DET	RD	det
+produzione	produzione	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+nulla	nulla	NOUN	S	nmod
+osta	ostare	VERB	V	amod
+sia	essere	AUX	VA	aux:pass
+preclusa	precludere	VERB	V	advcl
+in	in	ADP	E	case
+ragione	ragione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+mancato	mancato	ADJ	A	amod
+riconoscimento	riconoscimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+lo	il	DET	RD	det
+straniero	straniero	NOUN	S	nsubj
+è	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	ROOT
+,	,	PUNCT	FF	punct
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	conj
+civile	civile	ADJ	A	amod
+tra	tra	ADP	E	case
+persone	persona	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+analogo	analogo	NOUN	S	conj
+istituto	istituto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+nulla	nulla	NOUN	S	nsubj:pass
+osta	osta	NOUN	V	amod
+è	essere	AUX	VA	aux:pass
+sostituito	sostituire	VERB	V	conj
+da	da	ADP	E	case
+un	uno	DET	RI	det
+certificato	certificato	NOUN	S	obl:agent
+o	o	CCONJ	CC	cc
+altro	altro	ADJ	DI	amod
+atto	atto	NOUN	S	conj
+comunque	comunque	ADV	B	advmod
+idoneo	idoneo	ADJ	A	amod
+ad	a	ADP	E	mark
+attestare	attestare	VERB	V	xcomp
+la	il	DET	RD	det
+libertà	libertà	NOUN	S	obj
+di	di	ADP	E	case
+stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+da	da	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	conj
+sostitutiva	sostitutivo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+28	28	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+2000	2000	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	obl
+445	445	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Resta	restare	VERB	V	ROOT
+salva	salvo	ADJ	A	amod
+la	il	DET	RD	det
+libertà	libertà	NOUN	S	nsubj
+di	di	ADP	E	case
+stato	stato	NOUN	S	nmod
+accertata	accertare	VERB	V	acl
+o	o	CCONJ	CC	cc
+acquisita	acquisire	VERB	V	conj
+per	per	ADP	E	case
+effetto	effetto	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+giudicato	giudicato	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+riconosciuto	riconoscere	VERB	V	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+unione	unione	NOUN	S	nsubj
+civile	civile	ADJ	A	amod
+è	essere	AUX	V	cop
+valida	valido	ADJ	A	ROOT
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+alla	a il	ADP	E_RD	case
+forma	forma	NOUN	S	obl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+considerata	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+di	di	ADP	E	case
+costituzione	costituzione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+almeno	almeno	ADV	B	advmod
+una	uno	PRON	PI	nmod
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+comune	comune	ADJ	A	amod
+residenza	residenza	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+costituzione	costituzione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+personali	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+patrimoniali	patrimoniale	ADJ	A	conj
+tra	tra	ADP	E	case
+le	il	DET	RD	det
+parti	parte	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+davanti	davanti	ADV	B	case
+alle	a il	DET	E_RD	det
+cui	cui	DET	DR	det:poss
+autorità	autorità	NOUN	S	obl
+l'	il	DET	RD	det
+unione	unione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+costituita	costituire	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+A	a	ADP	E	case
+richiesta	richiesta	NOUN	S	obl
+di	di	ADP	E	case
+una	uno	PRON	PI	nmod
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+può	potere	AUX	VM	aux
+disporre	disporre	VERB	V	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+la	il	DET	RD	det
+vita	vita	NOUN	S	nsubj
+comune	comune	ADJ	A	amod
+è	essere	AUX	V	cop
+prevalentemente	prevalentemente	ADV	B	advmod
+localizzata	localizzato	ADJ	A	acl:relcl
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+parti	parte	NOUN	S	nsubj
+possono	potere	AUX	VM	aux
+convenire	convenire	VERB	V	ROOT
+per	per	ADP	E	case
+iscritto	iscritto	NOUN	S	obl
+che	che	SCONJ	CS	mark
+i	il	DET	RD	det
+loro	loro	DET	AP	det:poss
+rapporti	rapporto	NOUN	S	nsubj:pass
+patrimoniali	patrimoniale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ccomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+almeno	almeno	ADV	B	advmod
+una	uno	PRON	PI	nsubj
+di	di	ADP	E	case
+esse	esso	PRON	PE	nmod
+è	essere	AUX	VA	cop
+cittadina	cittadino	ADJ	V	acl:relcl
+o	o	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+almeno	almeno	ADV	B	advmod
+una	uno	PRON	PI	nsubj
+di	di	ADP	E	case
+esse	esso	PRON	PE	nmod
+risiede	risiedere	VERB	V	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Alle	a il	ADP	E_RD	case
+obbligazioni	obbligazione	NOUN	S	obl
+alimentari	alimentare	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+l'	il	DET	RD	det
+articolo	articolo	NOUN	S	nsubj:pass
+45	45	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nsubj:pass
+32-quater	32-quater	AUX	V	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Scioglimento	Scioglimento	PROPN	SP	nmod
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+scioglimento	scioglimento	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	advmod
+che	che	SCONJ	CS	fixed
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+e	e	CCONJ	CC	cc
+9	9	NUM	N	conj
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+quando	quando	SCONJ	CS	mark
+una	uno	PRON	PI	nsubj
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+è	essere	AUX	V	cop
+cittadina	cittadino	NOUN	S	advcl
+italiana	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+unione	unione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+costituita	costituire	VERB	V	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+medesimi	medesimo	ADJ	A	amod
+titoli	titolo	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+nullità	nullità	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+annullamento	annullamento	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Lo	il	DET	RD	det
+scioglimento	scioglimento	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolato	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+applicabile	applicabile	ADJ	A	amod
+al	a il	ADP	E_RD	case
+divorzio	divorzio	NOUN	S	obl
+in	in	ADP	E	case
+conformità	conformità	NOUN	S	obl
+al	a il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+n.	numero	NOUN	S	nmod
+1259/2010	1259/2010	NUM	N	nummod
+/	/	PUNCT	FF	punct
+UE	UE	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+20	20	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+2010	2010	NUM	N	flat
+relativo	relativo	ADJ	A	amod
+ad	a	ADP	E	case
+una	uno	DET	RI	det
+cooperazione	cooperazione	NOUN	S	obl
+rafforzata	rafforzare	VERB	V	acl
+nel	in il	ADP	E_RD	case
+settore	settore	NOUN	S	obl
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+applicabile	applicabile	ADJ	A	amod
+al	a il	ADP	E_RD	case
+divorzio	divorzio	NOUN	S	obl
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+separazione	separazione	NOUN	S	conj
+personale	personale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+32-quinquies	32-quinquies	NUM	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Unione	Unione	PROPN	SP	nmod
+civile	civile	ADJ	A	amod
+costituita	costituire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+tra	tra	ADP	E	case
+cittadini	cittadino	NOUN	S	nmod
+italiani	italiano	ADJ	A	amod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+unione	unione	NOUN	S	nsubj
+civile	civile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+altro	altro	ADJ	A	amod
+istituto	istituto	NOUN	S	conj
+analogo	analogo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+costituiti	costituire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+tra	tra	ADP	E	case
+cittadini	cittadino	NOUN	S	obl
+italiani	italiano	ADJ	A	amod
+dello	di il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+sesso	sesso	NOUN	S	nmod
+abitualmente	abitualmente	ADV	B	advmod
+residenti	residente	ADJ	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+produce	produrre	VERB	V	ROOT
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	obj
+dell'	di il	ADP	E_RD	case
+unione	unione	NOUN	S	nmod
+civile	civile	ADJ	A	amod
+regolata	regolare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+33	33	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Filiazione	Filiazione	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Lo	il	DET	RD	det
+stato	stato	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+determinato	determinare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+figlio	figlio	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+più	più	ADV	B	advmod
+favorevole	favorevole	ADJ	A	conj
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+uno	uno	PRON	PI	nsubj
+dei	di il	ADP	E_RD	case
+genitori	genitore	NOUN	S	nmod
+è	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	acl:relcl
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+nascita	nascita	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+individuata	individuare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+regola	regolare	VERB	V	ROOT
+i	il	DET	RD	det
+presupposti	presupposta	NOUN	S	obj
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+accertamento	accertamento	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+contestazione	contestazione	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+qualora	qualora	SCONJ	CS	mark
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+così	così	ADV	B	advmod
+individuata	individuato	ADJ	A	amod
+non	non	ADV	BN	advmod
+permetta	permettere	VERB	V	advcl
+l'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	obj
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+contestazione	contestazione	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Lo	il	DET	RD	det
+stato	stato	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+acquisito	acquisire	VERB	V	acl
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+uno	uno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+genitori	genitore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+contestato	contestare	VERB	V	ROOT
+che	che	SCONJ	CS	mark
+alla	a il	ADP	E_RD	case
+stregua	stregua	NOUN	S	ccomp
+di	di	ADP	E	case
+tale	tale	DET	DD	det
+legge	legge	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+se	se	SCONJ	CS	mark
+tale	tale	DET	DD	det
+legge	legge	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+consente	consentire	VERB	V	advcl
+la	il	DET	RD	det
+contestazione	contestazione	NOUN	S	obj
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Sono	essere	AUX	V	cop
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	ROOT
+necessaria	necessario	ADJ	A	amod
+le	il	DET	RD	det
+norme	norma	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+che	che	PRON	PR	nsubj
+sanciscono	sancire	VERB	V	acl:relcl
+l'	il	DET	RD	det
+unicità	unicità	NOUN	S	obj
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+35	35	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Riconoscimento	riconoscimento	NOUN	S	nmod
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+condizioni	condizione	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+il	il	DET	RD	det
+riconoscimento	riconoscimento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+figlio	figlio	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+figlio	figlio	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+nascita	nascita	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+se	se	SCONJ	CS	mark
+più	più	ADV	B	advmod
+favorevole	favorevole	ADJ	A	conj
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+soggetto	soggetto	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+fa	fare	VERB	V	acl:relcl
+il	il	DET	RD	det
+riconoscimento	riconoscimento	NOUN	S	obj
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+questo	questo	PRON	PD	nsubj
+avviene	avvenire	VERB	V	acl:relcl
+;	;	PUNCT	FC	punct
+
+se	se	SCONJ	CS	mark
+tali	tale	ADJ	DD	det
+leggi	legge	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+prevedono	prevedere	VERB	V	advcl
+il	il	DET	RD	det
+riconoscimento	riconoscimento	NOUN	S	obj
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+genitore	genitore	NOUN	S	nmod
+di	di	ADP	E	mark
+fare	fare	VERB	V	acl
+il	il	DET	RD	det
+riconoscimento	riconoscimento	NOUN	S	obj
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+sua	suo	DET	AP	det:poss
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+forma	forma	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+esso	esso	PRON	PE	nsubj:pass
+è	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	acl:relcl
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+quella	quello	PRON	PD	conj
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+disciplina	disciplinare	VERB	V	acl:relcl
+la	il	DET	RD	det
+sostanza	sostanza	NOUN	S	obj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+36	36	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rapporti	Rapporti	NOUN	S	nmod
+tra	tra	ADP	E	case
+genitori	genitore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+figli	figlio	NOUN	S	conj
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+personali	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+patrimoniali	patrimoniale	ADJ	A	conj
+tra	tra	ADP	E	case
+genitori	genitore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+figli	figlio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+compresa	compreso	ADJ	A	amod
+la	il	DET	RD	det
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+responsabilità	responsabilità	NOUN	S	nsubj
+genitoriale	genitoriale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+figlio	figlio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+36-bis	36-bis	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nonostante	nonostante	ADP	E	case
+il	il	DET	RD	det
+richiamo	richiamo	NOUN	S	obl
+ad	a	ADP	E	case
+altra	altro	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+le	il	DET	RD	det
+norme	norma	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+che	che	PRON	PR	nsubj
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	X	obl
+)	)	PUNCT	FB	punct
+attribuiscono	attribuiscere	VERB	V	acl:relcl
+ad	a	ADP	E	case
+entrambi	entrambi	DET	T	det:predet
+i	il	DET	RD	det
+genitori	genitore	NOUN	S	obl
+la	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	obj
+genitoriale	genitoriale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	obl
+)	)	PUNCT	FB	punct
+stabiliscono	stabilire	VERB	V	ROOT
+il	il	DET	RD	det
+dovere	dovere	NOUN	S	obj
+di	di	ADP	E	case
+entrambi	entrambi	DET	T	det:predet
+i	il	DET	RD	det
+genitori	genitore	NOUN	S	nmod
+di	di	ADP	E	mark
+provvedere	provvedere	VERB	V	acl
+al	a il	ADP	E_RD	case
+mantenimento	mantenimento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+figlio	figlio	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+attribuiscono	attribuiscere	VERB	V	conj
+al	a il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl
+il	il	DET	RD	det
+potere	potere	NOUN	S	obj
+di	di	ADP	E	mark
+adottare	adottare	VERB	V	acl
+provvedimenti	provvedimento	NOUN	S	obj
+limitativi	limitativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+ablativi	ablativo	ADJ	A	conj
+della	di il	ADP	E_RD	case
+responsabilità	responsabilità	NOUN	S	nmod
+genitoriale	genitoriale	ADJ	A	amod
+in	in	ADP	E	case
+presenza	presenza	NOUN	S	obl
+di	di	ADP	E	case
+condotte	condotta	NOUN	S	nmod
+pregiudizievoli	pregiudizievole	ADJ	A	amod
+per	per	ADP	E	case
+il	il	DET	RD	det
+figlio	figlio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+37	37	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+filiazione	filiazione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+filiazione	filiazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+rapporti	rapporto	NOUN	S	conj
+personali	personale	ADJ	A	amod
+fra	fra	ADP	E	case
+genitori	genitore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+figli	figlio	NOUN	S	conj
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	advmod
+che	che	SCONJ	CS	fixed
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+rispettivamente	rispettivamente	ADV	B	advmod
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+e	e	CCONJ	CC	cc
+9	9	NUM	N	conj
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+quando	quando	SCONJ	CS	mark
+uno	uno	PRON	PI	nsubj
+dei	di il	ADP	E_RD	case
+genitori	genitore	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+figlio	figlio	NOUN	S	conj
+è	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	advcl
+italiano	italiano	ADJ	A	amod
+o	o	CCONJ	CC	cc
+risiede	risiedere	VERB	V	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+V	V	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+
+ADOZIONE	ADOZIONE	PROPN	SP	ROOT
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+38	38	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Adozione	Adozione	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+presupposti	presupposta	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+costituzione	costituzione	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+revoca	revoca	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+adozione	adozione	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+diritto	diritto	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+adottante	adottante	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+adottanti	adottante	NOUN	S	conj
+se	se	SCONJ	CS	dep
+comune	comune	ADJ	A	amod
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dal	da il	ADP	E_RD	case
+diritto	diritto	NOUN	S	dep
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+gli	il	DET	RD	det
+adottanti	adottanto	NOUN	S	nsubj
+sono	essere	AUX	V	cop
+entrambi	entrambi	DET	A	amod
+residenti	residente	ADJ	S	acl:relcl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+da	da	ADP	E	case
+quello	quello	PRON	PD	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+la	il	DET	RD	det
+loro	loro	DET	AP	det:poss
+vita	vita	NOUN	S	nsubj
+matrimoniale	matrimoniale	ADJ	A	amod
+è	essere	AUX	V	cop
+prevalentemente	prevalentemente	ADV	B	advmod
+localizzata	localizzato	ADJ	A	acl:relcl
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+adozione	adozione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+il	il	DET	RD	det
+diritto	diritto	NOUN	S	nsubj:pass
+italiano	italiano	ADJ	A	amod
+quando	quando	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+richiesta	richiedere	VERB	V	advcl
+al	a il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl
+italiano	italiano	ADJ	A	amod
+l'	il	DET	RD	det
+adozione	adozione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+un	uno	DET	RI	det
+minore	minore	ADJ	S	nmod
+,	,	PUNCT	FF	punct
+idonea	idoneo	ADJ	A	conj
+ad	a	ADP	E	case
+attribuirgli	attribuirgli	X	SW	fixed
+lo	il	DET	RD	det
+stato	stato	NOUN	S	obl
+di	di	ADP	E	case
+figlio	figlio	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	V	cop
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+salva	salva	ADJ	A	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+adottando	adottare	VERB	SP	nmod
+maggiorenne	maggiorenna	NOUN	S	compound
+per	per	ADP	E	case
+la	il	DET	RD	det
+disciplina	disciplina	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+consensi	consenso	NOUN	S	nmod
+che	che	PRON	PR	obj
+essa	esso	PRON	PE	nsubj
+eventualmente	eventualmente	ADV	B	advmod
+richieda	richiedere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+39	39	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rapporto	Rapporto	PROPN	S	nmod
+fra	fra	ADP	E	case
+adottato	adottato	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+famiglia	famiglia	NOUN	S	conj
+adottiva	adottivo	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+rapporti	rapporto	NOUN	S	nsubj:pass
+personali	personale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+patrimoniali	patrimoniale	ADJ	A	conj
+fra	fra	ADP	E	case
+l'	il	DET	RD	det
+adottato	adottato	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+adottante	adottante	NOUN	S	conj
+o	o	CCONJ	CC	cc
+gli	il	DET	RD	det
+adottanti	adottanto	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+i	il	DET	RD	det
+parenti	parente	NOUN	S	conj
+di	di	ADP	E	case
+questi	questo	PRON	PD	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+diritto	diritto	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+adottante	adottante	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+adottanti	adottante	NOUN	S	conj
+se	se	SCONJ	CS	mark
+comune	comune	ADJ	A	amod
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dal	da il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+gli	il	DET	RD	det
+adottanti	adottanto	NOUN	S	nsubj
+sono	essere	AUX	V	cop
+entrambi	entrambi	DET	A	det
+residenti	residente	ADJ	S	acl:relcl
+ovvero	ovvero	CCONJ	CC	cc
+da	da	ADP	E	case
+quello	quello	PRON	PD	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+la	il	DET	RD	det
+loro	loro	DET	AP	det:poss
+vita	vita	NOUN	S	nsubj
+matrimoniale	matrimoniale	ADJ	A	amod
+è	essere	AUX	V	cop
+prevalentemente	prevalentemente	ADV	B	advmod
+localizzata	localizzato	ADJ	A	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+40	40	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+adozione	adozione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+giudici	giudice	NOUN	S	nsubj
+italiani	italiano	ADJ	A	amod
+hanno	avere	VERB	V	ROOT
+giurisdizione	giurisdizione	NOUN	S	obj
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+adozione	adozione	NOUN	S	nmod
+allorché	allorché	SCONJ	CS	dep
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	obj
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+adottanti	adottanto	NOUN	S	obj
+o	o	CCONJ	CC	cc
+uno	uno	PRON	PI	conj
+di	di	ADP	E	case
+essi	esso	PRON	PE	nmod
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+adottando	adottando	NOUN	S	conj
+sono	essere	AUX	V	cop
+cittadini	cittadino	NOUN	S	conj
+italiani	italiano	ADJ	A	amod
+ovvero	ovvero	CCONJ	CC	cc
+stranieri	straniero	ADJ	A	conj
+residenti	residente	ADJ	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+adottando	adottando	NOUN	S	nsubj
+è	essere	AUX	V	cop
+un	uno	DET	RI	det
+minore	minore	NOUN	S	ROOT
+in	in	ADP	E	case
+stato	stato	NOUN	S	obl
+di	di	ADP	E	case
+abbandono	abbandono	NOUN	S	nmod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+rapporti	rapporto	NOUN	S	nmod
+personali	personale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+patrimoniali	patrimoniale	ADJ	A	conj
+fra	fra	ADP	E	case
+l'	il	DET	RD	det
+adottato	adottato	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+adottante	adottante	NOUN	S	conj
+o	o	CCONJ	CC	cc
+gli	il	DET	RD	det
+adottanti	adottanto	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+i	il	DET	RD	det
+parenti	parente	NOUN	S	conj
+di	di	ADP	E	case
+questi	questo	DET	PD	det:predet
+i	il	DET	RD	det
+giudici	giudice	NOUN	S	nmod
+italiani	italiano	ADJ	A	amod
+hanno	avere	VERB	V	ROOT
+giurisdizione	giurisdizione	NOUN	S	obj
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	advmod
+che	che	SCONJ	CS	fixed
+nelle	in il	ADP	E_RD	case
+ipotesi	ipotesi	NOUN	S	obl
+previste	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+ogni	ogni	DET	DI	det
+qualvolta	qualvolta	ADV	B	obl
+l'	il	DET	RD	det
+adozione	adozione	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+costituita	costituire	VERB	V	advcl
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+al	a il	ADP	E_RD	case
+diritto	diritto	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+41	41	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Riconoscimento	riconoscimento	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+provvedimenti	provvedimento	NOUN	S	nmod
+stranieri	straniero	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+adozione	adozione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	nsubj
+stranieri	straniero	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+adozione	adozione	NOUN	S	nmod
+sono	essere	AUX	V	cop
+riconoscibili	riconoscibile	ADJ	A	ROOT
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+64	64	NUM	N	nummod
+,	,	PUNCT	FF	punct
+65	65	NUM	N	conj
+e	e	CCONJ	CC	cc
+66	66	NUM	N	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Restano	Restano	VERB	S	ROOT
+ferme	ferma	ADJ	A	amod
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+leggi	legge	NOUN	S	nmod
+speciali	speciale	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+adozione	adozione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+minori	minore	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	nmod
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+VI	VI	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+PROTEZIONE	PROTEZIONE	PROPN	SP	ROOT
+DEGLI	DEGLI	PROPN	SP	flat:name
+INCAPACI	INCAPACI	PROPN	SP	flat:name
+E	e	CCONJ	CC	cc
+OBBLIGHI	OBBLIGHI	PROPN	SP	det
+
+	
+	SPACE	_SP	dep
+ALIMENTARI	ALIMENTARI	PROPN	SP	conj
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+42	42	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+legge	legge	NOUN	S	conj
+applicabile	applicabile	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+
+	
+	SPACE	_SP	dep
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+minori	minore	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+protezione	protezione	NOUN	S	nsubj
+dei	di il	ADP	E_RD	case
+minori	minore	NOUN	S	nmod
+è	essere	AUX	V	aux:pass
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+Convenzione	convenzione	NOUN	S	obl:agent
+dell'	di il	ADP	E_RD	case
+Aja	Aja	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+5	5	NUM	N	nmod
+ottobre	ottobre	NOUN	S	flat
+1961	1961	NUM	N	flat
+,	,	PUNCT	FF	punct
+sulla	su il	ADP	E_RD	case
+competenza	competenza	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+autorità	autorità	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sulla	su il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+applicabile	applicabile	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+minori	minore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+resa	rendere	VERB	V	acl
+esecutiva	esecutivo	ADJ	A	xcomp
+con	con	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+24	24	NUM	N	nummod
+ottobre	ottobre	NOUN	S	flat
+1980	1980	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+742	742	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+Convenzione	convenzione	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+persone	persona	NOUN	S	obl
+considerate	considerare	VERB	V	amod
+minori	minore	ADJ	A	xcomp
+soltanto	soltanto	ADV	B	advmod
+dalla	da il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+legge	legge	NOUN	S	obl
+nazionale	nazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+persone	persona	NOUN	S	conj
+la	il	DET	RD	det
+cui	cui	DET	DR	det:poss
+residenza	residenza	NOUN	S	nsubj
+abituale	abituale	ADJ	A	amod
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl
+trova	trovare	VERB	V	acl:relcl
+in	in	ADP	E	case
+uno	uno	PRON	PI	obl
+degli	di il	ADP	E_RD	case
+Stati	stato	NOUN	S	nmod
+contraenti	contraente	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+43	43	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Protezione	Protezione	NOUN	S	appos
+dei	di il	ADP	E_RD	case
+maggiori	maggiore	ADJ	S	nmod
+d'	di	ADP	E	case
+età	età	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+presupposti	presupposta	NOUN	S	nsubj
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+misure	misura	NOUN	S	nmod
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+incapaci	incapace	ADJ	A	amod
+maggiori	maggiore	ADJ	S	amod
+di	di	ADP	E	case
+età	età	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+i	il	DET	RD	det
+rapporti	rapporto	NOUN	S	conj
+fra	fra	ADP	E	case
+l'	il	DET	RD	det
+incapace	incapace	ADJ	A	nmod
+e	e	CCONJ	CC	cc
+chi	chi	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+ha	avere	VERB	V	ROOT
+la	il	DET	RD	det
+cura	cura	NOUN	S	obj
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	conj
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+incapace	incapace	ADJ	A	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Tuttavia	tuttavia	ADV	B	advmod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	mark
+proteggere	proteggere	VERB	V	advcl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+provvisoria	provvisorio	ADJ	A	amod
+e	e	CCONJ	CC	cc
+urgente	urgente	ADJ	A	conj
+la	il	DET	RD	det
+persona	persona	NOUN	S	obj
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+beni	bene	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+incapace	incapace	ADJ	A	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+italiano	italiano	ADJ	A	amod
+può	potere	AUX	VM	aux
+adottare	adottare	VERB	V	ROOT
+le	il	DET	RD	det
+misure	misura	NOUN	S	obj
+previste	prevedere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+44	44	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+dei	di il	ADP	E_RD	case
+maggiori	maggiore	ADJ	S	nmod
+d'	di	ADP	E	case
+età	età	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	ROOT
+italiana	italiano	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+misure	misura	NOUN	S	nmod
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+incapaci	incapace	ADJ	A	amod
+maggiori	maggiore	ADJ	S	amod
+di	di	ADP	E	case
+età	età	NOUN	S	nmod
+sussiste	sussistere	VERB	A	amod
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	case
+che	che	SCONJ	CS	fixed
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+e	e	CCONJ	CC	cc
+9	9	NUM	N	conj
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+quando	quando	SCONJ	CS	mark
+esse	esso	PRON	PE	nsubj
+si	si	PRON	PC	expl
+rendono	rendere	VERB	V	advcl
+necessarie	necessario	ADJ	A	xcomp
+per	per	ADP	E	mark
+proteggere	proteggere	VERB	V	advcl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+provvisoria	provvisorio	ADJ	A	amod
+e	e	CCONJ	CC	cc
+urgente	urgente	ADJ	A	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+persona	persona	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+beni	bene	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+incapace	incapace	ADJ	A	nmod
+che	che	PRON	PR	nsubj:pass
+si	si	PRON	PC	expl:pass
+trovino	trovare	VERB	V	acl:relcl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+66	66	NUM	N	nummod
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+si	si	PRON	PC	expl:pass
+producono	produrre	VERB	V	advcl
+gli	il	DET	RD	det
+effetti	effetto	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+un	uno	DET	RI	det
+provvedimento	provvedimento	NOUN	S	nmod
+straniero	straniero	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+capacità	capacità	NOUN	S	nmod
+di	di	ADP	E	case
+uno	uno	DET	RI	det
+straniero	straniero	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+per	per	ADP	E	mark
+pronunciare	pronunciare	VERB	V	xcomp
+i	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	obj
+modificativi	modificativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+integrativi	integrativo	ADJ	A	conj
+eventualmente	eventualmente	ADV	B	advmod
+necessari	necessario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+45	45	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Obbligazioni	Obbligazioni	NOUN	S	nmod
+alimentari	alimentare	ADJ	A	amod
+nella	in il	ADP	E_RD	case
+famiglia	famiglia	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	obl
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+obbligazioni	obbligazione	NOUN	S	nsubj:pass
+alimentari	alimentare	ADJ	A	amod
+nella	in il	ADP	E_RD	case
+famiglia	famiglia	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+designata	designare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	obl:agent
+2009/4	2009/4	NUM	N	nummod
+/	/	PUNCT	FF	punct
+CE	CE	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+18	18	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+2008	2008	NUM	N	flat
+relativo	relativo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+competenza	competenza	NOUN	S	obl
+,	,	PUNCT	FF	punct
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+applicabile	applicabile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	obl
+e	e	CCONJ	CC	cc
+all'	a il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+decisioni	decisione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+cooperazione	cooperazione	NOUN	S	conj
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+obbligazioni	obbligazione	NOUN	S	nmod
+alimentari	alimentare	ADJ	A	amod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+VII	VII	ADJ	NO	punct
+
+	
+	SPACE	_SP	dep
+SUCCESSIONI	SUCCESSIONI	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+46	46	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Successione	Successione	NOUN	SP	nmod
+per	per	ADP	E	case
+causa	causa	NOUN	S	nmod
+di	di	ADP	E	case
+morte	morte	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+successione	successione	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+causa	causa	NOUN	S	nmod
+di	di	ADP	E	case
+morte	morte	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+soggetto	soggetto	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+eredità	eredità	NOUN	S	nmod
+si	si	PRON	PC	expl
+tratta	trattare	VERB	V	conj
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+soggetto	soggetto	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+eredità	eredità	NOUN	S	nmod
+si	si	PRON	PC	expl
+tratta	trattare	VERB	V	ROOT
+può	potere	AUX	VM	aux
+sottoporre	sottoporre	VERB	V	ccomp
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	obl
+espressa	espresso	ADJ	A	amod
+in	in	ADP	E	case
+forma	forma	NOUN	S	nmod
+testamentaria	testamentario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+intera	intero	ADJ	A	amod
+successione	successione	NOUN	S	obj
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+risiede	risiedere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+scelta	scelta	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+ha	avere	VERB	V	ROOT
+effetto	effetto	NOUN	S	obj
+se	se	SCONJ	CS	mark
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	nmod
+il	il	DET	RD	det
+dichiarante	dichiarante	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+risiedeva	risiedere	VERB	V	advcl
+più	più	ADV	B	advmod
+in	in	ADP	E	case
+tale	tale	DET	DD	det
+Stato	stato	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Nell'	in il	ADP	E_RD	case
+ipotesi	ipotesi	NOUN	S	obl
+di	di	ADP	E	case
+successione	successione	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+cittadino	cittadino	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+scelta	scelta	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+pregiudica	pregiudicare	VERB	V	ROOT
+i	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj
+che	che	PRON	PR	obj
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+attribuisce	attribuire	VERB	V	acl:relcl
+ai	a il	ADP	E_RD	case
+legittimari	legittimare	NOUN	S	obl
+residenti	residente	ADJ	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+persona	persona	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+successione	successione	NOUN	S	nmod
+si	si	PRON	PC	expl
+tratta	trattare	VERB	V	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+divisione	divisione	NOUN	S	nsubj:pass
+ereditaria	ereditario	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+applicabile	applicabile	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+successione	successione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+i	il	DET	RD	det
+condividenti	condividente	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+d'	di	ADP	E	case
+accordo	accordo	NOUN	S	nmod
+fra	fra	ADP	E	case
+loro	loro	PRON	PE	nmod
+,	,	PUNCT	FF	punct
+abbiano	avere	AUX	VA	aux
+designato	designare	VERB	V	advcl
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+d'	di	ADP	E	case
+apertura	apertura	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+successione	successione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	conj
+ove	ove	ADV	B	advmod
+si	si	PRON	PC	expl
+trovano	trovare	VERB	V	advcl
+uno	uno	PRON	PI	nummod
+o	o	CCONJ	CC	cc
+più	più	DET	DI	conj
+beni	bene	NOUN	S	nsubj
+ereditari	ereditare	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+47	47	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Capacità	capacità	NOUN	S	nmod
+di	di	ADP	E	mark
+testare	testare	VERB	V	acl
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+capacità	capacità	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+disporre	disporre	VERB	V	acl
+per	per	ADP	E	case
+testamento	testamento	NOUN	S	obl
+,	,	PUNCT	FF	punct
+di	di	ADP	E	mark
+modificarlo	modificare lo	VERB	V_PC	conj
+o	o	CCONJ	CC	cc
+di	di	ADP	E	mark
+revocarlo	revocare lo	VERB	V_PC	conj
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+disponente	disponente	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+testamento	testamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+modifica	modifica	NOUN	S	conj
+o	o	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+revoca	revoca	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+48	48	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Forma	forma	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+testamento	testamento	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+testamento	testamento	NOUN	S	nsubj
+è	essere	AUX	V	cop
+valido	valido	ADJ	A	ROOT
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+alla	a il	ADP	E_RD	case
+forma	forma	NOUN	S	obl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+considerato	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+il	il	DET	RD	det
+testatore	testatore	NOUN	S	nsubj
+ha	avere	AUX	VA	aux
+disposto	disporre	VERB	V	acl:relcl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+testatore	testatore	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+testamento	testamento	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	conj
+,	,	PUNCT	FF	punct
+era	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	acl:relcl
+o	o	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+aveva	avere	VERB	V	acl:relcl
+il	il	DET	RD	det
+domicilio	domicilio	NOUN	S	obj
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+residenza	residenza	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+49	49	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Successione	Successione	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj
+applicabile	applicabile	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+successione	successione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	obl
+di	di	ADP	E	case
+successibili	successibile	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+attribuisce	attribuire	VERB	V	advcl
+la	il	DET	RD	det
+successione	successione	NOUN	S	obj
+allo	a il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+beni	bene	NOUN	S	nsubj:pass
+ereditari	ereditare	ADJ	A	amod
+esistenti	esistere	VERB	V	acl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+sono	essere	AUX	VA	aux:pass
+devoluti	devolere	VERB	V	ROOT
+allo	a il	ADP	E_RD	case
+Stato	Stato	NOUN	S	obl
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+50	50	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Giurisdizione	Giurisdizione	PROPN	SP	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+successoria	successorio	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+materia	materia	NOUN	S	obl
+successoria	successoriare	ADJ	A	amod
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	nsubj
+italiana	italiano	ADJ	A	amod
+sussiste	sussistere	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+defunto	defunto	NOUN	S	nsubj
+era	essere	AUX	V	cop
+cittadino	cittadino	NOUN	S	ROOT
+italiano	italiano	ADJ	A	amod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+morte	morte	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+successione	successione	NOUN	S	nsubj
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+aperta	aperto	ADJ	A	ROOT
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+parte	parte	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+beni	bene	NOUN	S	nmod
+ereditari	ereditare	ADJ	A	amod
+di	di	ADP	E	case
+maggiore	maggiore	ADJ	A	amod
+consistenza	consistenza	NOUN	S	nmod
+economica	economico	ADJ	A	amod
+è	essere	AUX	VA	aux
+situata	situare	VERB	V	ROOT
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+convenuto	convenuto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+domiciliato	domiciliare	VERB	V	advcl
+o	o	CCONJ	CC	cc
+residente	residente	ADJ	A	conj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+o	o	CCONJ	CC	cc
+ha	avere	AUX	VA	aux
+accettato	accettare	VERB	V	conj
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	obj
+italiana	italiano	ADJ	A	amod
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+la	il	DET	RD	det
+domanda	domanda	NOUN	S	nsubj
+sia	essere	AUX	V	cop
+relativa	relativo	ADJ	A	advcl
+a	a	ADP	E	case
+beni	bene	NOUN	S	obl
+immobili	immobile	ADJ	A	amod
+situati	situare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+domanda	domanda	NOUN	S	nsubj
+concerne	concernere	VERB	V	advcl
+beni	bene	NOUN	S	obj
+situati	situare	VERB	V	acl
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+VIII	VIII	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTI	DIRITTI	PROPN	SP	punct
+REALI	REALI	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+51	51	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Possesso	possesso	NOUN	SP	appos
+e	e	CCONJ	CC	cc
+diritti	diritto	NOUN	S	conj
+reali	reale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+possesso	possesso	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+proprietà	proprietà	NOUN	S	conj
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+diritti	diritto	NOUN	S	conj
+reali	reale	ADJ	A	amod
+sui	su il	ADP	E_RD	case
+beni	bene	NOUN	S	nmod
+mobili	mobile	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+immobili	immobile	ADJ	A	conj
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+i	il	DET	RD	det
+beni	bene	NOUN	S	nsubj
+si	si	PRON	PC	expl
+trovano	trovare	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+stessa	stesso	ADJ	A	amod
+legge	legge	NOUN	S	nsubj
+ne	ne	PRON	PC	iobj
+regola	regolare	VERB	V	ROOT
+l'	il	DET	RD	det
+acquisto	acquisto	NOUN	S	obj
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+perdita	perdita	NOUN	S	conj
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	advmod
+che	che	SCONJ	CS	fixed
+in	in	ADP	E	case
+materia	materia	NOUN	S	obl
+successoria	successorio	ADJ	A	amod
+e	e	CCONJ	CC	cc
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	conj
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+l'	il	DET	RD	det
+attribuzione	attribuzione	NOUN	S	nsubj
+di	di	ADP	E	case
+un	uno	DET	RI	det
+diritto	diritto	NOUN	S	nmod
+reale	reale	ADJ	A	amod
+dipenda	dipendare	VERB	V	acl:relcl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+rapporto	rapporto	NOUN	S	obl
+di	di	ADP	E	case
+famiglia	famiglia	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+un	uno	DET	RI	det
+contratto	contratto	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+52	52	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Diritti	diritto	NOUN	S	nmod
+reali	reale	ADJ	A	amod
+su	su	ADP	E	case
+beni	bene	NOUN	S	nmod
+in	in	ADP	E	case
+transito	transito	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+reali	reale	ADJ	A	amod
+su	su	ADP	E	case
+beni	bene	NOUN	S	nmod
+in	in	ADP	E	case
+transito	transito	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+di	di	ADP	E	case
+destinazione	destinazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+53	53	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Usucapione	Usucapione	NOUN	S	nmod
+di	di	ADP	E	case
+beni	bene	NOUN	S	nmod
+mobili	mobile	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+usucapione	usucapione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+beni	bene	NOUN	S	nmod
+mobili	mobile	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+bene	bene	NOUN	S	nsubj
+si	si	PRON	PC	expl
+trova	trovare	VERB	V	acl:relcl
+al	a il	ADP	E_RD	case
+compimento	compimento	NOUN	S	obl
+del	di il	ADP	E_RD	case
+termine	termine	NOUN	S	nmod
+prescritto	prescritto	NOUN	S	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+54	54	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Diritti	diritto	NOUN	S	nmod
+su	su	ADP	E	case
+beni	bene	NOUN	S	nmod
+immateriali	immateriale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+su	su	ADP	E	case
+beni	bene	NOUN	S	nmod
+immateriali	immateriale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+utilizzazione	utilizzazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+55	55	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Pubblicità	pubblicità	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+relativi	relativo	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+ai	a il	ADP	E_RD	case
+diritti	diritto	NOUN	S	obl
+reali	reale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+pubblicità	pubblicità	NOUN	S	nsubj:pass
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+di	di	ADP	E	case
+costituzione	costituzione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+trasferimento	trasferimento	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+estinzione	estinzione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+diritti	diritto	NOUN	S	nmod
+reali	reale	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+bene	bene	NOUN	S	nsubj
+si	si	PRON	PC	expl
+trova	trovare	VERB	V	acl:relcl
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+dall'	da il	ADP	E_RD	case
+atto	atto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+IX	IX	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DONAZIONI	DONAZIONI	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+56	56	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Donazioni	Donazioni	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+donazioni	donazione	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+nazionale	nazionale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+donante	donare	VERB	V	nmod
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+donazione	donazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+donante	donare	VERB	V	nsubj
+può	potere	AUX	VM	dep
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	obl
+espressa	espresso	ADJ	A	amod
+contestualmente	contestualmente	ADV	B	advmod
+alla	a il	ADP	E_RD	case
+donazione	donazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+sottoporre	sottoporre	VERB	V	ROOT
+la	il	DET	RD	det
+donazione	donazione	NOUN	S	obj
+stessa	stesso	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+egli	egli	PRON	PE	nsubj
+risiede	risiedere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+donazione	donazione	NOUN	S	nsubj
+è	essere	AUX	V	cop
+valida	valido	ADJ	A	ROOT
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+alla	a il	ADP	E_RD	case
+forma	forma	NOUN	S	obl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+è	essere	AUX	VA	aux:pass
+considerata	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+regola	regolare	VERB	V	acl:relcl
+la	il	DET	RD	det
+sostanza	sostanza	NOUN	S	obj
+oppure	oppure	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+l'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+compiuto	compiere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	nmod
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+X	X	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+OBBLIGAZIONI	OBBLIGAZIONI	NOUN	S	ROOT
+CONTRATTUALI	CONTRATTUALI	DET	SP	amod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+57	57	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Obbligazioni	Obbligazioni	NOUN	S	nmod
+contrattuali	contrattuale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+obbligazioni	obbligazione	NOUN	S	nsubj:pass
+contrattuali	contrattuale	ADJ	A	amod
+sono	essere	AUX	V	aux:pass
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+regolate	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+Convenzione	convenzione	NOUN	S	obl:agent
+di	di	ADP	E	case
+Roma	Roma	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+19	19	NUM	N	nmod
+giugno	giugno	NOUN	S	flat
+1980	1980	NUM	N	flat
+sulla	su il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+applicabile	applicabile	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+obbligazioni	obbligazione	NOUN	S	obl
+contrattuali	contrattuale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+resa	rendere	VERB	V	advcl
+esecutiva	esecutivo	ADJ	A	xcomp
+con	con	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+18	18	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1984	1984	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+975	975	NUM	N	nummod
+,	,	PUNCT	FF	punct
+senza	senza	ADP	E	case
+pregiudizio	pregiudizio	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+altre	altro	ADJ	A	amod
+convenzioni	convenzione	NOUN	S	nmod
+internazionali	internazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+quanto	quanto	ADV	B	fixed
+applicabili	applicabile	ADJ	A	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DIRITTO	DIRITTO	PROPN	SP	nmod
+APPLICABILE	APPLICABILE	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+CAPO	CAPO	PROPN	SP	flat:name
+
+XI	XI	ADJ	NO	case
+
+	
+	SPACE	_SP	dep
+OBBLIGAZIONI	OBBLIGAZIONI	NOUN	S	obl
+NON	NON	ADV	BN	advmod
+CONTRATTUALI	CONTRATTUALI	DET	SP	ROOT
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+58	58	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Promessa	promessa	NOUN	S	nmod
+unilaterale	unilaterale	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+promessa	promessa	NOUN	S	nsubj:pass
+unilaterale	unilaterale	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+viene	venire	AUX	VA	aux:pass
+manifestata	manifestare	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+59	59	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Titoli	Titoli	PROPN	SP	nmod
+di	di	ADP	E	case
+credito	credito	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+cambiale	cambiale	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+vaglia	vaglia	NOUN	S	conj
+cambiario	cambiario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+assegno	assegno	NOUN	S	conj
+sono	essere	AUX	V	aux:pass
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+regolati	regolare	VERB	V	ROOT
+dalle	da il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	obl:agent
+contenute	contenere	VERB	V	acl
+nelle	in il	ADP	E_RD	case
+Convenzioni	Convenzioni	NOUN	S	obl
+di	di	ADP	E	case
+Ginevra	Ginevra	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+7	7	NUM	N	nmod
+giugno	giugno	NOUN	S	flat
+1930	1930	NUM	N	flat
+,	,	PUNCT	FF	punct
+sui	su il	ADP	E_RD	case
+conflitti	conflitto	NOUN	S	obl
+di	di	ADP	E	case
+legge	legge	NOUN	S	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+cambiale	cambiale	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+vaglia	vaglia	NOUN	S	conj
+cambiario	cambiario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regio	regio	NOUN	S	acl:relcl
+decreto	decreto	NOUN	S	compound
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+25	25	NUM	N	nmod
+agosto	agosto	NOUN	S	flat
+1932	1932	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+1130	1130	NUM	N	nummod
+,	,	PUNCT	FF	punct
+convertito	convertire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+22	22	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1932	1932	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+1946	1946	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+19	19	NUM	N	conj
+marzo	marzo	NOUN	S	flat
+1931	1931	NUM	N	flat
+,	,	PUNCT	FF	punct
+sui	su il	ADP	E_RD	case
+conflitti	conflitto	NOUN	S	nmod
+di	di	ADP	E	case
+legge	legge	NOUN	S	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+assegni	assegno	NOUN	S	nmod
+bancari	bancario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regio	regio	NOUN	S	nmod
+decreto	decreto	NOUN	S	compound
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+24	24	NUM	N	nummod
+agosto	agosto	NOUN	S	flat
+1933	1933	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+1077	1077	NUM	N	nummod
+,	,	PUNCT	FF	punct
+convertito	convertire	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+4	4	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+1934	1934	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+61	61	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Tali	tale	DET	DD	det
+disposizioni	disposizione	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+obbligazioni	obbligazione	NOUN	S	obl
+assunte	assunte	ADV	B	acl
+fuori	fuori	ADV	B	case
+dei	di il	DET	E_RD	det
+territori	territorio	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+Stati	stato	NOUN	S	nmod
+contraenti	contraente	ADJ	A	amod
+o	o	CCONJ	CC	cc
+allorché	allorché	SCONJ	CS	mark
+esse	esso	PRON	PE	nsubj
+designino	designare	VERB	V	conj
+la	il	DET	RD	det
+legge	legge	NOUN	S	obj
+di	di	ADP	E	case
+uno	uno	DET	RI	det
+Stato	stato	NOUN	S	nmod
+non	non	ADV	BN	advmod
+contraente	contraente	NOUN	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+titoli	titolo	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+credito	credito	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+regolati	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+titolo	titolo	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+emesso	emesso	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+le	il	DET	RD	det
+obbligazioni	obbligazione	NOUN	S	nsubj
+di-	di-	PROPN	SP	nmod
+verse	verse	VERB	V	ROOT
+da	da	ADP	E	case
+quella	quello	PRON	PD	obl
+principale	principale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+regolate	regolare	VERB	V	conj
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+ciascuna	ciascuno	PRON	PI	nsubj:pass
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+assunta	assungere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+60	60	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Rappresentanza	Rappresentanza	NOUN	SP	nmod
+volontaria	volontario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+rappresentanza	rappresentanza	NOUN	S	nsubj:pass
+volontaria	volontario	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+rappresentante	rappresentante	NOUN	S	nsubj
+ha	avere	VERB	V	acl:relcl
+la	il	DET	RD	det
+propria	proprio	DET	AP	det:poss
+sede	sede	NOUN	S	obj
+d'	di	ADP	E	case
+affari	affare	NOUN	S	nmod
+sempre	sempre	ADV	B	advmod
+che	che	SCONJ	CS	mark
+egli	egli	PRON	PE	nsubj
+agisca	agire	VERB	V	advcl
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+professionale	professionale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+che	che	SCONJ	CS	mark
+tale	tale	DET	DD	det
+sede	sede	NOUN	S	nsubj:pass
+sia	essere	AUX	VA	aux:pass
+conosciuta	conoscere	VERB	V	conj
+o	o	CCONJ	CC	cc
+conoscibile	conoscibile	ADJ	A	conj
+dal	da il	ADP	E_RD	case
+terzo	terzo	ADJ	NO	obl:agent
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+assenza	assenza	NOUN	S	obl
+di	di	ADP	E	case
+tali	tale	DET	DD	det
+condizioni	condizione	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+rappresentante	rappresentante	NOUN	S	nsubj
+esercita	esercitare	VERB	V	acl:relcl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+principale	principale	ADJ	A	amod
+i	il	DET	RD	det
+suoi	suo	DET	AP	det:poss
+poteri	potere	NOUN	S	obj
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+concreto	concreto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj
+di	di	ADP	E	case
+conferimento	conferimento	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+poteri	potere	NOUN	S	nmod
+di	di	ADP	E	case
+rappresentanza	rappresentanza	NOUN	S	nmod
+è	essere	AUX	V	cop
+valido	valido	ADJ	A	ROOT
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+alla	a il	ADP	E_RD	case
+forma	forma	NOUN	S	obl
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+considerato	considerare	VERB	V	advcl
+tale	tale	DET	PD	xcomp
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+regola	regolare	VERB	V	acl:relcl
+la	il	DET	RD	det
+sostanza	sostanza	NOUN	S	obj
+oppure	oppure	CCONJ	CC	cc
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux:pass
+posto	porre	VERB	V	acl:relcl
+in	in	ADP	E	mark
+essere	essere	VERB	V	advcl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+61	61	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Obbligazioni	Obbligazioni	NOUN	S	nmod
+nascenti	nascere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+gestione	gestione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+affari	affare	NOUN	S	nmod
+altrui	altrui	DET	AP	det:poss
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+arricchimento	arricchimento	NOUN	S	appos
+senza	senza	ADP	E	case
+causa	causa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+indebito	indebito	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+altre	altro	ADJ	A	amod
+obbligazioni	obbligazione	NOUN	S	conj
+legali	legale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+diversamente	diversamente	ADV	B	advmod
+regolate	regolare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+sottoposti	sottoporre	VERB	V	ROOT
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+verificato	verificare	VERB	V	acl:relcl
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+da	da	ADP	E	case
+cui	cui	PRON	PR	obl
+deriva	derivare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+obbligazione	obbligazione	NOUN	S	nsubj
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+62	62	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Responsabilità	responsabilità	NOUN	S	nmod
+per	per	ADP	E	case
+fatto	fatto	NOUN	S	nmod
+illecito	illecito	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+fatto	fatto	NOUN	S	nmod
+illecito	illecito	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+verificato	verificare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+evento	evento	NOUN	S	nsubj
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+il	il	DET	RD	det
+danneggiato	danneggiato	NOUN	S	nsubj
+può	potere	AUX	VM	aux
+chiedere	chiedere	VERB	V	ROOT
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+verificato	verificare	VERB	V	acl:relcl
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+che	che	PRON	PR	nsubj
+ha	avere	AUX	VA	aux
+causato	causare	VERB	V	acl:relcl
+il	il	DET	RD	det
+danno	danno	NOUN	S	obj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Qualora	qualora	SCONJ	CS	mark
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+illecito	illecito	ADJ	A	amod
+coinvolga	coinvolga	VERB	V	advcl
+soltanto	soltanto	ADV	B	advmod
+cittadini	cittadino	NOUN	A	obj
+di	di	ADP	E	case
+un	uno	DET	RI	det
+medesimo	medesimo	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+esso	esso	PRON	PE	obl
+residenti	residente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+legge	legge	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+tale	tale	DET	DD	det
+Stato	stato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+63	63	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Responsabilità	Responsabilità	NOUN	S	nmod
+extracontrattuale	extracontrattuale	ADJ	A	amod
+per	per	ADP	E	case
+danno	danno	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+da	da	ADP	E	case
+prodotto	prodotto	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+danno	danno	NOUN	S	nmod
+da	da	ADP	E	case
+prodotto	prodotto	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+regolata	regolare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+scelta	scelta	NOUN	S	obl
+del	di il	ADP	E_RD	case
+danneggiato	danneggiato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+si	si	PRON	PC	expl
+trova	trovare	VERB	V	acl:relcl
+il	il	DET	RD	det
+domicilio	domicilio	NOUN	S	nsubj
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+amministrazione	amministrazione	NOUN	S	conj
+del	di il	ADP	E_RD	case
+produttore	produttore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+oppure	oppure	CCONJ	CC	cc
+da	da	ADP	E	case
+quella	quello	PRON	PD	conj
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+prodotto	prodotto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+acquistato	acquistare	VERB	V	acl:relcl
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+meno	meno	ADV	B	advmod
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+produttore	produttore	NOUN	S	nsubj
+provi	provare	VERB	V	ccomp
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+prodotto	prodotto	NOUN	S	nsubj:pass
+vi	vi	PRON	PC	iobj
+è	essere	AUX	VA	aux
+stato	essere	AUX	V	aux:pass
+immesso	immettere	VERB	B	ccomp
+in	in	ADP	E	case
+commercio	commercio	NOUN	S	obl
+senza	senza	ADP	E	case
+il	il	DET	RD	det
+suo	suo	DET	AP	det:poss
+consenso	consenso	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	nmod
+IV	IV	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+EFFICACIA	EFFICACIA	PROPN	SP	nmod
+DI	DI	ADP	E	case
+SENTENZE	SENTENZE	DET	S	nmod
+
+	
+	SPACE	_SP	dep
+ED	ED	PROPN	SP	nmod
+ATTI	ATTI	PROPN	SP	ROOT
+STRANIERI	STRANIERI	PROPN	SP	flat:name
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+64	64	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Riconoscimento	riconoscimento	NOUN	S	nmod
+di	di	ADP	E	case
+sentenze	sentenza	NOUN	S	nmod
+straniere	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+sentenza	sentenza	NOUN	S	nsubj:pass
+straniera	straniero	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+riconosciuta	riconoscere	VERB	V	ROOT
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+senza	senza	ADP	E	mark
+che	che	SCONJ	CS	fixed
+sia	essere	AUX	V	cop
+necessario	necessario	ADJ	A	advcl
+il	il	DET	RD	det
+ricorso	ricorso	NOUN	S	nsubj
+ad	a	ADP	E	case
+alcun	alcuno	DET	DI	det
+procedimento	procedimento	NOUN	S	nmod
+quando	quando	SCONJ	CS	punct
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	NOUN	S	obl
+)	)	PUNCT	FB	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+che	che	PRON	PR	nsubj
+l'	lo	PRON	PC	obj
+ha	avere	AUX	VA	aux
+pronunciata	pronunciato	VERB	V	acl:relcl
+poteva	potere	AUX	VM	aux
+conoscere	conoscere	VERB	V	conj
+della	di il	ADP	E_RD	case
+causa	causa	NOUN	S	obl
+secondo	secondo	ADP	E	case
+i	il	DET	RD	det
+principi	principio	NOUN	S	obl
+sulla	su il	ADP	E_RD	case
+competenza	competenza	NOUN	S	nmod
+giurisdizionale	giurisdizionale	ADJ	A	amod
+propri	proprio	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj:pass
+introduttivo	introduttivo	ADJ	A	amod
+del	di il	ADP	E_RD	case
+giudizio	giudizio	NOUN	S	nmod
+è	essere	AUX	VA	aux
+stato	essere	AUX	VA	aux:pass
+portato	portare	VERB	V	ROOT
+a	a	ADP	E	case
+conoscenza	conoscenza	NOUN	S	obl
+del	di il	ADP	E_RD	case
+convenuto	convenuto	NOUN	S	nmod
+in	in	ADP	E	case
+conformità	conformità	NOUN	S	obl
+a	a	ADP	E	case
+quanto	quanto	PRON	PR	nmod
+previsto	prevedere	VERB	V	acl:relcl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+dove	dove	ADV	B	advmod
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+svolto	svolgere	VERB	V	acl:relcl
+il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+violati	violare	VERB	V	conj
+i	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+essenziali	essenziale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+difesa	difesa	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+parti	parte	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl
+sono	essere	AUX	VA	aux
+costituite	costituire	VERB	V	advcl
+in	in	ADP	E	case
+giudizio	giudizio	NOUN	S	obl
+secondo	secondo	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+dove	dove	ADV	B	advmod
+si	si	PRON	PC	expl
+è	essere	AUX	VA	aux
+svolto	svolgere	VERB	V	acl:relcl
+il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+contumacia	contumacia	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+dichiarata	dichiarare	VERB	V	conj
+in	in	ADP	E	case
+conformità	conformità	NOUN	S	obl
+a	a	ADP	E	case
+tale	tale	DET	DD	det
+legge	legge	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+essa	esso	PRON	PE	nsubj
+è	essere	AUX	VA	aux
+passata	passare	VERB	V	conj
+in	in	ADP	E	case
+giudicato	giudicato	NOUN	S	obl
+secondo	secondo	ADP	E	case
+la	il	DET	RD	det
+legge	legge	NOUN	S	obl
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+pronunziata	pronunziare	VERB	V	acl:relcl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	conj
+essa	esso	PRON	PE	nsubj
+non	non	ADV	BN	advmod
+è	essere	AUX	V	cop
+contraria	contrario	ADJ	A	ROOT
+ad	a	ADP	E	case
+altra	altro	DET	DI	det
+sentenza	sentenza	NOUN	S	obl
+pronunziata	pronunziare	VERB	V	acl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+giudice	giudice	NOUN	S	obl:agent
+italiano	italiano	ADJ	A	amod
+passata	passare	VERB	V	acl
+in	in	ADP	E	case
+giudicato	giudicato	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+f	f	X	X	obl
+)	)	PUNCT	FB	punct
+non	non	ADV	BN	advmod
+pende	pendere	VERB	V	ROOT
+un	uno	DET	RI	det
+processo	processo	NOUN	S	obj
+davanti	davanti	ADV	B	case
+a	a	ADP	E	fixed
+un	uno	DET	RI	det
+giudice	giudice	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+per	per	ADP	E	case
+il	il	DET	RD	det
+medesimo	medesimo	ADJ	A	amod
+oggetto	oggetto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+fra	fra	ADP	E	case
+le	il	DET	RD	det
+stesse	stesso	ADJ	A	amod
+parti	parte	NOUN	S	conj
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+abbia	avere	AUX	VA	aux
+avuto	avere	VERB	V	acl:relcl
+inizio	inizio	NOUN	S	obj
+prima	prima	ADV	B	case
+del	di il	DET	E_RD	det
+processo	processo	NOUN	S	obl
+straniero	straniero	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+sue	suo	DET	AP	det:poss
+disposizioni	disposizione	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+producono	produrre	VERB	V	conj
+effetti	effetto	NOUN	S	obj
+contrari	contrario	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+ordine	ordine	NOUN	S	obl
+pubblico	pubblico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+65	65	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Riconoscimento	riconoscimento	NOUN	S	nmod
+di	di	ADP	E	case
+provvedimenti	provvedimento	NOUN	S	nmod
+stranieri	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Hanno	avere	VERB	V	ROOT
+effetto	effetto	NOUN	S	obj
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+i	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	obj
+stranieri	straniero	ADJ	A	amod
+relativi	relativo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+capacità	capacità	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	nmod
+nonché	nonché	CCONJ	CC	cc
+all'	a il	ADP	E_RD	case
+esistenza	esistenza	NOUN	S	conj
+di	di	ADP	E	case
+rapporti	rapporto	NOUN	S	nmod
+di	di	ADP	E	case
+famiglia	famiglia	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+diritti	diritto	NOUN	S	conj
+della	di il	ADP	E_RD	case
+personalità	personalità	NOUN	S	nmod
+quando	quando	SCONJ	CS	mark
+essi	esso	PRON	PE	nsubj:pass
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+pronunciati	pronunciare	VERB	V	advcl
+dalle	da il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+la	il	DET	RD	det
+cui	cui	DET	DR	det:poss
+legge	legge	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+richiamata	richiamare	VERB	V	acl:relcl
+dalle	da il	ADP	E_RD	case
+norme	norma	NOUN	S	obl:agent
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+producono	produrre	VERB	V	conj
+effetti	effetto	NOUN	S	obj
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+di	di	ADP	E	case
+quello	quello	DET	DD	det
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	mark
+se	se	SCONJ	CS	fixed
+pronunciati	pronunciare	VERB	V	advcl
+da	da	ADP	E	case
+autorità	autorità	NOUN	S	obl:agent
+di	di	ADP	E	case
+altro	altro	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+purché	purché	SCONJ	CS	mark
+non	non	ADV	BN	advmod
+siano	essere	AUX	V	cop
+contrari	contrario	ADJ	A	advcl
+all'	a il	ADP	E_RD	case
+ordine	ordine	NOUN	S	obl
+pubblico	pubblico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+siano	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+rispettati	rispettare	VERB	V	conj
+i	il	DET	RD	det
+diritti	diritto	NOUN	S	nsubj:pass
+essenziali	essenziale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+difesa	difesa	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+66	66	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Riconoscimento	riconoscimento	NOUN	S	nmod
+di	di	ADP	E	case
+provvedimenti	provvedimento	NOUN	S	nmod
+stranieri	straniero	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+volontaria	volontario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	nsubj:pass
+stranieri	straniero	ADJ	A	amod
+di	di	ADP	E	case
+volontaria	volontario	ADJ	A	amod
+giurisdizione	giurisdizione	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+riconosciuti	riconoscere	VERB	V	ROOT
+senza	senza	ADP	E	mark
+che	che	SCONJ	CS	fixed
+sia	essere	AUX	V	cop
+necessario	necessario	ADJ	A	advcl
+il	il	DET	RD	det
+ricorso	ricorso	NOUN	S	nsubj
+ad	a	ADP	E	case
+alcun	alcuno	DET	DI	det
+procedimento	procedimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sempre	sempre	ADV	B	advmod
+che	che	SCONJ	CS	mark
+siano	essere	AUX	VA	aux:pass
+rispettate	rispettare	VERB	V	ccomp
+le	il	DET	RD	det
+condizioni	condizione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+65	65	NUM	N	nummod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	mark
+quanto	quanto	ADV	B	fixed
+applicabili	applicabile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+sono	essere	AUX	VA	aux:pass
+pronunciati	pronunciare	VERB	V	advcl
+dalle	da il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl:agent
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+la	il	DET	RD	det
+cui	cui	DET	DR	det:poss
+legge	legge	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+richiamata	richiamare	VERB	V	acl:relcl
+dalle	da il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	obl:agent
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+producono	produrre	VERB	V	conj
+effetti	effetto	NOUN	S	obj
+nell'	in il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+di	di	ADP	E	case
+quello	quello	DET	DD	det
+Stato	stato	NOUN	S	nmod
+ancorché	ancorché	SCONJ	CS	mark
+emanati	emanare	VERB	V	advcl
+da	da	ADP	E	case
+autorità	autorità	NOUN	S	obl:agent
+di	di	ADP	E	case
+altro	altro	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+sono	essere	AUX	VA	aux:pass
+pronunciati	pronunciare	VERB	V	conj
+da	da	ADP	E	case
+un'	uno	DET	RI	det
+autorità	autorità	NOUN	S	obl:agent
+che	che	PRON	PR	nsubj
+sia	essere	AUX	V	cop
+competente	competente	ADJ	A	acl:relcl
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+a	a	ADP	E	case
+criteri	criterio	NOUN	S	nmod
+corrispondenti	corrispondente	ADJ	A	amod
+a	a	ADP	E	case
+quelli	quello	PRON	PD	obl
+propri	proprio	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+67	67	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Attuazione	attuazione	NOUN	S	nmod
+di	di	ADP	E	case
+sentenze	sentenza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+provvedimenti	provvedimento	NOUN	S	conj
+stranieri	straniero	ADJ	A	amod
+di	di	ADP	E	case
+giurisdizione	giurisdizione	NOUN	S	nmod
+volontaria	volontario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+contestazione	contestazione	NOUN	S	conj
+del	di il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+mancata	mancato	ADJ	A	amod
+ottemperanza	ottemperanza	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+contestazione	contestazione	NOUN	S	conj
+del	di il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+sentenza	sentenza	NOUN	S	nmod
+straniera	straniero	ADJ	A	amod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+provvedimento	provvedimento	NOUN	S	conj
+straniero	straniero	ADJ	A	amod
+di	di	ADP	E	case
+volontaria	volontario	ADJ	A	amod
+giurisdizione	giurisdizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+quando	quando	SCONJ	CS	mark
+sia	essere	AUX	V	cop
+necessario	necessario	ADJ	A	ROOT
+procedere	procedere	VERB	V	csubj
+ad	a	ADP	E	case
+esecuzione	esecuzione	NOUN	S	obl
+forzata	forzato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+chiunque	chiunque	PRON	PI	nsubj
+vi	vi	PRON	PC	iobj
+abbia	avere	VERB	V	advcl
+interesse	interesse	NOUN	S	obj
+può	potere	AUX	VM	aux
+chiedere	chiedere	VERB	V	csubj
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+all'	a il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl
+giudiziaria	giudiziario	ADJ	A	amod
+ordinaria	ordinario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+l'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+3	3	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+3	3	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+sentenza	sentenza	NOUN	S	nsubj
+straniera	straniero	ADJ	A	amod
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	conj
+straniero	straniero	ADJ	A	amod
+di	di	ADP	E	case
+volontaria	volontario	ADJ	A	amod
+giurisdizione	giurisdizione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+unitamente	unitamente	ADV	B	advmod
+al	a il	ADP	E_RD	case
+provvedimento	provvedimento	NOUN	S	obl
+che	che	PRON	PR	nsubj
+accoglie	accogliere	VERB	V	acl:relcl
+la	il	DET	RD	det
+domanda	domanda	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+costituiscono	costituire	VERB	V	ROOT
+titolo	titolo	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+attuazione	attuazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+per	per	ADP	E	case
+l'	il	DET	RD	det
+esecuzione	esecuzione	NOUN	S	conj
+forzata	forzato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+contestazione	contestazione	NOUN	S	nsubj
+ha	avere	VERB	V	ROOT
+luogo	luogo	NOUN	S	obj
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	nmod
+di	di	ADP	E	case
+un	uno	DET	RI	det
+processo	processo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	amod
+adito	adito	NOUN	S	obj
+a	a	ADP	E	case
+pronuncia	pronuncia	NOUN	S	nmod
+con	con	ADP	E	case
+efficacia	efficacia	NOUN	S	nmod
+limitata	limitare	VERB	V	acl
+al	a il	ADP	E_RD	case
+giudizio	giudizio	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+--------------	--------------	PROPN	E_RD	case
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	obl
+68	68	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Attuazione	attuazione	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+esecuzione	esecuzione	NOUN	S	conj
+di	di	ADP	E	case
+atti	atto	NOUN	S	nmod
+pubblici	pubblico	ADJ	A	amod
+
+	
+	SPACE	_SP	dep
+ricevuti	ricevuto	NOUN	S	amod
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+norme	norma	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+67	67	NUM	N	nummod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+rispetto	rispetto	ADP	E	case
+all'	a il	DET	E_RD	det
+attuazione	attuazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+all'	a il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	conj
+forzata	forzare	VERB	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	obl
+di	di	ADP	E	case
+atti	atto	NOUN	S	obl
+pubblici	pubblico	ADJ	A	amod
+ricevuti	ricevuto	ADJ	A	amod
+in	in	ADP	E	case
+uno	uno	DET	RI	det
+Stato	stato	NOUN	S	obl
+estero	estero	ADJ	A	amod
+e	e	CCONJ	CC	cc
+ivi	ivi	ADV	B	advmod
+muniti	munito	ADJ	A	conj
+di	di	ADP	E	case
+forza	forza	NOUN	S	obl
+esecutiva	esecutivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+69	69	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Assunzione	assunzione	NOUN	S	nmod
+di	di	ADP	E	case
+mezzi	mezzo	NOUN	S	nmod
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+disposti	disporre	VERB	V	acl
+da	da	ADP	E	case
+
+	
+	SPACE	_SP	dep
+giudici	giudice	NOUN	S	obl:agent
+stranieri	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+sentenze	sentenza	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+i	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	conj
+di	di	ADP	E	case
+giudici	giudice	NOUN	S	nmod
+stranieri	straniero	ADJ	A	amod
+riguardanti	riguardare	VERB	V	acl
+esami	esame	NOUN	S	obj
+di	di	ADP	E	case
+testimoni	testimone	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+accertamenti	accertamento	NOUN	S	conj
+tecnici	tecnico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+giuramenti	giuramente	ADJ	S	conj
+,	,	PUNCT	FF	punct
+interrogatori	interrogatore	NOUN	S	conj
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+mezzi	mezzo	NOUN	S	obj
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+da	da	ADP	E	mark
+assumersi	assumere si	VERB	V_PC	acl
+nella	in il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	obl
+sono	essere	AUX	VA	aux:pass
+resi	rendere	VERB	V	ROOT
+esecutivi	esecutivo	ADJ	A	xcomp
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+della	di il	ADP	E_RD	case
+corte	corte	NOUN	S	nmod
+d'	di	ADP	E	case
+appello	appello	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+si	si	PRON	PC	expl:impers
+deve	dovere	AUX	VM	aux
+procedere	procedere	VERB	V	acl:relcl
+a	a	ADP	E	case
+tali	tale	DET	DD	det
+atti	atto	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+mezzi	mezzo	NOUN	S	nmod
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+chiesta	chiedere	VERB	V	advcl
+dalla	da il	ADP	E_RD	case
+parte	parte	NOUN	S	obl:agent
+interessata	interessato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+istanza	istanza	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+proposta	proporre	VERB	V	ROOT
+alla	a il	ADP	E_RD	case
+corte	corte	NOUN	S	obl
+mediante	mediante	ADP	E	case
+ricorso	ricorso	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+unita	unire	VERB	V	acl:relcl
+copia	copia	NOUN	S	nsubj:pass
+autentica	autentico	ADJ	A	amod
+della	di il	ADP	E_RD	case
+sentenza	sentenza	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+provvedimento	provvedimento	NOUN	S	conj
+che	che	PRON	PR	nsubj
+ha	avere	AUX	VA	aux
+ordinato	ordinare	VERB	V	acl:relcl
+gli	il	DET	RD	det
+atti	atto	NOUN	S	obj
+chiesti	chiesto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+domandata	domandare	VERB	V	advcl
+dallo	da il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+giudice	giudice	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+richiesta	richiesta	NOUN	S	nsubj:pass
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+trasmessa	trasmettere	VERB	V	ROOT
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+diplomatica	diplomatico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+corte	corte	NOUN	S	nsubj
+delibera	deliberare	ADJ	V	ROOT
+in	in	ADP	E	case
+camera	camera	NOUN	S	obl
+di	di	ADP	E	case
+consiglio	consiglio	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+qualora	qualora	SCONJ	CS	mark
+autorizzi	autorizzo	NOUN	S	dep
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+rimette	rimettere	VERB	V	conj
+gli	il	DET	RD	det
+atti	atto	NOUN	S	obj
+al	a il	ADP	E_RD	case
+giudice	giudice	NOUN	S	nmod
+competente	competente	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Può	potere	AUX	VM	aux
+disporsi	dispore si	VERB	V_PC	ROOT
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	obj
+di	di	ADP	E	case
+mezzi	mezzo	NOUN	S	nmod
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+espletamento	espletamento	NOUN	S	conj
+di	di	ADP	E	case
+altri	altro	ADJ	A	amod
+atti	atto	NOUN	S	nmod
+istruttori	istruttore	ADJ	A	amod
+non	non	ADV	BN	advmod
+previsti	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	obl:agent
+italiano	italiano	ADJ	A	amod
+semprechè	semprechè	ADJ	A	nsubj
+essi	esso	PRON	PE	nsubj
+non	non	ADV	BN	advmod
+contrastino	contrastare	VERB	V	acl:relcl
+con	con	ADP	E	case
+i	il	DET	RD	det
+principi	principio	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	nmod
+stesso	stesso	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+espletamento	espletamento	NOUN	S	conj
+richiesti	richiesta	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+disciplinati	disciplinare	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+si	si	PRON	PC	expl:pass
+osservano	osservare	VERB	V	ROOT
+le	il	DET	RD	det
+forme	forma	NOUN	S	nsubj:pass
+espressamente	espressamente	ADV	B	advmod
+richieste	richiedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl:agent
+giudiziaria	giudiziario	ADJ	A	amod
+straniera	straniero	ADJ	A	amod
+in	in	ADP	E	case
+quanto	quanto	ADV	B	advmod
+compatibili	compatibile	ADJ	A	conj
+con	con	ADP	E	case
+i	il	DET	RD	det
+principi	principio	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+70	70	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Esecuzione	Esecuzione	NOUN	S	nmod
+richiesta	richiedere	VERB	V	acl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+diplomatica	diplomatico	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+richiesta	richiesta	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	nmod
+di	di	ADP	E	case
+mezzi	mezzo	NOUN	S	nmod
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+di	di	ADP	E	case
+atti	atto	NOUN	S	nmod
+di	di	ADP	E	case
+istruzione	istruzione	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+fatta	fare	VERB	V	advcl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+diplomatica	diplomatico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+parte	parte	NOUN	S	nsubj
+interessata	interessato	ADJ	A	amod
+non	non	ADV	BN	advmod
+ha	avere	AUX	VA	aux
+costituito	costituire	VERB	V	ROOT
+un	uno	DET	RI	det
+procuratore	procuratore	NOUN	S	obj
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+promuova	promuovare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+assunzione	assunzione	NOUN	S	obj
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+provvedimenti	provvedimento	NOUN	S	nsubj:pass
+necessari	necessario	ADJ	A	amod
+per	per	ADP	E	case
+questa	questo	PRON	PD	obl
+sono	essere	AUX	VA	aux:pass
+pronunciati	pronunciare	VERB	V	nsubj:pass
+d'	di	ADP	E	case
+ufficio	ufficio	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl:agent
+procedente	procedente	ADJ	A	amod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+notificazioni	notificazione	NOUN	S	conj
+sono	essere	AUX	VA	aux:pass
+fatte	fare	VERB	V	conj
+a	a	ADP	E	case
+cura	cura	NOUN	S	obl
+del	di il	ADP	E_RD	case
+cancelliere	cancelliere	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+71	71	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Notificazione	notificazione	NOUN	S	nmod
+di	di	ADP	E	case
+atti	atto	NOUN	S	nmod
+di	di	ADP	E	case
+autorità	autorità	NOUN	S	nmod
+straniere	straniero	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+notificazione	notificazione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+citazioni	citazione	NOUN	S	nmod
+a	a	ADP	E	mark
+comparire	comparire	VERB	V	acl
+davanti	davanti	ADV	B	case
+ad	a	ADP	E	fixed
+autorità	autorità	NOUN	S	obl
+straniere	straniero	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+altri	altro	ADJ	A	amod
+atti	atto	NOUN	S	conj
+provenienti	provenire	VERB	V	acl
+da	da	ADP	E	case
+uno	uno	DET	RI	det
+Stato	Stato	NOUN	S	obl
+estero	estero	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+autorizzata	autorizzare	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+pubblico	pubblico	ADJ	A	amod
+ministero	ministero	NOUN	S	obl:agent
+presso	presso	ADP	E	case
+il	il	DET	RD	det
+tribunale	tribunale	NOUN	S	obl
+nella	in il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+giurisdizione	giurisdizione	NOUN	S	obl
+la	il	DET	RD	det
+notificazione	notificazione	NOUN	S	nsubj
+si	si	PRON	PC	expl:pass
+deve	dovere	AUX	VM	aux
+eseguire	eseguire	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+notificazione	notificazione	NOUN	S	nsubj:pass
+richiesta	richiedere	VERB	V	acl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+diplomatica	diplomatico	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+eseguita	eseguire	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+cura	cura	NOUN	S	obl
+del	di il	ADP	E_RD	case
+pubblico	pubblico	ADJ	A	amod
+ministero	ministero	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+un	uno	DET	RI	det
+ufficiale	ufficiale	NOUN	S	nmod
+giudiziario	giudiziario	ADJ	A	amod
+da	da	ADP	E	case
+lui	lui	PRON	PE	obl
+richiesto	richiesto	VERB	V	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+notificazione	notificazione	NOUN	S	nsubj
+avviene	avvenire	VERB	V	ROOT
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+previste	prevedere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Tuttavia	tuttavia	ADV	B	advmod
+si	si	PRON	PC	expl:pass
+osservano	osservare	VERB	V	ROOT
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj:pass
+richieste	richiedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl:agent
+straniera	straniero	ADJ	A	amod
+in	in	ADP	E	case
+quanto	quanto	ADV	B	obl
+compatibili	compatibile	ADJ	A	amod
+con	con	ADP	E	case
+i	il	DET	RD	det
+principi	principio	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ordinamento	ordinamento	NOUN	S	nmod
+italiano	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+l'	il	DET	RD	det
+atto	atto	NOUN	S	nsubj:pass
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+consegnato	consegnare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+chi	chi	PRON	PR	obl:agent
+procede	procedere	VERB	V	acl:relcl
+alla	a il	ADP	E_RD	case
+notificazione	notificazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+destinatario	destinatario	NOUN	S	obl
+che	che	SCONJ	CS	nsubj
+lo	lo	PRON	PC	obj
+accetti	accettare	VERB	V	acl
+volontariamente	volontariamente	ADV	B	advmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+TITOLO	TITOLO	PROPN	SP	ROOT
+V	V	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DISPOSIZIONI	DISPOSIZIONI	NOUN	S	nmod
+TRANSITORIE	TRANSITORIE	PROPN	SP	amod
+E	e	CCONJ	CC	cc
+FINALI	FINALI	PROPN	SP	conj
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+72	72	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Disposizioni	disposizioni	NOUN	S	nmod
+transitorie	transitorio	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+in	in	ADP	E	case
+tutti	tutto	DET	T	det:predet
+i	il	DET	RD	det
+giudizi	giudizio	NOUN	S	obl
+iniziati	iniziare	VERB	V	acl
+dopo	dopo	ADP	E	case
+la	il	DET	RD	det
+data	data	NOUN	S	obl
+della	di il	ADP	E_RD	case
+sua	suo	DET	AP	det:poss
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+fatta	fare	VERB	V	advcl
+salva	salvo	ADJ	A	xcomp
+l'	il	DET	RD	det
+applicabilità	applicabilità	NOUN	S	nsubj
+alle	a il	ADP	E_RD	case
+situazioni	situazione	NOUN	S	nmod
+esaurite	esaurire	VERB	V	acl
+prima	prima	ADV	B	case
+di	di	ADP	E	fixed
+tale	tale	DET	DD	det
+data	data	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+previgenti	previgente	ADJ	A	amod
+norme	norma	NOUN	S	nmod
+di	di	ADP	E	case
+diritto	diritto	NOUN	S	nmod
+internazionale	internazionale	ADJ	A	amod
+privato	privato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+giudizi	giudizio	NOUN	S	nsubj:pass
+pendenti	pendente	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+decisi	decidere	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+giudice	giudice	NOUN	S	obl:agent
+italiano	italiano	ADJ	A	amod
+se	se	SCONJ	CS	mark
+i	il	DET	RD	det
+fatti	fatto	NOUN	S	nsubj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+norme	norma	NOUN	S	conj
+che	che	PRON	PR	nsubj
+determinano	determinare	VERB	V	acl:relcl
+la	il	DET	RD	det
+giurisdizione	giurisdizione	NOUN	S	obj
+sopravvengono	sopravvenge	VERB	V	advcl
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+73	73	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Abrogazioni	Abrogazioni	PROPN	SP	appos
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+74	74	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Entrata	Entrata	PROPN	SP	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nsubj
+entra	entrare	VERB	V	ROOT
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	obl
+il	il	DET	RD	det
+1	1	NUM	N	obl
+settembre	settembre	NOUN	S	flat
+1995	1995	NUM	N	flat
+;	;	PUNCT	FC	punct
+
+gli	il	DET	RD	det
+articoli	articolo	NOUN	S	nsubj
+dal	da il	ADP	E_RD	case
+64	64	NUM	N	nummod
+al	a il	ADP	E_RD	case
+71	71	NUM	N	obl
+entrano	entrare	VERB	V	ROOT
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	obl
+il	il	DET	RD	det
+31	31	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+1996	1996	NUM	N	flat
+.	.	PUNCT	FS	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+La	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	obj
+,	,	PUNCT	FF	punct
+munita	munire	VERB	V	acl
+del	di il	ADP	E_RD	case
+sigillo	sigillo	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sarà	essere	AUX	VA	aux:pass
+inserita	inserire	VERB	V	conj
+nella	in il	ADP	E_RD	case
+Raccolta	raccolta	NOUN	S	obl
+ufficiale	ufficiale	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+normativi	normativo	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+a	a	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+spetti	spettare	VERB	V	nmod
+di	di	ADP	E	mark
+osservarla	osservare lo	VERB	V_PC	advcl
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+farla	fare lo	VERB	V_PC	conj
+osservare	osservare	VERB	V	ccomp
+come	come	ADP	E	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Data	data	NOUN	S	ROOT
+a	a	ADP	E	case
+Roma	Roma	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+addì	addì	NOUN	S	ROOT
+31	31	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+1995	1995	NUM	N	flat
+
+
+	
+
+	SPACE	_SP	dep
+SCALFARO	SCALFARO	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+DINI	DINI	PROPN	SP	flat:name
+,	,	PUNCT	FF	punct
+Presidente	presidente	NOUN	S	appos
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+Ministri	ministro	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Visto	Visto	VERB	V	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Guardasigilli	Guardasigilli	PROPN	SP	conj
+:	:	PUNCT	FC	punct
+
+MANCUSO	MANCUSO	PROPN	SP	ROOT
+
+	
+	SPACE	_SP	dep

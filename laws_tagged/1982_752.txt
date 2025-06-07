@@ -1,0 +1,3505 @@
+Art.	articolo	NOUN	S	nsubj:pass
+1	1	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Rientrano	Rientrano	NOUN	V	nmod
+nel	in il	ADP	E_RD	case
+campo	campo	NOUN	S	nmod
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+le	il	DET	RD	det
+sostanze	sostanza	NOUN	S	nsubj
+minerali	minerale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+regio	regio	NOUN	S	nmod
+decreto	decreto	NOUN	S	compound
+29	29	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+1927	1927	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+1443	1443	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+integrazioni	integrazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+estraibili	estraibile	ADJ	S	conj
+dal	da il	ADP	E_RD	case
+suolo	suolo	NOUN	S	obl
+e	e	CCONJ	CC	cc
+sottosuolo	sottosuolo	NOUN	S	conj
+nazionale	nazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+dal	da il	ADP	E_RD	case
+fondo	fondo	NOUN	S	conj
+e	e	CCONJ	CC	cc
+sottofondo	sottofore	VERB	V	conj
+marino	marino	NOUN	S	obj
+del	di il	ADP	E_RD	case
+mare	mare	NOUN	S	nmod
+territoriale	territoriale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	conj
+continentale	continentale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ad	a	ADP	E	case
+esclusione	esclusione	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+idrocarburi	idrocarburo	NOUN	S	nmod
+liquidi	liquido	ADJ	A	amod
+e	e	CCONJ	CC	cc
+gassosi	gassoso	ADJ	A	conj
+,	,	PUNCT	FF	punct
+dei	di il	ADP	E_RD	case
+fluidi	fluido	NOUN	S	obl
+geotermici	geotermico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+minerali	minerale	NOUN	S	conj
+radioattivi	radioattivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+salvo	salvo	ADJ	A	amod
+quanto	quanto	PRON	PR	fixed
+disposto	disporre	VERB	V	acl
+dal	da il	ADP	E_RD	case
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	obl:agent
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+e	e	CCONJ	CC	cc
+fatte	fare	VERB	V	conj
+salve	salvo	ADJ	A	xcomp
+le	il	DET	RD	det
+competenze	competenza	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+ordinario	ordinario	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+24	24	NUM	N	nummod
+luglio	luglio	NOUN	S	flat
+1977	1977	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+616	616	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+Sono	essere	AUX	VA	aux:pass
+fatte	fare	VERB	V	ROOT
+salve	salvo	ADJ	A	xcomp
+inoltre	inoltre	ADV	B	advmod
+le	il	DET	RD	det
+competenze	competenza	NOUN	S	nsubj:pass
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+province	provincia	NOUN	S	conj
+autonome	autonomo	ADJ	A	amod
+di	di	ADP	E	case
+Trento	Trento	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+Bolzano	Bolzano	PROPN	SP	conj
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	mark
+miniere	miniere	VERB	S	acl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	nsubj
+2	2	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Il	il	DET	RD	det
+Comitato	comitato	NOUN	S	nmod
+interministeriale	interministeriale	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+programmazione	programmazione	NOUN	S	nmod
+economica	economico	ADJ	A	amod
+(	(	PUNCT	FB	punct
+CIPE	CIPE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	conj
+dall'	da il	ADP	E_RD	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+su	su	ADP	E	case
+proposta	proposta	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+previo	previo	ADJ	A	amod
+parere	parere	NOUN	S	conj
+della	di il	ADP	E_RD	case
+commissione	commissione	NOUN	S	nmod
+consultiva	consultivo	ADJ	A	amod
+interregionale	interregionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+16	16	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+1970	1970	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+281	281	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+sentite	sentire	VERB	V	conj
+le	il	DET	RD	det
+organizzazioni	organizzazione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+lavoratori	lavoratore	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+associazioni	associazione	NOUN	S	conj
+imprenditoriali	imprenditoriale	ADJ	A	amod
+di	di	ADP	E	case
+categoria	categoria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+fissa	fissare	VERB	V	ROOT
+gli	il	DET	RD	det
+indirizzi	indirizzo	NOUN	S	obj
+generali	generale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+politica	politica	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+settore	settore	NOUN	S	obl
+minerario	minerario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+quadro	quadro	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+esigenze	esigenza	NOUN	S	nmod
+generali	generale	ADJ	A	amod
+di	di	ADP	E	case
+sviluppo	sviluppo	NOUN	S	nmod
+economico	economico	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Paese	paese	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ed	e	CCONJ	CC	cc
+in	in	ADP	E	case
+linea	linea	NOUN	S	conj
+con	con	ADP	E	case
+le	il	DET	RD	det
+politiche	politica	NOUN	S	nmod
+comunitarie	comunitario	ADJ	A	amod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+mineraria	minerario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	mark
+attuare	attuare	VERB	V	advcl
+una	uno	DET	RI	det
+politica	politica	NOUN	S	obj
+organica	organico	ADJ	A	amod
+di	di	ADP	E	case
+approvvigionamento	approvvigionamento	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+razionale	razionale	ADJ	A	amod
+utilizzazione	utilizzazione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+materie	materia	NOUN	S	nmod
+prime	primo	ADJ	NO	amod
+minerarie	minerario	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+CIPE	CIPE	PROPN	SP	ROOT
+
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+termine	termine	NOUN	S	obl
+suddetto	suddetto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+previo	previo	ADJ	A	amod
+parere	parere	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+commissione	commissione	NOUN	S	nmod
+consultiva	consultivo	ADJ	A	amod
+interregionale	interregionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+16	16	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+1970	1970	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+281	281	NUM	N	nummod
+,	,	PUNCT	FF	punct
+individua	individuare	VERB	V	ROOT
+inoltre	inoltre	ADV	B	advmod
+le	il	DET	RD	det
+sostanze	sostanza	NOUN	S	obj
+minerali	minerale	ADJ	A	amod
+che	che	PRON	PR	nsubj
+rivestono	rivestire	VERB	V	acl:relcl
+rilevante	rilevante	ADV	A	advmod
+interesse	interesse	NOUN	S	obj
+per	per	ADP	E	case
+il	il	DET	RD	det
+Paese	paese	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+indica	indicare	VERB	V	conj
+le	il	DET	RD	det
+azioni	azione	NOUN	S	obj
+da	da	ADP	E	mark
+intraprendere	intraprendere	VERB	V	acl
+per	per	ADP	E	case
+lo	il	DET	RD	det
+sviluppo	sviluppo	NOUN	S	obl
+del	di il	ADP	E_RD	case
+settore	settore	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+CIPE	CIPE	PROPN	SP	nsubj
+annualmente	annualmente	ADV	B	advmod
+verifica	verifica	NOUN	S	obj
+ed	e	CCONJ	CC	cc
+eventualmente	eventualmente	ADV	B	advmod
+modifica	modificare	VERB	A	conj
+,	,	PUNCT	FF	punct
+previo	previo	ADJ	A	amod
+parere	parere	NOUN	S	ROOT
+della	di il	ADP	E_RD	case
+commissione	commissione	NOUN	S	nmod
+consultiva	consultivo	ADJ	A	amod
+interregionale	interregionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+16	16	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+1979	1979	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+281	281	NUM	N	nummod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+indicazioni	indicazione	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+comma	comma	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+CIPE	CIPE	PROPN	SP	nsubj
+determina	determinare	VERB	V	ROOT
+i	il	DET	RD	det
+criteri	criterio	NOUN	S	obj
+per	per	ADP	E	case
+il	il	DET	RD	det
+coordinamento	coordinamento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+iniziative	iniziativa	NOUN	S	nmod
+suscettibili	suscettibile	ADJ	A	amod
+di	di	ADP	E	mark
+beneficiare	beneficiare	VERB	S	acl
+di	di	ADP	E	case
+aiuti	aiuto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+Comunità	comunità	NOUN	S	nmod
+economiche	economico	ADJ	A	amod
+europee	europeo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	nsubj
+3	3	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Nel	in il	ADP	E_RD	case
+quadro	quadro	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+indirizzi	indirizzo	NOUN	S	nmod
+di	di	ADP	E	case
+politica	politica	NOUN	S	nmod
+mineraria	minerario	ADJ	A	amod
+determinati	determinare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+CIPE	CIPE	PROPN	SP	obl:agent
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministero	Ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentiti	sentire	VERB	V	acl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	nsubj:pass
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+commissione	commissione	NOUN	S	conj
+consultiva	consultivo	ADJ	A	amod
+interregionale	interregionale	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+16	16	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+1970	1970	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+281	281	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+d'	di	ADP	E	case
+intesa	intesa	NOUN	S	conj
+con	con	ADP	E	case
+i	il	DET	RD	det
+Ministri	ministro	NOUN	S	nmod
+interessati	interessato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+predispone	predispone	NOUN	S	nsubj:pass
+entro	entro	ADP	E	case
+tre	tre	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+programmi	programma	NOUN	S	compound
+quinquennali	quinquennale	ADJ	A	amod
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+aggiornare	aggiornare	VERB	V	acl
+ed	e	CCONJ	CC	cc
+integrare	integrare	VERB	V	conj
+le	il	DET	RD	det
+conoscenze	conoscenza	NOUN	S	obj
+sulle	su il	ADP	E_RD	case
+risorse	risorsa	NOUN	S	obl
+minerarie	minerario	ADJ	A	amod
+nazionali	nazionale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+promuoverne	promuovere ne	VERB	V_PC	conj
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	obj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+I	il	DET	RD	det
+programmi	programma	NOUN	S	obj
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+i	il	DET	RD	det
+relativi	relativo	ADJ	A	amod
+aggiornamenti	aggiornamento	NOUN	S	conj
+e	e	CCONJ	CC	cc
+revisioni	revisione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+sottoposti	sottoporre	VERB	V	ROOT
+all'	a il	ADP	E_RD	case
+approvazione	approvazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Comitato	comitato	NOUN	S	nmod
+interministeriale	interministeriale	ADJ	A	amod
+per	per	ADP	E	case
+il	il	DET	RD	det
+coordinamento	coordinamento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+politica	politica	NOUN	S	nmod
+industriale	industriale	ADJ	A	amod
+(	(	PUNCT	FB	punct
+CIPI	CIPI	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+quale	quale	PRON	PR	nsubj
+li	li	PRON	PC	obj
+trasmette	trasmettere	VERB	V	acl:relcl
+al	a il	ADP	E_RD	case
+Parlamento	parlamento	PROPN	SP	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+I	il	DET	RD	det
+programmi	programma	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+stima	stima	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+fabbisogno	fabbisogno	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+di	di	ADP	E	case
+materie	materia	NOUN	S	nmod
+prime	primo	ADJ	NO	amod
+minerarie	minerario	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+consistenza	consistenza	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+risorse	risorsa	NOUN	S	nmod
+minerarie	minerario	ADJ	A	amod
+accertate	accertato	ADJ	A	amod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+previsione	previsione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+possibilità	possibilità	NOUN	S	nmod
+di	di	ADP	E	case
+integrazione	integrazione	NOUN	S	nmod
+di	di	ADP	E	case
+tali	tale	DET	DD	det
+risorse	risorsa	NOUN	S	nmod
+attraverso	attraverso	ADP	E	case
+partecipazioni	partecipazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+investimenti	investimento	NOUN	S	conj
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+indicano	indicare	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+iniziative	iniziativa	NOUN	S	obj
+per	per	ADP	E	case
+una	uno	DET	RI	det
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+su	su	ADP	E	case
+tutto	tutto	DET	T	det:predet
+il	il	DET	RD	det
+territorio	territorio	NOUN	S	nmod
+nazionale	nazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+fondo	fondo	NOUN	S	conj
+e	e	CCONJ	CC	cc
+sottofondo	sottofore	VERB	V	conj
+marino	marino	NOUN	S	obj
+della	di il	ADP	E_RD	case
+piattaforma	piattaforma	NOUN	S	nmod
+continentale	continentale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+indirizzi	indirizzo	NOUN	S	ROOT
+per	per	ADP	E	case
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	nmod
+operativa	operativo	ADJ	A	amod
+in	in	ADP	E	case
+Italia	Italia	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	PC	dep
+)	)	PUNCT	FB	punct
+gli	il	DET	RD	det
+indirizzi	indirizzo	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+promozione	promozione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	nmod
+scientifica	scientifico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+tecnologica	tecnologico	ADJ	A	conj
+nel	in il	ADP	E_RD	case
+settore	settore	NOUN	S	nmod
+minerario	minerario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Nei	in il	ADP	E_RD	case
+programmi	programma	NOUN	S	obl
+sono	essere	AUX	VA	aux
+indicati	indicare	VERB	V	ROOT
+le	il	DET	RD	det
+zone	zona	NOUN	S	nsubj
+da	da	ADP	E	mark
+studiare	studiare	VERB	V	acl
+e	e	CCONJ	CC	cc
+i	il	DET	RD	det
+minerali	minerale	NOUN	S	conj
+oggetto	oggetto	NOUN	S	compound
+delle	di il	ADP	E_RD	case
+ricerche	ricerca	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+In	in	ADP	E	case
+tali	tale	DET	DD	det
+zone	zona	NOUN	S	obl
+e	e	CCONJ	CC	cc
+per	per	ADP	E	case
+tali	tale	DET	DD	det
+minerali	minerale	NOUN	S	conj
+,	,	PUNCT	FF	punct
+fatte	fare	VERB	V	acl
+salve	salvo	ADJ	A	xcomp
+le	il	DET	RD	det
+competenze	competenza	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+sospeso	sospendere	VERB	V	ROOT
+il	il	DET	RD	det
+conferimento	conferimento	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+nuovi	nuovo	ADJ	A	amod
+permessi	permesso	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+fino	fino	ADP	E	case
+alla	a il	DET	E_RD	det
+conclusione	conclusione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+successivo	successivo	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+salvo	salvo	ADJ	A	amod
+provvedimento	provvedimento	NOUN	S	obl
+motivato	motivato	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	advcl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	obj
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+I	il	DET	RD	det
+titolari	titolare	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+permessi	permesso	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+per	per	ADP	E	case
+le	il	DET	RD	det
+sostanze	sostanza	NOUN	S	nmod
+minerarie	minerario	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+1	1	NUM	N	nummod
+sono	essere	AUX	VA	aux:pass
+tenuti	tenere	VERB	V	ROOT
+a	a	ADP	E	mark
+presentare	presentare	VERB	V	xcomp
+entro	entro	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+pubblicazione	pubblicazione	NOUN	S	nmod
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	nmod
+Ufficiale	Ufficiale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+delibera	delibera	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+CIPI	CIPI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+pena	pena	NOUN	S	obl
+di	di	ADP	E	case
+decadenza	decadenza	NOUN	S	nmod
+dal	da il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+progetti	progetto	NOUN	S	obl
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+adeguati	adeguare	VERB	V	acl
+alle	a il	ADP	E_RD	case
+manifestazioni	manifestazione	NOUN	S	obl
+presenti	presente	ADJ	A	amod
+nelle	in il	ADP	E_RD	case
+aree	area	ADJ	A	amod
+oggetto	oggetto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+minerario	minerario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Entro	entro	ADP	E	case
+sessanta	sessanta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+ricevimento	ricevimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministero	ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	advcl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	obj
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+competenti	competente	ADJ	A	amod
+organi	organo	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+pronuncia	pronunciare	VERB	V	ROOT
+sui	su il	ADP	E_RD	case
+progetti	progetto	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+comma	comma	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+valutazione	valutazione	NOUN	S	nmod
+negativa	negativo	ADJ	A	amod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+pronunciata	pronunciare	VERB	V	ROOT
+la	il	DET	RD	det
+decadenza	decadenza	NOUN	S	nsubj:pass
+dal	da il	ADP	E_RD	case
+titolo	titolo	NOUN	S	obl:agent
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+controllo	controllo	NOUN	S	nsubj:pass
+sull'	su il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+progetti	progetto	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+esercitato	esercitare	VERB	V	ROOT
+dagli	da il	ADP	E_RD	case
+ingegneri	ingegnere	NOUN	S	obl:agent
+capo	capo	NOUN	S	compound
+dei	di il	ADP	E_RD	case
+distretti	distretto	NOUN	S	nmod
+minerari	minerario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dai	da il	ADP	E_RD	case
+competenti	competente	ADJ	A	amod
+organi	organo	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+4	4	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+La	il	DET	RD	det
+ricerca	ricerca	NOUN	S	nsubj
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+consiste	consistere	VERB	V	acl
+nella	in il	ADP	E_RD	case
+raccolta	raccolta	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+documentazione	documentazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+bibliografia	bibliografia	NOUN	S	conj
+mineraria	minerario	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+nelle	in il	ADP	E_RD	case
+indagini	indagine	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+studi	studio	NOUN	S	conj
+sistematici	sistematico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+geologico	geologico	ADJ	A	conj
+-	-	PUNCT	FF	punct
+strutturali	strutturale	ADJ	A	conj
+e	e	CCONJ	CC	cc
+mineralogici	mineralogico	ADJ	A	conj
+finalizzati	finalizzare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	obl
+mineraria	minerario	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+nelle	in il	ADP	E_RD	case
+prospezioni	prospezione	NOUN	S	ROOT
+geologiche	geologico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+geofisiche	geofisico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+geochimiche	geochimico	ADJ	A	conj
+,	,	PUNCT	FF	punct
+geognostiche	geognostico	ADJ	A	conj
+,	,	PUNCT	FF	punct
+geostatiche	geostatico	ADJ	A	conj
+e	e	CCONJ	CC	cc
+giacimentologiche	giacimentologico	ADJ	A	conj
+;	;	PUNCT	FC	punct
+
+nella	in il	ADP	E_RD	case
+elaborazione	elaborazione	NOUN	S	ROOT
+di	di	ADP	E	case
+tutti	tutto	DET	T	det:predet
+i	il	DET	RD	det
+documenti	documento	NOUN	S	nmod
+interpretativi	interpretativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+relativi	relativo	ADJ	A	amod
+studi	studio	NOUN	S	conj
+illustrativi	illustrativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+presi	prendere	VERB	V	ROOT
+in	in	ADP	E	case
+considerazione	considerazione	NOUN	S	obl
+tutti	tutto	DET	T	det:predet
+gli	il	DET	RD	det
+elementi	elemento	NOUN	S	nsubj:pass
+geologici	geologico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+geofisici	geofisico	ADJ	A	conj
+,	,	PUNCT	FF	punct
+geochimici	geochimico	ADJ	A	conj
+e	e	CCONJ	CC	cc
+giacimentologici	giacimentologico	NOUN	S	conj
+che	che	PRON	PR	nsubj
+interessano	interessare	VERB	V	acl:relcl
+le	il	DET	RD	det
+strutture	struttura	NOUN	S	obj
+geominerarie	geominerario	ADJ	A	amod
+cui	cui	PRON	PR	nsubj
+possano	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+geneticamente	geneticamente	ADV	B	advmod
+legati	legare	VERB	V	acl:relcl
+giacimenti	giacimento	NOUN	S	obj
+minerari	minerario	ADJ	A	amod
+di	di	ADP	E	case
+qualsiasi	qualsiasi	DET	DI	det
+tipo	tipo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+compresi	comprendere	VERB	V	acl
+quelli	quello	PRON	PD	nsubj:pass
+relativi	relativo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+fluidi	fluido	NOUN	S	obl
+geotermici	geotermico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+ai	a il	ADP	E_RD	case
+minerali	minerale	NOUN	S	conj
+radioattivi	radioattivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+Ministero	ministero	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+svolge	svolgere	VERB	V	ROOT
+l'	il	DET	RD	det
+attività	attività	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+direttamente	direttamente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+tramite	tramite	ADP	E	case
+l'	il	DET	RD	det
+Ente	Ente	PROPN	SP	nmod
+nazionale	nazionale	ADJ	A	amod
+idrocarburi	idrocarburo	NOUN	A	amod
+,	,	PUNCT	FF	punct
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+di	di	ADP	E	case
+apposite	apposito	ADJ	A	amod
+convenzioni	convenzione	NOUN	S	nmod
+da	da	ADP	E	mark
+approvarsi	approvare si	VERB	V_PC	acl
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+di	di	ADP	E	case
+concerto	concerto	NOUN	S	nmod
+con	con	ADP	E	case
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	obl
+del	di il	ADP	E_RD	case
+tesoro	tesoro	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+qualora	qualora	SCONJ	CS	mark
+l'	il	DET	RD	det
+intervento	intervento	NOUN	S	nsubj
+ricada	ricada	ADV	V	conj
+in	in	ADP	E	case
+regioni	regione	NOUN	S	obl
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+nelle	in il	ADP	E_RD	case
+province	provincia	NOUN	S	conj
+autonome	autonomo	ADJ	A	amod
+di	di	ADP	E	case
+Trento	Trento	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+Bolzano	Bolzano	PROPN	SP	conj
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+rispetto	rispetto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+competenze	competenza	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Per	per	ADP	E	case
+lo	il	DET	RD	det
+svolgimento	svolgimento	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+territorio	territorio	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+può	potere	AUX	VM	aux
+stipulare	stipulare	VERB	V	ROOT
+convenzioni	convenzione	NOUN	S	obj
+,	,	PUNCT	FF	punct
+separatamente	separatamente	ADV	B	amod
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+compartecipazione	compartecipazione	NOUN	S	conj
+con	con	ADP	E	case
+l'	il	DET	RD	det
+ENI	ENI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+enti	ente	NOUN	S	obl
+ed	e	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+minerarie	minerario	ADJ	A	amod
+di	di	ADP	E	case
+emanazione	emanazione	NOUN	S	nmod
+regionale	regionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+purché	purché	SCONJ	CS	mark
+di	di	ADP	E	case
+comprovata	comprovato	ADJ	A	amod
+competenza	competenza	NOUN	S	advcl
+nel	in il	ADP	E_RD	case
+campo	campo	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+Il	il	DET	RD	det
+Ministero	ministero	NOUN	S	obj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+verifica	verifica	NOUN	S	amod
+in	in	ADP	E	case
+via	via	NOUN	S	nmod
+preliminare	preliminare	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+assicura	assicurare	VERB	V	conj
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+convenzioni	convenzione	NOUN	S	nmod
+la	il	DET	RD	det
+coerenza	coerenza	NOUN	S	obj
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+compatibilità	compatibilità	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+metodologie	metodologia	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+adottate	adottare	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Le	il	DET	RD	det
+convenzioni	convenzione	NOUN	S	nsubj
+devono	dovere	VERB	V	aux
+tra	tra	ADP	E	case
+l'	il	DET	RD	det
+altro	altro	PRON	PI	obl
+individuare	individuare	VERB	V	ROOT
+i	il	DET	RD	det
+temi	tema	NOUN	S	obj
+della	di il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+stabilirne	stabilire ne	VERB	V_PC	advcl
+il	il	DET	RD	det
+programma	programma	NOUN	S	obj
+di	di	ADP	E	case
+massima	massima	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+prevedere	prevedere	VERB	V	conj
+i	il	DET	RD	det
+tempi	tempo	NOUN	S	obj
+di	di	ADP	E	case
+realizzazione	realizzazione	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+stesso	stesso	PRON	PD	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+L'	il	DET	RD	det
+ENI	ENI	PROPN	SP	nsubj
+esercita	esercitare	VERB	V	ROOT
+l'	il	DET	RD	det
+attività	attività	NOUN	S	obj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+terzo	terzo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+della	di il	ADP	E_RD	case
+propria	proprio	DET	AP	det:poss
+legge	legge	NOUN	S	nmod
+istitutiva	istitutivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+può	potere	AUX	VM	aux
+avvalersi	avvalere si	VERB	V_PC	conj
+di	di	ADP	E	case
+studi	studio	NOUN	S	obl
+e	e	CCONJ	CC	cc
+ricerche	ricerca	NOUN	S	conj
+effettuati	effettuare	VERB	V	acl
+in	in	ADP	E	case
+proprio	proprio	PRON	PP	obl
+,	,	PUNCT	FF	punct
+ed	e	CCONJ	CC	cc
+effettuati	effettuare	VERB	V	advcl
+od	o	CCONJ	CC	cc
+effettuabili	effettuabile	ADJ	A	conj
+da	da	ADP	E	case
+parte	parte	NOUN	S	obl
+di	di	ADP	E	case
+università	università	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+altri	altro	ADJ	A	amod
+soggetti	soggetto	NOUN	S	conj
+pubblici	pubblico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+privati	privato	ADJ	A	conj
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+I	il	DET	RD	det
+possessori	possessore	NOUN	S	nsubj
+dei	di il	ADP	E_RD	case
+fondi	fondo	NOUN	S	nmod
+sui	su il	ADP	E_RD	case
+quali	quale	PRON	PR	obl
+vengono	venire	AUX	VA	aux:pass
+effettuate	effettuare	VERB	V	acl:relcl
+operazioni	operazione	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+non	non	ADV	BN	advmod
+possono	potere	AUX	VM	aux
+opporsi	opporre si	VERB	V_PC	ROOT
+all'	a il	ADP	E_RD	case
+effettuazione	effettuazione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+lavori	lavoro	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ferme	ferma	VERB	V	advcl
+restando	restare	VERB	V	advcl
+le	il	DET	RD	det
+vigenti	vigente	ADJ	A	amod
+norme	norma	NOUN	S	obj
+di	di	ADP	E	case
+polizia	polizia	NOUN	S	nmod
+mineraria	minerario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+I	il	DET	RD	det
+dati	dato	NOUN	S	nsubj:pass
+acquisiti	acquisire	VERB	V	acl
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	obl
+della	di il	ADP	E_RD	case
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+trasmessi	trasmessi	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+quale	quale	PRON	PR	nsubj
+li	li	PRON	PC	obj
+pone	porre	VERB	V	conj
+a	a	ADP	E	case
+disposizione	disposizione	NOUN	S	obl
+di	di	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+vi	vi	PRON	PC	iobj
+abbia	avere	VERB	V	acl:relcl
+interesse	interesse	NOUN	S	obj
+dandone	dandone	NOUN	S	nsubj
+avviso	avviso	NOUN	S	compound
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	obl
+Ufficiale	Ufficiale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+5	5	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Entro	entro	ADP	E	case
+trenta	trenta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+dalla	da il	ADP	E_RD	case
+delibera	delibera	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+CIPE	CIPE	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	acl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	xcomp
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+competenti	competente	ADJ	A	amod
+organi	organo	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+dichiara	dichiarare	VERB	V	parataxis
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+da	da	ADP	E	mark
+pubblicare	pubblicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	obl
+Ufficiale	Ufficiale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+aree	area	NOUN	S	nsubj
+che	che	PRON	PR	nsubj
+risultano	risultare	VERB	V	acl:relcl
+già	già	ADV	B	advmod
+indiziate	indiziare	VERB	V	xcomp
+per	per	ADP	E	case
+le	il	DET	RD	det
+sostanze	sostanza	NOUN	S	obl
+minerali	minerale	ADJ	A	amod
+in	in	ADP	E	case
+generale	generale	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+in	in	ADP	E	case
+particolare	particolare	NOUN	S	nmod
+per	per	ADP	E	case
+quelle	quello	PRON	PD	conj
+individuate	individuare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+predetto	predetto	NOUN	S	nmod
+articolo	articolo	NOUN	S	obl
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nelle	in il	ADP	E_RD	case
+quali	quale	PRON	PR	obl
+dar	dare	AUX	VA	aux
+corso	corso	VERB	V	ccomp
+ad	a	ADP	E	case
+una	uno	DET	RI	det
+ricerca	ricerca	NOUN	S	obl
+operativa	operativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	nsubj
+6	6	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+In	in	ADP	E	case
+base	base	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+risultati	risultato	NOUN	S	nmod
+ottenuti	ottenere	VERB	V	acl
+nello	in il	ADP	E_RD	case
+svolgimento	svolgimento	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	appos
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	acl
+il	il	DET	RD	det
+parere	parere	NOUN	S	obj
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+competenti	competente	ADJ	A	amod
+organi	organo	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+dichiara	dichiarare	VERB	V	ROOT
+le	il	DET	RD	det
+aree	area	NOUN	S	nsubj
+indiziate	indiziato	ADJ	A	amod
+per	per	ADP	E	case
+minerale	minerale	NOUN	S	nmod
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	nmod
+da	da	ADP	E	mark
+pubblicare	pubblicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	obl
+Ufficiale	Ufficiale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+7	7	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Relativamente	relativamente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+aree	area	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	nmod
+5	5	NUM	N	nummod
+e	e	CCONJ	CC	cc
+6	6	NUM	N	conj
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+richiedenti	richiedente	ADJ	A	amod
+titoli	titolo	NOUN	S	nsubj
+minerari	minerario	ADJ	A	amod
+devono	dovere	AUX	VM	aux
+presentare	presentare	VERB	V	ROOT
+programmi	programma	NOUN	S	obj
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sviluppo	sviluppo	NOUN	S	conj
+minerario	minerario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+da	da	ADP	E	mark
+valutarsi	valutare si	VERB	V_PC	advcl
+secondo	secondo	ADP	E	case
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+penultimo	penultimo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+8	8	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+La	il	DET	RD	det
+ricerca	ricerca	NOUN	S	nsubj
+operativa	operativo	ADJ	A	amod
+consiste	consistere	VERB	V	ROOT
+nell'	in il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	obl
+di	di	ADP	E	case
+studi	studio	NOUN	S	nmod
+di	di	ADP	E	case
+carattere	carattere	NOUN	S	nmod
+geogiacimentologico	geogiacimentologico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+geofisico	geofisico	ADJ	A	conj
+e	e	CCONJ	CC	cc
+geochimico	geochimico	ADJ	A	conj
+di	di	ADP	E	case
+dettaglio	dettaglio	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+nell'	in il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	ROOT
+di	di	ADP	E	case
+fori	foro	NOUN	S	nmod
+di	di	ADP	E	case
+sonda	sonda	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+scavi	scavo	NOUN	S	nmod
+a	a	ADP	E	case
+cielo	cielo	NOUN	S	nmod
+aperto	aperto	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+in	in	ADP	E	case
+sotterraneo	sotterraneo	NOUN	S	conj
+per	per	ADP	E	case
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+delimitazione	delimitazione	NOUN	S	conj
+di	di	ADP	E	case
+nuovi	nuovo	ADJ	A	amod
+giacimenti	giacimento	NOUN	S	nmod
+minerari	minerario	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+nelle	in il	ADP	E_RD	case
+operazioni	operazione	NOUN	S	ROOT
+di	di	ADP	E	case
+campionatura	campionatura	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+relative	relativo	ADJ	A	amod
+valutazioni	valutazione	NOUN	S	conj
+;	;	PUNCT	FC	punct
+nell'	in il	ADP	E_RD	case
+elaborazione	elaborazione	NOUN	S	nmod
+statistica	statistico	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+dati	dato	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+nell'	in il	ADP	E_RD	case
+esecuzione	esecuzione	NOUN	S	ROOT
+di	di	ADP	E	case
+studi	studio	NOUN	S	nmod
+di	di	ADP	E	case
+fattibilità	fattibilità	NOUN	S	nmod
+minerari	minerario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+mineralurgici	mineralurgico	ADJ	A	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	nsubj
+9	9	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+5	5	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+-------------------	-------------------	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+12	12	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Gli	il	DET	RD	det
+istituti	istituto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+aziende	azienda	NOUN	S	conj
+di	di	ADP	E	case
+credito	credito	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+19	19	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+25	25	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+1952	1952	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+949	949	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+integrazioni	integrazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+autorizzati	autorizzare	VERB	V	ROOT
+a	a	ADP	E	mark
+concedere	concedere	VERB	V	xcomp
+finanziamenti	finanziamento	NOUN	S	obj
+a	a	ADP	E	case
+tasso	tasso	NOUN	S	nmod
+agevolato	agevolare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+titolari	titolare	NOUN	S	obl
+di	di	ADP	E	case
+concessioni	concessione	NOUN	S	nmod
+di	di	ADP	E	case
+coltivazione	coltivazione	NOUN	S	nmod
+mineraria	minerario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+programmi	programma	NOUN	S	obl
+di	di	ADP	E	case
+investimenti	investimento	NOUN	S	nmod
+relativi	relativo	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+coltivazione	coltivazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+preparazione	preparazione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+valorizzazione	valorizzazione	NOUN	S	conj
+-	-	PUNCT	FF	punct
+ivi	ivi	ADV	B	advmod
+comprese	comprendere	VERB	V	advcl
+le	il	DET	RD	det
+opere	opera	NOUN	S	obj
+infrastrutturali	infrastrutturale	ADJ	A	amod
+-	-	PUNCT	FB	punct
+delle	di il	ADP	E_RD	case
+sostanze	sostanza	NOUN	S	nmod
+minerali	minerale	ADJ	A	amod
+definite	definire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+.	.	PUNCT	FS	ROOT
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Per	per	ADP	E	case
+le	il	DET	RD	det
+concessioni	concessione	NOUN	S	obl
+di	di	ADP	E	case
+coltivazione	coltivazione	NOUN	S	nmod
+già	già	ADV	B	advmod
+rilasciate	rilasciare	ADJ	A	amod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+domande	domanda	NOUN	S	nsubj
+relative	relativo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+finanziamento	finanziamento	NOUN	S	obl
+di	di	ADP	E	case
+nuovi	nuovo	ADJ	A	amod
+investimenti	investimento	NOUN	S	nmod
+devono	dovere	AUX	VM	aux
+riguardare	riguardare	VERB	V	ROOT
+programmi	programma	NOUN	S	obj
+di	di	ADP	E	case
+ampliamento	ampliamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ristrutturazione	ristrutturazione	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+ammodernamento	ammodernamento	NOUN	S	conj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Gli	il	DET	RD	det
+istituti	istituto	NOUN	S	nsubj
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+aziende	azienda	NOUN	S	conj
+di	di	ADP	E	case
+credito	credito	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dopo	dopo	SCONJ	CS	mark
+aver	avere	AUX	VA	aux
+deliberato	deliberare	VERB	V	advcl
+il	il	DET	RD	det
+finanziamento	finanziamento	NOUN	S	obj
+concedibile	concedibile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+trasmettono	trasmettere	VERB	V	ROOT
+al	a il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+domanda	domanda	NOUN	S	obj
+di	di	ADP	E	case
+ammissione	ammissione	NOUN	S	nmod
+al	a il	ADP	E_RD	case
+contributo	contributo	NOUN	S	nmod
+in	in	ADP	E	case
+conto	conto	NOUN	S	nmod
+interessi	interesse	NOUN	S	compound
+,	,	PUNCT	FF	punct
+corredata	corredare	VERB	V	acl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+modulo	modulo	NOUN	S	obl
+di	di	ADP	E	case
+notizie	notizia	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+relativa	relativo	ADJ	A	amod
+istruttoria	istruttorio	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+approva	approvare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+emanato	emanare	ADJ	A	acl
+di	di	ADP	E	case
+concerto	concerto	NOUN	S	obl
+con	con	ADP	E	case
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	obl
+del	di il	ADP	E_RD	case
+tesoro	tesoro	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+modello	modello	NOUN	S	obj
+del	di il	ADP	E_RD	case
+modulo	modulo	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+comma	comma	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+contributo	contributo	NOUN	S	nsubj:pass
+in	in	ADP	E	case
+conto	conto	NOUN	S	nmod
+interessi	interesse	NOUN	A	nmod
+è	essere	AUX	VA	aux:pass
+concesso	concedere	VERB	V	ROOT
+sulle	su il	ADP	E_RD	case
+singole	singolo	ADJ	A	amod
+operazioni	operazione	NOUN	S	obl
+dal	da il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+proprio	proprio	DET	AP	det:poss
+decreto	decreto	NOUN	S	obl
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	advcl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	obj
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+qualora	qualora	SCONJ	CS	dep
+l'	il	DET	RD	det
+intervento	intervento	NOUN	S	conj
+ricada	ricada	ADV	V	amod
+nei	in il	ADP	E_RD	case
+rispettivi	rispettivo	ADJ	A	amod
+territori	territorio	NOUN	S	obl
+d'	di	ADP	E	case
+intesa	intesa	NOUN	S	nmod
+con	con	ADP	E	case
+i	il	DET	RD	det
+competenti	competente	ADJ	A	amod
+organi	organo	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+regioni	regione	NOUN	S	nmod
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+La	il	DET	RD	det
+misura	misura	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+finanziamento	finanziamento	NOUN	S	nmod
+agevolato	agevolato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+durata	durata	NOUN	S	nmod
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+quindici	quindici	NUM	N	nummod
+anni	anno	NOUN	S	obl
+e	e	CCONJ	CC	cc
+con	con	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	conj
+massimo	massimo	ADJ	A	amod
+di	di	ADP	E	case
+preammortamento	preammortamento	NOUN	S	nmod
+di	di	ADP	E	case
+cinque	cinque	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+pari	pari	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+70	70	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+degli	di il	ADP	E_RD	case
+investimenti	investimento	NOUN	S	nmod
+necessari	necessario	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+estrazione	estrazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+preparazione	preparazione	NOUN	S	conj
+del	di il	ADP	E_RD	case
+minerale	minerale	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ivi	ivi	ADV	B	advmod
+comprese	comprendere	VERB	V	acl
+le	il	DET	RD	det
+opere	opera	NOUN	S	obj
+infrastrutturali	infrastrutturale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+contributo	contributo	NOUN	S	nsubj
+in	in	ADP	E	case
+conto	conto	NOUN	S	nmod
+interessi	interesse	ADJ	A	amod
+è	essere	AUX	V	cop
+pari	pari	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+70	70	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+del	di il	ADP	E_RD	case
+tasso	tasso	NOUN	S	nmod
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+determinato	determinare	VERB	V	advcl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+20	20	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+9	9	NUM	N	obl
+novembre	novembre	NOUN	S	flat
+1976	1976	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	obl
+902	902	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modifiche	modifica	NOUN	S	conj
+e	e	CCONJ	CC	cc
+integrazioni	integrazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	conj
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+stipulazione	stipulazione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+contratto	contratto	NOUN	S	nmod
+di	di	ADP	E	case
+finanziamento	finanziamento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Ai	a il	ADP	E_RD	case
+finanziamenti	finanziamento	NOUN	S	obl
+agevolati	agevolato	ADJ	A	amod
+concessi	concedere	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+gli	il	DET	RD	det
+articoli	articolo	NOUN	S	nsubj:pass
+11	11	NUM	N	nummod
+,	,	PUNCT	FF	punct
+21	21	NUM	N	conj
+e	e	CCONJ	CC	cc
+22	22	NUM	N	conj
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+9	9	NUM	N	nmod
+novembre	novembre	NOUN	S	flat
+1976	1976	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+902	902	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modifiche	modifica	NOUN	S	conj
+e	e	CCONJ	CC	cc
+integrazioni	integrazione	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+predetti	predetto	ADJ	A	amod
+finanziamenti	finanziamento	NOUN	S	nsubj
+usufruiscono	usufruisce	VERB	V	ROOT
+della	di il	ADP	E_RD	case
+garanzia	garanzia	NOUN	S	obl
+sussidiaria	sussidiario	ADJ	A	amod
+del	di il	ADP	E_RD	case
+fondo	fondo	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+20	20	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+12	12	NUM	N	obl
+agosto	agosto	NOUN	S	flat
+1977	1977	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	obl
+675	675	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Le	il	DET	RD	det
+agevolazioni	agevolazione	NOUN	S	nsubj
+previste	prevedere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	obl:agent
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+cumulabili	cumulabile	ADJ	A	ROOT
+con	con	ADP	E	case
+le	il	DET	RD	det
+agevolazioni	agevolazione	NOUN	S	obl
+previste	prevedere	VERB	V	acl
+da	da	ADP	E	case
+altre	altro	ADJ	A	amod
+leggi	legge	NOUN	S	obl:agent
+statali	statale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+mentre	mentre	SCONJ	CS	mark
+sono	essere	AUX	V	cop
+cumulabili	cumulabile	ADJ	A	advcl
+con	con	ADP	E	case
+quelle	quello	PRON	PD	obl
+concesse	concedere	VERB	V	acl
+da	da	ADP	E	case
+regioni	regione	NOUN	S	obl
+a	a	ADP	E	case
+statuto	statuto	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+dalle	da il	ADP	E_RD	case
+province	provincia	NOUN	S	obl
+autonome	autonomo	ADJ	A	amod
+di	di	ADP	E	case
+Trento	Trento	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+Bolzano	Bolzano	PROPN	SP	conj
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+organismi	organismo	NOUN	S	conj
+comunitari	comunitario	ADJ	A	amod
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+enti	ente	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+organismi	organismo	NOUN	S	conj
+internazionali	internazionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nei	in il	ADP	E_RD	case
+limiti	limite	NOUN	S	obl
+da	da	ADP	E	mark
+stabilire	stabilire	VERB	V	acl
+con	con	ADP	E	case
+delibera	delibera	NOUN	S	obl
+del	di il	ADP	E_RD	case
+CIPE	CIPE	PROPN	SP	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Limitatamente	Limitatamente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+iniziative	iniziativa	NOUN	S	obl
+localizzate	localizzare	ADJ	A	amod
+nei	in il	ADP	E_RD	case
+territori	territorio	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+1	1	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	PROPN	SP	nmod
+6	6	NUM	N	nmod
+marzo	marzo	NOUN	S	flat
+1978	1978	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+218	218	NUM	N	nummod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	ROOT
+il	il	DET	RD	det
+cumulo	cumulo	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+finanziamento	finanziamento	NOUN	S	nmod
+a	a	ADP	E	case
+tasso	tasso	NOUN	S	nmod
+agevolato	agevolare	VERB	VA	acl
+previsto	prevedere	VERB	V	advcl
+dal	da il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+articolo	articolo	NOUN	S	obl
+12	12	NUM	N	nummod
+con	con	ADP	E	case
+il	il	DET	RD	det
+contributo	contributo	NOUN	S	obl
+in	in	ADP	E	case
+conto	conto	NOUN	S	nmod
+capitale	capitale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+cumulo	cumulo	NOUN	S	nsubj
+degli	di il	ADP	E_RD	case
+interventi	intervento	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+precedente	precedente	ADJ	A	amod
+comma	comma	NOUN	S	nmod
+non	non	ADV	BN	advmod
+deve	dovere	AUX	VM	aux
+superare	superare	VERB	V	ROOT
+il	il	DET	RD	det
+70	70	NUM	N	obj
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+del	di il	ADP	E_RD	case
+costo	costo	NOUN	S	nmod
+globale	globale	ADJ	A	amod
+preventivo	preventivo	ADJ	A	amod
+del	di il	ADP	E_RD	case
+programma	programma	NOUN	S	nmod
+di	di	ADP	E	case
+investimento	investimento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	nsubj
+14	14	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Per	per	ADP	E	case
+motivi	motivo	NOUN	S	nmod
+strategici	strategico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+economia	economia	NOUN	S	conj
+generale	generale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+Paese	paese	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+CIPI	CIPI	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+la	il	DET	RD	det
+partecipazione	partecipazione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+Ministri	ministro	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+affari	affare	NOUN	S	nmod
+esteri	estero	ADJ	A	amod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+difesa	difesa	NOUN	S	conj
+,	,	PUNCT	FF	punct
+può	potere	AUX	VM	aux
+deliberare	deliberare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+su	su	ADP	E	case
+proposta	proposta	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	advcl
+il	il	DET	RD	det
+Consiglio	consiglio	NOUN	S	obj
+superiore	superiore	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+miniere	miniera	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+regioni	regione	NOUN	S	conj
+interessate	interessato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+mantenimento	mantenimento	NOUN	S	obj
+in	in	ADP	E	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+potenziale	potenziale	ADJ	A	amod
+coltivazione	coltivazione	NOUN	S	nmod
+di	di	ADP	E	case
+una	uno	NUM	N	nmod
+o	o	CCONJ	CC	cc
+più	più	ADV	B	advmod
+miniere	miniere	NOUN	S	conj
+per	per	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	nmod
+di	di	ADP	E	case
+tempo	tempo	NOUN	S	nmod
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+tre	tre	NUM	N	nummod
+anni	anno	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+parere	parere	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+regione	regione	NOUN	S	nmod
+deve	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+espresso	esprimere	VERB	V	ROOT
+entro	entro	ADP	E	case
+trenta	trenta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+dalla	da il	ADP	E_RD	case
+richiesta	richiesta	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+in	in	ADP	E	case
+mancanza	mancanza	NOUN	S	obl
+si	si	PRON	PC	expl:impers
+intende	intendere	VERB	V	ROOT
+espresso	esprimere	VERB	V	xcomp
+favorevolmente	favorevolmente	ADV	B	advmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Nella	in il	ADP	E_RD	case
+delibera	delibera	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	obl
+precedente	precedente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+CIPI	CIPI	PROPN	SP	nsubj
+determina	determinare	VERB	V	ROOT
+la	il	DET	RD	det
+decorrenza	decorrenza	NOUN	S	obj
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+potenziale	potenziale	ADJ	A	amod
+coltivazione	coltivazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+retroattiva	retroattivo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+non	non	ADV	BN	advmod
+anteriore	anteriore	ADJ	A	conj
+alla	a il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+ricevimento	ricevimento	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+domanda	domanda	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+concessionario	concessionario	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Nella	in il	ADP	E_RD	case
+proposta	proposta	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+devono	dovere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+indicati	indicare	VERB	V	ROOT
+i	il	DET	RD	det
+singoli	singolo	ADJ	A	amod
+minerali	minerale	NOUN	S	nsubj:pass
+e	e	CCONJ	CC	cc
+miniere	miniere	NOUN	S	conj
+interessati	interessato	ADJ	A	amod
+nonché	nonché	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+ciascuna	ciascuno	DET	DI	det
+miniera	miniera	NOUN	S	conj
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+spese	spesa	NOUN	S	nsubj:pass
+relative	relativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+quantità	quantità	NOUN	S	conj
+di	di	ADP	E	case
+manodopera	manodopera	NOUN	S	nmod
+necessaria	necessario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Durante	durante	ADP	E	case
+il	il	DET	RD	det
+mantenimento	mantenimento	NOUN	S	obl
+in	in	ADP	E	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+potenziale	potenziale	ADJ	A	amod
+coltivazione	coltivazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+può	potere	AUX	VM	aux
+autorizzare	autorizzare	VERB	V	ROOT
+una	uno	DET	RI	det
+produzione	produzione	NOUN	S	obj
+del	di il	ADP	E_RD	case
+minerale	minerale	NOUN	S	nmod
+limitatamente	limitatamente	ADV	B	advmod
+a	a	ADP	E	case
+quei	quello	DET	DD	det
+quantitativi	quantitativo	NOUN	S	obl
+che	che	PRON	PR	nsubj
+non	non	ADV	BN	advmod
+comportino	comportare	VERB	V	acl:relcl
+un	uno	DET	RI	det
+aumento	aumento	NOUN	S	obj
+della	di il	ADP	E_RD	case
+spesa	spesa	NOUN	S	nmod
+complessiva	complessivo	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+ovvero	ovvero	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+comportino	comportare	VERB	V	advcl
+un	uno	DET	RI	det
+aumento	aumento	NOUN	S	obj
+di	di	ADP	E	case
+spesa	spesa	NOUN	S	nmod
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+onere	onere	NOUN	S	obl
+a	a	ADP	E	case
+carico	carico	NOUN	S	nmod
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+per	per	ADP	E	case
+il	il	DET	RD	det
+trattamento	trattamento	NOUN	S	obl
+straordinario	straordinario	ADJ	A	amod
+di	di	ADP	E	case
+integrazione	integrazione	NOUN	S	nmod
+salariale	salariale	ADJ	A	amod
+per	per	ADP	E	case
+gli	il	DET	RD	det
+addetti	addetto	NOUN	S	nmod
+alla	a il	ADP	E_RD	case
+produzione	produzione	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Le	il	DET	RD	det
+spese	spesa	NOUN	S	nsubj
+complessive	complessivo	ADJ	A	amod
+sono	essere	AUX	V	cop
+a	a	ADP	E	case
+carico	carico	NOUN	S	ROOT
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+previsione	previsione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+e	e	CCONJ	CC	cc
+sono	essere	AUX	VA	aux:pass
+erogate	erogare	VERB	V	conj
+sotto	sotto	ADP	E	case
+forma	forma	NOUN	S	obl
+di	di	ADP	E	case
+contributi	contributo	NOUN	S	nmod
+per	per	ADP	E	case
+addetto	addetto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+da	da	ADP	E	mark
+determinarsi	determinare si	VERB	V_PC	xcomp
+,	,	PUNCT	FF	punct
+tenuto	tenere	VERB	V	advcl
+conto	conto	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+costi	costo	NOUN	S	nmod
+relativi	relativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+mano	mano	NOUN	S	conj
+d'	di	ADP	E	case
+opera	opera	NOUN	S	nmod
+necessaria	necessario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+Non	non	ADV	BN	advmod
+sono	essere	AUX	V	aux:pass
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	obl
+rimborsati	rimborsare	VERB	V	ROOT
+i	il	DET	RD	det
+maggiori	maggiore	ADJ	A	amod
+costi	costo	NOUN	S	nsubj:pass
+necessari	necessario	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+produzione	produzione	NOUN	S	obl
+autorizzata	autorizzato	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+precedente	precedente	ADJ	A	nmod
+secondo	secondo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+L'	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+ai	a il	ADP	E_RD	case
+commi	comma	NOUN	S	obl
+precedenti	precedente	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+svolta	svolgere	VERB	V	ROOT
+dai	da il	ADP	E_RD	case
+concessionari	concessionario	NOUN	S	obl:agent
+sotto	sotto	ADP	E	case
+la	il	DET	RD	det
+vigilanza	vigilanza	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+può	potere	AUX	VM	aux
+disporre	disporre	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+previa	previo	ADJ	A	amod
+presentazione	presentazione	NOUN	S	obl
+di	di	ADP	E	case
+apposita	apposito	ADJ	A	amod
+fidejussione	fidejussione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+erogazione	erogazione	NOUN	S	obj
+di	di	ADP	E	case
+anticipazioni	anticipazione	NOUN	S	nmod
+in	in	ADP	E	case
+misura	misura	NOUN	S	nmod
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+al	a il	ADP	E_RD	case
+30	30	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+del	di il	ADP	E_RD	case
+contributo	contributo	NOUN	S	nmod
+annuo	annuo	ADJ	A	amod
+deliberato	deliberato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Con	con	ADP	E	case
+la	il	DET	RD	det
+stessa	stesso	ADJ	A	amod
+procedura	procedura	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+CIPI	CIPI	PROPN	SP	nsubj
+può	potere	AUX	VM	aux
+deliberare	deliberare	VERB	V	ROOT
+la	il	DET	RD	det
+cessazione	cessazione	NOUN	S	obj
+del	di il	ADP	E_RD	case
+mantenimento	mantenimento	NOUN	S	nmod
+in	in	ADP	E	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+potenziale	potenziale	ADJ	A	amod
+coltivazione	coltivazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obj
+16	16	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+utilizzo	utilizzo	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+fondo	fondo	NOUN	S	nmod
+speciale	speciale	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	nmod
+applicata	applicare	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+alla	a il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+25	25	NUM	N	nmod
+ottobre	ottobre	NOUN	S	flat
+1968	1968	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+1089	1089	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+successive	successivo	ADJ	A	amod
+modificazioni	modificazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+CIPI	CIPI	PROPN	SP	nsubj
+considera	considerare	VERB	V	ROOT
+con	con	ADP	E	case
+priorità	priorità	NOUN	S	obl
+le	il	DET	RD	det
+domande	domanda	NOUN	S	obj
+relative	relativo	ADJ	A	amod
+a	a	ADP	E	case
+progetti	progetto	NOUN	S	obl
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+applicata	applicato	ADJ	A	amod
+rivolti	rivolgere	VERB	V	acl
+alla	a il	ADP	E_RD	case
+messa	messa	NOUN	S	obl
+a	a	ADP	E	case
+punto	punto	NOUN	S	nmod
+di	di	ADP	E	case
+nuovi	nuovo	ADJ	A	amod
+metodi	metodo	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+perfezionamento	perfezionamento	NOUN	S	conj
+di	di	ADP	E	case
+quelli	quello	PRON	PD	nmod
+esistenti	esistere	VERB	V	acl
+per	per	ADP	E	case
+lo	il	DET	RD	det
+sviluppo	sviluppo	NOUN	S	obl
+tecnologico	tecnologico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+razionalizzazione	razionalizzazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+procedimenti	procedimento	NOUN	S	nmod
+di	di	ADP	E	case
+estrazione	estrazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+trattamento	trattamento	NOUN	S	conj
+e	e	CCONJ	CC	cc
+valorizzazione	valorizzazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+minerali	minerale	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+la	il	DET	RD	det
+elaborazione	elaborazione	NOUN	S	obl
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+sperimentazione	sperimentazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+processi	processo	NOUN	S	nmod
+mineralurgici	mineralurgico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+metallurgici	metallurgico	NOUN	S	conj
+sostitutivi	sostitutivo	ADJ	A	amod
+di	di	ADP	E	case
+quelli	quello	PRON	PD	nmod
+tradizionali	tradizionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+per	per	ADP	E	case
+l'	il	DET	RD	det
+aumento	aumento	NOUN	S	conj
+della	di il	ADP	E_RD	case
+produttività	produttività	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+CIPI	CIPI	PROPN	SP	nsubj
+può	potere	AUX	VM	aux
+altresì	altresì	ADV	B	advmod
+prendere	prendere	VERB	V	ROOT
+in	in	ADP	E	case
+considerazione	considerazione	NOUN	S	obl
+i	il	DET	RD	det
+progetti	progetto	NOUN	S	obj
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+applicata	applicare	VERB	V	acl
+relativi	relativo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+moduli	modulo	NOUN	S	obl
+polimetallici	polimetallico	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+17	17	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+5	5	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+-------------------	-------------------	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Tra	tra	ADP	E	case
+le	il	DET	RD	det
+operazioni	operazione	NOUN	S	nmod
+assicurabili	assicurabile	ADJ	A	amod
+in	in	ADP	E	case
+relazione	relazione	NOUN	S	obl
+ai	a il	ADP	E_RD	case
+rischi	rischio	NOUN	S	nmod
+politici	politico	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+15	15	NUM	N	nummod
+,	,	PUNCT	FF	punct
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	appos
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	conj
+e	e	CCONJ	CC	nummod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+24	24	NUM	N	nummod
+maggio	maggio	NOUN	S	flat
+1977	1977	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+227	227	NUM	N	nummod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+comprese	comprendere	VERB	V	ROOT
+quelle	quello	PRON	PD	nsubj:pass
+inerenti	inerente	ADJ	A	amod
+le	il	DET	RD	det
+attività	attività	NOUN	S	obj
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sviluppo	sviluppo	NOUN	S	conj
+e	e	CCONJ	CC	cc
+produzione	produzione	NOUN	S	conj
+di	di	ADP	E	case
+minerali	minerale	NOUN	S	nmod
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+19	19	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+riferisce	riferire	VERB	V	ROOT
+annualmente	annualmente	ADV	B	advmod
+al	a il	ADP	E_RD	case
+Parlamento	parlamento	NOUN	SP	obl
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+30	30	NUM	N	obl
+giugno	giugno	NOUN	S	flat
+di	di	ADP	E	case
+ogni	ogni	DET	DI	det
+anno	anno	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sullo	su il	ADP	E_RD	case
+stato	stato	NOUN	S	obl
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sull'	su il	ADP	E_RD	case
+attuazione	attuazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+programmi	programma	NOUN	S	nmod
+in	in	ADP	E	case
+essa	esso	PRON	PE	obl
+previsti	prevedere	VERB	V	acl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	obl
+20	20	NUM	N	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Sono	essere	AUX	VA	aux:pass
+autorizzate	autorizzare	VERB	V	ROOT
+le	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+spese	spesa	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+da	da	ADP	E	mark
+iscrivere	iscrivere	VERB	V	advcl
+nello	in il	ADP	E_RD	case
+stato	stato	NOUN	S	obl
+di	di	ADP	E	case
+previsione	previsione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+,	,	PUNCT	FF	punct
+nel	in il	ADP	E_RD	case
+periodo	periodo	NOUN	S	obl
+1982	1982	NUM	N	nummod
+-	-	PUNCT	FF	punct
+86	86	NUM	N	compound
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	X	obj
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+la	il	DET	RD	det
+ricerca	ricerca	NOUN	S	obl
+di	di	ADP	E	case
+base	base	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lire	lira	NOUN	S	nmod
+60	60	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+b	b	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+l'	il	DET	RD	det
+erogazione	erogazione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+contributi	contributo	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+9	9	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lire	lira	NOUN	S	conj
+100	100	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+le	il	DET	RD	det
+miniere	miniera	NOUN	S	obl
+mantenute	mantenere	VERB	V	acl
+in	in	ADP	E	case
+stato	stato	NOUN	S	obl
+di	di	ADP	E	case
+potenziale	potenziale	ADJ	A	amod
+coltivazione	coltivazione	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+14	14	NUM	N	nummod
+o	o	CCONJ	CC	cc
+mantenute	mantenere	VERB	V	conj
+in	in	ADP	E	case
+fase	fase	NOUN	S	obl
+produttiva	produttivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+riattivate	riattivare	VERB	V	conj
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+15	15	NUM	N	nummod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+somma	somma	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+lire	lira	NOUN	S	nmod
+110	110	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	det:poss
+lire	lira	NOUN	S	nmod
+2	2	NUM	N	nummod
+miliardi	miliardo	NOUN	S	obj
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+1982	1982	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+la	il	DET	RD	det
+promozione	promozione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+mineraria	minerario	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+acquisizione	acquisizione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+partecipazione	partecipazione	NOUN	S	conj
+in	in	ADP	E	case
+miniere	miniere	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+17	17	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lire	lira	NOUN	S	nmod
+100	100	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	det:poss
+lire	lira	NOUN	S	nmod
+2	2	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+1982	1982	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+i	il	DET	RD	det
+programmi	programma	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+punto	punto	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+delibera	delibera	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+CIPI	CIPI	PROPN	SP	nmod
+del	di il	ADP	E_RD	case
+17	17	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+1980	1980	NUM	N	flat
+,	,	PUNCT	FF	punct
+lire	lira	NOUN	S	conj
+20	20	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+1982	1982	NUM	N	nummod
+,	,	PUNCT	FF	punct
+erogabili	erogabile	ADJ	A	dep
+con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministro	ministro	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+industria	industria	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+commercio	commercio	NOUN	S	conj
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+artigianato	artigianato	NOUN	S	conj
+sentiti	sentire	VERB	V	acl
+i	il	DET	RD	det
+Ministri	ministro	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+tesoro	tesoro	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+partecipazioni	partecipazione	NOUN	S	conj
+statali	statale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+Sono	essere	AUX	VA	cop
+altresì	altresì	ADV	B	advmod
+autorizzati	autorizzare	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+l'	il	DET	RD	det
+erogazione	erogazione	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+contributi	contributo	NOUN	S	nmod
+in	in	ADP	E	case
+conto	conto	NOUN	S	nmod
+interessi	interesse	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+12	12	NUM	N	nummod
+,	,	PUNCT	FF	punct
+quattro	quattro	NUM	N	nummod
+limiti	limite	NOUN	S	nmod
+di	di	ADP	E	case
+impegno	impegno	NOUN	S	nmod
+quindicennali	quindicennale	PRON	PR	amod
+,	,	PUNCT	FF	punct
+decorrenti	decorrere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+anni	anno	NOUN	S	obl
+1983	1983	NUM	N	nummod
+,	,	PUNCT	FF	punct
+1984	1984	NUM	N	conj
+,	,	PUNCT	FF	punct
+1985	1985	NUM	N	conj
+e	e	CCONJ	CC	cc
+1986	1986	NUM	N	conj
+,	,	PUNCT	FF	punct
+dell'	di il	ADP	E_RD	case
+importo	importo	NOUN	S	nmod
+di	di	ADP	E	case
+lire	lira	NOUN	S	nmod
+1	1	NUM	N	nummod
+miliardo	miliardo	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+1983	1983	NUM	N	nummod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+lire	lira	NOUN	S	conj
+3	3	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+per	per	ADP	E	case
+ciascuno	ciascuno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+tre	tre	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+successivi	successivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21	21	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+All'	a il	ADP	E_RD	case
+onere	onere	NOUN	S	nmod
+derivante	derivare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	obl
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+finanziario	finanziario	ADJ	A	amod
+1982	1982	NUM	N	nummod
+,	,	PUNCT	FF	punct
+valutato	valutare	VERB	V	acl
+in	in	ADP	E	case
+lire	lira	NOUN	S	obl
+24	24	NUM	N	nummod
+miliardi	miliardo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:impers
+provvede	provvedere	VERB	V	parataxis
+mediante	mediante	ADP	E	case
+corrispondente	corrispondente	ADJ	A	amod
+riduzione	riduzione	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+stanziamento	stanziamento	NOUN	S	nmod
+iscritto	iscritto	VERB	V	acl
+al	a il	ADP	E_RD	case
+capitolo	capitolo	NOUN	S	obl
+9001	9001	NUM	N	nummod
+dello	di il	ADP	E_RD	case
+stato	stato	NOUN	S	nmod
+di	di	ADP	E	case
+previsione	previsione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+tesoro	tesoro	NOUN	S	nmod
+per	per	ADP	E	case
+l'	il	DET	RD	det
+anno	anno	NOUN	S	nmod
+finanziario	finanziario	ADJ	A	amod
+medesimo	medesimo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+Ministro	ministro	NOUN	S	nsubj:pass
+del	di il	ADP	E_RD	case
+tesoro	tesoro	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+autorizzato	autorizzare	VERB	V	ROOT
+ad	a	ADP	E	mark
+apportare	apportare	VERB	V	xcomp
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+propri	proprio	DET	AP	det:poss
+decreti	decreto	NOUN	S	obl
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+occorrenti	occorrente	ADJ	A	amod
+variazioni	variazione	NOUN	S	conj
+di	di	ADP	E	case
+bilancio	bilancio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+La	il	DET	RD	det
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+munita	munire	VERB	V	advcl
+del	di il	ADP	E_RD	case
+sigillo	sigillo	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sarà	essere	AUX	VA	aux:pass
+inserta	insrire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+Raccolta	raccolta	NOUN	S	obl
+ufficiale	ufficiale	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+leggi	legge	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+decreti	decreto	NOUN	S	conj
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+a	a	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+spetti	spettare	VERB	V	nmod
+di	di	ADP	E	mark
+osservarla	osservare lo	VERB	V_PC	advcl
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+farla	fare lo	VERB	V_PC	conj
+osservare	osservare	VERB	V	ccomp
+come	come	ADP	E	case
+legge	legge	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Data	data	NOUN	S	ROOT
+a	a	ADP	E	case
+Roma	Roma	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+addì	addì	NOUN	S	nmod
+6	6	NUM	N	nmod
+ottobre	ottobre	NOUN	S	flat
+1982	1982	NUM	N	flat
+
+
+	
+
+	SPACE	_SP	dep
+PERTINI	PERTINI	PROPN	SP	nmod
+SPADOLINI	SPADOLINI	PROPN	SP	flat:name
+-	-	PUNCT	FF	punct
+MARCORA	MARCORA	PROPN	SP	nmod
+-	-	PUNCT	FF	punct
+LA	LA	DET	RD	det
+MALFA	MALFA	PROPN	SP	appos
+-	-	PUNCT	FF	punct
+FORMICA	FORMICA	PROPN	SP	appos
+-	-	PUNCT	FF	punct
+ANDREATTA	ANDREATTA	PROPN	SP	flat:name
+-	-	PUNCT	FF	punct
+DE	DE	PROPN	S	appos
+MICHELIS	MICHELIS	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Visto	Visto	VERB	V	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Guardasigilli	Guardasigilli	PROPN	SP	nsubj:pass
+:	:	PUNCT	FC	punct
+
+DARIDA	DARIDA	PROPN	SP	ROOT
+
+	
+	SPACE	_SP	dep

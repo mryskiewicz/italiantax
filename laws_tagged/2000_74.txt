@@ -1,0 +1,7624 @@
+Art.	articolo	NOUN	S	ROOT
+1	1	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Definizioni	definizioni	PROPN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	ROOT
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+fatture	fattura	NOUN	S	obl
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	ROOT
+le	il	DET	RD	det
+fatture	fattura	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+aventi	avere	VERB	V	acl
+rilievo	rilievo	NOUN	S	obj
+probatorio	probatorio	ADJ	A	amod
+analogo	analogo	ADJ	A	amod
+in	in	ADP	E	case
+base	base	NOUN	S	obl
+alle	a il	ADP	E_RD	case
+norme	norma	NOUN	S	nmod
+tributarie	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+emessi	emettere	VERB	V	advcl
+a	a	ADP	E	case
+fronte	fronte	NOUN	S	obl
+di	di	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+non	non	ADV	BN	advmod
+realmente	realmente	ADV	B	advmod
+effettuate	effettuare	VERB	V	acl
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+o	o	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+indicano	indicare	VERB	V	conj
+i	il	DET	RD	det
+corrispettivi	corrispettivo	NOUN	S	obj
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+imposta	imposta	NOUN	S	conj
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	nmod
+aggiunto	aggiungere	VERB	A	acl
+in	in	ADP	E	case
+misura	misura	NOUN	S	obl
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+quella	quello	PRON	PD	obl
+reale	reale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+riferiscono	riferire	VERB	V	conj
+l'	il	DET	RD	det
+operazione	operazione	NOUN	S	obj
+a	a	ADP	E	case
+soggetti	soggetto	NOUN	S	obl
+diversi	diverso	ADJ	A	amod
+da	da	ADP	E	case
+quelli	quello	PRON	PD	obl
+effettivi	effettivo	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+elementi	elemento	NOUN	S	obl
+attivi	attivo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+passivi	passivo	NOUN	S	conj
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	ROOT
+le	il	DET	RD	det
+componenti	componente	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+espresse	espresse	VERB	V	conj
+in	in	ADP	E	case
+cifra	cifra	NOUN	S	obl
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+concorrono	concorrere	VERB	V	dep
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+senso	senso	NOUN	S	obl
+positivo	positivo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+negativo	negativo	ADJ	A	conj
+,	,	PUNCT	FF	punct
+alla	a il	ADP	E_RD	case
+determinazione	determinazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+reddito	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+basi	base	NOUN	S	conj
+imponibili	imponibile	ADJ	A	amod
+rilevanti	rilevante	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+imposte	imposta	NOUN	S	nmod
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+componenti	componente	NOUN	S	conj
+che	che	PRON	PR	nsubj
+incidono	incidono	VERB	V	acl:relcl
+sulla	su il	ADP	E_RD	case
+determinazione	determinazione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	S	nmod
+dovuta	dovuto	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+dichiarazioni	dichiarazione	NOUN	S	obl
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	conj
+anche	anche	ADV	B	advmod
+le	il	DET	RD	det
+dichiarazioni	dichiarazione	NOUN	S	nsubj:pass
+presentate	presentare	VERB	V	acl
+in	in	ADP	E	case
+qualità	qualità	NOUN	S	obl
+di	di	ADP	E	case
+amministratore	amministratore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+liquidatore	liquidatore	NOUN	S	conj
+o	o	CCONJ	CC	cc
+rappresentante	rappresentante	NOUN	S	conj
+di	di	ADP	E	case
+società	società	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+enti	ente	NOUN	S	conj
+o	o	CCONJ	CC	cc
+persone	persona	NOUN	S	conj
+fisiche	fisico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+sostituto	sostituto	NOUN	S	conj
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	obl:agent
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+il	il	DET	RD	det
+"	"	PUNCT	FB	punct
+fine	fine	NOUN	S	nsubj
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+"	"	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+il	il	DET	RD	det
+"	"	PUNCT	FB	punct
+fine	fine	NOUN	S	conj
+di	di	ADP	E	mark
+consentire	consentire	VERB	V	acl
+a	a	ADP	E	case
+terzi	terzo	NOUN	S	xcomp
+l'	il	DET	RD	det
+evasione	evasione	NOUN	S	obj
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	ROOT
+comprensivi	comprensivo	NOUN	S	xcomp
+,	,	PUNCT	FF	punct
+rispettivamente	rispettivamente	ADV	B	advmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+del	di il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+conseguire	conseguire	VERB	V	acl
+un	uno	DET	RI	det
+indebito	indebito	ADJ	A	amod
+rimborso	rimborso	NOUN	S	obj
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+riconoscimento	riconoscimento	NOUN	S	conj
+di	di	ADP	E	case
+un	uno	DET	RI	det
+inesistente	inesistente	NOUN	S	amod
+credito	credito	NOUN	S	obj
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+fine	fine	NOUN	S	conj
+di	di	ADP	E	mark
+consentirli	consentire li	VERB	V_PC	acl
+a	a	ADP	E	case
+terzi	terzo	ADJ	NO	xcomp
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+riguardo	riguardo	ADP	E	case
+ai	a il	DET	E_RD	det
+fatti	fatto	NOUN	S	conj
+commessi	commettere	VERB	V	acl
+da	da	ADP	E	case
+chi	chi	PRON	PR	obl:agent
+agisce	agire	VERB	V	acl:relcl
+in	in	ADP	E	case
+qualità	qualità	NOUN	S	obl
+di	di	ADP	E	case
+amministratore	amministratore	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+liquidatore	liquidatore	NOUN	S	conj
+o	o	CCONJ	CC	cc
+rappresentante	rappresentante	NOUN	S	conj
+di	di	ADP	E	case
+società	società	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+enti	ente	NOUN	S	conj
+o	o	CCONJ	CC	cc
+persone	persona	NOUN	S	conj
+fisiche	fisico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+"	"	PUNCT	FB	punct
+fine	fine	NOUN	S	nsubj
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+"	"	PUNCT	FB	punct
+ed	e	CCONJ	CC	cc
+il	il	DET	RD	det
+"	"	PUNCT	FB	punct
+fine	fine	NOUN	S	conj
+di	di	ADP	E	mark
+sottrarsi	sottrarre si	VERB	V_PC	acl
+al	a il	ADP	E_RD	case
+pagamento	pagamento	NOUN	S	obl
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	advcl
+riferiti	riferire	VERB	V	xcomp
+alla	a il	ADP	E_RD	case
+società	società	NOUN	S	obl
+,	,	PUNCT	FF	punct
+all'	a il	ADP	E_RD	case
+ente	ente	NOUN	S	conj
+o	o	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+persona	persona	NOUN	S	conj
+fisica	fisico	ADJ	A	amod
+per	per	ADP	E	case
+conto	conto	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+quale	quale	PRON	PR	obl
+si	si	PRON	PC	expl:impers
+agisce	agire	VERB	V	acl:relcl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+f	f	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+imposta	imposta	ADJ	A	amod
+evasa	evasa	NOUN	S	obl
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intende	intendere	VERB	V	conj
+la	il	DET	RD	det
+differenza	differenza	NOUN	S	obj
+tra	tra	ADP	E	case
+l'	il	DET	RD	det
+imposta	imposta	NOUN	S	nmod
+effettivamente	effettivamente	ADV	B	advmod
+dovuta	dovuto	ADJ	A	amod
+e	e	CCONJ	CC	cc
+quella	quello	PRON	PD	conj
+indicata	indicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+l'	il	DET	RD	det
+intera	intero	ADJ	A	amod
+imposta	imposta	NOUN	S	conj
+dovuta	dovere	VERB	V	acl
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+omessa	omesso	ADJ	A	amod
+dichiarazione	dichiarazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+netto	netto	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+somme	somma	NOUN	S	nmod
+versate	versare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+contribuente	contribuente	NOUN	S	obl:agent
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+terzi	terzo	ADJ	NO	conj
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+acconto	acconto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+ritenuta	ritenuta	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+in	in	ADP	E	case
+pagamento	pagamento	NOUN	S	conj
+di	di	ADP	E	case
+detta	detta	NOUN	S	nmod
+imposta	impostare	VERB	V	acl
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+presentazione	presentazione	NOUN	S	obl
+della	di il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+scadenza	scadenza	NOUN	S	conj
+del	di il	ADP	E_RD	case
+relativo	relativo	ADJ	A	amod
+termine	termine	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+imposta	imporre	VERB	V	xcomp
+evasa	evasa	NOUN	S	xcomp
+quella	quello	DET	DD	det
+teorica	teorico	ADJ	A	xcomp
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+effettivamente	effettivamente	ADV	B	advmod
+dovuta	dovere	VERB	V	conj
+collegata	collegare	VERB	V	advcl
+a	a	ADP	E	case
+una	uno	DET	RI	det
+rettifica	rettifica	NOUN	S	obl
+in	in	ADP	E	case
+diminuzione	diminuzione	NOUN	S	nmod
+di	di	ADP	E	case
+perdite	perdita	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+esercizio	esercizio	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+perdite	perdita	NOUN	S	conj
+pregresse	pregre	VERB	E_RD	case
+spettanti	spettante	NOUN	A	obl
+e	e	CCONJ	CC	cc
+utilizzabili	utilizzabile	ADJ	A	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+soglie	soglia	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+punibilità	punibilità	NOUN	S	nmod
+riferite	riferire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+imposta	imposta	NOUN	A	amod
+evasa	evasa	NOUN	S	obl
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	conj
+estese	estese	NOUN	S	xcomp
+anche	anche	ADV	B	advmod
+all'	a il	ADP	E_RD	case
+ammontare	ammontare	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+indebito	indebito	NOUN	S	nmod
+rimborso	rimborso	NOUN	S	nmod
+richiesto	richiedere	ADJ	A	amod
+o	o	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+inesistente	inesistente	NOUN	S	amod
+credito	credito	NOUN	S	amod
+di	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+esposto	esporre	VERB	V	acl
+nella	in il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+g	g	X	X	ROOT
+-	-	X	X	punct
+bis	bis	NOUN	S	advmod
+)	)	PUNCT	FB	punct
+
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+operazioni	operazione	NOUN	S	obl
+simulate	simulare	VERB	V	acl
+oggettivamente	oggettivamente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+soggettivamente	soggettivamente	ADV	B	conj
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	ROOT
+le	il	DET	RD	det
+operazioni	operazione	NOUN	S	nsubj:pass
+apparenti	apparente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+diverse	diverso	ADJ	A	conj
+da	da	ADP	E	case
+quelle	quello	PRON	PD	obl
+disciplinate	disciplinare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+10-bis	10-bis	PROPN	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+27	27	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+2000	2000	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+212	212	NUM	N	nummod
+,	,	PUNCT	FF	punct
+poste	porre	VERB	V	acl
+in	in	ADP	E	mark
+essere	essere	AUX	V	xcomp
+con	con	ADP	E	case
+la	il	DET	RD	det
+volontà	volontà	NOUN	S	obl
+di	di	ADP	E	mark
+non	non	ADV	BN	advmod
+realizzarle	realizzare le	VERB	V_PC	acl
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+ovvero	ovvero	CCONJ	CC	cc
+le	il	DET	RD	det
+operazioni	operazione	NOUN	S	conj
+riferite	riferire	VERB	V	acl
+a	a	ADP	E	case
+soggetti	soggetto	ADJ	A	obl
+fittiziamente	fittiziamente	ADV	B	advmod
+interposti	interposto	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	nmod
+-	-	NOUN	S	punct
+ter	ter	NOUN	S	conj
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+mezzi	mezzo	NOUN	S	obl
+fraudolenti	fraudolento	ADJ	A	amod
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	conj
+condotte	condotto	ADJ	B	advmod
+artificiose	artificioso	ADJ	A	amod
+attive	attivo	ADJ	A	amod
+nonché	nonché	CCONJ	CC	cc
+quelle	quello	PRON	PD	det
+omissive	omissivo	ADJ	A	conj
+realizzate	realizzare	VERB	V	advcl
+in	in	ADP	E	case
+violazione	violazione	NOUN	S	obl
+di	di	ADP	E	case
+uno	uno	DET	RI	det
+specifico	specifico	ADJ	A	amod
+obbligo	obbligo	NOUN	S	nmod
+giuridico	giuridico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+determinano	determinare	VERB	V	acl:relcl
+una	uno	DET	RI	det
+falsa	falso	ADJ	A	amod
+rappresentazione	rappresentazione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+realtà	realtà	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	dep
+-	-	PUNCT	S	punct
+quater	quater	PROPN	SP	ROOT
+)	)	PUNCT	FB	punct
+
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+crediti	credito	NOUN	S	obl
+inesistenti	inesistente	ADJ	A	amod
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+crediti	credito	NOUN	S	nsubj
+per	per	ADP	E	case
+i	il	DET	RD	det
+quali	quale	PRON	PR	nmod
+mancano	mancare	VERB	V	conj
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+requisiti	requisito	NOUN	S	obj
+oggettivi	oggettivo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+soggettivi	soggettivo	ADJ	A	conj
+specificamente	specificamente	ADV	B	advmod
+indicati	indicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+disciplina	disciplina	NOUN	S	obl
+normativa	normativo	ADJ	A	amod
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+crediti	credito	NOUN	S	nsubj
+per	per	ADP	E	case
+i	il	DET	RD	det
+quali	quale	PRON	PR	nmod
+i	il	DET	RD	det
+requisiti	requisito	NOUN	S	nsubj
+oggettivi	oggettivo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+soggettivi	soggettivo	ADJ	A	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+numero	numero	NOUN	S	nmod
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+sono	essere	AUX	V	cop
+oggetto	oggetto	NOUN	S	conj
+di	di	ADP	E	case
+rappresentazioni	rappresentazione	NOUN	S	nmod
+fraudolente	fraudolente	ADV	A	amod
+,	,	PUNCT	FF	punct
+attuate	attuare	VERB	V	acl
+con	con	ADP	E	case
+documenti	documento	NOUN	S	obl
+materialmente	materialmente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+ideologicamente	ideologicamente	ADV	B	conj
+falsi	falso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+simulazioni	simulazione	NOUN	S	conj
+o	o	CCONJ	CC	cc
+artifici	artifico	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+g	g	X	X	nmod
+-	-	NOUN	S	punct
+quinquies	quinquies	X	S	nsubj
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+"	"	PUNCT	FB	punct
+crediti	credito	NOUN	S	obl
+non	non	ADV	BN	advmod
+spettanti	spettantare	VERB	V	acl
+"	"	PUNCT	FB	punct
+si	si	PRON	PC	expl:pass
+intendono	intendere	VERB	V	conj
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+crediti	credito	NOUN	S	nsubj:pass
+fruiti	fruire	VERB	V	acl
+in	in	ADP	E	case
+violazione	violazione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+modalità	modalità	NOUN	S	nmod
+di	di	ADP	E	case
+utilizzo	utilizzo	NOUN	S	nmod
+previste	prevedere	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+leggi	legge	NOUN	S	obl:agent
+vigenti	vigente	ADJ	A	amod
+ovvero	ovvero	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+la	il	DET	RD	det
+relativa	relativo	ADJ	A	amod
+eccedenza	eccedenza	NOUN	S	conj
+,	,	PUNCT	FF	punct
+quelli	quello	PRON	PD	nmod
+fruiti	fruire	VERB	V	acl
+in	in	ADP	E	case
+misura	misura	NOUN	S	obl
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+quella	quello	PRON	PD	obl
+stabilita	stabilire	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+norme	norma	NOUN	S	obl:agent
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+crediti	credito	NOUN	S	nsubj
+che	che	PRON	PR	nsubj
+,	,	PUNCT	FF	punct
+pur	pure	ADV	B	advmod
+in	in	ADP	E	case
+presenza	presenza	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+soggettivi	soggettivo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+oggettivi	oggettivo	ADJ	A	conj
+specificamente	specificamente	ADV	B	advmod
+indicati	indicare	VERB	V	acl
+nella	in il	ADP	E_RD	case
+disciplina	disciplina	NOUN	S	obl
+normativa	normativo	ADJ	A	amod
+di	di	ADP	E	case
+riferimento	riferimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+fondati	fondare	VERB	V	acl:relcl
+su	su	ADP	E	case
+fatti	fatto	NOUN	S	obl
+non	non	ADV	BN	advmod
+rientranti	rientrare	VERB	V	amod
+nella	in il	ADP	E_RD	case
+disciplina	disciplina	NOUN	S	obl
+attributiva	attributivo	ADJ	A	amod
+del	di il	ADP	E_RD	case
+credito	credito	NOUN	S	nmod
+per	per	ADP	E	case
+difetto	difetto	NOUN	S	obl
+di	di	ADP	E	case
+ulteriori	ulteriore	ADJ	A	amod
+elementi	elemento	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+particolari	particolare	ADJ	A	amod
+qualità	qualità	NOUN	S	conj
+richiesti	richiedere	VERB	V	acl
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+riconoscimento	riconoscimento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+credito	credito	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+3	3	NUM	N	nummod
+)	)	PUNCT	FB	punct
+i	il	DET	RD	det
+crediti	credito	NOUN	S	nsubj
+utilizzati	utilizzare	VERB	V	acl
+in	in	ADP	E	case
+difetto	difetto	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+prescritti	prescritto	NOUN	S	nmod
+adempimenti	adempimente	ADJ	A	amod
+amministrativi	amministrativo	ADJ	A	amod
+espressamente	espressamente	ADV	B	advmod
+previsti	prevedere	VERB	V	acl
+a	a	ADP	E	case
+pena	pena	NOUN	S	obl
+di	di	ADP	E	case
+decadenza	decadenza	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DELITTI	DELITTI	PROPN	SP	det
+
+	
+	SPACE	_SP	dep
+Capo	capo	NOUN	S	nmod
+I	i	DET	RD	punct
+
+	
+	SPACE	_SP	dep
+Delitti	delitti	NOUN	S	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+2	2	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Dichiarazione	dichiarazione	NOUN	S	nmod
+fraudolenta	fraudolengere	VERB	V	acl
+mediante	mediante	ADP	E	case
+uso	uso	NOUN	S	obl
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+quattro	quattro	NUM	N	nummod
+a	a	ADP	E	case
+otto	otto	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+anni	anno	NOUN	S	obl
+chiunque	chiunque	PRON	PI	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+avvalendosi	avvalere si	VERB	V_PC	advcl
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	obl
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+indica	indicare	VERB	V	advcl
+in	in	ADP	E	case
+una	uno	PRON	PI	obl
+delle	di il	ADP	E_RD	case
+dichiarazioni	dichiarazione	NOUN	S	nmod
+relative	relativo	ADJ	A	amod
+a	a	ADP	E	case
+dette	detto	ADJ	A	amod
+imposte	imposta	NOUN	S	obl
+elementi	elemento	NOUN	S	compound
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	xcomp
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+commesso	commettere	VERB	V	xcomp
+avvalendosi	avvalendoso	VERB	V_PC	xcomp
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	obl
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+quando	quando	SCONJ	CS	mark
+tali	tale	DET	DD	det
+fatture	fattura	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+documenti	documento	NOUN	S	conj
+sono	essere	AUX	VA	aux:pass
+registrati	registrare	VERB	V	advcl
+nelle	in il	ADP	E_RD	case
+scritture	scrittura	NOUN	S	obl
+contabili	contabile	ADJ	A	amod
+obbligatorie	obbligatorio	ADJ	A	amod
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+sono	essere	AUX	VA	aux
+detenuti	detenere	VERB	V	conj
+a	a	ADP	E	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+finanziaria	finanziario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+2-bis	2-bis	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	nmod
+è	essere	AUX	V	cop
+inferiore	inferiore	ADJ	A	advcl
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+centomila	centomilo	ADJ	A	obj
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	nsubj:pass
+da	da	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	conj
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+3	3	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Dichiarazione	dichiarazione	NOUN	S	nmod
+fraudolenta	fraudolengere	VERB	V	acl
+mediante	mediante	ADP	E	case
+altri	altro	ADJ	A	amod
+artifici	artifico	NOUN	S	obl
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Fuori	fuori	ADV	B	case
+dai	da il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+tre	tre	NUM	N	nummod
+a	a	ADP	E	case
+otto	otto	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+anni	anno	NOUN	S	obl
+chiunque	chiunque	PRON	PI	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+compiendo	compiere	VERB	V	advcl
+operazioni	operazione	NOUN	S	obj
+simulate	simulare	VERB	V	acl
+oggettivamente	oggettivamente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+soggettivamente	soggettivamente	ADV	B	conj
+ovvero	ovvero	CCONJ	CC	cc
+avvalendosi	avvalere si	VERB	V_PC	conj
+di	di	ADP	E	case
+documenti	documento	NOUN	S	obl
+falsi	falso	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+altri	altro	ADJ	A	amod
+mezzi	mezzo	NOUN	S	conj
+fraudolenti	fraudolento	NOUN	S	amod
+idonei	idoneo	ADJ	A	amod
+ad	a	ADP	E	mark
+ostacolare	ostacolare	VERB	V	advcl
+l'	il	DET	RD	det
+accertamento	accertamento	NOUN	S	obj
+e	e	CCONJ	CC	cc
+ad	a	ADP	E	mark
+indurre	indurre	VERB	V	conj
+in	in	ADP	E	case
+errore	errore	NOUN	S	obl
+l'	il	DET	RD	det
+amministrazione	amministrazione	NOUN	S	obj
+finanziaria	finanziario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+indica	indicare	VERB	V	xcomp
+in	in	ADP	E	case
+una	uno	PRON	PI	obl
+delle	di il	ADP	E_RD	case
+dichiarazioni	dichiarazione	NOUN	S	nmod
+relative	relativo	ADJ	A	amod
+a	a	ADP	E	case
+dette	detto	ADJ	A	amod
+imposte	imposta	NOUN	S	obl
+elementi	elemento	NOUN	S	compound
+attivi	attivo	ADJ	A	amod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+ammontare	ammontare	NOUN	S	obl
+inferiore	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+effettivo	effettivo	ADJ	A	amod
+od	o	CCONJ	CC	cc
+elementi	elemento	NOUN	S	conj
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	obj
+o	o	CCONJ	CC	cc
+crediti	credito	NOUN	S	conj
+e	e	CCONJ	CC	cc
+ritenute	ritenere	VERB	V	conj
+fittizi	fittizio	NOUN	S	obj
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	dep
+,	,	PUNCT	FF	punct
+congiuntamente	congiuntamente	ADV	B	conj
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	NOUN	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+imposta	imposta	ADJ	A	amod
+evasa	evasa	NOUN	S	nsubj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	obl
+a	a	ADP	E	case
+taluna	taluna	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+singole	singolo	ADJ	A	amod
+imposte	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+trentamila	trentamila	VERB	N	dep
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+complessivo	complessivo	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+sottratti	sottratto	VERB	A	amod
+all'	a il	ADP	E_RD	case
+imposizione	imposizione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+mediante	mediante	ADP	E	case
+indicazione	indicazione	NOUN	S	nmod
+di	di	ADP	E	case
+elementi	elemento	NOUN	S	nmod
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	obj
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+al	a il	ADP	E_RD	case
+cinque	cinque	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+ammontare	ammontare	NOUN	S	nmod
+complessivo	complessivo	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+indicati	indicare	VERB	V	acl
+in	in	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+un	uno	DET	RI	det
+milione	milione	NOUN	S	obl
+cinquecentomila	cinquecentomila	NUM	N	nummod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+qualora	qualora	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+complessivo	complessivo	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+crediti	credito	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+ritenute	ritenuta	NOUN	S	conj
+fittizie	fittizia	NOUN	S	compound
+in	in	ADP	E	case
+diminuzione	diminuzione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+al	a il	ADP	E_RD	case
+cinque	cinque	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+ammontare	ammontare	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	S	nmod
+medesima	medesimo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+a	a	ADP	E	case
+euro	euro	NOUN	S	conj
+trentamila	trentamila	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+commesso	commettere	VERB	V	xcomp
+avvalendosi	avvalendoso	VERB	V_PC	xcomp
+di	di	ADP	E	case
+documenti	documento	NOUN	S	obl
+falsi	falso	ADJ	A	amod
+quando	quando	SCONJ	CS	mark
+tali	tale	DET	DD	det
+documenti	documento	NOUN	S	nsubj:pass
+sono	essere	AUX	VA	aux:pass
+registrati	registrare	VERB	V	advcl
+nelle	in il	ADP	E_RD	case
+scritture	scrittura	NOUN	S	obl
+contabili	contabile	ADJ	A	amod
+obbligatorie	obbligatorio	ADJ	A	amod
+o	o	CCONJ	CC	cc
+sono	essere	AUX	VA	aux
+detenuti	detenere	VERB	V	conj
+a	a	ADP	E	case
+fini	fine	NOUN	S	obl
+di	di	ADP	E	case
+prova	prova	NOUN	S	nmod
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+finanziaria	finanziario	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+disposizione	disposizione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+costituiscono	costituire	VERB	V	ROOT
+mezzi	mezzo	ADJ	S	obj
+fraudolenti	fraudolento	ADJ	A	xcomp
+la	il	DET	RD	det
+mera	mero	ADJ	A	amod
+violazione	violazione	NOUN	S	obj
+degli	di il	ADP	E_RD	case
+obblighi	obbligo	NOUN	S	nmod
+di	di	ADP	E	case
+fatturazione	fatturazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+annotazione	annotazione	NOUN	S	conj
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+nelle	in il	ADP	E_RD	case
+scritture	scrittura	NOUN	S	obl
+contabili	contabile	ADJ	A	amod
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+sola	solo	ADJ	A	amod
+indicazione	indicazione	NOUN	S	conj
+nelle	in il	ADP	E_RD	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+nelle	in il	ADP	E_RD	case
+annotazioni	annotazione	NOUN	S	conj
+di	di	ADP	E	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+inferiori	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+quelli	quello	PRON	PD	obl
+reali	reale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+---------------	---------------	AUX	FF	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nsubj
+4	4	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Dichiarazione	dichiarazione	NOUN	S	nmod
+infedele	infedele	VERB	V	ROOT
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	obj
+.	.	PUNCT	FS	punct
+
+Fuori	fuori	ADV	B	case
+dei	di il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+e	e	CCONJ	CC	cc
+3	3	NUM	N	conj
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+due	due	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+a	a	ADP	E	case
+quattro	quattro	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	conj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+chiunque	chiunque	PRON	PI	obj
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+indica	indicare	VERB	V	conj
+in	in	ADP	E	case
+una	uno	PRON	PI	obl
+delle	di il	ADP	E_RD	case
+dichiarazioni	dichiarazione	NOUN	S	nmod
+annuali	annuale	ADJ	A	amod
+relative	relativo	ADJ	A	amod
+a	a	ADP	E	case
+dette	detto	ADJ	A	amod
+imposte	imposta	NOUN	S	obl
+elementi	elemento	NOUN	S	compound
+attivi	attivo	ADJ	A	amod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+ammontare	ammontare	NOUN	S	nmod
+inferiore	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+effettivo	effettivo	ADJ	A	amod
+od	o	CCONJ	CC	cc
+elementi	elemento	NOUN	S	conj
+passivi	passivo	ADJ	A	amod
+inesistenti	inesistente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	advmod
+,	,	PUNCT	FF	punct
+congiuntamente	congiuntamente	ADV	B	conj
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+a	a	NOUN	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+imposta	imposta	ADJ	A	amod
+evasa	evasa	NOUN	S	nsubj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	obl
+a	a	ADP	E	case
+taluna	taluna	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+singole	singolo	ADJ	A	amod
+imposte	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+centomila	centomilo	NUM	A	obl
+;	;	PUNCT	FC	punct
+
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	fixed
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+complessivo	complessivo	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+sottratti	sottratto	VERB	A	amod
+all'	a il	ADP	E_RD	case
+imposizione	imposizione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+mediante	mediante	ADP	E	case
+indicazione	indicazione	NOUN	S	nmod
+di	di	ADP	E	case
+elementi	elemento	NOUN	S	nmod
+passivi	passivo	ADJ	A	amod
+inesistenti	inesistente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+dieci	dieci	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+ammontare	ammontare	NOUN	S	nmod
+complessivo	complessivo	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+indicati	indicare	VERB	V	acl
+in	in	ADP	E	case
+dichiarazione	dichiarazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+o	o	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+comunque	comunque	ADV	B	advmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+due	due	NUM	N	nummod
+milioni	milione	NOUN	S	nsubj
+.	.	PUNCT	FS	punct
+
+(	(	PUNCT	FB	punct
+4	4	NUM	N	nummod
+)	)	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	ADP	S	ROOT
+
+
+	
+
+	SPACE	_SP	dep
+1-bis	1-bis	NUM	N	flat:name
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+disposizione	disposizione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:impers
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+della	di il	ADP	E_RD	mark
+non	non	ADV	BN	advmod
+corretta	corretto	ADJ	A	amod
+classificazione	classificazione	NOUN	S	obj
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+valutazione	valutazione	NOUN	S	obl
+di	di	ADP	E	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+passivi	passivare	NOUN	S	conj
+oggettivamente	oggettivamente	ADV	B	advmod
+esistenti	esistente	ADJ	A	acl
+,	,	PUNCT	FF	punct
+rispetto	rispetto	ADV	B	case
+ai	a il	DET	E_RD	det
+quali	quale	PRON	PR	obl
+i	il	DET	RD	det
+criteri	criterio	NOUN	S	nsubj:pass
+concretamente	concretamente	ADV	B	advmod
+applicati	applicato	VERB	A	amod
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+comunque	comunque	ADV	B	advmod
+indicati	indicare	VERB	V	acl:relcl
+nel	in il	ADP	E_RD	case
+bilancio	bilancio	NOUN	S	obl
+ovvero	ovvero	CCONJ	CC	cc
+in	in	ADP	E	case
+altra	altro	ADJ	A	amod
+documentazione	documentazione	NOUN	S	conj
+rilevante	rilevante	ADV	B	acl
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+fiscali	fiscale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+violazione	violazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+criteri	criterio	NOUN	S	nmod
+di	di	ADP	E	case
+determinazione	determinazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+esercizio	esercizio	NOUN	S	nmod
+di	di	ADP	E	case
+competenza	competenza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+non	non	ADV	BN	advmod
+inerenza	inerenza	NOUN	S	conj
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+non	non	ADV	BN	advmod
+deducibilità	deducibilità	NOUN	S	dep
+di	di	ADP	E	case
+elementi	elemento	NOUN	S	nmod
+passivi	passivo	ADJ	A	amod
+reali	reale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+1-ter	1-ter	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Fuori	fuori	ADV	B	case
+dei	di il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	acl:relcl
+1-bis	1-bis	NUM	N	amod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+danno	dare	VERB	V	ROOT
+luogo	luogo	NOUN	S	obj
+a	a	ADP	E	case
+fatti	fatto	NOUN	S	nmod
+punibili	punibile	ADJ	A	amod
+le	il	DET	RD	det
+valutazioni	valutazione	NOUN	S	obj
+che	che	PRON	PR	nsubj
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+complessivamente	complessivamente	ADV	B	advmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+considerate	considerare	ADJ	A	acl:relcl
+,	,	PUNCT	FF	punct
+differiscono	differire	VERB	V	advcl
+in	in	ADP	E	case
+misura	misura	NOUN	S	obl
+inferiore	inferiore	ADJ	A	amod
+al	a il	ADP	E_RD	case
+10	10	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+da	da	ADP	E	case
+quelle	quello	PRON	PD	obl
+corrette	corretto	ADJ	V	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Degli	Di il	ADP	E_RD	case
+importi	importo	NOUN	S	ROOT
+compresi	comprendere	VERB	V	acl
+in	in	ADP	E	case
+tale	tale	DET	DD	det
+percentuale	percentuale	NOUN	S	obl
+
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+nella	in il	ADP	E_RD	case
+verifica	verifica	NOUN	S	obl
+del	di il	ADP	E_RD	case
+superamento	superamento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+soglie	soglia	NOUN	S	nmod
+di	di	ADP	E	case
+punibilità	punibilità	NOUN	S	nmod
+previste	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettere	lettera	NOUN	S	nmod
+a	a	X	X	amod
+)	)	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+b	b	X	X	conj
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+5	5	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Omessa	Omessa	PROPN	SP	nmod
+dichiarazione	dichiarazione	NOUN	S	compound
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+due	due	NUM	N	nummod
+a	a	ADP	E	case
+cinque	cinque	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+chiunque	chiunque	PRON	PI	nsubj
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+presenta	presentare	VERB	V	conj
+,	,	PUNCT	FF	punct
+essendovi	essere vi	VERB	V_B	advcl
+obbligato	obbligare	VERB	V	xcomp
+,	,	PUNCT	FF	punct
+una	uno	PRON	PI	appos
+delle	di il	ADP	E_RD	case
+dichiarazioni	dichiarazione	NOUN	S	nmod
+relative	relativo	ADJ	A	amod
+a	a	ADP	E	case
+dette	detto	ADJ	A	amod
+imposte	imposta	NOUN	S	obl
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+l'	il	DET	RD	det
+imposta	imposto	ADJ	A	amod
+evasa	evasa	NOUN	S	nsubj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	advcl
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+riferimento	riferimento	NOUN	S	obl
+a	a	ADP	E	case
+taluna	taluna	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+singole	singolo	ADJ	A	amod
+imposte	imposta	NOUN	S	nmod
+ad	a	ADP	E	case
+euro	euro	NOUN	S	nmod
+cinquantamila	cinquantamila	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1-bis	1-bis	NUM	N	obl
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+due	due	NUM	N	nummod
+a	a	ADP	E	case
+cinque	cinque	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+chiunque	chiunque	PRON	PI	nsubj
+non	non	ADV	BN	advmod
+presenta	presentare	VERB	V	parataxis
+,	,	PUNCT	FF	punct
+essendovi	essere vi	VERB	V_B	advcl
+obbligato	obbligare	VERB	A	xcomp
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+dichiarazione	dichiarazione	NOUN	S	obj
+di	di	ADP	E	case
+sostituto	sostituto	NOUN	S	nmod
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+ritenute	ritenuta	NOUN	S	nmod
+non	non	ADV	BN	advmod
+versate	versato	ADJ	V	advcl
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	advcl
+ad	a	ADP	E	case
+euro	euro	NOUN	S	obl
+cinquantamila	cinquantamila	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+della	di il	ADP	E_RD	case
+disposizione	disposizione	NOUN	S	nmod
+prevista	prevedere	VERB	V	acl
+dai	da il	ADP	E_RD	case
+commi	comma	NOUN	S	obl:agent
+1	1	NUM	N	nummod
+e	e	CCONJ	CC	cc
+1-bis	1-bis	NUM	N	conj
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+omessa	omessare	VERB	V	xcomp
+la	il	DET	RD	det
+dichiarazione	dichiarazione	NOUN	S	nsubj
+presentata	presentare	VERB	V	acl
+entro	entro	ADP	E	case
+novanta	novanta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+dalla	da il	ADP	E_RD	case
+scadenza	scadenza	NOUN	S	obl:agent
+del	di il	ADP	E_RD	case
+termine	termine	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+sottoscritta	sottoscritta	VERB	V	conj
+o	o	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+redatta	redattare	VERB	V	conj
+su	su	ADP	E	case
+uno	uno	DET	RI	det
+stampato	stampato	NOUN	S	obl
+conforme	conforme	ADJ	A	amod
+al	a il	ADP	E_RD	case
+modello	modello	NOUN	S	obl
+prescritto	prescritto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+7	7	NUM	N	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+6	6	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+T	T	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+n	n	X	X	conj
+t	t	CCONJ	CC	dep
+a	a	ADP	E	fixed
+t	t	CCONJ	CC	fixed
+i	il	DET	RD	det
+v	v	ADJ	NO	dep
+o	o	CCONJ	CC	cc
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	conj
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+delitti	delitto	NOUN	S	ROOT
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+3	3	NUM	N	conj
+e	e	CCONJ	CC	cc
+4	4	NUM	N	conj
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+punibili	punibile	ADJ	A	amod
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+tentativo	tentativo	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+salvo	salvo	ADJ	A	amod
+quanto	quanto	PRON	PR	fixed
+previsto	prevedere	VERB	V	advcl
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	obl
+1-bis	1-bis	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+1-bis	1-bis	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Quando	quando	SCONJ	CS	mark
+la	il	DET	RD	det
+condotta	condotta	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+posta	porre	VERB	V	ROOT
+in	in	ADP	E	mark
+essere	essere	VERB	V	advcl
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+l'	il	DET	RD	det
+imposta	imposta	NOUN	S	obj
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	nmod
+aggiunto	aggiungere	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+ambito	ambito	NOUN	S	obl
+di	di	ADP	E	case
+sistemi	sistema	NOUN	S	nmod
+fraudolenti	fraudolento	ADJ	A	amod
+transfrontalieri	transfrontaliero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+connessi	connesso	VERB	V	acl
+al	a il	ADP	E_RD	case
+territorio	territorio	NOUN	S	obl
+di	di	ADP	E	case
+almeno	almeno	ADV	B	advmod
+un	uno	DET	RI	det
+altro	altro	ADJ	A	amod
+Stato	stato	NOUN	S	nmod
+membro	membro	NOUN	S	compound
+dell'	di il	ADP	E_RD	case
+Unione	Unione	PROPN	SP	nmod
+europea	europea	PROPN	SP	flat:name
+,	,	PUNCT	FF	punct
+dai	da il	ADP	E_RD	case
+quali	quale	PRON	PR	obl
+consegua	consegua	NOUN	V	obl
+o	o	CCONJ	CC	cc
+possa	potere	AUX	VM	aux
+conseguire	conseguire	VERB	V	conj
+un	uno	DET	RI	det
+danno	danno	NOUN	S	obj
+complessivo	complessivo	ADJ	A	amod
+pari	pari	ADJ	A	amod
+o	o	CCONJ	CC	cc
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+10.000.000	10.000.000	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+delitto	delitto	NOUN	S	nsubj
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+4	4	NUM	N	nummod
+è	essere	AUX	V	cop
+punibile	punibile	ADJ	A	amod
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+tentativo	tentativo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Fuori	fuori	ADV	B	case
+dei	di il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+concorso	concorso	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nsubj
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+e	e	CCONJ	CC	cc
+3	3	NUM	N	conj
+sono	essere	AUX	V	cop
+punibili	punibile	ADJ	A	ROOT
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+tentativo	tentativo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+ricorrono	ricorrere	VERB	V	advcl
+le	il	DET	RD	det
+medesime	medesimo	ADJ	A	amod
+condizioni	condizione	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+periodo	periodo	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+Capo	capo	NOUN	S	ROOT
+II	II	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+Delitti	delitti	NOUN	S	nmod
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+di	di	ADP	E	case
+documenti	documento	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+pagamento	pagamento	NOUN	S	conj
+di	di	ADP	E	case
+imposte	imposta	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Emissione	Emissione	NOUN	S	nmod
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+quattro	quattro	NUM	N	nummod
+a	a	ADP	E	case
+otto	otto	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+anni	anno	NOUN	S	obl
+chiunque	chiunque	PRON	PI	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+consentire	consentire	VERB	V	acl
+a	a	ADP	E	case
+terzi	terzo	NOUN	S	obl
+l'	il	DET	RD	det
+evasione	evasione	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+imposte	imposta	NOUN	S	nmod
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+emette	emettere	VERB	V	conj
+o	o	CCONJ	CC	cc
+rilascia	rilasciare	VERB	V	conj
+fatture	fattura	NOUN	S	obj
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+applicazione	applicazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+disposizione	disposizione	NOUN	S	nmod
+prevista	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+emissione	emissione	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+rilascio	rilascio	NOUN	S	conj
+di	di	ADP	E	case
+più	più	ADV	DI	advmod
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+corso	corso	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+medesimo	medesimo	ADJ	A	amod
+periodo	periodo	NOUN	S	nmod
+di	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+come	come	ADP	E	case
+un	uno	DET	RI	det
+solo	solo	ADJ	A	amod
+reato	reato	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+2-bis	2-bis	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+importo	importo	NOUN	S	dep
+non	non	ADV	BN	advmod
+rispondente	rispondere	VERB	B	advcl
+al	a il	ADP	E_RD	case
+vero	vero	ADJ	A	amod
+indicato	indicare	NOUN	S	obl
+nelle	in il	ADP	E_RD	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+nei	in il	ADP	E_RD	case
+documenti	documento	NOUN	S	conj
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+periodo	periodo	NOUN	S	obl
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+inferiore	inferiore	ADJ	A	ROOT
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+centomila	centomilo	ADJ	A	nsubj
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	conj
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	nsubj:pass
+da	da	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	conj
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+9	9	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Concorso	concorso	NOUN	S	nmod
+di	di	ADP	E	case
+persone	persona	NOUN	S	nmod
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	nmod
+di	di	ADP	E	case
+emissione	emissione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+utilizzazione	utilizzazione	NOUN	S	conj
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+emittente	emittente	NOUN	S	nsubj
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+e	e	CCONJ	CC	cc
+chi	chi	PRON	PR	nsubj
+concorre	concorrere	VERB	V	conj
+con	con	ADP	E	case
+il	il	DET	RD	det
+medesimo	medesimo	PRON	PD	obl
+non	non	ADV	BN	advmod
+è	essere	AUX	V	cop
+punibile	punibile	ADJ	A	ROOT
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+concorso	concorso	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	X	X	nsubj
+)	)	PUNCT	FB	punct
+chi	chi	PRON	PR	nsubj
+si	si	PRON	PC	expl
+avvale	avvalere	VERB	V	acl:relcl
+di	di	ADP	E	case
+fatture	fattura	NOUN	S	obl
+o	o	CCONJ	CC	cc
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+e	e	CCONJ	CC	cc
+chi	chi	PRON	PR	nsubj
+concorre	concorrere	VERB	V	acl:relcl
+con	con	ADP	E	case
+il	il	DET	RD	det
+medesimo	medesimo	PRON	PD	obl
+non	non	ADV	BN	advmod
+è	essere	AUX	V	cop
+punibile	punibile	ADJ	A	parataxis
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+concorso	concorso	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+8	8	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+10	10	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Occultamento	Occultamento	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+distruzione	distruzione	NOUN	S	conj
+di	di	ADP	E	case
+documenti	documento	NOUN	S	nmod
+contabili	contabile	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Salvo	salvo	ADJ	A	mark
+che	che	SCONJ	CS	fixed
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+costituisca	costituire	VERB	V	ROOT
+più	più	ADV	B	advmod
+grave	grave	ADJ	A	amod
+reato	reato	NOUN	S	obj
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux
+punito	punire	VERB	V	conj
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+tre	tre	NUM	N	nummod
+a	a	ADP	E	case
+sette	sette	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+anni	anno	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+chiunque	chiunque	PRON	PI	ROOT
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	nmod
+di	di	ADP	E	mark
+evadere	evadere	VERB	V	acl
+le	il	DET	RD	det
+imposte	imposta	NOUN	S	obj
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+di	di	ADP	E	mark
+consentire	consentire	VERB	V	conj
+l'	il	DET	RD	det
+evasione	evasione	NOUN	S	obj
+a	a	ADP	E	case
+terzi	terzo	ADJ	NO	obl
+,	,	PUNCT	FF	punct
+occulta	occultare	VERB	V	conj
+o	o	CCONJ	CC	cc
+distrugge	distrugge	NOUN	S	conj
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+le	il	DET	RD	det
+scritture	scrittura	NOUN	S	obj
+contabili	contabile	ADJ	A	amod
+o	o	CCONJ	CC	cc
+i	il	DET	RD	det
+documenti	documento	NOUN	S	conj
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	V	cop
+obbligatoria	obbligatorio	ADJ	A	acl:relcl
+la	il	DET	RD	det
+conservazione	conservazione	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+modo	modo	NOUN	S	obl
+da	da	ADP	E	mark
+non	non	ADV	BN	advmod
+consentire	consentire	VERB	V	acl
+la	il	DET	RD	det
+ricostruzione	ricostruzione	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+volume	volume	NOUN	S	conj
+di	di	ADP	E	case
+affari	affare	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	Art.	NOUN	S	conj
+10-bis	10-bis	NOUN	S	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Omesso	Omesso	PROPN	SP	appos
+versamento	versamento	NOUN	S	amod
+di	di	ADP	E	case
+ritenute	ritenuta	NOUN	S	nmod
+certificate	certificato	ADJ	A	amod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	nmod
+a	a	ADP	E	case
+due	due	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+chiunque	chiunque	PRON	PI	nmod
+non	non	ADV	BN	advmod
+versa	versare	ADJ	V	acl:relcl
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+31	31	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+dell'	di il	ADP	E_RD	case
+anno	anno	NOUN	S	nmod
+successivo	successivo	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+di	di	ADP	E	case
+presentazione	presentazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	nmod
+annuale	annuale	ADJ	A	amod
+di	di	ADP	E	case
+sostituto	sostituto	NOUN	S	nmod
+di	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ritenute	ritenere	VERB	V	parataxis
+risultanti	risultante	NOUN	S	xcomp
+dalla	da il	ADP	E_RD	case
+certificazione	certificazione	NOUN	S	obl:agent
+rilasciata	rilasciare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+sostituiti	sostituito	NOUN	S	obl
+per	per	ADP	E	case
+un	uno	DET	RI	det
+ammontare	ammontare	NOUN	S	obl
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+centocinquantamila	centocinquantamila	NUM	N	nummod
+euro	euro	NOUN	S	obl
+per	per	ADP	E	case
+ciascun	ciascuno	DET	DI	det
+periodo	periodo	NOUN	S	obl
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+tributario	tributario	ADJ	A	amod
+non	non	ADV	BN	advmod
+è	essere	AUX	V	cop
+in	in	ADP	E	case
+corso	corso	NOUN	S	advcl
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+mediante	mediante	ADP	E	case
+rateazione	rateazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+3-bis	3-bis	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+18	18	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1997	1997	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+462	462	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+decadenza	decadenza	NOUN	S	nmod
+dal	da il	ADP	E_RD	case
+beneficio	beneficio	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+rateazione	rateazione	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+15-ter	15-ter	NUM	N	compound
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+29	29	NUM	N	nmod
+settembre	settembre	NOUN	S	flat
+1973	1973	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+602	602	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+colpevole	colpevole	NOUN	S	nsubj
+è	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	ROOT
+se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+residuo	residuo	ADJ	A	amod
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	ccomp
+a	a	ADP	E	case
+cinquantamila	cinquantamila	NUM	N	nummod
+euro	euro	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+10-ter	10-ter	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Omesso	Omesso	PROPN	SP	nmod
+versamento	versamento	NOUN	S	amod
+di	di	ADP	E	case
+IVA	IVA	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+10-quater	10-quater	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Indebita	Indebita	NOUN	V	nmod
+compensazione	compensazione	NOUN	S	compound
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	nmod
+a	a	ADP	E	case
+due	due	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+chiunque	chiunque	PRON	PI	nmod
+non	non	ADV	BN	advmod
+versa	versare	VERB	V	csubj
+le	il	DET	RD	det
+somme	somma	NOUN	S	obj
+dovute	dovuto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+utilizzando	utilizzare	VERB	V	advcl
+in	in	ADP	E	case
+compensazione	compensazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+17	17	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+9	9	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+1997	1997	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+241	241	NUM	N	nummod
+,	,	PUNCT	FF	punct
+crediti	credito	NOUN	S	conj
+non	non	ADV	BN	advmod
+spettanti	spettare	VERB	V	acl
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+un	uno	DET	RI	det
+importo	importo	NOUN	S	obl
+annuo	annuo	ADJ	A	amod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+cinquantamila	cinquantamila	NUM	N	nummod
+euro	euro	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	conj
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+chiunque	chiunque	PRON	PI	amod
+non	non	ADV	BN	advmod
+versa	versare	VERB	V	csubj
+le	il	DET	RD	det
+somme	somma	NOUN	S	obj
+dovute	dovuto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+utilizzando	utilizzare	VERB	V	advcl
+in	in	ADP	E	case
+compensazione	compensazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+17	17	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+9	9	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+1997	1997	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+241	241	NUM	N	nummod
+,	,	PUNCT	FF	punct
+crediti	credito	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+importo	importo	NOUN	S	nmod
+annuo	annuo	ADJ	A	amod
+superiore	superiore	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+cinquantamila	cinquantamila	NUM	N	nummod
+euro	euro	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2-bis	2-bis	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+punibilità	punibilità	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+agente	agente	NOUN	S	nmod
+per	per	ADP	E	case
+il	il	DET	RD	det
+reato	reato	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+è	essere	AUX	VA	aux:pass
+esclusa	escludere	VERB	V	ROOT
+quando	quando	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+per	per	ADP	E	case
+la	il	DET	RD	det
+natura	natura	NOUN	S	obl
+tecnica	tecnico	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+valutazioni	valutazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sussistono	sussistere	VERB	V	advcl
+condizioni	condizione	NOUN	S	nsubj
+di	di	ADP	E	case
+obiettiva	obiettivo	ADJ	A	amod
+incertezza	incertezza	NOUN	S	nmod
+in	in	ADP	E	case
+ordine	ordine	NOUN	S	nmod
+agli	a il	ADP	E_RD	case
+specifici	specifico	ADJ	A	amod
+elementi	elemento	NOUN	S	obl
+o	o	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+particolari	particolare	ADJ	A	amod
+qualità	qualità	NOUN	S	conj
+che	che	PRON	PR	nsubj
+fondano	fondare	VERB	V	acl:relcl
+la	il	DET	RD	det
+spettanza	spettanza	NOUN	S	obj
+del	di il	ADP	E_RD	case
+credito	credito	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+11	11	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Sottrazione	sottrazione	NOUN	S	nsubj
+fraudolenta	fraudolentare	VERB	V	acl
+al	a il	ADP	E_RD	case
+pagamento	pagamento	NOUN	S	obl
+di	di	ADP	E	case
+imposte	imposta	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	nmod
+a	a	ADP	E	case
+quattro	quattro	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+chiunque	chiunque	PRON	PI	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+sottrarsi	sottrarre si	VERB	V_PC	acl
+al	a il	ADP	E_RD	case
+pagamento	pagamento	NOUN	S	obl
+di	di	ADP	E	case
+imposte	imposta	NOUN	S	nmod
+sui	su il	ADP	E_RD	case
+redditi	reddito	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	conj
+aggiunto	aggiunto	ADJ	A	amod
+ovvero	ovvero	CCONJ	CC	cc
+di	di	ADP	E	case
+interessi	interesse	NOUN	S	conj
+o	o	CCONJ	CC	cc
+sanzioni	sanzione	NOUN	S	conj
+amministrative	amministrativo	ADJ	A	amod
+relativi	relativo	ADJ	A	amod
+a	a	ADP	E	case
+dette	detto	ADJ	A	amod
+imposte	imposta	NOUN	S	obl
+di	di	ADP	E	case
+ammontare	ammontare	NOUN	S	nmod
+complessivo	complessivo	ADJ	A	amod
+superiore	superiore	ADJ	A	amod
+ad	a	ADP	E	case
+euro	euro	NOUN	S	obl
+cinquantamila	cinquantamila	NUM	N	flat
+,	,	PUNCT	FF	punct
+aliena	alieno	VERB	V	advcl
+simulatamente	simulatamente	ADJ	A	amod
+o	o	CCONJ	CC	cc
+compie	compiere	VERB	V	conj
+altri	altro	ADJ	A	amod
+atti	atto	NOUN	S	obj
+fraudolenti	fraudolento	ADJ	A	amod
+sui	su il	ADP	E_RD	case
+propri	proprio	DET	PP	obl
+o	o	CCONJ	CC	cc
+su	su	ADP	E	case
+altrui	altrui	DET	AP	det:poss
+beni	bene	NOUN	S	conj
+idonei	idoneo	ADJ	A	amod
+a	a	ADP	E	mark
+rendere	rendere	VERB	V	advcl
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+inefficace	inefficace	ADJ	A	amod
+la	il	DET	RD	det
+procedura	procedura	NOUN	S	obj
+di	di	ADP	E	case
+riscossione	riscossione	NOUN	S	nmod
+coattiva	coattivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+imposte	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sanzioni	sanzione	NOUN	S	conj
+ed	e	CCONJ	CC	cc
+interessi	interesse	NOUN	S	conj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	advcl
+ad	a	ADP	E	case
+euro	euro	NOUN	S	obl
+duecentomila	duecentomila	NUM	N	flat
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	nsubj:pass
+da	da	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	nmod
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+anni	anno	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+punito	punire	VERB	V	ROOT
+con	con	ADP	E	case
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	obl
+da	da	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	nmod
+a	a	ADP	E	case
+quattro	quattro	NUM	N	nummod
+anni	anno	NOUN	S	nmod
+chiunque	chiunque	PRON	PI	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	obl
+di	di	ADP	E	mark
+ottenere	ottenere	VERB	V	acl
+per	per	ADP	E	case
+sé	sé	PRON	PE	obl
+o	o	CCONJ	CC	cc
+per	per	ADP	E	case
+altri	altro	PRON	PI	nmod
+un	uno	DET	RI	det
+pagamento	pagamento	NOUN	S	conj
+parziale	parziale	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+tributi	tributo	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+relativi	relativo	ADJ	A	amod
+accessori	accessorio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+indica	indicare	VERB	V	parataxis
+nella	in il	ADP	E_RD	case
+documentazione	documentazione	NOUN	S	obl
+presentata	presentare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+della	di il	ADP	E_RD	case
+procedura	procedura	NOUN	S	nmod
+di	di	ADP	E	case
+transazione	transazione	NOUN	S	nmod
+fiscale	fiscale	ADJ	A	amod
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+ammontare	ammontare	NOUN	S	nmod
+inferiore	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+quello	quello	PRON	PD	obl
+effettivo	effettivo	ADJ	A	amod
+od	o	CCONJ	CC	cc
+elementi	elemento	NOUN	S	conj
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	obj
+per	per	ADP	E	case
+un	uno	DET	RI	det
+ammontare	ammontare	NOUN	S	obl
+complessivo	complessivo	ADJ	A	amod
+superiore	superiore	ADJ	A	amod
+ad	a	ADP	E	case
+euro	euro	NOUN	S	obl
+cinquantamila	cinquantamila	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+al	a il	ADP	E_RD	case
+periodo	periodo	NOUN	S	obl
+precedente	precedente	ADJ	A	amod
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	acl:relcl
+ad	a	ADP	E	case
+euro	euro	NOUN	S	obl
+duecentomila	duecentomila	NUM	N	flat
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+reclusione	reclusione	NOUN	S	nsubj:pass
+da	da	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	nmod
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+anni	anno	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+III	III	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DISPOSIZIONI	DISPOSIZIONI	NOUN	S	nmod
+COMUNI	COMUNI	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+12	12	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Pene	Pene	PROPN	SP	nmod
+accessorie	accessorio	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+condanna	condanna	NOUN	S	ROOT
+per	per	ADP	E	case
+taluno	taluno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+importa	importare	VERB	A	amod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+interdizione	interdizione	NOUN	S	ROOT
+dagli	da il	ADP	E_RD	case
+uffici	ufficio	NOUN	S	nmod
+direttivi	direttivo	ADJ	A	amod
+delle	di il	ADP	E_RD	case
+persone	persona	NOUN	S	nmod
+giuridiche	giuridico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+delle	di il	ADP	E_RD	case
+imprese	impresa	NOUN	S	conj
+per	per	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	nmod
+non	non	ADV	BN	advmod
+inferiore	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+sei	sei	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+tre	tre	NUM	N	nummod
+anni	anno	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+incapacità	incapacità	NOUN	S	conj
+di	di	ADP	E	mark
+contrattare	contrattare	VERB	V	acl
+con	con	ADP	E	case
+la	il	DET	RD	det
+pubblica	pubblico	ADJ	A	amod
+amministrazione	amministrazione	NOUN	S	obl
+per	per	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	obl
+non	non	ADV	BN	advmod
+inferiore	inferiore	ADJ	A	amod
+ad	a	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+tre	tre	NUM	N	nummod
+anni	anno	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+c	c	NOUN	PC	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+interdizione	interdizione	NOUN	S	nmod
+dalle	da il	ADP	E_RD	case
+funzioni	funzione	NOUN	S	nmod
+di	di	ADP	E	case
+rappresentanza	rappresentanza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+assistenza	assistenza	NOUN	S	conj
+in	in	ADP	E	case
+materia	materia	NOUN	S	nmod
+tributaria	tributario	ADJ	A	amod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	nmod
+non	non	ADV	BN	advmod
+inferiore	inferiore	ADJ	A	amod
+ad	a	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+cinque	cinque	NUM	N	nummod
+anni	anno	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+interdizione	interdizione	NOUN	S	nsubj
+perpetua	perpetuare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+ufficio	ufficio	NOUN	S	obl
+di	di	ADP	E	case
+componente	componente	NOUN	S	nmod
+di	di	ADP	E	case
+commissione	commissione	NOUN	S	nmod
+tributaria	tributario	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+condanna	condanna	NOUN	S	nsubj
+per	per	ADP	E	case
+taluno	taluno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+3	3	NUM	N	conj
+e	e	CCONJ	CC	cc
+8	8	NUM	N	conj
+importa	importare	VERB	V	ROOT
+altresì	altresì	ADV	B	advmod
+l'	il	DET	RD	det
+interdizione	interdizione	NOUN	S	obj
+dai	da il	ADP	E_RD	case
+pubblici	pubblico	ADJ	A	amod
+uffici	ufficio	NOUN	S	nmod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+periodo	periodo	NOUN	S	nmod
+non	non	ADV	BN	advmod
+inferiore	inferiore	ADJ	A	amod
+ad	a	ADP	E	case
+un	uno	DET	RI	det
+anno	anno	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+tre	tre	NUM	N	nummod
+anni	anno	NOUN	S	obl
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+ricorrano	ricorrere	VERB	V	advcl
+le	il	DET	RD	det
+circostanze	circostanza	NOUN	S	nsubj
+previste	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+8	8	NUM	N	conj
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	obl
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+2-bis	2-bis	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+da	da	ADP	E	case
+2	2	NUM	N	nummod
+a	a	ADP	E	case
+10	10	NUM	N	nummod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+l'	il	DET	RD	det
+istituto	istituto	NOUN	S	nsubj
+della	di il	ADP	E_RD	case
+sospensione	sospensione	NOUN	S	nmod
+condizionale	condizionale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+pena	pena	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+163	163	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+non	non	ADV	BN	advmod
+trova	trovare	VERB	V	ROOT
+applicazione	applicazione	NOUN	S	obj
+nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+ricorrano	ricorrere	VERB	V	acl:relcl
+congiuntamente	congiunto	ADV	B	advmod
+le	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+condizioni	condizione	NOUN	S	nsubj
+:	:	PUNCT	FC	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	A	nmod
+evasa	evasa	NOUN	S	compound
+sia	essere	AUX	V	cop
+superiore	superiore	ADJ	A	ROOT
+al	a il	ADP	E_RD	case
+30	30	NUM	N	obl
+per	per	ADP	E	case
+cento	cento	NUM	N	nummod
+del	di il	ADP	E_RD	case
+volume	volume	NOUN	S	nmod
+d'	di	ADP	E	case
+affari	affare	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	A	nmod
+evasa	evasa	NOUN	S	compound
+sia	essere	AUX	V	cop
+superiore	superiore	ADJ	A	ROOT
+a	a	ADP	E	case
+tre	tre	NUM	N	nummod
+milioni	milione	NOUN	S	obl
+di	di	ADP	E	case
+euro	euro	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+4	4	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	obl
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	obl
+12-bis	12-bis	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Sequestro	Sequestro	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+confisca	confisca	NOUN	S	conj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+condanna	condanna	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+pena	pena	NOUN	S	nmod
+su	su	ADP	E	case
+richiesta	richiesta	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+parti	parte	NOUN	S	nmod
+a	a	ADP	E	case
+norma	norma	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+444	444	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+per	per	ADP	E	case
+uno	uno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux
+sempre	sempre	ADV	B	advmod
+ordinata	ordinare	VERB	V	ROOT
+la	il	DET	RD	det
+confisca	confisca	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+beni	bene	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+costituiscono	costituire	VERB	V	acl:relcl
+il	il	DET	RD	det
+profitto	profitto	NOUN	S	obj
+o	o	CCONJ	CC	cc
+il	il	DET	RD	det
+prezzo	prezzo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+appartengano	appartenere	VERB	V	advcl
+a	a	ADP	E	case
+persona	persona	NOUN	S	obl
+estranea	estraneo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+reato	reato	NOUN	S	obl
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+essa	esso	PRON	PE	nsubj
+non	non	ADV	BN	advmod
+è	essere	AUX	V	cop
+possibile	possibile	ADJ	A	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+confisca	confisca	NOUN	S	obl
+di	di	ADP	E	case
+beni	bene	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+reo	reo	NOUN	S	nsubj
+ha	avere	VERB	V	acl:relcl
+la	il	DET	RD	det
+disponibilità	disponibilità	NOUN	S	obj
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+un	uno	DET	RI	det
+valore	valore	NOUN	S	obl
+corrispondente	corrispondere	VERB	V	acl
+a	a	ADP	E	case
+tale	tale	DET	DD	det
+prezzo	prezzo	NOUN	S	obl
+o	o	CCONJ	CC	cc
+profitto	profitto	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Salvo	salvo	ADJ	A	mark
+che	che	PRON	PR	fixed
+sussista	sussistare	VERB	V	advcl
+il	il	DET	RD	det
+concreto	concreto	ADJ	A	amod
+pericolo	pericolo	NOUN	S	nsubj
+di	di	ADP	E	case
+dispersione	dispersione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+garanzia	garanzia	NOUN	S	nmod
+patrimoniale	patrimoniale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+desumibile	desumibile	ADJ	A	amod
+dalle	da il	ADP	E_RD	case
+condizioni	condizione	NOUN	S	obl:agent
+reddituali	reddituale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+patrimoniali	patrimoniale	ADJ	A	conj
+o	o	CCONJ	CC	cc
+finanziarie	finanziaria	NOUN	S	conj
+del	di il	ADP	E_RD	case
+reo	reo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+tenuto	tenere	VERB	V	acl
+altresì	altresì	ADV	B	advmod
+conto	conto	NOUN	S	obj
+della	di il	ADP	E_RD	case
+gravità	gravità	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+sequestro	sequestro	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+beni	bene	NOUN	S	nmod
+finalizzato	finalizzare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+confisca	confisca	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+non	non	ADV	BN	advmod
+è	essere	AUX	VA	aux:pass
+disposto	disporre	VERB	V	ROOT
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+tributario	tributario	ADJ	A	amod
+è	essere	AUX	V	cop
+in	in	ADP	E	case
+corso	corso	NOUN	S	advcl
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+mediante	mediante	ADP	E	case
+rateizzazione	rateizzazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+di	di	ADP	E	case
+procedure	procedura	NOUN	S	nmod
+conciliative	conciliativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	conj
+con	con	ADP	E	case
+adesione	adesione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sempre	sempre	ADV	B	advmod
+che	che	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+detti	detto	ADJ	A	amod
+casi	caso	NOUN	S	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+contribuente	contribuente	NOUN	S	nsubj
+risulti	risultare	VERB	V	advcl
+in	in	ADP	E	case
+regola	regola	NOUN	S	obl
+con	con	ADP	E	case
+i	il	DET	RD	det
+relativi	relativo	ADJ	A	amod
+pagamenti	pagamento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+13	13	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+-------------	-------------	AUX	A	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+12-ter	12-ter	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Casi	Casi	NOUN	S	nmod
+particolari	particolare	ADJ	A	amod
+di	di	ADP	E	case
+confisca	confisca	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+condanna	condanna	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+pena	pena	NOUN	S	nmod
+su	su	ADP	E	case
+richiesta	richiesta	NOUN	S	nmod
+a	a	ADP	E	case
+norma	norma	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+444	444	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nmod
+di	di	ADP	E	case
+seguito	seguito	NOUN	S	nmod
+indicati	indicare	VERB	V	acl
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+l'	il	DET	RD	det
+articolo	articolo	NOUN	S	nsubj:pass
+240-bis	240-bis	NUM	N	nmod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+quando	quando	SCONJ	CS	mark
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	nmod
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	advcl
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+duecentomila	duecentomila	NUM	N	nummod
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+imposta	imposta	ADJ	A	amod
+evasa	evasa	NOUN	S	nsubj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+centomila	centomilo	PRON	A	csubj
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	PC	dep
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+importo	importo	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+rispondente	rispondere	VERB	B	advmod
+al	a il	ADP	E_RD	case
+vero	vero	ADJ	A	amod
+indicato	indicare	NOUN	S	obl
+nelle	in il	ADP	E_RD	case
+fatture	fattura	NOUN	S	obl
+o	o	CCONJ	CC	cc
+nei	in il	ADP	E_RD	case
+documenti	documento	NOUN	S	conj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+duecentomila	duecentomila	NUM	N	nummod
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+8	8	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+imposte	imposta	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+delle	di il	ADP	E_RD	case
+sanzioni	sanzione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+interessi	interesse	NOUN	S	conj
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+centomila	centomilo	PRON	A	csubj
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+11	11	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	obl
+1	1	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ammontare	ammontare	NOUN	S	nsubj
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	nmod
+attivi	attivo	ADJ	A	amod
+inferiori	inferiore	ADJ	A	amod
+a	a	ADP	E	case
+quelli	quello	PRON	PD	nmod
+effettivi	effettivo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+degli	di il	ADP	E_RD	case
+elementi	elemento	NOUN	S	conj
+passivi	passivo	ADJ	A	amod
+fittizi	fittizio	NOUN	S	nmod
+è	essere	AUX	V	cop
+superiore	superiore	ADJ	A	conj
+a	a	ADP	E	case
+euro	euro	NOUN	S	obl
+duecentomila	duecentomila	NUM	N	nummod
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+delitto	delitto	NOUN	S	nmod
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+11	11	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	nsubj:pass
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nsubj:pass
+13	13	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Cause	Cause	PROPN	SP	nmod
+di	di	ADP	E	case
+non	non	ADV	BN	advmod
+punibilità	punibilità	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Pagamento	pagamento	NOUN	S	ROOT
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+tributario	tributario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+reati	reato	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	acl:relcl
+10-bis	10-bis	PROPN	S	nmod
+,	,	PUNCT	FF	punct
+10-ter	10-ter	PROPN	SP	conj
+e	e	CCONJ	CC	cc
+10-quater	10-quater	NUM	N	conj
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	compound
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+punibili	punibile	ADJ	A	ROOT
+se	se	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+dichiarazione	dichiarazione	NOUN	S	obl
+di	di	ADP	E	case
+apertura	apertura	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+i	il	DET	RD	det
+debiti	debito	NOUN	S	nsubj:pass
+tributari	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+comprese	compreso	ADJ	A	amod
+sanzioni	sanzione	NOUN	S	nmod
+amministrative	amministrativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+interessi	interesse	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+estinti	estire	VERB	V	advcl
+mediante	mediante	ADP	E	case
+integrale	integrale	ADJ	A	amod
+pagamento	pagamento	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+importi	importo	NOUN	S	nmod
+dovuti	dovere	VERB	V	acl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+speciali	speciale	ADJ	A	amod
+procedure	procedura	NOUN	S	nmod
+conciliative	conciliativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+adesione	adesione	NOUN	S	conj
+all'	a il	ADP	E_RD	case
+accertamento	accertamento	NOUN	S	nmod
+previste	prevedere	VERB	V	acl
+dalle	da il	ADP	E_RD	case
+norme	norma	NOUN	S	obl:agent
+tributarie	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+ravvedimento	ravvedimento	NOUN	S	conj
+operoso	operoso	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+reati	reato	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+3	3	NUM	N	conj
+,	,	PUNCT	FF	punct
+4	4	NUM	N	conj
+e	e	CCONJ	CC	cc
+5	5	NUM	N	conj
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+punibili	punibile	ADJ	A	ROOT
+se	se	SCONJ	CS	mark
+i	il	DET	RD	det
+debiti	debito	NOUN	S	nsubj:pass
+tributari	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+comprese	comprese	ADJ	A	amod
+sanzioni	sanzione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+interessi	interesse	NOUN	S	conj
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+estinti	estire	VERB	V	advcl
+mediante	mediante	ADP	E	case
+integrale	integrale	ADJ	A	amod
+pagamento	pagamento	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+importi	importo	NOUN	S	nmod
+dovuti	dovere	VERB	V	acl
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+del	di il	ADP	E_RD	case
+ravvedimento	ravvedimento	NOUN	S	nmod
+operoso	operoso	ADJ	A	amod
+o	o	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+presentazione	presentazione	NOUN	S	conj
+della	di il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	nmod
+omessa	omesso	ADJ	A	amod
+entro	entro	ADP	E	case
+il	il	DET	RD	det
+termine	termine	NOUN	S	nmod
+di	di	ADP	E	case
+presentazione	presentazione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+dichiarazione	dichiarazione	NOUN	S	nmod
+relativa	relativo	ADJ	A	amod
+al	a il	ADP	E_RD	case
+periodo	periodo	NOUN	S	obl
+d'	di	ADP	E	case
+imposta	imposta	NOUN	S	nmod
+successivo	successivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+semprechè	sempreché	AUX	T	advcl
+il	il	DET	RD	det
+ravvedimento	ravvedimento	NOUN	S	obj
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+presentazione	presentazione	NOUN	S	conj
+siano	essere	AUX	VA	aux:pass
+intervenuti	intervenire	VERB	V	conj
+prima	prima	ADV	B	mark
+che	che	SCONJ	CS	fixed
+l'	il	DET	RD	det
+autore	autore	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+abbia	avere	AUX	VA	aux
+avuto	avere	VERB	V	advcl
+formale	formale	ADJ	A	amod
+conoscenza	conoscenza	NOUN	S	obj
+di	di	ADP	E	case
+accessi	accesso	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ispezioni	ispezione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+verifiche	verifico	ADJ	A	conj
+o	o	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+inizio	inizio	NOUN	S	conj
+di	di	ADP	E	case
+qualunque	qualunque	DET	DI	det
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	nmod
+amministrativo	amministrativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+procedimenti	procedimento	NOUN	S	conj
+penali	penale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+(	(	PUNCT	FB	punct
+8)	8)	NOUN	S	ROOT
+
+
+	
+
+	SPACE	_SP	dep
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Qualora	qualora	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+dichiarazione	dichiarazione	NOUN	S	obl
+di	di	ADP	E	case
+apertura	apertura	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+tributario	tributario	ADJ	A	amod
+sia	essere	CCONJ	CC	cc
+in	in	ADP	E	case
+fase	fase	NOUN	S	obl
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+mediante	mediante	ADP	E	case
+rateizzazione	rateizzazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+è	essere	AUX	VA	aux:pass
+dato	dare	VERB	V	ROOT
+un	uno	DET	RI	det
+termine	termine	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+tre	tre	NUM	N	nummod
+mesi	mese	NOUN	S	nmod
+per	per	ADP	E	case
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+residuo	residuo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+tal	tale	DET	DD	det
+caso	caso	NOUN	S	obl
+la	il	DET	RD	det
+prescrizione	prescrizione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+sospesa	sospendere	VERB	V	ROOT
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+Giudice	Giudice	PROPN	SP	nsubj
+ha	avere	VERB	V	ROOT
+facoltà	facoltà	NOUN	S	obj
+di	di	ADP	E	mark
+prorogare	prorogare	VERB	V	acl
+tale	tale	DET	DD	det
+termine	termine	NOUN	S	obj
+una	uno	DET	RI	det
+sola	solo	ADJ	A	amod
+volta	volta	NOUN	S	obl
+per	per	ADP	E	case
+non	non	ADV	BN	advmod
+oltre	oltre	ADP	E	advmod
+tre	tre	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+,	,	PUNCT	FF	punct
+qualora	qualora	SCONJ	CS	mark
+lo	lo	PRON	PC	obj
+ritenga	ritenere	VERB	V	advcl
+necessario	necessario	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+ferma	fermare	VERB	V	conj
+restando	restare	VERB	V	ccomp
+la	il	DET	RD	det
+sospensione	sospensione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+prescrizione	prescrizione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+3-bis	3-bis	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+reati	reato	NOUN	S	nsubj
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+articoli	articolo	NOUN	S	acl:relcl
+10-bis	10-bis	PROPN	SP	nummod
+e	e	CCONJ	CC	cc
+10-ter	10-ter	PROPN	SP	conj
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+punibili	punibile	ADJ	A	ROOT
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+dipende	dipendere	VERB	V	advcl
+da	da	ADP	E	case
+cause	causa	NOUN	S	obl
+non	non	ADV	BN	advmod
+imputabili	imputabile	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+autore	autore	NOUN	S	obl
+sopravvenute	sopravvenuto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+rispettivamente	rispettivamente	ADV	B	advmod
+,	,	PUNCT	FF	punct
+all'	a il	ADP	E_RD	case
+effettuazione	effettuazione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+ritenute	ritenuta	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+all'	a il	ADP	E_RD	case
+incasso	incasso	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	S	nmod
+sul	su il	ADP	E_RD	case
+valore	valore	NOUN	S	nmod
+aggiunto	aggiunto	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+primo	primo	ADJ	NO	amod
+periodo	periodo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+della	di il	ADP	E_RD	case
+crisi	crisi	NOUN	S	nmod
+non	non	ADV	BN	advmod
+transitoria	transitorio	ADJ	S	amod
+di	di	ADP	E	case
+liquidità	liquidità	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+autore	autore	NOUN	S	nmod
+dovuta	dovere	VERB	V	acl
+alla	a il	ADP	E_RD	case
+inesigibilità	inesigibilità	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+crediti	credito	NOUN	S	nmod
+per	per	ADP	E	case
+accertata	accertato	ADJ	A	amod
+insolvenza	insolvenza	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+sovraindebitamento	sovraindebitamento	NOUN	S	conj
+di	di	ADP	E	case
+terzi	terzo	ADJ	NO	nmod
+o	o	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+mancato	mancato	ADJ	A	amod
+pagamento	pagamento	NOUN	S	conj
+di	di	ADP	E	case
+crediti	credito	NOUN	S	nmod
+certi	certo	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+esigibili	esigibile	ADJ	A	conj
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+di	di	ADP	E	case
+amministrazioni	amministrazione	NOUN	S	nmod
+pubbliche	pubblico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+non	non	ADV	BN	advmod
+esperibilità	esperibilità	NOUN	S	conj
+di	di	ADP	E	case
+azioni	azione	NOUN	S	nmod
+idonee	idoneo	ADJ	V	amod
+al	a il	ADP	E_RD	case
+superamento	superamento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+crisi	crisi	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3-ter	3-ter	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	ROOT
+della	di il	ADP	E_RD	case
+non	non	ADV	BN	advmod
+punibilità	punibilità	NOUN	S	nmod
+per	per	ADP	E	case
+particolare	particolare	ADJ	A	amod
+tenuità	tenuità	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+fatto	fatto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+131-bis	131-bis	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	appos
+valuta	valuta	NOUN	S	compound
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+modo	modo	NOUN	S	nmod
+prevalente	prevalente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+uno	uno	PRON	PI	nmod
+o	o	CCONJ	CC	cc
+più	più	ADV	B	conj
+dei	di il	ADP	E_RD	case
+seguenti	seguente	ADJ	A	amod
+indici	indice	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+a	a	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+entità	entità	NOUN	S	ROOT
+dello	di il	ADP	E_RD	case
+scostamento	scostamento	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+imposta	imposta	NOUN	A	nmod
+evasa	evasa	NOUN	S	compound
+rispetto	rispetto	ADV	B	case
+al	a il	DET	E_RD	det
+valore	valore	NOUN	S	nmod
+soglia	soglia	NOUN	S	nmod
+stabilito	stabilire	VERB	V	acl
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+della	di il	ADP	E_RD	case
+punibilità	punibilità	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+salvo	salvo	ADJ	A	amod
+quanto	quanto	PRON	PR	fixed
+previsto	prevedere	VERB	V	advcl
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	obl
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+avvenuto	avvenuto	ADJ	A	amod
+adempimento	adempimento	NOUN	S	ROOT
+integrale	integrale	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+obbligo	obbligo	NOUN	S	nmod
+di	di	ADP	E	case
+pagamento	pagamento	NOUN	S	nmod
+secondo	secondo	ADP	E	case
+il	il	DET	RD	det
+piano	piano	NOUN	S	nmod
+di	di	ADP	E	case
+rateizzazione	rateizzazione	NOUN	S	nmod
+concordato	concordato	ADJ	A	amod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+amministrazione	amministrazione	NOUN	S	obl
+finanziaria	finanziario	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+c	c	NOUN	PC	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+entità	entità	NOUN	S	ROOT
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+tributario	tributario	ADJ	A	amod
+residuo	residuo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quando	quando	SCONJ	CS	mark
+sia	sia	CCONJ	V	advcl
+in	in	ADP	E	case
+fase	fase	NOUN	S	obl
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+mediante	mediante	ADP	E	case
+rateizzazione	rateizzazione	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+d	d	NOUN	S	advcl
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+situazione	situazione	NOUN	S	nmod
+di	di	ADP	E	case
+crisi	crisi	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+crisi	crisi	NOUN	S	nmod
+d'	di	ADP	E	case
+impresa	impresa	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+insolvenza	insolvenza	NOUN	S	conj
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+12	12	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+2019	2019	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+14	14	NUM	N	nummod
+.	.	PUNCT	FS	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	nmod
+13-bis	13-bis	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Circostanze	circostanze	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Fuori	Fuori	ADV	B	case
+dai	da il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+non	non	ADV	BN	advmod
+punibilità	punibilità	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+pene	pena	NOUN	S	conj
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl
+sono	essere	AUX	VA	aux:pass
+diminuite	diminuire	VERB	V	ROOT
+fino	fino	ADP	E	case
+alla	a il	DET	E_RD	det
+metà	metà	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	conj
+le	il	DET	RD	det
+pene	pena	NOUN	S	nsubj:pass
+accessorie	accessorio	ADJ	A	amod
+indicate	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+12	12	NUM	N	nummod
+se	se	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+chiusura	chiusura	NOUN	S	obl
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+tributario	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+comprese	compreso	ADJ	A	amod
+sanzioni	sanzione	NOUN	S	nmod
+amministrative	amministrativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+interessi	interesse	NOUN	S	conj
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+estinto	estinto	ADJ	A	advcl
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+chiusura	chiusura	NOUN	S	obl
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+è	essere	VERB	V	advcl
+in	in	ADP	E	case
+fase	fase	NOUN	S	obl
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+mediante	mediante	ADP	E	case
+rateizzazione	rateizzazione	NOUN	S	obl
+anche	anche	ADV	B	advmod
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+procedure	procedura	NOUN	S	nmod
+conciliative	conciliativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+adesione	adesione	NOUN	S	conj
+all'	a il	ADP	E_RD	case
+accertamento	accertamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+imputato	imputato	NOUN	S	nsubj
+ne	ne	PRON	PC	iobj
+dà	dare	VERB	V	ROOT
+comunicazione	comunicazione	NOUN	S	obj
+al	a il	ADP	E_RD	case
+giudice	giudice	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+procede	procedere	VERB	V	acl:relcl
+,	,	PUNCT	FF	punct
+allegando	allegare	VERB	V	advcl
+la	il	DET	RD	det
+relativa	relativo	ADJ	A	amod
+documentazione	documentazione	NOUN	S	obj
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+informa	informare	VERB	V	conj
+contestualmente	contestualmente	ADV	B	advmod
+l'	il	DET	RD	det
+Agenzia	Agenzia	PROPN	SP	obj
+delle	di il	ADP	E_RD	case
+entrate	entrata	NOUN	S	nmod
+con	con	ADP	E	case
+indicazione	indicazione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+relativo	relativo	ADJ	A	amod
+procedimento	procedimento	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+13	13	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+1-bis	1-bis	NUM	N	punct
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADJ	NO	case
+periodo	periodo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+sospeso	sospendere	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+ricezione	ricezione	NOUN	S	obl:agent
+della	di il	ADP	E_RD	case
+comunicazione	comunicazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Decorso	Decorso	VERB	V	advcl
+un	uno	DET	RI	det
+anno	anno	NOUN	S	obl
+la	il	DET	RD	det
+sospensione	sospensione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+revocata	revocare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+l'	il	DET	RD	det
+Agenzia	Agenzia	PROPN	SP	nsubj
+delle	di il	ADP	E_RD	case
+entrate	entrata	NOUN	S	nmod
+abbia	avere	AUX	VA	aux
+comunicato	comunicare	VERB	V	advcl
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+rate	rata	NOUN	S	nmod
+è	essere	AUX	V	cop
+regolarmente	regolarmente	ADV	B	advmod
+in	in	ADP	E	case
+corso	corso	NOUN	S	ccomp
+.	.	PUNCT	FS	punct
+
+In	in	ADP	E	case
+questo	questo	DET	DD	det
+caso	caso	NOUN	S	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+processo	processo	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+sospeso	sospendere	VERB	V	ROOT
+per	per	ADP	E	case
+ulteriori	ulteriore	ADJ	A	amod
+tre	tre	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+che	che	SCONJ	CS	mark
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+ha	avere	VERB	V	acl:relcl
+facoltà	facoltà	NOUN	S	obj
+di	di	ADP	E	mark
+prorogare	prorogare	VERB	V	acl
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+una	uno	DET	RI	det
+sola	solo	ADJ	A	amod
+volta	volta	NOUN	S	obl
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+non	non	ADV	BN	advmod
+oltre	oltre	ADP	E	case
+tre	tre	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+,	,	PUNCT	FF	punct
+qualora	qualora	SCONJ	CS	mark
+lo	lo	PRON	PC	obj
+ritenga	ritenere	VERB	V	advcl
+necessario	necessario	ADJ	A	xcomp
+per	per	ADP	E	mark
+consentire	consentire	VERB	V	advcl
+l'	il	DET	RD	det
+integrale	integrale	ADJ	A	amod
+pagamento	pagamento	NOUN	S	obj
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Anche	anche	ADV	B	advmod
+prima	prima	ADV	B	case
+del	di il	DET	E_RD	det
+decorso	decorso	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+termini	termine	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+secondo	secondo	ADJ	NO	nmod
+e	e	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+terzo	terzo	ADJ	NO	amod
+periodo	periodo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+sospensione	sospensione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+revocata	revocare	VERB	V	ROOT
+quando	quando	SCONJ	CS	mark
+l'	il	DET	RD	det
+Agenzia	Agenzia	PROPN	SP	nsubj
+delle	di il	ADP	E_RD	case
+entrate	entrata	NOUN	S	nmod
+attesta	attestare	VERB	V	advcl
+l'	il	DET	RD	det
+integrale	integrale	ADJ	S	amod
+versamento	versamento	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+somme	somma	NOUN	S	nmod
+dovute	dovere	VERB	V	acl
+o	o	CCONJ	CC	cc
+comunica	comunico	ADJ	A	conj
+la	il	DET	RD	det
+decadenza	decadenza	NOUN	S	obj
+dal	da il	ADP	E_RD	case
+beneficio	beneficio	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+rateizzazione	rateizzazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Durante	durante	ADP	E	case
+la	il	DET	RD	det
+sospensione	sospensione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+il	il	DET	RD	det
+corso	corso	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+prescrizione	prescrizione	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+sospeso	sospendere	VERB	V	ROOT
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+13	13	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+l'	il	DET	RD	det
+applicazione	applicazione	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+pena	pena	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+444	444	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+chiesta	chiedere	VERB	V	ROOT
+dalle	da il	ADP	E_RD	case
+parti	parte	NOUN	S	obl:agent
+solo	solo	ADV	B	advmod
+quando	quando	SCONJ	CS	case
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+dichiarazione	dichiarazione	NOUN	S	obl
+di	di	ADP	E	case
+apertura	apertura	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+il	il	DET	RD	det
+debito	debito	NOUN	S	nsubj
+tributario	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+comprese	compreso	ADJ	A	amod
+sanzioni	sanzione	NOUN	S	nmod
+amministrative	amministrativo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+interessi	interesse	NOUN	S	conj
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+estinto	estinto	ADJ	A	nsubj:pass
+,	,	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+quando	quando	SCONJ	CS	mark
+ricorre	ricorrere	VERB	V	conj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+il	il	DET	RD	det
+ravvedimento	ravvedimento	NOUN	S	nsubj:pass
+operoso	operoso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+fatte	fare	VERB	V	advcl
+salve	salvo	ADJ	A	xcomp
+le	il	DET	RD	det
+ipotesi	ipotese	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+,	,	PUNCT	FF	punct
+commi	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+e	e	CCONJ	CC	cc
+2	2	NUM	N	conj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+pene	pena	NOUN	S	nsubj:pass
+stabilite	stabilire	VERB	V	acl
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+II	II	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+aumentate	aumentare	VERB	V	ROOT
+della	di il	ADP	E_RD	case
+metà	metà	NOUN	S	obl
+se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+reato	reato	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+commesso	commettere	VERB	V	advcl
+dal	da il	ADP	E_RD	case
+concorrente	concorrente	NOUN	S	obl:agent
+nell'	in il	ADP	E_RD	case
+esercizio	esercizio	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+consulenza	consulenza	NOUN	S	nmod
+fiscale	fiscale	ADJ	A	amod
+svolta	svolgere	VERB	V	acl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+professionista	professionista	NOUN	S	obl:agent
+o	o	CCONJ	CC	cc
+da	da	ADP	E	case
+un	uno	DET	RI	det
+intermediario	intermediario	NOUN	S	conj
+finanziario	finanziario	ADJ	A	amod
+o	o	CCONJ	CC	cc
+bancario	bancario	ADJ	A	conj
+attraverso	attraverso	ADP	E	case
+l'	il	DET	RD	det
+elaborazione	elaborazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+commercializzazione	commercializzazione	NOUN	S	conj
+di	di	ADP	E	case
+modelli	modello	NOUN	S	nmod
+di	di	ADP	E	case
+evasione	evasione	NOUN	S	nmod
+fiscale	fiscale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+-------------	-------------	AUX	A	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+14	14	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Circostanza	circostanza	NOUN	S	nmod
+attenuante	attenuante	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Riparazione	riparazione	NOUN	S	ROOT
+dell'	di il	ADP	E_RD	case
+offesa	offesa	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	nmod
+di	di	ADP	E	case
+estinzione	estinzione	NOUN	S	nmod
+per	per	ADP	E	case
+prescrizione	prescrizione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+debito	debito	NOUN	S	nmod
+tributario	tributario	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+i	il	DET	RD	det
+debiti	debito	NOUN	S	nsubj
+indicati	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+risultano	risultare	VERB	V	advcl
+estinti	estinte	ADJ	S	obj
+per	per	ADP	E	case
+prescrizione	prescrizione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+per	per	ADP	E	case
+decadenza	decadenza	NOUN	S	conj
+,	,	PUNCT	FF	punct
+l'	il	DET	RD	det
+imputato	imputato	NOUN	S	nsubj
+di	di	ADP	E	case
+taluno	taluno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+può	potere	AUX	VM	aux
+chiedere	chiedere	VERB	V	ROOT
+di	di	ADP	E	mark
+essere	essere	AUX	VA	aux:pass
+anmesso	anmimere	VERB	V	ccomp
+a	a	ADP	E	mark
+pagare	pagare	VERB	V	xcomp
+,	,	PUNCT	FF	punct
+prima	prima	ADV	B	case
+della	di il	DET	E_RD	det
+dichiarazione	dichiarazione	NOUN	S	obl
+di	di	ADP	E	case
+apertura	apertura	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+dibattimento	dibattimento	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+una	uno	DET	RI	det
+somma	somma	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+lui	lui	PRON	PE	obl
+indicata	indicare	VERB	V	acl
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+di	di	ADP	E	case
+equa	equo	ADJ	A	amod
+riparazione	riparazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+offesa	offesa	NOUN	S	nmod
+recata	recare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+interesse	interesse	NOUN	S	obl
+pubblico	pubblico	ADJ	A	amod
+tutelato	tutelare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+norma	norma	NOUN	S	obl:agent
+violata	violato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+somma	somma	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+commisurata	commisurare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+gravità	gravità	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+offesa	offesa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	V	cop
+comunque	comunque	ADV	B	advmod
+inferiore	inferiore	ADJ	A	ROOT
+a	a	ADP	E	case
+quella	quello	PRON	PD	obl
+risultante	risultare	VERB	A	acl
+dal	da il	ADP	E_RD	case
+ragguaglio	ragguaglio	NOUN	S	obl
+a	a	ADP	E	case
+norma	norma	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+135	135	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+pena	pena	NOUN	S	nmod
+minima	minimo	ADJ	A	amod
+prevista	prevedere	VERB	V	acl
+per	per	ADP	E	case
+il	il	DET	RD	det
+delitto	delitto	NOUN	S	obl
+contestato	contestato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+sentito	sentire	VERB	V	ROOT
+il	il	DET	RD	det
+pubblico	pubblico	ADJ	A	amod
+ministero	ministero	NOUN	S	obj
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+ritiene	ritenere	VERB	V	advcl
+congrua	congruo	ADJ	A	xcomp
+la	il	DET	RD	det
+somma	somma	NOUN	S	obj
+,	,	PUNCT	FF	punct
+fissa	fissare	VERB	V	conj
+con	con	ADP	E	case
+ordinanza	ordinanza	NOUN	S	obl
+un	uno	DET	RI	det
+termine	termine	NOUN	S	obj
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+dieci	dieci	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+per	per	ADP	E	case
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+pagamento	pagamento	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+eseguito	eseguire	VERB	V	advcl
+nel	in il	ADP	E_RD	case
+termine	termine	NOUN	S	obl
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+pena	pena	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+diminuita	diminuire	VERB	V	ROOT
+fino	fino	ADP	E	case
+alla	a il	DET	E_RD	det
+metà	metà	NOUN	S	obl
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	conj
+le	il	DET	RD	det
+pene	pena	NOUN	S	nsubj:pass
+accessorie	accessorio	ADJ	A	amod
+indicate	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+12	12	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Si	si	PRON	PC	expl:pass
+osserva	osservare	VERB	V	ROOT
+la	il	DET	RD	det
+disposizione	disposizione	NOUN	S	obj
+prevista	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+13	13	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+5	5	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+assoluzione	assoluzione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+proscioglimento	proscioglimento	NOUN	S	conj
+la	il	DET	RD	det
+somma	somma	NOUN	S	nsubj:pass
+pagata	pagato	ADJ	A	amod
+è	essere	AUX	VA	aux:pass
+restituita	restituire	VERB	V	ROOT
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+15	15	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Violazioni	Violazioni	NOUN	S	nmod
+dipendenti	dipendente	NOUN	V	acl
+da	da	ADP	E	case
+interpretazione	interpretazione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+norme	norma	NOUN	S	nmod
+tributarie	tributario	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Al	a il	ADP	E_RD	case
+di	di	ADP	E	case
+fuori	fuori	ADV	B	advmod
+dei	di il	DET	E_RD	det
+casi	caso	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+la	il	DET	RD	det
+punibilità	punibilità	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+esclusa	escludere	VERB	V	acl:relcl
+a	a	ADP	E	case
+norma	norma	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+47	47	NUM	N	nummod
+,	,	PUNCT	FF	punct
+terzo	terzo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+non	non	ADV	BN	advmod
+danno	dare	VERB	V	ROOT
+luogo	luogo	NOUN	S	obj
+a	a	ADP	E	case
+fatti	fatto	NOUN	S	nmod
+punibili	punibile	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+le	il	DET	RD	det
+violazioni	violazione	NOUN	S	obj
+di	di	ADP	E	case
+norme	norma	NOUN	S	nmod
+tributarie	tributario	ADJ	A	amod
+dipendenti	dipendente	NOUN	V	acl
+da	da	ADP	E	case
+obiettive	obiettivo	ADJ	A	amod
+condizioni	condizione	NOUN	S	obl
+di	di	ADP	E	case
+incertezza	incertezza	NOUN	S	nmod
+sulla	su il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+portata	portata	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sul	su il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+ambito	ambito	NOUN	S	conj
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+17	17	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Interruzione	interruzione	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+prescrizione	prescrizione	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+corso	corso	NOUN	S	nsubj:pass
+della	di il	ADP	E_RD	case
+prescrizione	prescrizione	NOUN	S	nmod
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+è	essere	AUX	VA	aux:pass
+interrotto	interrotre	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+oltre	oltre	ADV	B	case
+che	che	SCONJ	CS	fixed
+dagli	da il	ADP	E_RD	case
+atti	atto	NOUN	S	obl
+indicati	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+160	160	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+dal	da il	ADP	E_RD	case
+verbale	verbale	NOUN	S	nmod
+di	di	ADP	E	case
+constatazione	constatazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+dall'	da il	ADP	E_RD	case
+atto	atto	NOUN	S	conj
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+relative	relativo	ADJ	A	amod
+violazioni	violazione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+1-bis	1-bis	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+termini	termine	NOUN	S	nsubj
+di	di	ADP	E	case
+prescrizione	prescrizione	NOUN	S	nmod
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+da	da	ADP	E	case
+2	2	NUM	N	nummod
+a	a	ADP	E	case
+10	10	NUM	N	nummod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+sono	essere	AUX	VA	aux
+elevati	elevare	VERB	V	ROOT
+di	di	ADP	E	case
+un	uno	DET	RI	det
+terzo	terzo	ADJ	NO	obl
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+4	4	NUM	N	nummod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+---------------	---------------	PROPN	SP	punct
+
+
+	
+
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	obl
+18	18	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Competenza	Competenza	PROPN	SP	nmod
+per	per	ADP	E	case
+territorio	territorio	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Salvo	salvo	ADJ	A	amod
+quanto	quanto	PRON	PR	fixed
+previsto	prevedere	VERB	V	acl:relcl
+dai	da il	ADP	E_RD	case
+commi	comma	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+e	e	CCONJ	CC	cc
+3	3	NUM	N	conj
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+la	il	DET	RD	det
+competenza	competenza	NOUN	S	nsubj:pass
+per	per	ADP	E	case
+territorio	territorio	NOUN	S	nmod
+per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	nmod
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+non	non	ADV	BN	advmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+determinata	determinare	VERB	V	advcl
+a	a	ADP	E	case
+norma	norma	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+competente	competente	ADJ	A	ROOT
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+i	il	DET	RD	det
+delitti	delitto	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+capo	capo	NOUN	S	obl:agent
+I	I	ADJ	NO	compound
+del	di il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+II	II	ADJ	NO	amod
+il	il	DET	RD	det
+reato	reato	NOUN	S	nsubj:pass
+si	si	PRON	PC	expl:pass
+considera	considerare	VERB	V	ROOT
+consumato	consumare	VERB	V	xcomp
+nel	in il	ADP	E_RD	case
+luogo	luogo	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+contribuente	contribuente	NOUN	S	nsubj
+ha	avere	VERB	V	acl:relcl
+il	il	DET	RD	det
+domicilio	domicilio	NOUN	S	obj
+fiscale	fiscale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+Se	se	SCONJ	CS	mark
+il	il	DET	RD	det
+domicilio	domicilio	NOUN	S	nsubj
+fiscale	fiscale	ADJ	A	amod
+è	essere	AUX	V	dep
+all'	a il	ADP	E_RD	case
+estero	estero	NOUN	S	obl
+è	essere	AUX	V	cop
+competente	competente	ADJ	A	ROOT
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+luogo	luogo	NOUN	S	nmod
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+previsto	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+2	2	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+8	8	NUM	N	nummod
+,	,	PUNCT	FF	punct
+se	se	SCONJ	CS	mark
+le	il	DET	RD	det
+fatture	fattura	NOUN	S	nsubj:pass
+o	o	CCONJ	CC	cc
+gli	il	DET	RD	det
+altri	altro	ADJ	A	amod
+documenti	documento	NOUN	S	conj
+per	per	ADP	E	case
+operazioni	operazione	NOUN	S	nmod
+inesistenti	inesistente	ADJ	A	amod
+sono	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+emessi	emettere	VERB	V	advcl
+o	o	CCONJ	CC	cc
+rilasciati	rilasciare	VERB	V	conj
+in	in	ADP	E	case
+luoghi	luogo	NOUN	S	obl
+rientranti	rientrante	ADJ	A	amod
+in	in	ADP	E	case
+diversi	diverso	DET	DI	det
+circondari	circondari	NOUN	S	obl
+,	,	PUNCT	FF	punct
+è	essere	AUX	V	cop
+competente	competente	ADJ	A	ROOT
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	nsubj
+di	di	ADP	E	case
+uno	uno	PRON	PI	nmod
+di	di	ADP	E	case
+tali	tale	ADJ	DD	det
+luoghi	luogo	NOUN	S	nmod
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+ha	avere	VERB	V	acl:relcl
+sede	sede	NOUN	S	obj
+l'	il	DET	RD	det
+ufficio	ufficio	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+pubblico	pubblico	ADJ	A	amod
+ministero	ministero	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+ha	avere	AUX	VA	aux
+provveduto	provvedere	VERB	V	acl:relcl
+per	per	ADP	E	case
+primo	primo	ADJ	NO	obl
+a	a	ADP	E	mark
+iscrivere	iscrivere	VERB	V	xcomp
+la	il	DET	RD	det
+notizia	notizia	NOUN	S	obj
+di	di	ADP	E	case
+reato	reato	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+registro	registro	NOUN	S	obl
+previsto	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+335	335	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+18-bis	18-bis	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Custodia	Custodia	NOUN	S	appos
+giudiziale	giudiziale	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+beni	bene	NOUN	S	nmod
+sequestrati	sequestrato	ADJ	A	amod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+I	il	DET	RD	det
+beni	bene	NOUN	S	nsubj:pass
+sequestrati	sequestrare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+ambito	ambito	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+procedimenti	procedimento	NOUN	S	nmod
+penali	penale	ADJ	A	amod
+relativi	relativo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+delitti	delitto	NOUN	S	obl
+previsti	prevedere	VERB	V	acl
+dal	da il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl:agent
+e	e	CCONJ	CC	cc
+a	a	ADP	E	case
+ogni	ogni	DET	DI	det
+altro	altro	ADJ	A	amod
+delitto	delitto	NOUN	S	conj
+tributario	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+diversi	diverso	PRON	V_PC	amod
+dal	da il	ADP	E_RD	case
+denaro	denaro	NOUN	S	obl:agent
+e	e	CCONJ	CC	cc
+dalle	da il	ADP	E_RD	case
+disponibilità	disponibilità	NOUN	S	conj
+finanziarie	finanziario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+possono	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+affidati	affidare	VERB	V	ROOT
+dall'	da il	ADP	E_RD	case
+autorità	autorità	NOUN	S	obl:agent
+giudiziaria	giudiziario	ADJ	A	amod
+in	in	ADP	E	case
+custodia	custodia	NOUN	S	obl
+giudiziale	giudiziale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+agli	a il	ADP	E_RD	case
+organi	organo	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+amministrazione	amministrazione	NOUN	S	nmod
+finanziaria	finanziario	ADJ	A	amod
+che	che	PRON	PR	nsubj
+ne	ne	PRON	PC	iobj
+facciano	fare	VERB	V	acl:relcl
+richiesta	richiesta	NOUN	S	obj
+per	per	ADP	E	case
+le	il	DET	RD	det
+proprie	proprio	DET	AP	det:poss
+esigenze	esigenza	NOUN	S	nmod
+operative	operativo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+1-bis	1-bis	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+I	il	DET	RD	det
+beni	bene	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+acquisiti	acquisire	VERB	V	acl
+dallo	da il	ADP	E_RD	case
+Stato	stato	NOUN	S	obl:agent
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	obl
+di	di	ADP	E	case
+provvedimento	provvedimento	NOUN	S	nmod
+definitivo	definitivo	ADJ	A	amod
+di	di	ADP	E	case
+confisca	confisca	NOUN	S	nmod
+sono	essere	AUX	VA	aux:pass
+assegnati	assegnare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+richiesta	richiesta	NOUN	S	obl
+,	,	PUNCT	FF	punct
+agli	a il	ADP	E_RD	case
+organi	organo	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+Amministrazione	amministrazione	NOUN	S	nmod
+finanziaria	finanziario	ADJ	A	amod
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Restano	Restano	VERB	S	ROOT
+ferme	ferma	ADJ	A	amod
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+61	61	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+23	23	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+25	25	NUM	N	nmod
+giugno	giugno	NOUN	S	flat
+2008	2008	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+112	112	NUM	N	nummod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+6	6	NUM	N	nmod
+agosto	agosto	NOUN	S	flat
+2008	2008	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+133	133	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	conj
+2	2	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+legge	legge	NOUN	S	compound
+16	16	NUM	N	nmod
+settembre	settembre	NOUN	S	flat
+2008	2008	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+143	143	NUM	N	nummod
+,	,	PUNCT	FF	punct
+convertito	convertito	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+modificazioni	modificazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+dalla	da il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+13	13	NUM	N	nmod
+novembre	novembre	NOUN	S	flat
+2008	2008	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+181	181	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Titolo	titolo	NOUN	S	ROOT
+IV	IV	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+RAPPORTI	RAPPORTI	PROPN	SP	nmod
+CON	CON	ADP	E	case
+IL	iL	DET	RD	amod
+SISTEMA	sISTEMA	PROPN	S	nmod
+SANZIONATORIO	SANZIONATORIO	PROPN	SP	nmod
+AMMINISTRATIVO	AMMINISTRATIVO	PROPN	SP	flat:name
+
+E	e	CCONJ	CC	cc
+FRA	FRA	PROPN	SP	case
+
+	
+	SPACE	_SP	dep
+PROCEDIMENTI	PROCEDIMENTI	PROPN	SP	obj
+
+	
+	SPACE	_SP	dep
+Art.	articolo	NOUN	S	ROOT
+19	19	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Principio	principio	NOUN	S	nmod
+di	di	ADP	E	case
+specialità	specialità	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+uno	uno	DET	RI	det
+stesso	stesso	ADJ	A	amod
+fatto	fatto	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	advcl
+da	da	ADP	E	case
+una	uno	PRON	PI	obl:agent
+delle	di il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+titolo	titolo	NOUN	S	nmod
+II	II	ADJ	A	amod
+e	e	CCONJ	CC	cc
+da	da	ADP	E	case
+una	uno	DET	RI	det
+disposizione	disposizione	NOUN	S	conj
+che	che	PRON	PR	nsubj
+prevede	prevedere	VERB	V	acl:relcl
+una	uno	DET	RI	det
+sanzione	sanzione	NOUN	S	obj
+amministrativa	amministrativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:pass
+applica	applicare	VERB	V	ROOT
+la	il	DET	RD	det
+disposizione	disposizione	NOUN	S	nsubj:pass
+speciale	speciale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Permane	Permane	PROPN	SP	ROOT
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+caso	caso	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	appos
+per	per	ADP	E	case
+la	il	DET	RD	det
+sanzione	sanzione	NOUN	S	nmod
+amministrativa	amministrativo	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+indicati	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+11	11	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+18	18	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1997	1997	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+472	472	NUM	N	nummod
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj
+non	non	ADV	BN	advmod
+siano	essere	AUX	V	cop
+persone	persona	NOUN	S	acl:relcl
+fisiche	fisico	ADJ	A	amod
+concorrenti	concorrente	NOUN	V	amod
+nel	in il	ADP	E_RD	case
+reato	reato	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+resta	restare	VERB	V	advcl
+ferma	fermare	VERB	V	ccomp
+la	il	DET	RD	det
+responsabilità	responsabilità	NOUN	S	nsubj
+degli	di il	ADP	E_RD	case
+enti	ente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+società	società	NOUN	S	conj
+prevista	prevedere	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+21	21	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2-bis	2-bis	NUM	N	compound
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+20	20	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Rapporti	rapporto	NOUN	S	nmod
+tra	tra	ADP	E	case
+procedimento	procedimento	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+processo	processo	NOUN	S	conj
+tributario	tributario	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Il	il	DET	RD	det
+procedimento	procedimento	NOUN	S	nsubj:pass
+amministrativo	amministrativo	ADJ	A	amod
+di	di	ADP	E	case
+accertamento	accertamento	NOUN	S	nmod
+ed	e	CCONJ	CC	cc
+il	il	DET	RD	det
+processo	processo	NOUN	S	conj
+tributario	tributario	ADJ	A	amod
+non	non	ADV	BN	advmod
+possono	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+sospesi	sospendere	VERB	V	ROOT
+per	per	ADP	E	case
+la	il	DET	RD	det
+pendenza	pendenza	NOUN	S	obl
+del	di il	ADP	E_RD	case
+procedimento	procedimento	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+avente	avere	VERB	V	acl
+ad	a	ADP	E	case
+oggetto	oggetto	NOUN	S	obl
+i	il	DET	RD	det
+medesimi	medesimo	ADJ	A	amod
+fatti	fatto	NOUN	S	obj
+o	o	CCONJ	CC	cc
+fatti	fare	VERB	V	conj
+dal	da il	ADP	E_RD	case
+cui	cui	DET	DR	det:poss
+accertamento	accertamento	NOUN	S	nsubj
+comunque	comunque	ADV	B	advmod
+dipende	dipendere	VERB	V	acl:relcl
+la	il	DET	RD	det
+relativa	relativo	ADJ	A	amod
+definizione	definizione	NOUN	S	nsubj
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1-bis	1-bis	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+sentenze	sentenza	NOUN	S	nsubj:pass
+rese	rendere	VERB	V	acl
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	obl
+tributario	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+divenute	divenute	VERB	V	acl
+irrevocabili	irrevocabile	ADJ	A	xcomp
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+gli	il	DET	RD	det
+atti	atto	NOUN	S	conj
+di	di	ADP	E	case
+definitivo	definitivo	ADJ	A	amod
+accertamento	accertamento	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+imposte	imposta	NOUN	S	nmod
+in	in	ADP	E	case
+sede	sede	NOUN	S	nmod
+amministrativa	amministrativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+a	a	ADP	E	case
+seguito	seguito	NOUN	S	nmod
+di	di	ADP	E	case
+adesione	adesione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+aventi	avere	VERB	V	acl
+a	a	ADP	E	case
+oggetto	oggetto	NOUN	S	obl
+violazioni	violazione	NOUN	S	obj
+derivanti	derivare	VERB	V	acl
+dai	da il	ADP	E_RD	case
+medesimi	medesimo	ADJ	A	amod
+fatti	fatto	NOUN	S	obl
+per	per	ADP	E	case
+cui	cui	PRON	PR	obl
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+esercitata	esercitare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+azione	azione	NOUN	S	nsubj:pass
+penale	penale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+possono	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+acquisiti	acquisire	VERB	V	ROOT
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	obl
+penale	penale	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+della	di il	ADP	E_RD	case
+prova	prova	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+fatto	fatto	NOUN	S	nmod
+in	in	ADP	E	case
+essi	esso	PRON	PE	obl
+accertato	accertare	VERB	V	acl
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21	21	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Sanzioni	sanzione	NOUN	S	nmod
+amministrative	amministrativo	ADJ	A	amod
+per	per	ADP	E	case
+le	il	DET	RD	det
+violazioni	violazione	NOUN	S	nmod
+ritenute	ritenere	VERB	V	acl
+penalmente	penalmente	ADV	B	advmod
+rilevanti	rilevante	ADJ	A	xcomp
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+ufficio	ufficio	NOUN	S	ROOT
+competente	competente	ADJ	A	amod
+irroga	irrogo	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+...	...	PUNCT	FF	punct
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+le	il	DET	RD	det
+sanzioni	sanzione	NOUN	S	nmod
+amministrative	amministrativo	ADJ	A	amod
+relative	relativo	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+violazioni	violazione	NOUN	S	obl
+tributarie	tributario	ADJ	A	amod
+fatte	fare	VERB	V	acl
+oggetto	oggetto	NOUN	S	xcomp
+di	di	ADP	E	case
+notizia	notizia	NOUN	S	nmod
+di	di	ADP	E	case
+reato	reato	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Tali	tale	DET	DD	det
+sanzioni	sanzione	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+eseguibili	eseguibile	ADJ	A	ROOT
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	nmod
+diversi	diverso	ADJ	A	amod
+da	da	ADP	E	case
+quelli	quello	PRON	PD	obl
+indicali	indicale	ADJ	A	amod
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+19	19	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	case
+che	che	SCONJ	CS	fixed
+il	il	DET	RD	det
+procedimento	procedimento	NOUN	S	obl
+penale	penale	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+sia	essere	AUX	VA	aux
+definito	definire	VERB	V	acl
+con	con	ADP	E	case
+provvedimento	provvedimento	NOUN	S	obl
+di	di	ADP	E	case
+archiviazione	archiviazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sentenza	sentenza	NOUN	S	conj
+irrevocabile	irrevocabile	ADJ	A	amod
+di	di	ADP	E	case
+assoluzione	assoluzione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+di	di	ADP	E	case
+proscioglimento	proscioglimento	NOUN	S	conj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+con	con	ADP	E	case
+formula	formula	NOUN	S	obl
+che	che	PRON	PR	nsubj
+esclude	escludere	VERB	V	acl:relcl
+la	il	DET	RD	det
+rilevanza	rilevanza	NOUN	S	obj
+penale	penale	ADJ	A	amod
+del	di il	ADP	E_RD	case
+fatto	fatto	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Resta	restare	PROPN	SP	ROOT
+fermo	fermo	ADJ	A	amod
+quanto	quanto	PRON	PR	punct
+previsto	prevedere	VERB	V	acl:relcl
+dagli	da il	ADP	E_RD	case
+articoli	articolo	NOUN	S	obl:agent
+21-bis	21-bis	NUM	N	nummod
+e	e	CCONJ	CC	cc
+21-ter	21-ter	NUM	N	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+I	il	DET	RD	det
+termini	termine	NOUN	S	nsubj
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+per	per	ADP	E	case
+la	il	DET	RD	det
+riscossione	riscossione	NOUN	S	nmod
+decorrono	decorre	VERB	V	ROOT
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+in	in	ADP	E	case
+cui	cui	PRON	PR	obl
+il	il	DET	RD	det
+provvedimento	provvedimento	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+archiviazione	archiviazione	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+la	il	DET	RD	det
+sentenza	sentenza	NOUN	S	conj
+sono	essere	AUX	VA	aux:pass
+comunicati	comunicare	VERB	V	acl:relcl
+all'	a il	ADP	E_RD	case
+ufficio	ufficio	NOUN	S	obl
+competente	competente	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+alla	a il	ADP	E_RD	case
+comunicazione	comunicazione	NOUN	S	obl
+provvede	provvedere	VERB	V	ROOT
+la	il	DET	RD	det
+cancelleria	cancellerio	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+giudice	giudice	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+li	li	PRON	PC	obj
+ha	avere	AUX	VA	aux
+emessi	emettere	VERB	V	acl:relcl
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nei	in il	ADP	E_RD	case
+casi	caso	NOUN	S	obl
+di	di	ADP	E	case
+irrogazione	irrogazione	NOUN	S	nmod
+di	di	ADP	E	case
+un'	uno	DET	RI	det
+unica	unico	ADJ	A	amod
+sanzione	sanzione	NOUN	S	nmod
+amministrativa	amministrativo	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+pecuniaria	pecuniaria	NOUN	S	appos
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+per	per	ADP	E	case
+più	più	DET	DI	det
+violazioni	violazione	NOUN	S	nmod
+tributarie	tributario	ADJ	A	amod
+in	in	ADP	E	case
+concorso	concorso	NOUN	S	obl
+o	o	CCONJ	CC	cc
+continuazione	continuazione	NOUN	S	conj
+fra	fra	ADP	E	case
+loro	loro	PRON	PE	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+norma	norma	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+12	12	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+18	18	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1997	1997	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+472	472	NUM	N	nummod
+,	,	PUNCT	FF	punct
+alcune	alcuno	PRON	PI	nmod
+delle	di il	ADP	E_RD	case
+quali	quale	PRON	PR	nmod
+soltanto	soltanto	ADV	B	advmod
+penalmente	penalmente	ADV	B	case
+rilevanti	rilevante	ADJ	A	amod
+,	,	PUNCT	FF	punct
+la	il	DET	RD	det
+disposizione	disposizione	NOUN	S	nsubj
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+articolo	articolo	NOUN	S	nmod
+opera	operare	VERB	V	ROOT
+solo	solo	ADV	B	advmod
+per	per	ADP	E	case
+la	il	DET	RD	det
+parte	parte	NOUN	S	obl
+della	di il	ADP	E_RD	case
+sanzione	sanzione	NOUN	S	nmod
+eccedente	eccedere	VERB	V	acl
+quella	quello	PRON	PD	obj
+che	che	PRON	PR	nsubj
+sarebbe	essere	AUX	VA	aux
+stata	essere	AUX	V	cop
+applicabile	applicabile	ADJ	A	acl:relcl
+in	in	ADP	E	case
+relazione	relazione	NOUN	S	obl
+alle	a il	ADP	E_RD	case
+violazioni	violazione	NOUN	S	nmod
+non	non	ADV	BN	advmod
+penalmente	penalmente	ADV	B	advmod
+rilevanti	rilevante	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21-bis	21-bis	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Efficacia	Efficacia	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+sentenze	sentenza	NOUN	S	nmod
+penali	penale	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+tributario	tributario	ADJ	A	amod
+e	e	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	conj
+di	di	ADP	E	case
+Cassazione	Cassazione	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+sentenza	sentenza	NOUN	S	nsubj
+irrevocabile	irrevocabile	ADJ	A	amod
+di	di	ADP	E	case
+assoluzione	assoluzione	NOUN	S	nmod
+perché	perché	SCONJ	CS	mark
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+sussiste	sussistere	VERB	V	ROOT
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+imputato	imputato	NOUN	S	conj
+non	non	ADV	BN	advmod
+lo	lo	PRON	PC	obj
+ha	avere	AUX	VA	aux
+commesso	commettere	VERB	V	advcl
+,	,	PUNCT	FF	punct
+pronunciata	pronunciare	VERB	V	advcl
+in	in	ADP	E	case
+seguito	seguito	NOUN	S	obl
+a	a	ADP	E	case
+dibattimento	dibattimento	NOUN	S	nmod
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+medesimo	medesimo	ADJ	A	amod
+soggetto	soggetto	ADJ	A	nmod
+e	e	CCONJ	CC	cc
+sugli	su il	ADP	E_RD	case
+stessi	stesso	ADJ	A	amod
+fatti	fatto	NOUN	S	conj
+materiali	materiale	ADJ	A	amod
+oggetto	oggetto	NOUN	S	nmod
+di	di	ADP	E	case
+valutazione	valutazione	NOUN	S	nmod
+nel	in il	ADP	E_RD	case
+processo	processo	NOUN	S	nmod
+tributario	tributario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ha	avere	VERB	V	parataxis
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+questo	questo	PRON	PD	obl
+,	,	PUNCT	FF	punct
+efficacia	efficacia	NOUN	S	obj
+di	di	ADP	E	case
+giudicato	giudicato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+ogni	ogni	DET	DI	det
+stato	stato	NOUN	S	obl
+e	e	CCONJ	CC	cc
+grado	grado	NOUN	S	conj
+,	,	PUNCT	FF	punct
+quanto	quanto	ADV	B	case
+ai	a il	ADP	E_RD	case
+fatti	fatto	NOUN	S	obl
+medesimi	medesimo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+La	il	DET	RD	det
+sentenza	sentenza	NOUN	S	nsubj:pass
+penale	penale	ADJ	A	amod
+irrevocabile	irrevocabile	ADJ	A	amod
+di	di	ADP	E	case
+cui	cui	PRON	PR	obl
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nsubj:pass
+1	1	NUM	N	nummod
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+depositata	depositare	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+nel	in il	ADP	E_RD	case
+giudizio	giudizio	NOUN	S	obl
+di	di	ADP	E	case
+Cassazione	Cassazione	PROPN	SP	nmod
+fino	fino	ADV	B	case
+a	a	ADP	E	fixed
+quindici	quindici	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+prima	prima	ADV	B	case
+dell'	di il	DET	E_RD	det
+udienza	udienza	NOUN	S	obl
+o	o	CCONJ	CC	cc
+dell'	di il	ADP	E_RD	case
+adunanza	adunanza	NOUN	S	conj
+in	in	ADP	E	case
+camera	camera	NOUN	S	nmod
+di	di	ADP	E	case
+consiglio	consiglio	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	nsubj:pass
+dei	di il	ADP	E_RD	case
+commi	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+e	e	CCONJ	CC	cc
+2	2	NUM	N	conj
+si	si	PRON	PC	expl:pass
+applicano	applicare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+limitatamente	limitatamente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+ipotesi	ipotesi	NOUN	S	obl
+di	di	ADP	E	case
+sentenza	sentenza	NOUN	S	nmod
+di	di	ADP	E	case
+assoluzione	assoluzione	NOUN	S	nmod
+perché	perché	SCONJ	CS	mark
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+sussiste	sussistere	VERB	V	advcl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	obl
+della	di il	ADP	E_RD	case
+persona	persona	NOUN	S	nmod
+fisica	fisico	ADJ	A	amod
+nell'	in il	ADP	E_RD	case
+interesse	interesse	NOUN	S	obl
+della	di il	ADP	E_RD	case
+quale	quale	PRON	PR	nmod
+ha	avere	AUX	VA	aux
+agito	agire	VERB	V	conj
+il	il	DET	RD	det
+dipendente	dipendente	NOUN	S	obj
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+rappresentante	rappresentante	NOUN	S	conj
+legale	legale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+negoziale	negoziale	ADJ	A	conj
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+ente	ente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+società	società	NOUN	S	conj
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+o	o	CCONJ	CC	cc
+senza	senza	ADP	E	case
+personalità	personalità	NOUN	S	obl
+giuridica	giuridico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nell'	in il	ADP	E_RD	case
+interesse	interesse	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+quali	quale	PRON	PR	nmod
+ha	avere	AUX	VA	aux
+agito	agire	VERB	V	conj
+il	il	DET	RD	det
+rappresentante	rappresentante	NOUN	S	obj
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+amministratore	amministratore	NOUN	S	conj
+anche	anche	ADV	B	advmod
+di	di	ADP	E	case
+fatto	fatto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nonché	nonché	CCONJ	CC	cc
+nei	in il	ADP	E_RD	case
+confronti	confronto	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+loro	loro	DET	AP	det:poss
+soci	socio	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+associati	associato	ADJ	A	conj
+.	.	PUNCT	FS	punct
+
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+21-ter	21-ter	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+Applicazione	Applicazione	PROPN	SP	appos
+ed	e	CCONJ	CC	cc
+esecuzione	esecuzione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+sanzioni	sanzione	NOUN	S	nmod
+penali	penale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+amministrative	amministrativo	ADJ	A	conj
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+)	)	PUNCT	FB	ROOT
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+(	(	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	obl
+.	.	PUNCT	FS	punct
+
+Quando	quando	SCONJ	CS	mark
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+lo	il	DET	RD	det
+stesso	stesso	ADJ	A	amod
+fatto	fatto	NOUN	S	obl
+è	essere	AUX	VA	aux
+stata	essere	AUX	VA	aux:pass
+applicata	applicare	VERB	V	advcl
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+carico	carico	NOUN	S	obl
+del	di il	ADP	E_RD	case
+soggetto	soggetto	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+una	uno	DET	RI	det
+sanzione	sanzione	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+ovvero	ovvero	CCONJ	CC	cc
+una	uno	DET	RI	det
+sanzione	sanzione	NOUN	S	conj
+amministrativa	amministrativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+una	uno	DET	RI	det
+sanzione	sanzione	NOUN	S	conj
+amministrativa	amministrativo	ADJ	A	amod
+dipendente	dipendere	VERB	V	acl
+da	da	ADP	E	case
+reato	reato	NOUN	S	obl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+giudice	giudice	NOUN	S	conj
+o	o	CCONJ	CC	cc
+l'	il	DET	RD	det
+autorità	autorità	NOUN	S	conj
+amministrativa	amministrativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+momento	momento	NOUN	S	obl
+della	di il	ADP	E_RD	case
+determinazione	determinazione	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+sanzioni	sanzione	NOUN	S	nmod
+di	di	ADP	E	case
+propria	proprio	DET	AP	det:poss
+competenza	competenza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	conj
+di	di	ADP	E	mark
+ridurne	ridure ne	VERB	V_PC	acl
+la	il	DET	RD	det
+relativa	relativo	ADJ	A	amod
+misura	misura	NOUN	S	obj
+,	,	PUNCT	FF	punct
+tiene	tenere	VERB	V	ROOT
+conto	conto	NOUN	S	obj
+di	di	ADP	E	case
+quelle	quello	PRON	PD	nmod
+già	già	ADV	B	advmod
+irrogate	irrogare	VERB	V	acl
+con	con	ADP	E	case
+provvedimento	provvedimento	NOUN	S	obl
+o	o	CCONJ	CC	cc
+con	con	ADP	E	case
+sentenza	sentenza	NOUN	S	conj
+assunti	assumere	VERB	V	acl
+in	in	ADP	E	case
+via	via	NOUN	S	obl
+definitiva	definitivo	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+
+	
+
+	SPACE	_SP	dep
+)	)	PUNCT	FB	punct
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+Titolo	titolo	NOUN	S	obl
+V	V	ADJ	NO	amod
+
+	
+	SPACE	_SP	dep
+DISPOSIZIONI	DISPOSIZIONI	NOUN	S	nmod
+DI	DI	ADP	E	case
+COORDINAMENTO	COORDINAMENTO	PROPN	SP	nmod
+E	E	CCONJ	CC	cc
+FINALI	FINALI	PROPN	SP	conj
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+22	22	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Modalità	Modalità	NOUN	S	nmod
+di	di	ADP	E	case
+documentazione	documentazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+avvenuta	avvenuto	ADJ	A	amod
+estinzione	estinzione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+debiti	debito	NOUN	S	nmod
+tributari	tributario	ADJ	A	amod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Con	con	ADP	E	case
+decreto	decreto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+finanze	finanza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+emanato	emanare	VERB	V	acl
+entro	entro	ADP	E	case
+sessanta	sessanta	NUM	N	nummod
+giorni	giorno	NOUN	S	obl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	nmod
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+pubblicato	pubblicare	VERB	V	conj
+nella	in il	ADP	E_RD	case
+Gazzetta	gazzetta	NOUN	S	obl
+Ufficiale	Ufficiale	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+stabilite	stabilire	VERB	V	ROOT
+le	il	DET	RD	det
+modalità	modalità	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+documentazione	documentazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+avvenuta	avvenuto	ADJ	A	amod
+estinzione	estinzione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+debiti	debito	NOUN	S	nmod
+tributari	tributario	ADJ	A	amod
+indicati	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+13	13	NUM	N	nummod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+versamento	versamento	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+somme	somma	NOUN	S	nmod
+indicate	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+14	14	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+23	23	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Modifiche	Modifiche	NOUN	S	nmod
+in	in	ADP	E	case
+tema	tema	NOUN	S	nmod
+di	di	ADP	E	case
+utilizzazione	utilizzazione	NOUN	S	nmod
+di	di	ADP	E	case
+documenti	documento	NOUN	S	nmod
+da	da	ADP	E	case
+parte	parte	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Guardia	Guardia	NOUN	S	nmod
+di	di	ADP	E	case
+finanza	finanza	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	compound
+.	.	PUNCT	FS	punct
+
+Nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	ROOT
+63	63	NUM	N	nummod
+,	,	PUNCT	FF	punct
+primo	primo	ADJ	NO	amod
+comma	comma	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+periodo	periodo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+26	26	NUM	N	nmod
+ottobre	ottobre	NOUN	S	flat
+1972	1972	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+633	633	NUM	N	nummod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	conj
+33	33	NUM	N	nummod
+,	,	PUNCT	FF	punct
+terzo	terzo	ADJ	NO	amod
+comma	comma	NOUN	S	appos
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+periodo	periodo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+Presidente	presidente	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+29	29	NUM	N	nummod
+settembre	settembre	NOUN	S	flat
+1973	1973	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+600	600	NUM	N	nummod
+,	,	PUNCT	FF	punct
+le	il	DET	RD	det
+parole	parola	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+"	"	PUNCT	FB	punct
+previa	previo	ADJ	A	amod
+autorizzazione	autorizzazione	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+autorità	autorità	NOUN	S	nmod
+giudiziaria	giudiziario	ADJ	A	amod
+in	in	ADP	E	case
+relazione	relazione	NOUN	S	nmod
+alle	a il	ADP	E_RD	case
+norme	norma	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+disciplinano	disciplinare	VERB	V	acl:relcl
+il	il	DET	RD	det
+segreto	segreto	NOUN	S	obj
+"	"	PUNCT	FB	punct
+sono	essere	AUX	VA	aux:pass
+sostituite	sostituire	VERB	V	ROOT
+dalle	da il	ADP	E_RD	case
+seguenti	seguente	ADJ	S	obl:agent
+:	:	PUNCT	FC	punct
+
+"	"	PUNCT	FB	punct
+previa	previo	ADJ	A	amod
+autorizzazione	autorizzazione	NOUN	S	ROOT
+dell'	di il	ADP	E_RD	case
+autorità	autorità	NOUN	S	nmod
+giudiziaria	giudiziario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj:pass
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+concessa	concedere	VERB	V	acl:relcl
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+deroga	deroga	NOUN	S	obl
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+329	329	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+procedura	procedura	NOUN	S	nmod
+penale	penale	ADJ	A	amod
+"	"	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+24	24	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	flat
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+ottavo	ottavo	ADJ	NO	amod
+comma	comma	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+26	26	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+1983	1983	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+18	18	NUM	N	nummod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+sostituito	sostituire	VERB	V	ROOT
+dal	da il	ADP	E_RD	case
+seguente	seguente	ADJ	S	obl:agent
+:	:	PUNCT	FC	punct
+
+
+	
+	SPACE	_SP	dep
+
+"	"	PUNCT	FB	punct
+Salvo	salvo	ADJ	A	mark
+che	che	SCONJ	CS	fixed
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+costituisca	costituire	VERB	V	ROOT
+reato	reato	NOUN	S	obj
+,	,	PUNCT	FF	punct
+chiunque	chiunque	PRON	PI	obj
+manomette	manometto	ADJ	A	amod
+o	o	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+altera	alterare	VERB	V	conj
+gli	il	DET	RD	det
+apparecchi	apparecchio	NOUN	S	obj
+misuratori	misuratore	NOUN	S	compound
+previsti	prevedere	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+1	1	NUM	N	nummod
+o	o	CCONJ	CC	cc
+fa	fare	VERB	V	conj
+uso	uso	NOUN	S	obj
+di	di	ADP	E	case
+essi	esso	PRON	PE	nmod
+allorché	allorché	SCONJ	CS	mark
+siano	essere	AUX	VA	aux
+stati	essere	AUX	VA	aux:pass
+manomessi	manomesso	VERB	V	advcl
+o	o	CCONJ	CC	cc
+alterati	alterare	VERB	V	conj
+o	o	CCONJ	CC	cc
+consente	consentire	VERB	V	conj
+che	che	SCONJ	CS	mark
+altri	altro	PRON	PI	nsubj
+ne	ne	PRON	PC	iobj
+faccia	fare	VERB	V	ccomp
+uso	uso	NOUN	S	obj
+al	a il	ADP	E_RD	case
+fine	fine	NOUN	S	nmod
+di	di	ADP	E	mark
+eludere	eludere	VERB	V	acl
+le	il	DET	RD	det
+disposizioni	disposizione	NOUN	S	obj
+della	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	conj
+con	con	ADP	E	case
+la	il	DET	RD	det
+sanzione	sanzione	NOUN	S	obl
+amministrativa	amministrativo	ADJ	A	amod
+pecuniaria	pecuniario	ADJ	V	amod
+da	da	ADP	E	case
+lire	lira	NOUN	S	nmod
+due	due	NUM	N	nummod
+milioni	milione	NOUN	S	obl
+a	a	ADP	E	case
+lire	lira	NOUN	S	nmod
+quindici	quindici	NUM	N	nummod
+milioni	milione	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+Con	con	ADP	E	case
+la	il	DET	RD	det
+stessa	stesso	ADJ	A	amod
+sanzione	sanzione	NOUN	S	obl
+è	essere	AUX	VA	aux:pass
+punito	punire	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+salvo	salvo	ADV	B	mark
+che	che	SCONJ	CS	fixed
+il	il	DET	RD	det
+fatto	fatto	NOUN	S	nsubj
+costituisca	costituire	VERB	V	advcl
+reato	reato	NOUN	S	obj
+,	,	PUNCT	FF	punct
+chiunque	chiunque	PRON	PI	conj
+,	,	PUNCT	FF	punct
+allo	a il	ADP	E_RD	case
+stesso	stesso	ADJ	A	amod
+fine	fine	NOUN	S	obl
+,	,	PUNCT	FF	punct
+forma	formare	VERB	V	obl
+in	in	ADP	E	case
+tutto	tutto	PRON	PI	obl
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+parte	parte	NOUN	S	conj
+stampati	stampato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+documenti	documento	NOUN	S	obl
+o	o	CCONJ	CC	cc
+registri	registro	NOUN	S	conj
+prescritti	prescritre	VERB	V	acl
+dai	da il	ADP	E_RD	case
+decreti	decreto	NOUN	S	obl:agent
+indicati	indicare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl
+1	1	NUM	N	nummod
+o	o	CCONJ	CC	cc
+li	li	PRON	PC	obj
+altera	alterare	VERB	V	conj
+e	e	CCONJ	CC	cc
+ne	ne	PRON	PC	iobj
+fa	fare	VERB	V	conj
+uso	uso	NOUN	S	obj
+o	o	CCONJ	CC	cc
+consente	consentire	VERB	V	conj
+che	che	SCONJ	CS	mark
+altri	altro	PRON	PI	nsubj
+ne	ne	PRON	PC	iobj
+faccia	fare	VERB	V	ccomp
+uso	uso	NOUN	S	obj
+;	;	PUNCT	FC	punct
+
+nonché	nonché	CCONJ	CC	cc
+chiunque	chiunque	PRON	PI	nsubj
+,	,	PUNCT	FF	punct
+senza	senza	ADP	E	mark
+avere	avere	AUX	VA	aux
+concorso	concorrere	NOUN	S	advcl
+nella	in il	ADP	E_RD	case
+falsificazione	falsificazione	NOUN	S	obl
+,	,	PUNCT	FF	punct
+fa	fare	VERB	V	ROOT
+uso	uso	NOUN	S	obj
+degli	di il	ADP	E_RD	case
+stessi	stesso	ADJ	A	amod
+stampati	stampato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+documenti	documento	NOUN	S	conj
+o	o	CCONJ	CC	cc
+registri	registro	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+"	"	PUNCT	FB	ROOT
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+25	25	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+Abrogazioni	Abrogazioni	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Sono	essere	AUX	V	cop
+abrogati	abrogare	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux
+abrogata	abrogare	VERB	V	ROOT
+ogni	ogni	DET	DI	det
+altra	altro	ADJ	A	amod
+disposizione	disposizione	NOUN	S	nsubj:pass
+incompatibile	incompatibile	ADJ	A	amod
+con	con	ADP	E	case
+il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	obl
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+munito	munire	VERB	V	acl
+del	di il	ADP	E_RD	case
+sigillo	sigillo	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sarà	essere	AUX	VA	aux:pass
+inserito	inserire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+Raccolta	raccolta	NOUN	S	obl
+ufficiale	ufficiale	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+normativi	normativo	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+a	a	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+spetti	spettare	VERB	V	acl
+di	di	ADP	E	mark
+osservarlo	osservare lo	VERB	V_PC	advcl
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+farlo	fare lo	VERB	V_PC	conj
+osservare	osservare	VERB	V	xcomp
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Dato	Dato	VERB	V	ROOT
+a	a	ADP	E	case
+Roma	Roma	PROPN	SP	obl
+,	,	PUNCT	FF	punct
+addì	addì	NOUN	S	appos
+10	10	NUM	N	nmod
+marzo	marzo	NOUN	S	flat
+2000	2000	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+CIAMPI	CIAMPI	PROPN	SP	obj
+
+
+	
+
+	SPACE	_SP	dep
+D'	D'	PROPN	SP	nmod
+Alema	Alema	PROPN	SP	flat:name
+,	,	PUNCT	FF	punct
+Presidente	presidente	NOUN	S	appos
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+Ministri	ministro	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Visco	Visco	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+Ministro	Ministro	NOUN	S	appos
+delle	di il	ADP	E_RD	case
+finanze	finanza	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Diliberto	Diliberto	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+Ministro	Ministro	NOUN	S	appos
+della	di il	ADP	E_RD	case
+giustizia	giustizia	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Visto	Visto	VERB	V	acl
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Guardasigilli	Guardasigilli	PROPN	SP	nsubj:pass
+:	:	PUNCT	FC	punct
+
+Diliberto	Diliberto	PROPN	SP	ROOT
+
+	
+	SPACE	_SP	dep

@@ -1,0 +1,3729 @@
+Art.	articolo	NOUN	S	ROOT
+1	1	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Oggetto	oggetto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+ambito	ambito	NOUN	S	conj
+di	di	ADP	E	case
+applicazione	applicazione	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+19	19	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+5	5	NUM	N	nummod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	obl
+6	6	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+1991	1991	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+394	394	NUM	N	nummod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nsubj
+suddivide	suddividere	VERB	A	amod
+in	in	ADP	E	case
+zone	zona	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+l'	il	DET	RD	det
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+«	«	PUNCT	FB	punct
+Capo	Capo	NOUN	SP	xcomp
+Spartivento	Spartivento	PROPN	SP	flat:name
+»	»	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+disciplina	disciplinare	VERB	V	ROOT
+le	il	DET	RD	det
+attività	attività	NOUN	S	obj
+consentite	consentire	VERB	V	acl
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	obl
+di	di	ADP	E	case
+ciascuna	ciascuno	DET	DI	det
+zona	zona	NOUN	S	nmod
+in	in	ADP	E	case
+funzione	funzione	NOUN	S	obl
+del	di il	ADP	E_RD	case
+grado	grado	NOUN	S	nmod
+di	di	ADP	E	case
+protezione	protezione	NOUN	S	nmod
+necessario	necessario	ADJ	A	amod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+in	in	ADP	E	case
+deroga	deroga	NOUN	S	obl
+ai	a il	ADP	E_RD	case
+divieti	divieto	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+all'	a il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+19	19	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+medesima	medesimo	ADJ	A	amod
+legge	legge	NOUN	S	nmod
+n.	numero	NOUN	S	nmod
+394	394	NUM	N	nummod
+del	di il	ADP	E_RD	case
+1991	1991	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+2	2	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Definizioni	definizioni	NOUN	S	nmod
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+si	si	PRON	PC	expl:impers
+intende	intendere	VERB	V	ROOT
+per	per	ADP	E	case
+:	:	PUNCT	FC	obl
+
+	
+	SPACE	_SP	dep
+a	a	X	X	obl
+)	)	PUNCT	FB	punct
+accesso	accesso	NOUN	S	obj
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+ingresso	ingresso	NOUN	S	nsubj
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+terra	terra	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+da	da	ADP	E	case
+mare	mare	NOUN	S	conj
+,	,	PUNCT	FF	punct
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+delle	di il	ADP	E_RD	case
+unità	unità	NOUN	S	obl
+nautiche	nautico	ADJ	A	amod
+al	a il	ADP	E_RD	case
+solo	solo	ADJ	A	amod
+scopo	scopo	NOUN	S	obl
+di	di	ADP	E	mark
+raggiungere	raggiungere	VERB	V	acl
+porti	porto	NOUN	S	obj
+,	,	PUNCT	FF	punct
+approdi	approdo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+aree	area	NOUN	S	conj
+predisposte	predisposto	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+ormeggio	ormeggio	NOUN	S	obl
+o	o	CCONJ	CC	cc
+aree	area	NOUN	S	conj
+individuate	individuato	ADJ	A	amod
+dove	dove	ADV	B	advmod
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	acl:relcl
+l'	il	DET	RD	det
+ancoraggio	ancoraggio	NOUN	S	nsubj:pass
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+b	b	X	X	dep
+)	)	PUNCT	FB	punct
+acquacoltura	acquacolturare	VERB	A	ROOT
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+insieme	insieme	NOUN	S	nsubj
+delle	di il	ADP	E_RD	case
+pratiche	pratica	NOUN	S	nmod
+volte	volgere	VERB	V	acl
+alla	a il	ADP	E_RD	case
+produzione	produzione	NOUN	S	obl
+di	di	ADP	E	case
+individui	individuo	NOUN	S	nmod
+di	di	ADP	E	case
+specie	specie	NOUN	S	nmod
+animali	animale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+vegetali	vegetale	NOUN	S	conj
+in	in	ADP	E	case
+ambiente	ambiente	NOUN	S	obl
+acquatico	acquatico	ADJ	A	amod
+mediante	mediante	ADP	E	case
+il	il	DET	RD	det
+controllo	controllo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+parziale	parziale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+totale	totale	ADJ	A	conj
+,	,	PUNCT	FF	punct
+diretto	diretto	ADJ	A	acl
+o	o	CCONJ	CC	cc
+indiretto	indiretto	ADJ	A	conj
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+ciclo	ciclo	NOUN	S	conj
+di	di	ADP	E	case
+sviluppo	sviluppo	NOUN	S	nmod
+degli	di il	ADP	E_RD	case
+organismi	organismo	NOUN	S	nmod
+acquatici	acquatico	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	X	amod
+)	)	PUNCT	FB	punct
+ancoraggio	ancoraggio	ADJ	A	ROOT
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+insieme	insieme	NOUN	S	ROOT
+delle	di il	ADP	E_RD	case
+operazioni	operazione	NOUN	S	nmod
+per	per	ADP	E	mark
+assicurare	assicurare	VERB	V	acl
+la	il	DET	RD	det
+tenuta	tenuta	NOUN	S	obj
+al	a il	ADP	E_RD	case
+fondale	fondale	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+nautiche	nautico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+effettuato	effettuare	VERB	V	advcl
+esclusivamente	esclusivamente	ADV	B	advmod
+dando	dare	VERB	V	advcl
+fondo	fondo	NOUN	S	obj
+all'	a il	ADP	E_RD	case
+ancora	ancora	ADV	B	obl
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	X	X	nmod
+)	)	PUNCT	FB	punct
+balneazione	balneazione	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+esercitata	esercitare	VERB	V	acl
+a	a	ADP	E	case
+fine	fine	NOUN	S	obl
+ricreativo	ricreativo	ADJ	A	amod
+che	che	PRON	PR	nsubj
+consiste	consistere	VERB	V	acl:relcl
+nel	in il	ADP	E_RD	case
+fare	fare	VERB	V	obl
+il	il	DET	RD	det
+bagno	bagno	NOUN	S	obj
+e	e	CCONJ	CC	cc
+nel	in il	ADP	E_RD	case
+nuotare	nuotare	VERB	V	conj
+,	,	PUNCT	FF	punct
+che	che	PRON	PR	nsubj:pass
+può	potere	AUX	VM	aux
+essere	essere	AUX	VA	aux:pass
+praticata	praticare	VERB	V	acl:relcl
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+impiego	impiego	NOUN	S	obl
+di	di	ADP	E	case
+maschera	maschera	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+boccaglio	boccaglio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+pinne	pinre ne	VERB	V	conj
+,	,	PUNCT	FF	punct
+calzature	calzatura	NOUN	S	conj
+e	e	CCONJ	CC	cc
+guanti	guanto	NOUN	S	conj
+e	e	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+può	potere	AUX	VM	aux
+comportare	comportare	VERB	V	conj
+il	il	DET	RD	det
+calpestio	calpestio	NOUN	S	obj
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+tratti	tratto	NOUN	S	conj
+di	di	ADP	E	case
+costa	costa	NOUN	S	nmod
+fino	fino	ADV	B	case
+alla	a il	DET	E_RD	det
+massima	massimo	ADJ	A	amod
+escursione	escursione	NOUN	S	obl
+di	di	ADP	E	case
+marea	Marea	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+campi	campo	NOUN	S	conj
+ormeggio	ormeggio	ADV	B	amod
+:	:	PUNCT	FC	punct
+
+detti	detti	VERB	V	ROOT
+anche	anche	ADV	B	advmod
+campi	campo	NOUN	S	xcomp
+boe	boe	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+aree	area	NOUN	S	conj
+adibite	adibito	ADJ	A	amod
+alla	a il	ADP	E_RD	case
+sosta	sosta	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	ADJ	N	nmod
+,	,	PUNCT	FF	punct
+attrezzate	attrezzare	VERB	V	advcl
+con	con	ADP	E	case
+gavitelli	gavitello	NOUN	S	obl
+ancorati	ancorare	VERB	V	acl
+al	a il	ADP	E_RD	case
+fondale	fondale	NOUN	S	obl
+,	,	PUNCT	FF	punct
+disposti	disposto	VERB	V	xcomp
+in	in	ADP	E	case
+file	fila	NOUN	S	obl
+ordinate	ordinato	ADJ	A	amod
+e	e	CCONJ	CC	cc
+segnalati	segnalare	VERB	V	conj
+per	per	ADP	E	case
+la	il	DET	RD	det
+sicurezza	sicurezza	NOUN	S	obl
+della	di il	ADP	E_RD	case
+navigazione	navigazione	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+f	f	X	X	nmod
+)	)	PUNCT	FB	punct
+centri	centro	NOUN	S	xcomp
+di	di	ADP	E	case
+immersione	immersione	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+le	il	DET	RD	det
+imprese	impresa	NOUN	S	ROOT
+o	o	CCONJ	CC	cc
+associazioni	associazione	NOUN	S	conj
+che	che	PRON	PR	nsubj
+operano	operare	VERB	V	acl:relcl
+nel	in il	ADP	E_RD	case
+settore	settore	NOUN	S	obl
+turistico	turistico	ADJ	A	amod
+-	-	PUNCT	FF	punct
+ricreativo	ricreativo	ADJ	A	amod
+subacqueo	subacqueo	NOUN	S	amod
+e	e	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+offrono	offrire	VERB	V	acl:relcl
+servizi	servizio	NOUN	S	obj
+di	di	ADP	E	case
+immersioni	immersione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+visite	visita	NOUN	S	conj
+guidate	guidato	ADJ	A	amod
+e	e	CCONJ	CC	cc
+addestramento	addestramento	NOUN	S	conj
+con	con	ADP	E	case
+personale	personale	NOUN	S	amod
+abilitato	abilitato	VERB	A	acl
+allo	a il	ADP	E_RD	case
+scopo	scopo	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+decreto	decreto	NOUN	S	appos
+istitutivo	istitutivo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+decreto	decreto	NOUN	S	ROOT
+istitutivo	istitutivo	ADJ	A	amod
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+«	«	PUNCT	FB	punct
+Capo	Capo	NOUN	SP	xcomp
+Spartivento	Spartivento	PROPN	SP	flat:name
+»	»	PUNCT	FB	punct
+adottato	adottare	VERB	V	advcl
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+18	18	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+della	di il	ADP	E_RD	case
+legge	legge	NOUN	S	nmod
+n.	numero	NOUN	S	nmod
+394	394	NUM	N	nummod
+del	di il	ADP	E_RD	case
+1991	1991	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+h	h	X	X	nmod
+)	)	PUNCT	FB	punct
+imbarcazione	imbarcazione	NOUN	S	conj
+:	:	PUNCT	FC	punct
+
+qualsiasi	qualsiasi	DET	DI	det
+imbarcazione	imbarcazione	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	NOUN	N	nmod
+,	,	PUNCT	FF	punct
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+f	f	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+18	18	NUM	N	nmod
+luglio	luglio	NOUN	S	flat
+2005	2005	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+i	il	DET	RD	det
+)	)	PUNCT	FB	punct
+immersione	immersione	NOUN	S	ROOT
+subacquea	subacqueo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+insieme	insieme	NOUN	S	nsubj
+delle	di il	ADP	E_RD	det
+attività	attività	NOUN	S	nmod
+effettuate	effettuare	VERB	V	acl
+con	con	ADP	E	case
+e	e	CCONJ	CC	cc
+senza	senza	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	obl
+di	di	ADP	E	case
+apparecchi	apparecchio	NOUN	S	nmod
+ausiliari	ausiliario	ADJ	A	amod
+per	per	ADP	E	case
+la	il	DET	RD	det
+respirazione	respirazione	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+autorespiratori	autorespiratore	NOUN	S	nmod
+A.R.A.	A.R.A.	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	nmod
+di	di	ADP	E	case
+unità	unità	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	NOUN	A	nmod
+in	in	ADP	E	case
+appoggio	appoggio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+svolte	svolgere	VERB	V	acl
+senza	senza	ADP	E	case
+la	il	DET	RD	det
+conduzione	conduzione	NOUN	S	obl
+di	di	ADP	E	case
+guide	guida	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+istruttori	istruttore	NOUN	S	conj
+afferenti	afferente	ADJ	A	amod
+a	a	ADP	E	case
+centri	centro	NOUN	S	obl
+di	di	ADP	E	case
+immersione	immersione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+finalizzate	finalizzare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+osservazione	osservazione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+marino	marino	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+l	L	X	X	nmod
+)	)	PUNCT	FB	punct
+immersioni	immersione	NOUN	S	ROOT
+in	in	ADP	E	case
+apnea	apnea	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj
+ricreative	ricreativo	ADJ	A	amod
+o	o	CCONJ	CC	cc
+professionali	professionale	ADJ	A	amod
+svolte	svolta	NOUN	S	conj
+senza	senza	ADP	E	case
+l'	il	DET	RD	det
+ausilio	ausilio	NOUN	S	nmod
+di	di	ADP	E	case
+autorespiratori	autorespiratore	NOUN	S	nmod
+A.R.A.	A.R.A.	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	nmod
+di	di	ADP	E	case
+unità	unità	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	amod
+adibite	adibire	VERB	V	acl
+allo	a il	ADP	E_RD	case
+scopo	scopo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+o	o	CCONJ	CC	cc
+senza	senza	ADP	E	case
+la	il	DET	RD	det
+conduzione	conduzione	NOUN	S	nmod
+di	di	ADP	E	case
+guide	guida	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+istruttori	istruttore	NOUN	S	conj
+in	in	ADP	E	case
+possesso	possesso	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+relativo	relativo	ADJ	A	amod
+titolo	titolo	NOUN	S	nmod
+professionale	professionale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ma	ma	CCONJ	CC	cc
+comunque	comunque	ADV	B	advmod
+svolte	svolgere	VERB	V	conj
+da	da	ADP	E	case
+apneisti	apneista	NOUN	S	obl:agent
+in	in	ADP	E	case
+possesso	possesso	NOUN	S	obl
+di	di	ADP	E	case
+brevetto	brevetto	NOUN	S	nmod
+di	di	ADP	E	case
+primo	primo	ADJ	NO	amod
+grado	grado	NOUN	S	nmod
+/	/	PUNCT	FF	punct
+livello	livello	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+finalizzate	finalizzare	VERB	V	advcl
+all'	a il	ADP	E_RD	case
+osservazione	osservazione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+marino	marino	ADJ	A	amod
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+su	su	ADP	E	case
+bassi	basso	ADJ	A	obl
+fondali	fondale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+m	m	X	X	nmod
+)	)	PUNCT	FB	punct
+liquami	liquame	NOUN	S	ROOT
+di	di	ADP	E	case
+scolo	scolo	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+acque	acqua	NOUN	S	nmod
+nere	nero	ADJ	A	amod
+e/o	e/o	CCONJ	CC	cc
+grigie	grigia	NOUN	S	conj
+):	):	PUNCT	FS	punct
+
+le	il	DET	RD	det
+acque	acqua	NOUN	S	ROOT
+di	di	ADP	E	case
+scarico	scarico	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+nere	nera	ADJ	A	conj
+e/o	e/o	CCONJ	CC	cc
+grigie	grigia	NOUN	S	conj
+,	,	PUNCT	FF	punct
+provenienti	provenire	VERB	V	acl
+dai	da il	ADP	E_RD	case
+vari	vario	ADJ	A	amod
+servizi	servizio	NOUN	S	obl
+di	di	ADP	E	case
+bordo	bordo	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+nautica	nautico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quali	quale	PRON	PR	dep
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	nmod
+esemplificativo	esemplificativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+bagni	bagno	NOUN	S	conj
+e	e	CCONJ	CC	cc
+cucine	cucina	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+n	n	X	X	dep
+)	)	PUNCT	FB	punct
+natante	natante	ADV	B	advmod
+:	:	PUNCT	FC	punct
+
+qualsiasi	qualsiasi	DET	DI	det
+unità	unità	NOUN	S	nsubj
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	nmod
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+g	g	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+o	o	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+nave	nave	NOUN	S	ROOT
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	nmod
+:	:	PUNCT	FC	punct
+
+ogni	ogni	DET	DI	det
+unità	unità	NOUN	S	ROOT
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettere	lettera	NOUN	S	appos
+c	c	X	X	nmod
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+d	d	NOUN	X	dep
+)	)	PUNCT	FB	punct
+ed	e	CCONJ	CC	cc
+e	e	CCONJ	CC	conj
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+p	p	X	X	nmod
+)	)	PUNCT	FB	punct
+navigazione	navigazione	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+movimento	movimento	NOUN	S	ROOT
+via	via	ADP	E	case
+mare	mare	NOUN	S	nmod
+di	di	ADP	E	case
+qualsiasi	qualsiasi	DET	DI	det
+costruzione	costruzione	NOUN	S	nmod
+destinata	destinare	VERB	V	acl
+al	a il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	obl
+per	per	ADP	E	case
+acqua	acqua	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+q	q	X	X	nmod
+)	)	PUNCT	FB	punct
+ormeggio	ormeggio	NOUN	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+insieme	insieme	NOUN	S	ROOT
+delle	di il	ADP	E_RD	case
+operazioni	operazione	NOUN	S	nmod
+per	per	ADP	E	mark
+assicurare	assicurare	VERB	V	acl
+le	il	DET	RD	det
+unità	unità	NOUN	S	obj
+nautiche	nautico	ADJ	A	amod
+a	a	ADP	E	case
+un'	uno	DET	RI	det
+opera	opera	NOUN	S	obl
+portuale	portuale	ADJ	A	amod
+fissa	fisso	ADJ	A	amod
+,	,	PUNCT	FF	punct
+quale	quale	DET	DQ	det
+banchina	banchina	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+molo	molo	VERB	V_PC	acl
+o	o	CCONJ	CC	cc
+pontile	pontile	ADJ	A	conj
+,	,	PUNCT	FF	punct
+ovvero	ovvero	CCONJ	CC	cc
+a	a	ADP	E	case
+un'	uno	DET	RI	det
+opera	opera	NOUN	S	conj
+mobile	mobile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+punti	punto	NOUN	S	nmod
+localizzati	localizzato	ADJ	A	amod
+e	e	CCONJ	CC	cc
+predisposti	predisposta	VERB	V	conj
+,	,	PUNCT	FF	punct
+quale	quale	DET	DQ	det
+pontile	pontile	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+gavitello	Gavitello	PROPN	SP	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+r	r	X	X	amod
+)	)	PUNCT	FB	punct
+pesca	pesca	NOUN	S	conj
+ricreativa	ricreativo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+la	il	DET	RD	det
+pesca	pesca	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+commerciale	commerciale	ADJ	A	amod
+praticata	praticare	VERB	V	acl
+da	da	ADP	E	case
+soggetti	soggetto	NOUN	S	obl:agent
+non	non	ADV	BN	advmod
+appartenenti	appartenere	VERB	V	acl
+a	a	ADP	E	case
+un'	uno	DET	RI	det
+organizzazione	organizzazione	NOUN	S	obl
+sportiva	sportivo	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+che	che	PRON	PR	nsubj
+non	non	ADV	BN	advmod
+sono	essere	AUX	V	cop
+in	in	ADP	E	case
+possesso	possesso	NOUN	S	conj
+di	di	ADP	E	case
+una	uno	DET	RI	det
+licenza	licenza	NOUN	S	nmod
+sportiva	sportivo	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+s	s	X	X	nmod
+)	)	PUNCT	FB	punct
+pesca	pesca	NOUN	S	ROOT
+sportiva	sportivo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+la	il	DET	RD	det
+pesca	pesca	NOUN	S	nsubj
+non	non	ADV	BN	advmod
+commerciale	commerciale	ADJ	A	amod
+praticata	praticare	VERB	V	acl
+da	da	ADP	E	case
+soggetti	soggetto	NOUN	S	obl:agent
+appartenenti	appartenere	VERB	V	acl
+a	a	ADP	E	case
+un'	uno	DET	RI	det
+organizzazione	organizzazione	NOUN	S	obl
+sportiva	sportivo	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+possesso	possesso	NOUN	S	conj
+di	di	ADP	E	case
+una	uno	DET	RI	det
+licenza	licenza	NOUN	S	nmod
+sportiva	sportivo	ADJ	A	amod
+nazionale	nazionale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+t	t	X	X	nmod
+)	)	PUNCT	FB	punct
+pesca	pesca	NOUN	S	ROOT
+subacquea	subacqueo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	nsubj
+di	di	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sia	essere	AUX	V	cop
+professionale	professionale	ADJ	A	ROOT
+sia	essere	AUX	CC	cc
+sportiva	sportivo	ADJ	A	conj
+,	,	PUNCT	FF	punct
+esercitata	esercitare	VERB	V	conj
+in	in	ADP	E	case
+immersione	immersione	NOUN	S	obl
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+u	u	X	X	nmod
+)	)	PUNCT	FB	punct
+pescaturismo	pescaturismo	NOUN	S	ROOT
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+di	di	ADP	E	case
+piccola	piccolo	ADJ	A	amod
+pesca	pesca	NOUN	S	nmod
+costiera	costiero	ADJ	A	amod
+svolta	svolgere	VERB	V	acl
+con	con	ADP	E	case
+l'	il	DET	RD	det
+imbarco	imbarco	NOUN	S	obl
+di	di	ADP	E	case
+persone	persona	NOUN	S	nmod
+non	non	ADV	BN	advmod
+facenti	facere	VERB	V	acl
+parte	parte	NOUN	S	obj
+dell'	di il	ADP	E_RD	case
+equipaggio	equipaggio	NOUN	S	nmod
+a	a	ADP	E	case
+scopo	scopo	NOUN	S	obl
+turistico	turistico	ADJ	A	amod
+-	-	PUNCT	FF	punct
+ricreativo	ricreativo	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+commi	comma	NOUN	S	nmod
+2	2	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+9	9	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+2012	2012	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+4	4	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+v	v	ADJ	NO	nmod
+)	)	PUNCT	FB	punct
+piccola	piccolo	ADJ	A	amod
+pesca	pesca	NOUN	S	nmod
+costiera	costiero	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+di	di	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+praticata	praticare	VERB	V	acl
+da	da	ADP	E	case
+unità	unità	NOUN	S	obl:agent
+di	di	ADP	E	case
+lunghezza	lunghezza	NOUN	S	nmod
+fuori	fuori	ADP	E	case
+tutto	tutto	PRON	PI	obl
+inferiore	inferiore	ADJ	A	xcomp
+ai	a il	ADP	E_RD	case
+12	12	NUM	N	nummod
+metri	metro	NOUN	S	obl
+,	,	PUNCT	FF	punct
+abilitate	abilitare	VERB	V	advcl
+all'	a il	ADP	E_RD	case
+esercizio	esercizio	NOUN	S	obl
+della	di il	ADP	E_RD	case
+piccola	piccolo	ADJ	A	amod
+pesca	pesca	NOUN	S	nmod
+costiera	costiera	ADJ	A	amod
+locale	locale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+le	il	DET	RD	det
+12	12	NUM	N	nummod
+miglia	miglio	NOUN	S	obl
+dalla	da il	ADP	E_RD	case
+costa	costa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+i	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+attrezzi	attrezzo	NOUN	S	obl
+:	:	PUNCT	FC	punct
+
+reti	rete	NOUN	S	ROOT
+da	da	ADP	E	case
+posta	posta	NOUN	S	nmod
+calate	calato	ADJ	A	amod
+(	(	PUNCT	FB	punct
+ancorate	ancorato	ADJ	A	xcomp
+)	)	PUNCT	FB	punct
+GNS	GNS	NOUN	S	dep
+,	,	PUNCT	FF	punct
+reti	rete	NOUN	S	conj
+a	a	ADP	E	case
+tremaglio	tremaglio	NOUN	S	nmod
+GTR	GTR	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+incastellate	incastellare	VERB	V	acl
+-	-	PUNCT	FB	punct
+combinate	combinare	VERB	V	obl:agent
+GTN	GTN	PROPN	SP	nsubj:pass
+,	,	PUNCT	FF	punct
+nasse	nassa	NOUN	S	conj
+,	,	PUNCT	FF	punct
+lenze	lenza	NOUN	S	conj
+a	a	ADP	E	case
+mano	mano	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+a	a	ADP	E	case
+canna	canna	NOUN	S	conj
+LHP	LHP	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+arpione	arpione	NOUN	S	nmod
+HAR	HAR	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+palangaro	palangaro	ADJ	A	amod
+fisso	fisso	NOUN	S	nmod
+LLS	LLS	NOUN	SP	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+conformemente	conformemente	ADV	B	advmod
+a	a	ADP	E	case
+quanto	quanto	PRON	PR	obl
+disposto	disporre	VERB	V	acl
+dal	da il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	obl:agent
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+n.	numero	NOUN	S	nmod
+1380/2013	1380/2013	NUM	N	nummod
+del	di il	ADP	E_RD	case
+Parlamento	parlamento	NOUN	S	nmod
+europeo	europeo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+dell'	di il	ADP	E_RD	case
+11	11	NUM	N	obl
+dicembre	dicembre	NOUN	S	flat
+2013	2013	NUM	N	flat
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+dal	da il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+2015/812	2015/812	NUM	S	nummod
+del	di il	ADP	E_RD	case
+Parlamento	parlamento	NOUN	S	nmod
+europeo	europeo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+20	20	NUM	N	nmod
+maggio	maggio	NOUN	S	flat
+2015	2015	NUM	N	flat
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+z	z	X	X	dep
+)	)	PUNCT	FB	punct
+ripopolamento	ripopolamento	NOUN	S	obj
+attivo	attivo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+di	di	ADP	E	case
+traslocazione	traslocazione	NOUN	S	nmod
+artificiale	artificiale	ADJ	A	amod
+di	di	ADP	E	case
+individui	individuo	NOUN	S	nmod
+appartenenti	appartenere	VERB	V	acl
+a	a	ADP	E	case
+una	uno	DET	RI	det
+entità	entità	NOUN	S	obl
+faunistica	faunistico	ADJ	A	amod
+che	che	PRON	PR	nsubj
+è	essere	AUX	VA	cop
+già	già	ADV	B	advmod
+presente	presente	ADJ	A	acl:relcl
+nell'	in il	ADP	E_RD	case
+area	area	NOUN	S	obl
+di	di	ADP	E	case
+rilascio	rilascio	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+aa	aa	X	S	dep
+)	)	PUNCT	FB	punct
+transito	transito	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+il	il	DET	RD	det
+passaggio	passaggio	NOUN	S	ROOT
+delle	di il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+nautiche	nautico	ADJ	A	amod
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	protetto	PROPN	SP	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+bb	bb	X	A	punct
+)	)	PUNCT	FB	punct
+trasporto	trasporto	NOUN	S	nmod
+passeggeri	passeggero	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+professionale	professionale	ADJ	A	amod
+svolta	svolgere	VERB	V	acl
+da	da	ADP	E	case
+imprese	impresa	NOUN	S	obl
+e	e	CCONJ	CC	cc
+associazioni	associazione	NOUN	S	conj
+abilitate	abilitato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	obl
+di	di	ADP	E	case
+unità	unità	NOUN	S	nmod
+nautiche	nautico	ADJ	A	amod
+adibite	adibire	ADJ	V	amod
+e	e	CCONJ	CC	cc
+abilitate	abilitare	VERB	V	conj
+secondo	secondo	ADP	E	case
+la	il	DET	RD	det
+normativa	normativa	NOUN	S	obl
+vigente	vigere	VERB	V	acl
+al	a il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	obl
+passeggeri	passeggero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+lungo	lungo	ADP	E	case
+itinerari	itinerare	NOUN	A	nmod
+e	e	CCONJ	CC	cc
+percorsi	percorso	NOUN	S	conj
+prefissati	prefissato	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+in	in	ADP	E	case
+orari	orario	NOUN	S	conj
+stabiliti	stabilito	VERB	V	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+cc	cc	NOUN	S	dep
+)	)	PUNCT	FB	punct
+unità	unità	NOUN	S	nmod
+nautica	nautico	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+ogni	ogni	DET	DI	det
+nave	nave	NOUN	S	nmod
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+136	136	NUM	N	nummod
+del	di il	ADP	E_RD	case
+codice	codice	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+navigazione	navigazione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+regio	regio	NOUN	S	nmod
+decreto	decreto	NOUN	S	compound
+30	30	NUM	N	nmod
+marzo	marzo	NOUN	S	flat
+1942	1942	NUM	N	flat
+,	,	PUNCT	FF	punct
+n.	numero	NOUN	S	nmod
+327	327	NUM	N	nummod
+,	,	PUNCT	FF	punct
+motoscafo	motoscafo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+galleggiante	galleggiante	ADV	B	advmod
+,	,	PUNCT	FF	punct
+unità	unità	NOUN	S	conj
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	nmod
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	advcl
+alla	a il	ADP	E_RD	case
+lettera	lettera	NOUN	S	obl
+dd	dd	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+unità	unità	NOUN	S	conj
+da	da	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	advcl
+alla	a il	ADP	E_RD	case
+lettera	lettera	NOUN	S	obl
+ee	ee	NOUN	S	compound
+)	)	PUNCT	FB	punct
+e	e	CCONJ	CC	cc
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+generale	generale	NOUN	S	dep
+,	,	PUNCT	FF	punct
+ogni	ogni	DET	DI	det
+costruzione	costruzione	NOUN	S	conj
+di	di	ADP	E	case
+qualunque	qualunque	DET	DI	det
+tipo	tipo	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+con	con	ADP	E	case
+qualunque	qualunque	DET	DI	det
+mezzo	mezzo	NOUN	S	conj
+di	di	ADP	E	case
+propulsione	propulsione	NOUN	S	nmod
+destinata	destinare	VERB	V	acl
+alla	a il	ADP	E_RD	case
+navigazione	navigazione	NOUN	S	obl
+su	su	ADP	E	case
+acqua	acqua	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+dd	dd	X	X	dep
+)	)	PUNCT	FB	punct
+unità	unità	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	nmod
+:	:	PUNCT	FC	punct
+ogni	ogni	DET	DI	det
+costruzione	costruzione	NOUN	S	ROOT
+come	come	SCONJ	CS	mark
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettera	lettera	NOUN	S	nmod
+a	a	NOUN	S	compound
+)	)	PUNCT	FB	punct
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+ee	ee	X	X	nmod
+)	)	PUNCT	FB	punct
+unità	unità	NOUN	S	ROOT
+da	da	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+peschereccio	peschereccio	NOUN	V	conj
+:	:	PUNCT	FC	punct
+
+unità	unità	NOUN	S	ROOT
+definita	definire	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+articolo	articolo	NOUN	S	obl:agent
+4	4	NUM	N	nummod
+del	di il	ADP	E_RD	case
+regolamento	regolamento	NOUN	S	nmod
+(	(	PUNCT	FB	punct
+UE	UE	PROPN	SP	nmod
+)	)	PUNCT	FB	punct
+n.	numero	NOUN	S	nmod
+1380/2013	1380/2013	NUM	N	nummod
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+Parlamento	parlamento	NOUN	S	nmod
+europeo	europeo	ADJ	A	amod
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+Consiglio	consiglio	NOUN	S	conj
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+11	11	NUM	N	nmod
+dicembre	dicembre	NOUN	S	flat
+2013	2013	NUM	N	flat
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+destinata	destinare	VERB	V	conj
+all'	a il	ADP	E_RD	case
+attività	attività	NOUN	S	obl
+di	di	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+professionale	professionale	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+articolo	articolo	NOUN	S	nmod
+2	2	NUM	N	nummod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+4	4	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2012	2012	NUM	N	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+ff	ff	ADJ	I	dep
+)	)	PUNCT	FB	punct
+visite	visita	NOUN	S	conj
+guidate	guidato	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+le	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+professionali	professionale	ADJ	A	amod
+di	di	ADP	E	case
+accompagnamento	accompagnamento	NOUN	S	nmod
+svolte	svolgere	VERB	V	acl
+da	da	ADP	E	case
+guide	guida	NOUN	S	obl:agent
+turistiche	turistico	ADJ	A	amod
+a	a	ADP	E	case
+terra	terra	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+a	a	ADP	E	case
+mare	mare	NOUN	S	conj
+,	,	PUNCT	FF	punct
+guide	guida	NOUN	S	conj
+ambientali	ambientale	ADJ	A	amod
+/	/	PUNCT	FF	punct
+escursionistiche	escursionistico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+guide	guida	NOUN	S	conj
+turistiche	turistico	ADJ	A	amod
+sportive	sportivo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+iscritte	iscrittere	VERB	V	acl
+a	a	ADP	E	case
+imprese	impresa	NOUN	S	obl
+e	e	CCONJ	CC	cc
+associazioni	associazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+con	con	ADP	E	dep
+o	o	CCONJ	CC	cc
+senza	senza	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	conj
+di	di	ADP	E	case
+unità	unità	NOUN	S	nmod
+nautiche	nautico	ADJ	A	amod
+adibite	adibire	VERB	V	acl
+allo	a il	ADP	E_RD	case
+scopo	scopo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+finalizzate	finalizzare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+osservazione	osservazione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+marino	marino	ADJ	A	amod
+emerso	emergere	ADJ	A	amod
+e	e	CCONJ	CC	cc
+costiero	costiero	ADJ	A	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+gg	gg	X	NO	amod
+)	)	PUNCT	FB	punct
+visite	visita	NOUN	S	conj
+guidate	guidato	ADJ	A	amod
+subacquee	subacqueo	ADJ	A	amod
+:	:	PUNCT	FC	punct
+
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj
+professionali	professionale	ADJ	A	amod
+svolte	svolgere	NOUN	S	acl
+da	da	ADP	E	case
+guide	guida	NOUN	S	obl:agent
+o	o	CCONJ	CC	cc
+istruttori	istruttore	NOUN	S	conj
+subacquei	subacqueio	ADJ	A	amod
+afferenti	afferente	NOUN	S	xcomp
+ai	a il	ADP	E_RD	case
+centri	centro	NOUN	S	obl
+di	di	ADP	E	case
+immersione	immersione	NOUN	S	nmod
+autorizzati	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+l'	il	DET	RD	det
+utilizzo	utilizzo	NOUN	S	nmod
+di	di	ADP	E	case
+unità	unità	NOUN	S	nmod
+nautiche	nautico	ADJ	A	amod
+adibite	adibire	VERB	V	acl
+allo	a il	ADP	E_RD	case
+scopo	scopo	NOUN	S	obl
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+accompagnamento	accompagnamento	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+subacquei	subacqueio	NOUN	S	nmod
+in	in	ADP	E	case
+immersione	immersione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+finalizzate	finalizzare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+osservazione	osservazione	NOUN	S	obl
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+marino	marino	ADJ	A	amod
+,	,	PUNCT	FF	punct
+mediante	mediante	ADP	E	case
+l'	il	DET	RD	det
+uso	uso	NOUN	S	nmod
+di	di	ADP	E	case
+autorespiratori	autorespiratore	NOUN	S	nmod
+A.R.A.	A.R.A.	PROPN	SP	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+hh	hh	ADJ	S	nmod
+)	)	PUNCT	FB	punct
+osservazione	osservazione	NOUN	S	ROOT
+dei	di il	ADP	E_RD	case
+mammiferi	mammifere	NOUN	S	nmod
+marini	marine	ADJ	A	amod
+(	(	PUNCT	FB	punct
+whale	whale	ADJ	S	conj
+-	-	PROPN	S	punct
+watching	watching	PROPN	SP	nmod
+):	):	PUNCT	FS	punct
+
+l'	il	DET	RD	det
+attività	attività	NOUN	S	ROOT
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+cetacei	cetaceo	NOUN	S	nmod
+in	in	ADP	E	case
+ambienti	ambiente	NOUN	S	nmod
+liberi	libero	ADJ	A	amod
+,	,	PUNCT	FF	punct
+svolta	svolgere	NOUN	V	conj
+individualmente	individualmente	ADV	B	advmod
+o	o	CCONJ	CC	cc
+in	in	ADP	E	case
+gruppi	gruppo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+da	da	ADP	E	case
+privati	privato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+associazioni	associazione	NOUN	S	conj
+o	o	CCONJ	CC	cc
+imprese	impresa	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+ii	ii	ADJ	NO	amod
+)	)	PUNCT	FB	punct
+zonazione	zonazione	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+la	il	DET	RD	det
+suddivisione	suddivisione	NOUN	S	ROOT
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+in	in	ADP	E	case
+zone	zona	NOUN	S	obl
+sottoposte	sottoporre	VERB	A	amod
+a	a	ADP	E	case
+diverso	diverso	ADJ	A	amod
+regime	regime	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+ambientale	ambientale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+3	3	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Zonazione	Zonazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+L'	il	DET	RD	det
+area	area	NOUN	S	nsubj:pass
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+«	«	PUNCT	FB	punct
+Capo	Capo	PROPN	SP	xcomp
+Spartivento	Spartivento	PROPN	SP	flat:name
+»	»	PUNCT	FB	punct
+è	essere	AUX	VA	aux:pass
+suddivisa	suddividere	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	obl
+B	B	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nella	in il	ADP	E_RD	case
+sottozona	sottozonare	VERB	V	obl
+Bs	Bs	PROPN	SP	nsubj
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+speciale	speciale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	conj
+C	C	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+parziale	parziale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+individuate	individuare	VERB	V	acl
+nell'	in il	ADP	E_RD	case
+allegato	allegato	NOUN	S	obl
+1	1	NUM	N	nummod
+che	che	PRON	PR	nsubj
+costituisce	costituire	VERB	V	acl:relcl
+parte	parte	NOUN	S	obj
+integrante	integrante	ADJ	A	amod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Le	il	DET	RD	det
+zone	zona	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+tenuto	tenere	VERB	V	acl
+conto	conto	NOUN	S	obj
+delle	di il	ADP	E_RD	case
+caratteristiche	caratteristica	NOUN	S	nmod
+ambientali	ambientale	ADJ	A	amod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+situazione	situazione	NOUN	S	conj
+socio	socio	ADJ	A	amod
+-	-	PUNCT	FF	punct
+economica	economico	ADJ	A	amod
+ivi	ivi	ADV	B	advmod
+presenti	presente	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux:pass
+sottoposte	sottoporre	VERB	V	ROOT
+a	a	ADP	E	case
+diverso	diverso	ADJ	A	amod
+regime	regime	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+ambientale	ambientale	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Art.	articolo	NOUN	S	ROOT
+4	4	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Attività	attività	NOUN	S	nmod
+consentite	consentire	VERB	V	amod
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	obl
+B	B	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+consentiti	consentire	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+soccorso	soccorso	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+sorveglianza	sorveglianza	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+b	b	X	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+servizio	servizio	NOUN	S	nmod
+svolte	svolgere	VERB	V	acl
+per	per	ADP	E	case
+conto	conto	NOUN	S	obl
+del	di il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	PC	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+ricerca	ricerca	NOUN	S	nmod
+scientifica	scientifico	ADJ	A	amod
+debitamente	debitamente	ADV	B	advmod
+autorizzate	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	protetto	PROPN	SP	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+balneazione	balneazione	NOUN	S	nsubj:pass
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+navigazione	navigazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+esclusivamente	esclusivamente	ADV	B	advmod
+in	in	ADP	E	case
+assetto	assetto	NOUN	S	nmod
+dislocante	dislocante	ADJ	A	amod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+velocità	velocità	NOUN	S	nmod
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+5	5	NUM	N	nummod
+nodi	nodo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+distanza	distanza	NOUN	S	nmod
+di	di	ADP	E	case
+300	300	NUM	N	nummod
+metri	metro	NOUN	S	nmod
+dalla	da il	ADP	E_RD	case
+costa	costa	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+a	a	ADP	E	case
+velocità	velocità	NOUN	S	conj
+non	non	ADV	BN	advmod
+superiore	superiore	ADJ	A	amod
+a	a	ADP	E	case
+10	10	NUM	N	nummod
+nodi	nodo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+fascia	fascia	NOUN	S	obl
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+compresa	compreso	ADJ	A	amod
+tra	tra	ADP	E	case
+i	il	DET	RD	det
+300	300	NUM	N	nummod
+metri	metro	NOUN	S	obl
+e	e	CCONJ	CC	cc
+i	il	DET	RD	det
+600	600	NUM	N	nummod
+metri	metro	NOUN	S	conj
+di	di	ADP	E	case
+distanza	distanza	NOUN	S	nmod
+dalla	da il	ADP	E_RD	case
+costa	costa	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+f	f	X	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nsubj:pass
+alle	a il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+a	a	ADP	E	case
+vela	vela	PROPN	V	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+remi	remio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+pedali	pedale	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+con	con	ADP	E	case
+propulsore	propulsore	NOUN	S	conj
+elettrico	elettrico	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+g	g	X	X	dep
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nsubj:pass
+ai	a il	ADP	E_RD	case
+natanti	natante	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+eccezione	eccezione	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+moto	moto	NOUN	S	nmod
+d'	di	ADP	E	case
+acqua	acqua	NOUN	S	nmod
+o	o	CCONJ	CC	cc
+acquascooter	acquascooter	NOUN	S	conj
+e	e	CCONJ	CC	cc
+mezzi	mezzo	NOUN	S	conj
+similari	similare	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+h	h	X	X	xcomp
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nsubj:pass
+alle	a il	ADP	E_RD	case
+imbarcazioni	imbarcazione	NOUN	S	nmod
+conformi	conforme	ADJ	A	amod
+ad	a	ADP	E	case
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+di	di	ADP	E	case
+eco	eco	NOUN	S	amod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+4	4	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nsubj:pass
+alle	a il	ADP	E_RD	case
+imbarcazioni	imbarcazione	NOUN	S	nmod
+non	non	ADV	BN	advmod
+conformi	conforme	ADJ	A	amod
+ad	a	ADP	E	case
+alcuno	alcuno	PRON	PI	obl
+di	di	ADP	E	case
+tali	tale	DET	DD	det
+requisiti	requisito	NOUN	S	nmod
+di	di	ADP	E	case
+eco	eco	NOUN	S	amod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	ROOT
+solo	solo	ADV	B	advmod
+per	per	ADP	E	case
+i	il	DET	RD	det
+primi	primo	ADJ	NO	amod
+dodici	dodici	NUM	N	nummod
+mesi	mese	NOUN	S	obl
+a	a	ADP	E	mark
+decorrere	decorrere	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+data	data	NOUN	S	obl
+di	di	ADP	E	case
+entrata	entrata	NOUN	S	nmod
+in	in	ADP	E	case
+vigore	vigore	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+i	il	DET	NO	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	ROOT
+,	,	PUNCT	FF	punct
+alle	a il	ADP	E_RD	case
+unità	unità	NOUN	S	conj
+nautiche	nautico	ADJ	A	amod
+adibite	adibire	VERB	V	acl
+al	a il	ADP	E_RD	case
+trasporto	trasporto	NOUN	S	obl
+passeggeri	passeggero	ADJ	A	amod
+e	e	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+visite	visita	NOUN	S	conj
+guidate	guidato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+autorizzate	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+l	l	X	X	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ormeggio	ormeggio	NOUN	S	ROOT
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+natanti	natanto	NOUN	S	conj
+e	e	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+imbarcazioni	imbarcazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+previa	previo	ADJ	A	amod
+autorizzazione	autorizzazione	NOUN	S	appos
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+siti	sito	NOUN	S	nmod
+individuati	individuare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+mediante	mediante	ADP	E	case
+appositi	apposito	ADJ	A	amod
+campi	campo	NOUN	S	obl
+boe	boe	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+posizionati	posizionare	VERB	V	acl
+compatibilmente	compatibilmente	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+esigenza	esigenza	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+m	m	NOUN	S	conj
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ancoraggio	ancoraggio	NOUN	S	conj
+ai	a il	ADP	E_RD	case
+natanti	natanto	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+alle	a il	ADP	E_RD	case
+imbarcazioni	imbarcazione	NOUN	S	conj
+,	,	PUNCT	FF	punct
+al	a il	ADP	E_RD	case
+di	di	ADP	E	case
+fuori	fuori	ADV	B	advmod
+delle	di il	ADP	E_RD	case
+aree	area	NOUN	S	nmod
+particolarmente	particolarmente	ADV	B	advmod
+sensibili	sensibile	ADJ	A	amod
+,	,	PUNCT	FF	punct
+individuate	individuare	VERB	V	acl
+e	e	CCONJ	CC	cc
+segnalate	segnalare	VERB	V	conj
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+compatibilmente	compatibilmente	ADV	B	acl
+alle	a il	ADP	E_RD	case
+esigenze	esigenza	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+n	n	X	X	conj
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+visite	visita	NOUN	S	nmod
+guidate	guidato	ADJ	A	amod
+subacquee	subacqueo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+svolte	svolgere	VERB	V	acl
+compatibilmente	compatibilmente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+esigenze	esigenza	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+organizzate	organizzare	VERB	V	acl
+dai	da il	ADP	E_RD	case
+centri	centro	NOUN	S	obl:agent
+d'	di	ADP	E	case
+immersione	immersione	NOUN	S	nmod
+subacquei	subacqueio	NOUN	S	compound
+autorizzati	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+o	o	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+immersioni	immersione	NOUN	S	ROOT
+subacquee	subacquee	ADJ	A	amod
+e	e	CCONJ	CC	cc
+in	in	ADP	E	case
+apnea	apneo	ADJ	A	amod
+svolte	svolta	NOUN	S	conj
+compatibilmente	compatibilmente	ADV	B	advmod
+alle	a il	ADP	E_RD	case
+esigenze	esigenza	NOUN	S	nmod
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+autorizzate	autorizzare	VERB	V	conj
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+p	p	X	S	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+osservazione	osservazione	NOUN	S	nsubj
+dei	di il	ADP	E_RD	case
+mammiferi	mammifere	NOUN	S	nmod
+marini	marine	ADJ	A	amod
+,	,	PUNCT	FF	punct
+secondo	secondo	ADP	E	case
+il	il	DET	RD	det
+codice	codice	NOUN	S	nmod
+di	di	ADP	E	case
+condotta	condotta	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+6	6	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+q	q	X	X	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+esercizio	esercizio	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+attività	attività	NOUN	S	nmod
+di	di	ADP	E	case
+noleggio	noleggio	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+locazione	locazione	NOUN	S	conj
+di	di	ADP	E	case
+natanti	natante	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+imbarcazioni	imbarcazione	NOUN	S	conj
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+autorizzato	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+,	,	PUNCT	FF	punct
+conformi	conforme	ADJ	A	ROOT
+ad	a	ADP	E	case
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	obl
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+di	di	ADP	E	case
+eco	eco	NOUN	S	amod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+4	4	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+r	r	X	X	dep
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+esercizio	esercizio	NOUN	S	obj
+della	di il	ADP	E_RD	case
+piccola	piccolo	ADJ	A	amod
+pesca	pesca	NOUN	S	nmod
+costiera	costiero	ADJ	A	amod
+e	e	CCONJ	CC	cc
+l'	il	DET	RD	det
+attività	attività	NOUN	S	conj
+di	di	ADP	E	case
+pescaturismo	pescaturismo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+riservate	riservare	VERB	V	acl
+alle	a il	ADP	E_RD	case
+imprese	impresa	NOUN	S	obl
+di	di	ADP	E	case
+pesca	pesca	NOUN	S	nmod
+che	che	PRON	PR	nsubj
+esercitano	esercitare	VERB	V	acl:relcl
+l'	il	DET	RD	det
+attività	attività	NOUN	S	obj
+sia	essere	AUX	V	cop
+individualmente	individualmente	ADV	B	advmod
+,	,	PUNCT	FF	punct
+sia	sia	CCONJ	CC	cc
+in	in	ADP	E	case
+forma	forma	NOUN	S	conj
+cooperativa	cooperativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+autorizzate	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+e	e	CCONJ	CC	cc
+svolte	svolgere	NOUN	S	conj
+compatibilmente	compatibilmente	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+esigenza	esigenza	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+conservazione	conservazione	NOUN	S	conj
+delle	di il	ADP	E_RD	case
+risorse	risorsa	NOUN	S	nmod
+ittiche	ittico	ADJ	A	amod
+oggetto	oggetto	NOUN	S	conj
+di	di	ADP	E	case
+sfruttamento	sfruttamento	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+s	s	X	X	obj
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+pesca	pesca	NOUN	S	obj
+sportiva	sportivo	ADJ	A	amod
+/	/	PUNCT	FF	punct
+ricreativa	ricreativo	ADJ	A	amod
+con	con	ADP	E	case
+lenza	lenza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+canna	canna	NOUN	S	conj
+,	,	PUNCT	FF	punct
+autorizzata	autorizzare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+e	e	CCONJ	CC	cc
+riservata	riservare	VERB	V	conj
+ai	a il	ADP	E_RD	case
+residenti	residente	NOUN	S	obl
+nel	in il	ADP	E_RD	case
+comune	comune	NOUN	S	nmod
+di	di	ADP	E	case
+Domus	Domus	PROPN	SP	nmod
+de	de	ADP	E	case
+Maria	Maria	PROPN	SP	flat:name
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nella	in il	ADP	E_RD	case
+sottozona	sottozonare	VERB	V	obl
+Bs	Bs	PROPN	SP	nsubj
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+speciale	speciale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+consentite	consentire	VERB	V	ROOT
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+previste	prevedere	VERB	V	acl
+per	per	ADP	E	case
+la	il	DET	RD	det
+zona	zona	NOUN	S	obl
+B	B	PROPN	SP	nmod
+dal	da il	ADP	E_RD	case
+comma	comma	NOUN	S	obl:agent
+1	1	NUM	N	nummod
+,	,	PUNCT	FF	punct
+lettere	lettera	NOUN	S	nmod
+da	da	ADP	E	case
+
+	
+	SPACE	_SP	dep
+a	a	X	S	nmod
+)	)	PUNCT	FB	punct
+a	a	ADP	E	case
+q	q	X	X	obl
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+3	3	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	obl
+C	C	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+parziale	parziale	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+consentiti	consentire	VERB	V	ROOT
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	S	obl
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+attività	attività	NOUN	S	nsubj:pass
+consentite	consentire	VERB	V	acl
+nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	obl
+B	B	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+sensi	senso	NOUN	S	obl
+del	di il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+b	b	NOUN	S	obl
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+accesso	accesso	NOUN	S	nsubj
+alle	a il	ADP	E_RD	case
+navi	nave	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	amod
+conformi	conforme	ADJ	S	nmod
+ad	a	ADP	E	case
+almeno	almeno	ADV	B	advmod
+uno	uno	PRON	PI	nmod
+dei	di il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+di	di	ADP	E	case
+eco	eco	NOUN	S	amod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+4	4	NUM	N	nummod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+c	c	X	PC	nmod
+)	)	PUNCT	FB	punct
+l'	il	DET	RD	det
+ormeggio	ormeggio	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+previa	previo	ADJ	A	amod
+autorizzazione	autorizzazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+alle	a il	ADP	E_RD	case
+navi	nave	NOUN	S	conj
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	amod
+conformi	conforme	NOUN	S	nmod
+ai	a il	ADP	E_RD	case
+requisiti	requisito	NOUN	S	nmod
+di	di	ADP	E	case
+eco	eco	NOUN	S	amod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+4	4	NUM	N	nummod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+siti	sito	NOUN	S	obl
+individuati	individuare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+mediante	mediante	ADP	E	case
+appositi	apposito	ADJ	A	amod
+campi	campo	NOUN	S	obl
+boe	boe	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+posizionati	posizionare	VERB	V	advcl
+compatibilmente	compatibilmente	ADV	B	advmod
+con	con	ADP	E	case
+l'	il	DET	RD	det
+esigenza	esigenza	NOUN	S	obl
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+fondali	fondale	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	NOUN	S	dep
+)	)	PUNCT	FB	punct
+la	il	DET	RD	det
+pesca	pesca	NOUN	S	nsubj:pass
+sportiva	sportivo	ADJ	A	amod
+/	/	PUNCT	FF	punct
+ricreativa	ricreativo	ADJ	A	conj
+,	,	PUNCT	FF	punct
+con	con	ADP	E	case
+lenza	lenza	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+canna	canna	NOUN	S	conj
+,	,	PUNCT	FF	punct
+autorizzata	autorizzato	ADJ	A	amod
+e	e	CCONJ	CC	cc
+contingentata	contingentare	VERB	V	acl
+dal	da il	ADP	E_RD	case
+soggetto	soggetto	ADJ	A	amod
+gestore	gestore	NOUN	S	obl:agent
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+delle	di il	ADP	E_RD	case
+esigenze	esigenza	NOUN	S	nmod
+di	di	ADP	E	case
+tutela	tutela	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	protetto	ADJ	A	amod
+,	,	PUNCT	FF	punct
+ai	a il	ADP	E_RD	case
+soggetti	soggetto	NOUN	S	obl
+equiparati	equiparare	VERB	V	acl
+ai	a il	ADP	E_RD	case
+residenti	residente	NOUN	S	obl
+nel	in il	ADP	E_RD	case
+comune	comune	NOUN	S	nmod
+di	di	ADP	E	case
+Domus	Domus	PROPN	SP	nmod
+de	de	ADP	E	case
+Maria	Maria	PROPN	SP	nmod
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+della	di il	ADP	E_RD	case
+disciplina	disciplina	NOUN	S	nmod
+adottata	adottare	VERB	V	acl
+dall'	da il	ADP	E_RD	case
+area	area	NOUN	S	obl:agent
+marina	Marina	ADJ	A	amod
+protetta	protetto	ADJ	SP	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+4	4	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Ai	a il	ADP	E_RD	case
+fini	fine	NOUN	S	obl
+del	di il	ADP	E_RD	case
+presente	presente	ADJ	A	amod
+regolamento	regolamento	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+individuati	individuare	VERB	V	ROOT
+i	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+requisiti	requisito	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+eco	eco	NOUN	S	nmod
+-	-	PUNCT	FF	punct
+compatibilità	compatibilità	NOUN	S	compound
+per	per	ADP	E	case
+le	il	DET	RD	det
+unità	unità	NOUN	S	nmod
+da	da	ADP	E	case
+diporto	diporto	ADJ	A	nmod
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	X	obl
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+i	il	DET	RD	det
+natanti	natanto	NOUN	S	obl
+e	e	CCONJ	CC	cc
+le	il	DET	RD	det
+imbarcazioni	imbarcazione	NOUN	S	conj
+:	:	PUNCT	FC	punct
+
+
+	
+	SPACE	_SP	dep
+
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+casse	cassa	NOUN	S	ROOT
+per	per	ADP	E	case
+la	il	DET	RD	det
+raccolta	raccolta	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+liquami	liquame	NOUN	S	nmod
+di	di	ADP	E	case
+scolo	scolo	NOUN	S	nmod
+per	per	ADP	E	case
+quelle	quello	DET	DD	det
+unità	unità	NOUN	S	nmod
+provviste	provvisto	VERB	V	amod
+di	di	ADP	E	case
+servizi	servizio	NOUN	S	obl
+igienici	igienico	ADJ	A	amod
+e	e	CCONJ	CC	cc
+cucina	cucina	NOUN	S	conj
+a	a	ADP	E	case
+bordo	bordo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+sistema	sistema	NOUN	S	nmod
+di	di	ADP	E	case
+raccolta	raccolta	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+acque	acqua	NOUN	S	nmod
+di	di	ADP	E	case
+sentina	sentina	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+3	3	NUM	N	nummod
+)	)	PUNCT	FB	punct
+motore	motore	NOUN	S	ROOT
+conforme	conforme	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+valori	valore	NOUN	S	obl
+indicati	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+Allegato	allegato	NOUN	S	obl
+II	II	ADJ	NO	amod
+,	,	PUNCT	FF	punct
+lettere	lettera	NOUN	S	conj
+B	B	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+C	C	PROPN	SP	conj
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+,	,	PUNCT	FF	punct
+relativamente	relativamente	ADV	B	case
+alle	a il	DET	E_RD	case
+emissioni	emissione	NOUN	S	nmod
+gassose	gassoso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+acustiche	acustico	ADJ	A	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+b	b	X	X	nmod
+)	)	PUNCT	FB	punct
+per	per	ADP	E	case
+le	il	DET	RD	det
+navi	nave	NOUN	S	ROOT
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+motore	motore	NOUN	S	ROOT
+conforme	conforme	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+valori	valore	NOUN	S	obl
+indicati	indicare	VERB	V	acl
+all'	a il	ADP	E_RD	case
+Allegato	allegato	NOUN	S	obl
+II	II	ADJ	NO	amod
+,	,	PUNCT	FF	punct
+lettere	lettera	NOUN	S	conj
+B	B	PROPN	SP	nmod
+e	e	CCONJ	CC	cc
+C	C	PROPN	SP	conj
+,	,	PUNCT	FF	punct
+del	di il	ADP	E_RD	case
+decreto	decreto	NOUN	S	nmod
+legislativo	legislativo	ADJ	A	amod
+n.	numero	NOUN	S	nmod
+171	171	NUM	N	nummod
+del	di il	ADP	E_RD	case
+2005	2005	NUM	N	nmod
+,	,	PUNCT	FF	punct
+relativamente	relativamente	ADV	B	case
+alle	a il	DET	E_RD	case
+emissioni	emissione	NOUN	S	nmod
+gassose	gassoso	ADJ	A	amod
+e	e	CCONJ	CC	cc
+acustiche	acustico	ADJ	A	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+2	2	NUM	N	nummod
+)	)	PUNCT	FB	punct
+caratteristiche	caratteristica	NOUN	S	nmod
+della	di il	ADP	E_RD	case
+nave	nave	NOUN	S	nmod
+conformi	conforme	ADJ	A	amod
+alle	a il	ADP	E_RD	case
+disposizioni	disposizione	NOUN	S	nmod
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+agli	a il	ADP	E_RD	case
+Annessi	Annessi	PROPN	SP	nmod
+IV	IV	ADJ	NO	amod
+e	e	CCONJ	CC	cc
+VI	VI	ADJ	NO	conj
+della	di il	ADP	E_RD	case
+Convenzione	convenzione	NOUN	S	nmod
+MARPOL	MARPOL	PROPN	SP	nmod
+73/78	73/78	NUM	N	flat:name
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+5	5	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Per	per	ADP	E	case
+le	il	DET	RD	det
+attività	attività	NOUN	S	obl
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+mammiferi	mammifere	NOUN	S	nmod
+marini	marine	ADJ	A	amod
+sono	essere	AUX	VA	aux:pass
+individuate	individuare	VERB	V	ROOT
+una	uno	DET	RI	det
+fascia	fascia	NOUN	S	nsubj:pass
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+distanza	distanza	NOUN	S	obl
+di	di	ADP	E	case
+100	100	NUM	N	nummod
+metri	metro	NOUN	S	nmod
+dai	da il	ADP	E_RD	case
+cetacei	cetaceo	NOUN	S	nmod
+avvistati	avvistato	ADJ	A	amod
+,	,	PUNCT	FF	punct
+e	e	CCONJ	CC	cc
+una	uno	DET	RI	det
+fascia	fascia	NOUN	S	conj
+di	di	ADP	E	case
+avvicinamento	avvicinamento	NOUN	S	nmod
+entro	entro	ADP	E	case
+la	il	DET	RD	det
+distanza	distanza	NOUN	S	nmod
+di	di	ADP	E	case
+300	300	NUM	N	nummod
+metri	metro	NOUN	S	nmod
+dai	da il	ADP	E_RD	case
+cetacei	cetaceo	NOUN	S	nmod
+avvistati	avvistato	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+6	6	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Nelle	in il	ADP	E_RD	case
+fasce	fascia	NOUN	S	obl
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+al	a il	ADP	E_RD	case
+comma	comma	NOUN	S	nmod
+5	5	NUM	N	nummod
+vige	vigere	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+per	per	ADP	E	case
+le	il	DET	RD	det
+attività	attività	NOUN	S	obl
+di	di	ADP	E	case
+avvistamento	avvistamento	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+per	per	ADP	E	case
+l'	il	DET	RD	det
+osservazione	osservazione	NOUN	S	conj
+dei	di il	ADP	E_RD	case
+cetacei	cetaceo	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+seguente	seguente	ADJ	A	amod
+codice	codice	NOUN	S	obj
+di	di	ADP	E	case
+condotta	condotta	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+a	a	X	X	obj
+)	)	PUNCT	FB	punct
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	conj
+avvicinarsi	avvicinare si	VERB	V_PC	csubj
+agli	a il	ADP	E_RD	case
+animali	animale	NOUN	S	obl
+fino	fino	ADV	B	case
+a	a	ADP	E	fixed
+una	uno	DET	RI	det
+distanza	distanza	NOUN	S	obl
+di	di	ADP	E	case
+100	100	NUM	N	nummod
+metri	metro	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+b	b	X	X	obl
+)	)	PUNCT	FB	punct
+nella	in il	ADP	E_RD	case
+fascia	fascia	NOUN	S	obl
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+può	potere	AUX	VM	aux
+essere	essere	AUX	V	cop
+presente	presente	ADJ	A	ROOT
+una	uno	DET	RI	det
+sola	solo	ADJ	A	amod
+unità	unità	NOUN	S	nsubj
+nautica	nautico	ADJ	A	amod
+o	o	CCONJ	CC	cc
+un	uno	DET	RI	det
+solo	solo	ADJ	A	amod
+velivolo	velivolo	NOUN	S	conj
+,	,	PUNCT	FF	punct
+quest'	questo	DET	DD	det
+ultimo	ultimo	NOUN	S	nsubj
+esclusivamente	esclusivamente	ADV	B	advmod
+ad	a	ADP	E	case
+una	uno	DET	RI	det
+quota	quota	NOUN	S	obl
+superiore	superiore	ADJ	A	amod
+ai	a il	ADP	E_RD	case
+150	150	NUM	N	nummod
+metri	metro	NOUN	S	obl
+sul	su il	ADP	E_RD	case
+livello	livello	NOUN	S	nmod
+del	di il	ADP	E_RD	case
+mare	mare	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+non	non	ADV	BN	advmod
+è	essere	AUX	VA	aux:pass
+consentita	consentire	VERB	V	conj
+la	il	DET	RD	det
+balneazione	balneazione	NOUN	S	nsubj:pass
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+c	c	NOUN	PC	nmod
+)	)	PUNCT	FB	punct
+il	il	DET	RD	det
+sorvolo	sorvolo	NOUN	S	nsubj:pass
+con	con	ADP	E	case
+elicotteri	elicottero	NOUN	S	nmod
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	ROOT
+unicamente	unico	ADV	B	advmod
+per	per	ADP	E	case
+attività	attività	NOUN	S	obl
+di	di	ADP	E	case
+soccorso	soccorso	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sorveglianza	sorveglianza	NOUN	S	conj
+e	e	CCONJ	CC	cc
+servizio	servizio	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+d	d	NOUN	S	obl
+)	)	PUNCT	FB	punct
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	conj
+rimanere	rimanere	VERB	V	ccomp
+nella	in il	ADP	E_RD	case
+fascia	fascia	NOUN	S	obl
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+per	per	ADP	E	case
+un	uno	DET	RI	det
+tempo	tempo	NOUN	S	obl
+massimo	massimo	ADJ	A	amod
+di	di	ADP	E	case
+venti	venti	NUM	N	nummod
+minuti	minuto	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+e	e	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+nelle	in il	ADP	E_RD	case
+fasce	fascia	NOUN	S	dep
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+avvicinamento	avvicinamentare	VERB	V	ROOT
+
+la	il	DET	RD	det
+navigazione	navigazione	NOUN	S	nsubj:pass
+è	essere	AUX	VA	aux:pass
+consentita	consentire	VERB	V	ROOT
+alla	a il	ADP	E_RD	case
+velocità	velocità	NOUN	S	obl
+massima	massimo	ADJ	A	amod
+di	di	ADP	E	case
+5	5	NUM	N	nummod
+nodi	nodo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+f	f	X	X	obl
+)	)	PUNCT	FB	punct
+è	essere	AUX	VA	aux:pass
+consentito	consentire	VERB	V	conj
+stazionare	stazionare	VERB	V	csubj
+con	con	ADP	E	case
+l'	il	DET	RD	det
+unità	unità	NOUN	S	obl
+nautica	nautico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+assicurandosi	assicurare si	VERB	V_PC	advcl
+che	che	SCONJ	CS	mark
+la	il	DET	RD	det
+stessa	stesso	PRON	PD	nsubj
+non	non	ADV	BN	advmod
+sia	essere	VERB	V	ccomp
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	obl
+di	di	ADP	E	case
+un	uno	DET	RI	det
+gruppo	gruppo	NOUN	S	nmod
+di	di	ADP	E	case
+cetacei	cetacei	NOUN	S	nmod
+separando	separare	VERB	V	advcl
+,	,	PUNCT	FF	punct
+anche	anche	ADV	B	advmod
+involontariamente	involontariamente	ADJ	B	advmod
+,	,	PUNCT	FF	punct
+individui	individuo	NOUN	S	obj
+o	o	CCONJ	CC	cc
+gruppi	gruppo	NOUN	S	conj
+di	di	ADP	E	case
+individui	individuo	NOUN	S	nmod
+dal	da il	ADP	E_RD	case
+gruppo	gruppo	NOUN	S	obl
+principale	principale	ADJ	A	amod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+g	g	X	X	amod
+)	)	PUNCT	FB	punct
+è	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	conj
+obbligo	obbligo	NOUN	S	xcomp
+di	di	ADP	E	mark
+non	non	ADV	BN	advmod
+fornire	fornire	VERB	V	acl
+cibo	cibo	NOUN	S	obj
+agli	a il	ADP	E_RD	case
+animali	animale	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+non	non	ADV	BN	advmod
+gettare	gettare	VERB	V	conj
+in	in	ADP	E	case
+acqua	acqua	NOUN	S	obl
+altro	altro	ADJ	A	amod
+materiale	materiale	NOUN	S	obj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+h	h	X	X	dep
+)	)	PUNCT	FB	punct
+è	essere	AUX	VA	aux
+consentito	consentire	VERB	V	conj
+l'	il	DET	RD	det
+avvicinamento	avvicinamento	NOUN	S	nsubj
+agli	a il	ADP	E_RD	case
+animali	animale	NOUN	S	nmod
+ma	ma	CCONJ	CC	cc
+evitando	evitare	VERB	V	conj
+che	che	SCONJ	CS	mark
+lo	il	DET	RD	det
+stesso	stesso	PRON	PD	nsubj
+avvenga	avvenire	VERB	V	ccomp
+frontalmente	frontalmente	ADV	B	advmod
+ad	a	ADP	E	case
+essi	esso	PRON	PE	obl
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+i	il	DET	NO	ROOT
+)	)	PUNCT	FB	punct
+
+è	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+non	non	ADV	BN	advmod
+interferire	interferire	VERB	V	acl
+con	con	ADP	E	case
+il	il	DET	RD	det
+normale	normale	ADJ	A	amod
+comportamento	comportamento	NOUN	S	obl
+degli	di il	ADP	E_RD	case
+animali	animale	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+particolare	particolare	NOUN	S	nmod
+in	in	ADP	E	case
+presenza	presenza	NOUN	S	obl
+di	di	ADP	E	case
+femmine	femmina	NOUN	S	nmod
+con	con	ADP	E	case
+cuccioli	cucciolo	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+l	l	X	X	obj
+)	)	PUNCT	FB	punct
+le	il	DET	RD	det
+unità	unità	NOUN	S	nsubj
+nautiche	nautico	ADJ	A	amod
+devono	dovere	AUX	VM	aux
+navigare	navigare	VERB	V	advcl
+senza	senza	ADP	E	case
+improvvisi	improvvisi	NOUN	S	obl
+cambiamenti	cambiamento	ADJ	A	amod
+di	di	ADP	E	case
+rotta	rotta	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+di	di	ADP	E	case
+velocità	velocità	NOUN	S	conj
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+m	m	NOUN	X	obj
+)	)	PUNCT	FB	punct
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+di	di	ADP	E	case
+volontario	volontario	NOUN	S	nmod
+avvicinamento	avvicinamento	ADJ	A	amod
+dei	di il	ADP	E_RD	case
+cetacei	cetacea	NOUN	S	nmod
+all'	a il	ADP	E_RD	case
+unità	unità	NOUN	S	nmod
+nautica	nautico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+mantenere	mantenere	VERB	V	acl
+una	uno	DET	RI	det
+velocità	velocità	NOUN	S	obj
+costante	costante	ADJ	A	amod
+,	,	PUNCT	FF	punct
+inferiore	inferiore	ADJ	A	conj
+a	a	ADP	E	case
+5	5	NUM	N	nummod
+nodi	nodo	NOUN	S	obl
+,	,	PUNCT	FF	punct
+senza	senza	ADP	E	mark
+effettuare	effettuare	VERB	V	advcl
+cambi	cambio	NOUN	S	obj
+di	di	ADP	E	case
+direzione	direzione	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+n	n	X	X	obl
+)	)	PUNCT	FB	punct
+nella	in il	ADP	E_RD	case
+fascia	fascia	NOUN	S	obl
+di	di	ADP	E	case
+avvicinamento	avvicinamento	NOUN	S	nmod
+possono	potere	AUX	VM	aux
+essere	essere	AUX	V	cop
+presenti	presente	ADJ	A	ROOT
+contemporaneamente	contemporaneamente	ADV	B	advmod
+al	a il	ADP	E_RD	case
+massimo	massimo	NOUN	A	amod
+tre	tre	NUM	N	nummod
+unità	unità	NOUN	S	obl
+nautiche	nautico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+in	in	ADP	E	case
+attesa	attesa	NOUN	S	obl
+di	di	ADP	E	mark
+accedere	accedere	VERB	V	acl
+alla	a il	ADP	E_RD	case
+fascia	fascia	NOUN	S	obl
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+seguendo	seguire	VERB	V	advcl
+l'	il	DET	RD	det
+ordine	ordine	NOUN	S	obj
+cronologico	cronologico	ADJ	A	amod
+di	di	ADP	E	case
+arrivo	arrivo	NOUN	S	nmod
+nella	in il	ADP	E_RD	case
+zona	zona	NOUN	S	nmod
+di	di	ADP	E	case
+avvicinamento	avvicinamento	NOUN	S	nmod
+;	;	PUNCT	FC	punct
+
+	
+	SPACE	_SP	dep
+
+o	o	CCONJ	CC	cc
+)	)	PUNCT	FB	punct
+nel	in il	ADP	E_RD	case
+caso	caso	NOUN	S	obl
+che	che	SCONJ	CS	mark
+gli	il	DET	RD	det
+animali	animale	NOUN	S	nsubj
+mostrino	mostrino	VERB	V	acl
+segni	segno	NOUN	S	obj
+di	di	ADP	E	case
+intolleranza	intolleranza	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+è	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+di	di	ADP	E	mark
+allontanarsi	allontanare si	VERB	V_PC	acl
+con	con	ADP	E	case
+rotta	rotta	NOUN	S	obl
+costante	costante	ADJ	A	amod
+dalle	da il	ADP	E_RD	case
+fasce	fascia	NOUN	S	obl
+di	di	ADP	E	case
+osservazione	osservazione	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+avvicinamento	avvicinamento	NOUN	S	conj
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Il	il	DET	RD	det
+presente	presente	ADJ	A	amod
+decreto	decreto	NOUN	S	nsubj:pass
+,	,	PUNCT	FF	punct
+munito	munire	VERB	V	acl
+del	di il	ADP	E_RD	case
+sigillo	sigillo	NOUN	S	obl
+dello	di il	ADP	E_RD	case
+Stato	stato	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+sarà	essere	AUX	VA	aux:pass
+inserito	inserire	VERB	V	ROOT
+nella	in il	ADP	E_RD	case
+Raccolta	raccolta	NOUN	S	obl
+ufficiale	ufficiale	ADJ	A	amod
+degli	di il	ADP	E_RD	case
+atti	atto	NOUN	S	nmod
+normativi	normativo	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Repubblica	repubblica	NOUN	S	nmod
+italiana	italiano	ADJ	A	amod
+.	.	PUNCT	FS	punct
+
+È	essere	AUX	VA	aux:pass
+fatto	fare	VERB	V	ROOT
+obbligo	obbligo	NOUN	S	nsubj:pass
+a	a	ADP	E	case
+chiunque	chiunque	PRON	PI	nmod
+spetti	spettare	VERB	V	acl
+di	di	ADP	E	mark
+osservarlo	osservare lo	VERB	V_PC	advcl
+e	e	CCONJ	CC	cc
+di	di	ADP	E	mark
+farlo	fare lo	VERB	V_PC	conj
+osservare	osservare	VERB	V	xcomp
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Roma	Roma	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+10	10	NUM	N	nmod
+gennaio	gennaio	NOUN	S	flat
+2024	2024	NUM	N	flat
+
+
+	
+
+	SPACE	_SP	dep
+Il	il	DET	RD	det
+Ministro	Ministro	NOUN	S	ROOT
+:	:	PUNCT	FC	punct
+
+Pichetto	Pichetto	PROPN	SP	ROOT
+Fratin	Fratin	PROPN	SP	flat:name
+
+
+	
+
+	SPACE	_SP	dep
+Visto	Visto	VERB	V	nmod
+,	,	PUNCT	FF	punct
+il	il	DET	RD	det
+Guardasigilli	Guardasigilli	PROPN	SP	appos
+:	:	PUNCT	FC	punct
+
+Nordio	Nordio	PROPN	SP	ROOT
+Registrato	Registrato	PROPN	SP	flat:name
+alla	a il	ADP	E_RD	case
+Corte	corte	NOUN	S	nmod
+dei	di il	ADP	E_RD	case
+conti	conto	NOUN	S	nmod
+il	il	DET	RD	det
+28	28	NUM	N	nmod
+marzo	marzo	NOUN	S	flat
+2024	2024	NUM	N	flat
+Ufficio	ufficio	NOUN	S	nmod
+di	di	ADP	E	case
+controllo	controllo	NOUN	S	nmod
+atti	atto	ADJ	A	amod
+Ministero	Ministero	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+infrastrutture	infrastruttura	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+dei	di il	ADP	E_RD	case
+trasporti	trasporto	NOUN	S	conj
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+Ministero	ministero	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+ambiente	ambiente	NOUN	S	nmod
+e	e	CCONJ	CC	cc
+della	di il	ADP	E_RD	case
+tutela	tutela	NOUN	S	conj
+del	di il	ADP	E_RD	case
+territorio	territorio	NOUN	S	nmod
+
+
+	
+
+	SPACE	_SP	dep
+e	e	CCONJ	CC	cc
+del	di il	ADP	E_RD	case
+mare	mare	NOUN	S	conj
+,	,	PUNCT	FF	punct
+reg	reg	NOUN	S	appos
+.	.	PUNCT	FS	punct
+
+n.	numero	NOUN	S	ROOT
+1015	1015	NUM	N	nummod
+
+	
+	SPACE	_SP	dep
+Allegato	allegato	NOUN	S	nmod
+1	1	NUM	N	nummod
+
+
+	
+
+	SPACE	_SP	dep
+(	(	PUNCT	FB	punct
+Articolo	articolo	NOUN	S	appos
+3	3	NUM	N	nummod
+,	,	PUNCT	FF	punct
+comma	comma	NOUN	S	nmod
+1	1	NUM	N	nummod
+)	)	PUNCT	FB	punct
+
+
+	
+
+	SPACE	_SP	dep
+Zonazione	Zonazione	NOUN	S	nmod
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+Capo	Capo	PROPN	SP	obl
+Spartivento	Spartivento	PROPN	SP	nmod
+
+
+	
+
+	SPACE	_SP	dep
+Paragrafo	paragrafo	NOUN	S	flat:name
+1	1	NUM	N	nummod
+-	-	PUNCT	FF	punct
+Tabelle	tabelle	NOUN	S	nmod
+delle	di il	ADP	E_RD	case
+coordinate	coordinato	NOUN	S	nmod
+*	*	PUNCT	FF	punct
+delle	di il	ADP	E_RD	case
+zone	zona	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+Capo	Capo	PROPN	SP	obl
+Spartivento	Spartivento	PROPN	SP	flat:name
+
+	
+	SPACE	_SP	dep
+1	1	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Zona	zona	NOUN	S	ROOT
+B	B	PROPN	SP	flat:name
+:	:	PUNCT	FC	punct
+
+compresa	comprendere	VERB	V	ROOT
+nel	in il	ADP	E_RD	case
+tratto	tratto	NOUN	S	nmod
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+prospiciente	prospiciente	ADV	B	amod
+la	il	DET	RD	det
+costa	costa	NOUN	S	nsubj
+di	di	ADP	E	case
+Capo	Capo	PROPN	SP	nmod
+Spartivento	Spartivento	PROPN	SP	flat:name
+delimitato	delimitare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+congiungente	congiungente	ADJ	A	obl
+i	il	DET	RD	det
+seguenti	seguente	ADJ	A	amod
+punti	punto	NOUN	S	obj
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+
+Punto	punto	NOUN	S	nsubj
+ 		 		SPACE	_SP	dep
+Latitudine	Latitudine	PROPN	SP	flat:name
+ 		 		SPACE	_SP	dep
+Longitudine	Longitudine	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+E	e	CCONJ	CC	nmod
+(	(	PUNCT	FB	punct
+in	in	ADP	E	case
+costa	costa	NOUN	S	conj
+)	)	PUNCT	FB	punct
+ 		 		SPACE	_SP	dep
+38°	38°	SYM	V	dep
+52	52	NUM	N	nummod
+'	'	NOUN	FB	punct
+40,728	40,728	NOUN	S	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+50	50	NUM	N	nummod
+'	'	PUNCT	E_RD	punct
+28,261	28,261	NUM	N	compound
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+H	H	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+51	51	NUM	N	nummod
+'	'	ADP	E_RD	punct
+45,007	45,007	NUM	N	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+50	50	NUM	N	nummod
+'	'	DET	E_RD	advmod
+ 	 	SPACE	_SP	dep
+1,901	1,901	NUM	N	dep
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+G	G	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+51	51	NUM	N	nummod
+'	'	NUM	N	punct
+34,570	34,570	NUM	N	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	S	appos
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	dep
+50	50	NUM	N	nummod
+'	'	NOUN	S	punct
+57,361	57,361	NOUN	S	nummod
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+C	C	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NOUN	S	punct
+14,205	14,205	NUM	N	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+51	51	NUM	N	nummod
+'	'	NUM	N	punct
+42,412	42,412	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+B	B	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NOUN	E_RD	punct
+30,425	30,425	NUM	N	case
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+51	51	NUM	N	nummod
+'	'	PROPN	SP	punct
+42,381	42,381	NOUN	S	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+F	F	PROPN	SP	conj
+(	(	PUNCT	FB	punct
+in	in	ADP	E	case
+costa	costa	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+ 		 		SPACE	_SP	dep
+38°	38°	SYM	V	dep
+52	52	NUM	N	nummod
+'	'	NUM	N	punct
+40,029	40,029	NOUN	S	nummod
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+51	51	NUM	N	nummod
+'	'	NOUN	E_RD	punct
+36,320	36,320	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+
+
+	
+
+
+	SPACE	_SP	dep
+La	il	DET	RD	det
+zona	zona	NOUN	S	nsubj:pass
+B	B	PROPN	SP	nmod
+è	essere	AUX	VA	aux:pass
+sottoposta	sottoporre	VERB	V	conj
+a	a	ADP	E	case
+regime	regime	NOUN	S	obl
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+ed	e	CCONJ	CC	cc
+è	essere	AUX	VA	aux:pass
+costituita	costituire	VERB	V	conj
+da	da	ADP	E	case
+un	uno	DET	RI	det
+solo	solo	ADJ	A	amod
+tratto	tratto	NOUN	S	obl:agent
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+ed	e	CCONJ	CC	cc
+alla	a il	ADP	E_RD	case
+stessa	stesso	ADJ	A	amod
+zona	zona	NOUN	S	nsubj
+B	B	PROPN	SP	nmod
+afferisce	afferire	VERB	V	ROOT
+la	il	DET	RD	det
+sottozona	sottozona	NOUN	S	obj
+Bs	Bs	PROPN	SP	nmod
+di	di	ADP	E	case
+riserva	riserva	NOUN	S	nmod
+generale	generale	ADJ	A	amod
+speciale	speciale	ADJ	A	amod
+,	,	PUNCT	FF	punct
+costituita	costituire	VERB	V	acl
+da	da	ADP	E	case
+un	uno	DET	RI	det
+solo	solo	ADJ	A	amod
+tratto	tratto	NOUN	S	obl:agent
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+.	.	PUNCT	FS	punct
+
+
+	
+	SPACE	_SP	dep
+
+2	2	NUM	N	ROOT
+.	.	PUNCT	FS	punct
+
+Sottozona	Sottozona	PROPN	SP	ROOT
+Bs	Bs	PROPN	SP	flat:name
+:	:	PUNCT	FC	punct
+
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	ROOT
+della	di il	ADP	E_RD	case
+zona	zona	NOUN	S	nmod
+B	B	PROPN	SP	nmod
+,	,	PUNCT	FF	punct
+compresa	compreso	ADJ	A	amod
+nel	in il	ADP	E_RD	case
+tratto	tratto	NOUN	S	obl
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+prospiciente	prospiciente	ADV	B	amod
+la	il	DET	RD	det
+costa	costa	NOUN	S	nsubj
+di	di	ADP	E	case
+Capo	Capo	PROPN	SP	nmod
+Spartivento	Spartivento	PROPN	SP	nmod
+delimitato	delimitare	VERB	V	acl
+dalla	da il	ADP	E_RD	case
+congiungente	congiungente	NOUN	S	obl:agent
+dei	di il	ADP	E_RD	case
+seguenti	seguente	ADJ	A	amod
+punti	punto	NOUN	S	obl
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+Punto	punto	NOUN	S	nmod
+ 		 		SPACE	_SP	dep
+Latitudine	Latitudine	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+Longitudine	Longitudine	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+A	A	ADP	E	case
+				SPACE	_SP	dep
+38°	38°	ADJ	NO	fixed
+52	52	NUM	N	nummod
+'	'	NUM	N	punct
+30,363	30,363	NUM	N	compound
+"	"	PUNCT	FB	punct
+N	N	PROPN	S	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	flat:name
+50	50	NUM	N	nummod
+'	'	PUNCT	E_RD	punct
+40,130	40,130	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+B	B	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NOUN	E_RD	punct
+30,425	30,425	NUM	N	case
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	flat:name
+51	51	NUM	N	nummod
+'	'	PROPN	SP	punct
+42,381	42,381	NOUN	S	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+C	C	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NOUN	S	punct
+14,205	14,205	NUM	N	nummod
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+51	51	NUM	N	nummod
+'	'	NUM	N	punct
+42,412	42,412	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+D	D	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NUM	FB	punct
+14,121	14,121	NOUN	N	flat:foreign
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nummod
+50	50	NUM	N	nummod
+'	'	NUM	E_RD	punct
+40,173	40,173	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+
+
+	
+
+
+	SPACE	_SP	dep
+3	3	NUM	N	nummod
+.	.	PUNCT	FS	punct
+
+Zona	zona	NOUN	S	ROOT
+C	C	PROPN	SP	flat:name
+:	:	PUNCT	FC	punct
+
+restante	restante	ADJ	V	amod
+parte	parte	NOUN	S	nsubj:pass
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+all'	a il	ADP	E_RD	case
+interno	interno	NOUN	S	obl
+del	di il	ADP	E_RD	case
+perimetro	perimetro	NOUN	S	nmod
+,	,	PUNCT	FF	punct
+costituita	costituire	VERB	V	acl
+dal	da il	ADP	E_RD	case
+tratto	tratto	NOUN	S	obl:agent
+di	di	ADP	E	case
+mare	mare	NOUN	S	nmod
+delimitato	delimitare	ADJ	A	acl
+dalla	da il	ADP	E_RD	case
+congiungente	congiungente	NOUN	S	obl
+dei	di il	ADP	E_RD	case
+seguenti	seguente	ADJ	A	amod
+punti	punto	NOUN	S	nmod
+:	:	PUNCT	FC	punct
+
+
+	
+
+	SPACE	_SP	dep
+Punto	punto	NOUN	S	nmod
+ 		 		SPACE	_SP	dep
+Latitudine	Latitudine	PROPN	SP	flat:name
+ 		 		SPACE	_SP	dep
+Longitudine	Longitudine	PROPN	SP	nmod
+
+	
+	SPACE	_SP	dep
+I	I	ADJ	NO	amod
+(	(	PUNCT	FB	punct
+in	in	ADP	E	case
+costa	costa	NOUN	S	nmod
+)	)	PUNCT	FB	punct
+				SPACE	_SP	dep
+38°	38°	VERB	NO	dep
+52	52	NUM	N	nummod
+'	'	NUM	N	punct
+49,605	49,605	NUM	N	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nsubj:pass
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	flat:name
+50	50	NUM	N	nummod
+'	'	PROPN	E_RD	punct
+19,982	19,982	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+O	O	CCONJ	CC	cc
+				SPACE	_SP	dep
+38°	38°	VERB	NO	conj
+51	51	NUM	N	nummod
+'	'	NUM	A	punct
+38,205	38,205	NUM	N	nummod
+"	"	PUNCT	FB	punct
+N	N	PROPN	S	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+49	49	NUM	N	nummod
+'	'	PUNCT	FB	punct
+45,243	45,243	NOUN	N	nummod
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+N	N	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	SYM	NO	flat:foreign
+51	51	NUM	N	nummod
+'	'	DET	RI	punct
+ 	 	SPACE	_SP	dep
+0,963	0,963	AUX	SP	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	appos
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+53	53	NUM	N	nummod
+'	'	PUNCT	FB	punct
+1,614	1,614	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+M	M	PROPN	SP	conj
+				SPACE	_SP	dep
+38°	38°	ADJ	NO	flat:foreign
+52	52	NUM	N	nummod
+'	'	NOUN	N	punct
+15,638	15,638	NUM	N	dep
+"	"	PUNCT	FB	punct
+N	N	PROPN	S	flat:foreign
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	nmod
+57	57	NUM	N	nummod
+'	'	PUNCT	SP	punct
+0,415	0,415	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	e	CCONJ	CC	cc
+
+	
+	SPACE	_SP	dep
+L	L	PROPN	SP	conj
+(	(	PUNCT	FB	punct
+in	in	ADP	E	case
+costa	costa	NOUN	S	appos
+)	)	PUNCT	FB	punct
+ 		 		SPACE	_SP	dep
+38°	38°	SYM	V	flat:foreign
+54	54	NUM	N	nummod
+'	'	AUX	E_RD	punct
+55,853	55,853	NUM	N	nummod
+"	"	PUNCT	FB	punct
+N	N	PROPN	SP	nmod
+ 		 		SPACE	_SP	dep
+8°	8°	PROPN	SP	flat:name
+54	54	NUM	N	nummod
+'	'	NOUN	S	punct
+38,443	38,443	NUM	N	nummod
+"	"	PUNCT	FB	punct
+E	E	CCONJ	CC	nummod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+*	*	PUNCT	FF	punct
+Le	il	DET	RD	det
+coordinate	coordinata	NOUN	S	nmod
+geografiche	geografico	ADJ	A	amod
+,	,	PUNCT	FF	punct
+di	di	ADP	E	case
+cui	cui	PRON	PR	nmod
+alle	a il	ADP	E_RD	case
+suesposte	suesposta	NOUN	S	nmod
+tabelle	tabello	ADJ	A	amod
+,	,	PUNCT	FF	punct
+sono	essere	AUX	VA	aux
+state	essere	AUX	VA	aux:pass
+individuate	individuare	VERB	V	ROOT
+sulla	su il	ADP	E_RD	case
+base	base	NOUN	S	obl
+del	di il	ADP	E_RD	case
+Sistema	sistema	NOUN	S	nmod
+Geodetico	Geodetico	ADJ	SP	amod
+Mondiale	mondiale	ADJ	A	amod
+WGS	WGS	PROPN	SP	nmod
+84	84	NUM	N	nummod
+(	(	PUNCT	FB	punct
+World	World	PROPN	S	nmod
+Geodetic	Geodetic	PROPN	SP	flat:name
+System	System	PROPN	SP	flat:name
+1984	1984	NUM	N	nummod
+)	)	PUNCT	FB	punct
+.	.	PUNCT	FS	punct
+
+	
+	SPACE	_SP	dep
+
+Paragrafo	paragrafo	NOUN	S	nsubj:pass
+2	2	NUM	N	nummod
+-	-	PUNCT	FF	punct
+Cartografia	cartografia	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	nsubj:pass
+Capo	Capo	PROPN	SP	obl
+Spartivento	Spartivento	PROPN	SP	flat:name
+*	*	PUNCT	FF	punct
+
+
+
+	
+
+
+	SPACE	_SP	dep
+Parte	parte	NOUN	S	nmod
+di	di	ADP	E	case
+provvedimento	provvedimento	NOUN	S	nmod
+in	in	ADP	E	case
+formato	formato	NOUN	S	nmod
+grafico	grafico	ADJ	A	amod
+
+
+
+	
+
+
+	SPACE	_SP	dep
+*	*	PUNCT	FF	punct
+La	il	DET	RD	det
+delimitazione	delimitazione	NOUN	S	conj
+e	e	CCONJ	CC	cc
+la	il	DET	RD	det
+zonazione	zonazione	NOUN	S	conj
+dell'	di il	ADP	E_RD	case
+area	area	NOUN	S	nmod
+marina	Marina	ADJ	A	amod
+protetta	proteggere	VERB	V	acl
+Capo	Capo	PROPN	SP	obj
+Spartivento	Spartivento	PROPN	SP	flat:name
+è	essere	AUX	VA	aux:pass
+riportata	riportare	VERB	V	ROOT
+,	,	PUNCT	FF	punct
+a	a	ADP	E	case
+titolo	titolo	NOUN	S	obl
+indicativo	indicativo	ADJ	A	amod
+,	,	PUNCT	FF	punct
+nella	in il	ADP	E_RD	case
+rielaborazione	rielaborazione	NOUN	S	obl
+grafica	grafico	ADJ	A	amod
+della	di il	ADP	E_RD	case
+carta	carta	NOUN	S	nmod
+n.	numero	NOUN	S	nmod
+45	45	NUM	N	nummod
+dell'	di il	ADP	E_RD	case
+Istituto	istituto	NOUN	S	nmod
+Idrografico	Idrografico	ADJ	A	amod
+della	di il	ADP	E_RD	case
+Marina	marina	NOUN	S	nmod
+.	.	PUNCT	FS	punct
